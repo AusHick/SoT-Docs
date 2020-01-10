@@ -1,0 +1,26 @@
+var a12995 =
+[
+    [ "AnimationDistance", "a12995.html#ac0737a3d028693d1abe8cee0baf0155a", null ],
+    [ "AnimationLoopMod", "a12995.html#afee041ef3ad82cf22d55d0deaff97ac4", null ],
+    [ "AnimationOverride", "a12995.html#a34ea4c8e6a91d8f0ad8904eb4bafcc66", null ],
+    [ "BlendInSpeed", "a12995.html#a7ae1b610959e6b99c8f572bd3d6fd4e0", null ],
+    [ "BlendOutSpeed", "a12995.html#a9b018ddcd5bdc29a14de2bfc3c8647f6", null ],
+    [ "ClimbDistance", "a12995.html#afba4a5912b06edd831052ac95e8c508d", null ],
+    [ "ClimbOffComplete", "a12995.html#a0d4effac9cc9e87154213ab89909f5d1", null ],
+    [ "ClimbOnComplete", "a12995.html#af6708fb5a25d9c88648eea15e7d137c0", null ],
+    [ "HeightPerStep", "a12995.html#a4a9730a682e388989c76cf5dc3aa19db", null ],
+    [ "IsClambering", "a12995.html#ab6160aa0cf97de97fc889e7663539030", null ],
+    [ "LadderDefinition", "a12995.html#ae33cc7478fd3e091cd4aeaf409f36878", null ],
+    [ "LadderState", "a12995.html#aea0cbcf3fd8121a1442f00a7c6943e42", null ],
+    [ "LadderTransitionState", "a12995.html#ac346eb70868c8e2926eac1a8b3abcff6", null ],
+    [ "LeftFootSocketName", "a12995.html#aee2242ec882acdaa2b0b0aaf381e9543", null ],
+    [ "LeftHandSocketName", "a12995.html#a64513c056f6d208c8f1243013a1c26ec", null ],
+    [ "PlayerIntent", "a12995.html#a4d197f7c9c6cc978917a8449486f8fc8", null ],
+    [ "RightFootSocketName", "a12995.html#a32e5dacd43f784cd441f0a093c8e6ab1", null ],
+    [ "RightHandSocketName", "a12995.html#ac00be7879cf5143141daf4a2d490db71", null ],
+    [ "RotationStrength", "a12995.html#a581dceca0e2c0630eb06e878feffba02", null ],
+    [ "TranslationStrength", "a12995.html#a0c2ac5ecf3c642fb6ab2c730b47c1956", null ],
+    [ "UnknownData00", "a12995.html#a910efa52e06db0388398e8541b01ea82", null ],
+    [ "UnknownData01", "a12995.html#a0e9a238383d59594527d94f32f26477e", null ],
+    [ "UnknownData02", "a12995.html#a18185aaf346ae189fe3fb95e7f918ec6", null ]
+];

@@ -1,0 +1,27 @@
+var a14439 =
+[
+    [ "DeathCameraBlackFadeColour", "a14439.html#a15edbb39a90a2e90b5e351a8eb72345e", null ],
+    [ "DeathCameraBlackFadeDelay", "a14439.html#a6ceccd882e532ea23d434ce5cffa03b7", null ],
+    [ "DeathCameraBlackFadeDuration", "a14439.html#a459b3de4cdfce13a044d6365bfb1641e", null ],
+    [ "DeathCameraBlackFadeEventTimeout", "a14439.html#ac5f781c05cdd33512a81b4449e2b2916", null ],
+    [ "DeathCameraBlackFadeServerTimeout", "a14439.html#a519ed3cf5fc0d78aa5bb0824346756fa", null ],
+    [ "DeathCameraDelay", "a14439.html#a996a080e393c7e681416ae462f171e2f", null ],
+    [ "DeathCameraDelayBeforeEvaporate", "a14439.html#a2f333e6d6acfe477845bb5bd82fcce92", null ],
+    [ "DeathCameraFadeAudio", "a14439.html#a6633b2b4574e482fef17f6f575b4543e", null ],
+    [ "FadeAudio", "a14439.html#a9bb2b76a6ead3657c9edae534ee7ac11", null ],
+    [ "FadeColour", "a14439.html#a388451bd056ab5b478294ee790078193", null ],
+    [ "FadeDelay", "a14439.html#a05b51afe60baeff0b0a4ec7e69edc929", null ],
+    [ "FadeDuration", "a14439.html#a67a712ae399d1bb56fce62e991d06799", null ],
+    [ "FadeEventTimeout", "a14439.html#ad29c9a3b630e056b8948b91f58fd8ed5", null ],
+    [ "FadeServerTimeout", "a14439.html#a89ef7cd475ae1bd27acdfcfd8299093c", null ],
+    [ "GhostShader_End_Delay", "a14439.html#a85acd2847d8a5ee4ba8755db3b156230", null ],
+    [ "GhostShader_End_Duration", "a14439.html#aed9c40247b442424079148e73d9f3505", null ],
+    [ "GhostShader_End_InitialAmount", "a14439.html#a5d769974426a72da41561f1ccba254dc", null ],
+    [ "GhostShader_End_TargetAmount", "a14439.html#ab289fc73b0c553d98773e92c3039e3bd", null ],
+    [ "GhostShader_Start_Delay", "a14439.html#a4831ed6b78808d8bd482e590d1c711fe", null ],
+    [ "GhostShader_Start_Duration", "a14439.html#a6c82ed1b95de32328f419ac4676635fe", null ],
+    [ "GhostShader_Start_InitialAmount", "a14439.html#a51d668da5a988246b652dc80e2457db2", null ],
+    [ "GhostShader_Start_TargetAmount", "a14439.html#ab752aa0fa4f69bca151cb2f36e1bea45", null ],
+    [ "UnknownData00", "a14439.html#a994b62e881718c1f32dd757c51259a60", null ],
+    [ "UnknownData01", "a14439.html#a8bdc5c4c555931c029ad9c452bce1686", null ]
+];

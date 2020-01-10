@@ -1,0 +1,26 @@
+var a05063 =
+[
+    [ "StaticClass", "a05063.html#ab837b0e3d2fafa5d8cc9d4e11654668f", null ],
+    [ "AnimationInterval", "a05063.html#aefc12c8b54d889f162dbdbbf8c7c16ac", null ],
+    [ "AnimationSteps", "a05063.html#a128b6b05a78a40c6550e1c16a48c47e0", null ],
+    [ "AutoAnimateDistanceSquared", "a05063.html#a0c60fa260dcc6e28efba81d56bbb8c0d", null ],
+    [ "DecalComponentLeft", "a05063.html#ac51e1cc558be30b0554039560277b6bc", null ],
+    [ "DecalComponentRight", "a05063.html#a048c88861b406b3810b00bc3092aace4", null ],
+    [ "FadeDownTime", "a05063.html#a9356302f110a8d240e35ecbf9a4ea2fe", null ],
+    [ "FadeUpTime", "a05063.html#abbd695bbd46ba872059ea31c7e2cf447", null ],
+    [ "FootstepDataID", "a05063.html#a7049cb4ea95a2caef654b7add59a578f", null ],
+    [ "LeftDecalEntries", "a05063.html#afd87ffeca42752e1a9001a9129ccc08b", null ],
+    [ "LeftFootprint", "a05063.html#a51684101531056e1c6f62a2ead02fe0d", null ],
+    [ "Locations", "a05063.html#a23dc1785717fa68e8d347d1a12a3def8", null ],
+    [ "NumberStepPairsVisible", "a05063.html#a903df823137e5cde6125a58c5890618b", null ],
+    [ "ParamName", "a05063.html#a726dc2b11fb6ebaded3ead2cfc7f9f80", null ],
+    [ "RaycastLocationsToGround", "a05063.html#a7931d1c14c364b601d60fcd60dd79472", null ],
+    [ "RightDecalEntries", "a05063.html#a88d32e654e76837031e0d175e96a1e44", null ],
+    [ "RightFootprint", "a05063.html#a414dfcfc6284793ea6532e6c52dbf8f9", null ],
+    [ "SplineComponent", "a05063.html#ad9bd29409fe499e64b2470a56e8f5049", null ],
+    [ "StartActivated", "a05063.html#aafadc2d1f17250424cb63aa06e72a582", null ],
+    [ "UnknownData00", "a05063.html#a2adc5e52746a498f6c6def85680945db", null ],
+    [ "UnknownData01", "a05063.html#a2f4ce7ca306489bb7fd51585482aea38", null ],
+    [ "UnknownData02", "a05063.html#a56bc32e78573f984431925e88505a0c1", null ],
+    [ "UpdateInterval", "a05063.html#a947c0bbce9a5696289e10e315884cfab", null ]
+];

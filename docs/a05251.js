@@ -1,0 +1,27 @@
+var a05251 =
+[
+    [ "MoveHandsMeshes", "a05251.html#aaaaf68cfb09a341970714b3783d969f6", null ],
+    [ "OnRep_IsHatchActive", "a05251.html#a606aad7213e0304ed5b8debd0415a7d2", null ],
+    [ "SetHandsMeshesVisiblity", "a05251.html#a9f3952f89baa6063e62f96d36d34ef96", null ],
+    [ "StaticClass", "a05251.html#acadc179e2038023b8fb5e159e35e0d12", null ],
+    [ "ActivationID", "a05251.html#acd8df4f2bce14578388a1972a661d96d", null ],
+    [ "EventDispatcher", "a05251.html#a310f18d737d31408b870d820b9504322", null ],
+    [ "FlameOfFateType", "a05251.html#a882783826855f3614902ec16cd307734", null ],
+    [ "GlowDynamicMaterialInstance", "a05251.html#aeb5d01846c4600a0e4bf809c57da0562", null ],
+    [ "GlowMesh", "a05251.html#aca4aa24330e6333bf5454a7ac6475921", null ],
+    [ "HandAnimations", "a05251.html#aa60e7e73d06246128f03980672ba2104", null ],
+    [ "HandsMeshes", "a05251.html#a4216d2c64cb0c5952bbac70ddc2459f9", null ],
+    [ "HandsMeshesInvisibleRelativeLocations", "a05251.html#a052d42709a11be0caf43f89afe0ba62c", null ],
+    [ "HandsMeshesVisibleRelativeLocations", "a05251.html#a55aba5f96b730247bff367ef6b103eda", null ],
+    [ "HandsMoveDistance", "a05251.html#a5c87d52df85c6106b78da9591bb3d640", null ],
+    [ "HandsMoveTime", "a05251.html#a55928c8bce774d25d4c11063409aba72", null ],
+    [ "HatchLight", "a05251.html#a5694d3840c1150eec87d3a8279bedd54", null ],
+    [ "HatchRespondsToSpawns", "a05251.html#a635e8ac0247da2c29eb18e3fe8c5a4e6", null ],
+    [ "IsHatchActive", "a05251.html#ae1ed24b92fb457520bb820e4f23ac5d8", null ],
+    [ "Mesh", "a05251.html#a2761253e4e00d6f20a32fdd50df30f9a", null ],
+    [ "UnknownData00", "a05251.html#a13344f90aa7708f63dc1a2f88ddba34e", null ],
+    [ "UnknownData01", "a05251.html#a9b0ab84487136485a0ab14859eee444a", null ],
+    [ "UnknownData02", "a05251.html#a5c90ffb415bbd9c9cf97975376bc41bb", null ],
+    [ "UnknownData03", "a05251.html#a5f8f439903dd1a83f0e3f485db0e1abb", null ],
+    [ "UnknownData04", "a05251.html#a2c67ea54824e73cbbf4a5af6817d8507", null ]
+];

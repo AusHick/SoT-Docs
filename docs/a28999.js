@@ -1,0 +1,25 @@
+var a28999 =
+[
+    [ "StaticClass", "a28999.html#a53c4541bcdf532cdcbdce949baf28de6", null ],
+    [ "bCookedOut", "a28999.html#af6b541654f144b50646cc974e4b3ae3a", null ],
+    [ "bDisabledLODsKeepEmitterAlive", "a28999.html#a344a08227aceb792b254160e2c4b7c88", null ],
+    [ "bHasAnyEnabledLODs", "a28999.html#af3e42135ed9e2efd0a0a21c8a26167d0", null ],
+    [ "bHasAnyEnabledLODsValid", "a28999.html#af5356c0e3b96d5931e8384c9e4bb2db3", null ],
+    [ "bIsSoloing", "a28999.html#a243e88e84d89e51cc0e7c6d790d5f902", null ],
+    [ "ConvertedModules", "a28999.html#a6622c062182c875228317ad41889e9b2", null ],
+    [ "DetailMode", "a28999.html#ab01778287979202bd7909581a6569400", null ],
+    [ "EmitterName", "a28999.html#af8df986d212447f91bd6fa4e7dc1999d", null ],
+    [ "EmitterRenderMode", "a28999.html#a2ecaa42f7327ed8259f769f2ed442fc4", null ],
+    [ "InitialAllocationCount", "a28999.html#a153f025d07422252f90c0722b55eac2e", null ],
+    [ "LODLevels", "a28999.html#aefccf657a6e209cfd05474c97ad30300", null ],
+    [ "MaxEmitterQuality", "a28999.html#a2c0ad7013a0a9b4602f923d69a218f84", null ],
+    [ "MediumDetailSpawnRateScale", "a28999.html#a5816f6abeb9faae68a57af1f1b7d5b7e", null ],
+    [ "MinEmitterQuality", "a28999.html#a4dae352343c960a4a63e4e05333882c2", null ],
+    [ "PeakActiveParticles", "a28999.html#ac830b067a9feef10cc0d198c2cd0064d", null ],
+    [ "QualityLevelSpawnRateScale", "a28999.html#a95227e5be146cdd4ed0c8635ea49bcf0", null ],
+    [ "SubUVDataOffset", "a28999.html#a9e1aaf3759519071cbbb78534707688a", null ],
+    [ "UnknownData00", "a28999.html#af3261c6ad186a148f437b592718f25a5", null ],
+    [ "UnknownData01", "a28999.html#a1bc20ef6d4d04c9d9edbb1ec1c3ea508", null ],
+    [ "UnknownData02", "a28999.html#a15a15a62f20bfb79596e42ef824ce819", null ],
+    [ "UnknownData03", "a28999.html#ae3188db339a61663790bd1690723f7cc", null ]
+];

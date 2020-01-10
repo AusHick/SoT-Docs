@@ -1,0 +1,10 @@
+var a18227 =
+[
+    [ "Breeds", "a18227.html#a1e8227ddf9e4d5b04520beebaccb514d", null ],
+    [ "Description", "a18227.html#a31ac45fe0dc29b64d04144c6f52df225", null ],
+    [ "HasNewStuff", "a18227.html#a2d454c8b6d6495659c2dd0dc6ca03399", null ],
+    [ "HasOwnedOffer", "a18227.html#a49a4766555d3e0042a6b1cc8a9255183", null ],
+    [ "Icon", "a18227.html#a350ce4f61cff3eeb290c7231587539c0", null ],
+    [ "Name", "a18227.html#ab0ed6403d6055251b3f49b7851412fbb", null ],
+    [ "UnknownData00", "a18227.html#a982360866433fa816ed1ec9a18ec84c3", null ]
+];

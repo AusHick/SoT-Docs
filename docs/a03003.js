@@ -1,0 +1,27 @@
+var a03003 =
+[
+    [ "StaticClass", "a03003.html#afdb067155bad53382d9e876e5d7d7fd6", null ],
+    [ "CameraCollisionProbeCollisionChannel", "a03003.html#aabf55327a2d5ec58dd49225da2028784", null ],
+    [ "CameraCollisionProbeSize", "a03003.html#acce56d2d19d8daf7f11c00a35f31eeda", null ],
+    [ "CameraConstantYawSpeed", "a03003.html#aec1f294ff10773afd7a8373f3b80668b", null ],
+    [ "CameraDefaultPitch", "a03003.html#a2b6ed73fba72c82f2f3c84c4000e7f50", null ],
+    [ "CameraDefaultYaw", "a03003.html#a71385c44dd1de14ed7482fc4e600c083", null ],
+    [ "CameraDistanceFromPlayer", "a03003.html#aa13dfd217222426a6fd99e2fdbc87afe", null ],
+    [ "CameraMaxPitch", "a03003.html#ac5bfcb9d561b410f9d5719f0d2038245", null ],
+    [ "CameraMinPitch", "a03003.html#a64855a6558696e5072f21d8baffd7908", null ],
+    [ "CameraPitchSpeed", "a03003.html#a976d9f8eb03e21fc304c688dede6ae4a", null ],
+    [ "CameraPullbackSpeed", "a03003.html#a0bb56c705bb2b369546fc43251a3c97f", null ],
+    [ "CameraVerticalOffset", "a03003.html#afc73eba564a213f29468409213da5725", null ],
+    [ "CameraYawSpeed", "a03003.html#a997965ac5751a53c0f59f33a01199132", null ],
+    [ "EnableRotationLag", "a03003.html#a6ebc258e80f059a2102ddb59bd677853", null ],
+    [ "RotationLagSpeed", "a03003.html#af10995c0f32d533e88382195ce553f02", null ],
+    [ "UnknownData00", "a03003.html#ac0fc2405756886ec6f957a38d2fba061", null ],
+    [ "UnknownData01", "a03003.html#a313874dce5994d00052cf3ee14226a13", null ],
+    [ "UnknownData02", "a03003.html#a71efd632927b03a26078ac920c3140a2", null ],
+    [ "ZoomBlend", "a03003.html#a214abe07ba42a6952aaf3a1e5dc186c0", null ],
+    [ "ZoomEnabled", "a03003.html#ae1021e07fc7f480949d471d05fa2bbde", null ],
+    [ "ZoomMinArmLengthFactor", "a03003.html#a8537500d7edb1d5bde7f8aec59965de2", null ],
+    [ "ZoomSpeedGamepad", "a03003.html#aac753b50d19a3187db8ba59254e30b68", null ],
+    [ "ZoomSpeedMouse", "a03003.html#a658c501309aea89a438cc69616dedb79", null ],
+    [ "ZoomTimeout", "a03003.html#a5e2fdee1740bbcb0a5ac0a58d9eea405", null ]
+];

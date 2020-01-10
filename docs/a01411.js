@@ -1,0 +1,25 @@
+var a01411 =
+[
+    [ "GetPeripheralVisionAngle", "a01411.html#ace070db31089277b099caa9dee018b4d", null ],
+    [ "GetPeripheralVisionCosine", "a01411.html#afeb731d5c0bf573b9288707e16bfef3c", null ],
+    [ "HearNoiseDelegate__DelegateSignature", "a01411.html#a780b5c5f462a15684ca933e4713ccaa6", null ],
+    [ "SeePawnDelegate__DelegateSignature", "a01411.html#aead6042f4a6562bf10f3884db7f96c9b", null ],
+    [ "SetPeripheralVisionAngle", "a01411.html#a26b1ee3babc7048f32e8712b2f168262", null ],
+    [ "SetSensingInterval", "a01411.html#a754c0d960b1b319040681c46db543a4c", null ],
+    [ "SetSensingUpdatesEnabled", "a01411.html#ad88066827c40762f813324ce1c6a7802", null ],
+    [ "StaticClass", "a01411.html#aa7a517542d903eece2b228f41883c0aa", null ],
+    [ "bEnableSensingUpdates", "a01411.html#a5502a5d7b73c10d6c7087dc9d0e71f5f", null ],
+    [ "bHearNoises", "a01411.html#a06ce000546cd995b659cfca73a275af1", null ],
+    [ "bOnlySensePlayers", "a01411.html#a47b2939a0a456b8b0cb09ee478e6d44b", null ],
+    [ "bSeePawns", "a01411.html#aa2417aed71c22b0fe65f987eab763f34", null ],
+    [ "HearingMaxSoundAge", "a01411.html#ab42de66a7330c56820d6bda4284644ae", null ],
+    [ "HearingThreshold", "a01411.html#ae2e87b847880b39e47f3b9d3b2633a11", null ],
+    [ "LOSHearingThreshold", "a01411.html#ab7649f8d6f15046d9ac2c0042c2c0bff", null ],
+    [ "OnHearNoise", "a01411.html#acbc9568947e3bd94d0d203a4c77bdcf5", null ],
+    [ "OnSeePawn", "a01411.html#aed1e49cf98358e60e3408de8217418cd", null ],
+    [ "PeripheralVisionAngle", "a01411.html#a539b52261968e8ac817d26bef5b64e6c", null ],
+    [ "PeripheralVisionCosine", "a01411.html#a4db311dd65f460e7dbecbfc25e0d6867", null ],
+    [ "SensingInterval", "a01411.html#ab36fed546f52f76a2f5106f934f134a4", null ],
+    [ "SightRadius", "a01411.html#a3d4ed22f0c5c8b09a29bba01f151a7af", null ],
+    [ "UnknownData00", "a01411.html#a017fb6c306a17c2259e23871632d5667", null ]
+];

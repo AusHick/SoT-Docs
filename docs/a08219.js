@@ -1,0 +1,25 @@
+var a08219 =
+[
+    [ "OnRep_ServerDoorState", "a08219.html#ad4e6ee8b02e074b85299efb4602d7bce", null ],
+    [ "OpenDoor", "a08219.html#a4593c43ef2ccf58dd187e41af165f50b", null ],
+    [ "ResetDoor", "a08219.html#a4ae1d03462555df29f253d6315bbb7c6", null ],
+    [ "StaticClass", "a08219.html#a4693d1500995f73b7eb6376de1ecfe48", null ],
+    [ "AmountDoorOpens", "a08219.html#af6bc46ea88312bedaa7c77445aabdb3e", null ],
+    [ "DoorDelayTime", "a08219.html#a4a09c0bbedafc3efca6a6cee93d88616", null ],
+    [ "DoorMesh", "a08219.html#a7369b7b548a3d4cfd550465794e4a06c", null ],
+    [ "DoorOpeningSpeed", "a08219.html#a67dfe3a0bf0204cc60e03550aca1eccb", null ],
+    [ "DoorUnlockPool", "a08219.html#afe26a6dac479d441088f4c957d6ffb0d", null ],
+    [ "DoorUnlockSound", "a08219.html#a702161270293ba432a69a08c9065876e", null ],
+    [ "FireStatToAllNearbyCrews", "a08219.html#ab856df543a2e18e9ede5e71b06f5821e", null ],
+    [ "InteractionRegion", "a08219.html#ad4f9dd739c99420bcfb26b4c1b167967", null ],
+    [ "ItemToWieldToUnlockDoor", "a08219.html#a2d46d79fdcd497c77137c2b2de9deb15", null ],
+    [ "KeyMountLocation", "a08219.html#a866a2773f228d035ccfef88d468c5049", null ],
+    [ "KeyMountTime", "a08219.html#ae72b8a32d87fc884e0de4e932585e49b", null ],
+    [ "LandmarkReactionPlayer", "a08219.html#aa5c559740bf050d6356052898f2d075c", null ],
+    [ "LandmarkReactionsWhenDoorOpens", "a08219.html#abab3ddcbe410fdfee91202ae608fa591", null ],
+    [ "PlayerStatToFireOnOpen", "a08219.html#a418f4090da8582290e5887ba65b291bd", null ],
+    [ "ServerDoorState", "a08219.html#a010fb3f5a8cbbf014897724f0e0a1738", null ],
+    [ "UnknownData00", "a08219.html#a75eafa69e31fa5cdb228a8f2fe0fd3b5", null ],
+    [ "UnknownData01", "a08219.html#ada57d409bd75c2a8ac0a6ee7f1e419d1", null ],
+    [ "UnknownData02", "a08219.html#a47a7563cb71ef33dc1a8114dd413ada3", null ]
+];

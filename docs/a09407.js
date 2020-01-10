@@ -1,0 +1,25 @@
+var a09407 =
+[
+    [ "Client_VomitHit", "a09407.html#a0b0695c03ab0272b63af74ecb5f3c8b7", null ],
+    [ "DidVomitVFXSpawn", "a09407.html#aeb8c0e51215dee9d77763e9b81cf2dc7", null ],
+    [ "IsFaceCoveredWithVomit", "a09407.html#a9088356d26b861c830a55136615e0643", null ],
+    [ "Multicast_VomitActivate", "a09407.html#af8a98e1f5c2f097757fb83225a473b5d", null ],
+    [ "Multicast_VomitImpact", "a09407.html#af4a4f29aff87e6155cfc77457581017f", null ],
+    [ "OnOverlapBegin", "a09407.html#a76637a0523403787e81840cb30d64f49", null ],
+    [ "StaticClass", "a09407.html#a86af762e9a962d8eda035326390048d7", null ],
+    [ "VomitActivate", "a09407.html#a43db6bfcb86bb74b9182753b87bb74a8", null ],
+    [ "BoutData", "a09407.html#acf0b4a61818aeb81a45a6b39e5b61dc6", null ],
+    [ "ChanceForContractingVomitingIfBeingVomitedOn", "a09407.html#ab6fa3db59e6378d5a157d332a3ea736b", null ],
+    [ "ContractedVomitingSpewDelay", "a09407.html#a46ed2c09c0ea8f1d9625885ff3bdb1da", null ],
+    [ "ContractedVomitingSpewDuration", "a09407.html#adaf5866918af3a82ca1897ee8d32e681", null ],
+    [ "ContractedVomitVFXType", "a09407.html#ac4a218c5021847c7255b99af143e4ec5", null ],
+    [ "DebugInterval", "a09407.html#aa57012dfba2ca17d04fab5f65a614960", null ],
+    [ "ImmunityAgainstContractingAfterVomiting", "a09407.html#a6e626f03c910d8e8974db3affba049e7", null ],
+    [ "UnknownData00", "a09407.html#af5d09423c4341d7bfea90d95d0caeb1a", null ],
+    [ "UnknownData01", "a09407.html#a1df02c21268ec8d18e40de5aeaea21b2", null ],
+    [ "UnknownData02", "a09407.html#ada6ffde6ce9a0ed78b1f7eb34ebb90b9", null ],
+    [ "VomitProjectiles", "a09407.html#ae1a84ab81a0f7a81511a1c1568afe171", null ],
+    [ "VomitScreenFX", "a09407.html#a1518514a6c5ef1a4f702dc0a72d60a2b", null ],
+    [ "VomitSFX", "a09407.html#af2ddafd8b4efd87f91fc51858cb53c95", null ],
+    [ "VomitVFX", "a09407.html#a1fc1d40b03fa86ce6d3d3dc1a2011bce", null ]
+];
