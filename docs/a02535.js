@@ -1,10 +1,9 @@
 var a02535 =
 [
-    [ "StaticClass", "a02535.html#a708e3aeca0e7b0b53a1c579546ef2043", null ],
-    [ "ArenaVendorShipRootComponent", "a02535.html#a537a011de0fa041982918ec7d6f66805", null ],
-    [ "ContestMerchantSpawnerComponent", "a02535.html#a679262c96fe806607a6a26b75394ce7c", null ],
-    [ "UnknownData00", "a02535.html#a6c391a9df3446a5ac1ba5e5e9896ed54", null ],
-    [ "VendorDeadZoneComponent", "a02535.html#a033b855a3ee57ff8732bddf88f163ce9", null ],
-    [ "VendorShipDeadZoneRadius", "a02535.html#a2df27d50a638674297f3ac001bbd95c4", null ],
-    [ "VendorShipWorldMarkerComponent", "a02535.html#ad455f0e96c2d4fea09fe745d8e1074f3", null ]
+    [ "OnRep_AnimationDataStoreAssetReference", "a02535.html#a6b041ec98d43b076a3aec1306592b78e", null ],
+    [ "StaticClass", "a02535.html#a3e627a2e5b98c9f2f1cdeaeefba8e1de", null ],
+    [ "AnimationDataStoreAsset", "a02535.html#a274c40cc2720ba18a4c4dfd476b99c21", null ],
+    [ "AnimationDataStoreAssetReference", "a02535.html#abc1fce8b86e94b87480ff993a65aef91", null ],
+    [ "UnknownData00", "a02535.html#acf3b07a0ee84170281b4d63c3ff3fd69", null ],
+    [ "UnknownData01", "a02535.html#aa529145338d7890371bfd81f75adbeef", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FParticleSystemReplayFrame Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FStaticMeshSourceModel Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,48 @@ $(document).ready(function(){initNavTree('a31815.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31812.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FParticleSystemReplayFrame Struct Reference</div>  </div>
+<div class="title">SDK::FStaticMeshSourceModel Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FParticleSystemReplayFrame:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FStaticMeshSourceModel:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31813.svg" width="215" height="243"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31813.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae431943460bc7ffb2be1987685bc5351"><td class="memItemLeft" align="right" valign="top"><a id="ae431943460bc7ffb2be1987685bc5351"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x10]</td></tr>
-<tr class="separator:ae431943460bc7ffb2be1987685bc5351"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ece3713af377c1779f044a399d8f3ac"><td class="memItemLeft" align="right" valign="top"><a id="a2ece3713af377c1779f044a399d8f3ac"></a>
+struct <a class="el" href="a31539.html">FMeshBuildSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BuildSettings</b></td></tr>
+<tr class="separator:a2ece3713af377c1779f044a399d8f3ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac225f8e87f9c3728fa0c7d98d2cbd72e"><td class="memItemLeft" align="right" valign="top"><a id="ac225f8e87f9c3728fa0c7d98d2cbd72e"></a>
+struct <a class="el" href="a31543.html">FMeshReductionSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ReductionSettings</b></td></tr>
+<tr class="separator:ac225f8e87f9c3728fa0c7d98d2cbd72e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6a1f0b9a4b8ec31cbcd90ab1b7ad142"><td class="memItemLeft" align="right" valign="top"><a id="ab6a1f0b9a4b8ec31cbcd90ab1b7ad142"></a>
+struct <a class="el" href="a30575.html">FSimplygonRemeshingSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RemeshingSettings</b></td></tr>
+<tr class="separator:ab6a1f0b9a4b8ec31cbcd90ab1b7ad142"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12069fbd4769e8d92b786a8e54ac3e41"><td class="memItemLeft" align="right" valign="top"><a id="a12069fbd4769e8d92b786a8e54ac3e41"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>OverriddenLightMapRes</b></td></tr>
+<tr class="separator:a12069fbd4769e8d92b786a8e54ac3e41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaea6951c09b879d64988fa672f510e6f"><td class="memItemLeft" align="right" valign="top"><a id="aaea6951c09b879d64988fa672f510e6f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LODDistance</b></td></tr>
+<tr class="separator:aaea6951c09b879d64988fa672f510e6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a328363be190ddb270a61ab802d6a1c82"><td class="memItemLeft" align="right" valign="top"><a id="a328363be190ddb270a61ab802d6a1c82"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ScreenSize</b></td></tr>
+<tr class="separator:a328363be190ddb270a61ab802d6a1c82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d0c4f2936cdb942efc66e368e7eed03"><td class="memItemLeft" align="right" valign="top"><a id="a2d0c4f2936cdb942efc66e368e7eed03"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxDeviation</b></td></tr>
+<tr class="separator:a2d0c4f2936cdb942efc66e368e7eed03"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31815.html">FParticleSystemReplayFrame</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31815.html">FStaticMeshSourceModel</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

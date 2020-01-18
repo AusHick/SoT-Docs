@@ -1,5 +1,5 @@
 var a00779 =
 [
-    [ "TestProperty", "a00779.html#af0d0dc54ded50c9862b50cb6edc8a827", null ],
-    [ "UnknownData00", "a00779.html#aec1c16e1cef54bb7580292a62448a07f", null ]
+    [ "IntProp", "a00779.html#af7b3620f834f0aa900d08eeea02d5f44", null ],
+    [ "UnknownData00", "a00779.html#ac62b0d561b8b3ccefe99f3fb13fc7463", null ]
 ];

@@ -1,5 +1,4 @@
 var a08883 =
 [
-    [ "StaticClass", "a08883.html#a79aff89f98059946b493c3b75be55596", null ],
-    [ "CompassDesc", "a08883.html#a687631e302347cb2b1ffe23bce524b9a", null ]
+    [ "StaticClass", "a08883.html#a98343eb06475d702819c9acd769cd1c5", null ]
 ];

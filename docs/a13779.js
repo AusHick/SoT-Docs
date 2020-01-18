@@ -1,6 +1,11 @@
 var a13779 =
 [
-    [ "EthnicityFilter", "a13779.html#a49a23848bf07bb740bc269d99c116a83", null ],
-    [ "Item", "a13779.html#af96cbfee1b53f4695ca668377203180e", null ],
-    [ "UnknownData00", "a13779.html#afc7df355863cde8520452eb0f4551c8e", null ]
+    [ "Container", "a13779.html#a95501db5f3aa27f6d867c2fac6af4e05", null ],
+    [ "ContainerType", "a13779.html#abdab782833a562a8c8bf5b934323e574", null ],
+    [ "LiquidSource", "a13779.html#a176a4738604a8fd12dc7bbe42dea13dc", null ],
+    [ "LiquidTargets", "a13779.html#a1f7a7cdcd65fe1e9ea669e4bce7527f0", null ],
+    [ "LiquidTransferFillAmountModifier", "a13779.html#af7cb4b7f1af94b81df768201571ae625", null ],
+    [ "LiquidVolume", "a13779.html#a355a59ff6c5f58da3b1895dc12f92d83", null ],
+    [ "ScoopID", "a13779.html#adab9955b30722f6df3740a8f9bbc9ad2", null ],
+    [ "UnknownData00", "a13779.html#afab0ec482144fe9ca765885a6ddba383", null ]
 ];

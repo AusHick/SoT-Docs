@@ -1,4 +1,4 @@
 var a01803 =
 [
-    [ "ShipClassWeightedSizes", "a01803.html#a7b1211f381534e4865299c7e980dff95", null ]
+    [ "ShipSizes", "a01803.html#a6cb566674a33258841a6fdc74dac688d", null ]
 ];

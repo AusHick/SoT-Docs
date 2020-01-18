@@ -1,5 +1,5 @@
 var a33979 =
 [
-    [ "Name", "a33979.html#a8df33b2c5a5d72c7deaa2fe6c09578d5", null ],
-    [ "Reference", "a33979.html#aa75f5a43d728902a5f05fc83bffbae30", null ]
+    [ "FeedingInteractionId", "a33979.html#aee61f737a9b38ffcb949b7c9a831074b", null ],
+    [ "TryingToFeedPlayerId", "a33979.html#a4fee1659fb7579548a8de51d0cc706a7", null ]
 ];

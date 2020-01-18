@@ -1,5 +1,4 @@
 var a25515 =
 [
-    [ "LengthBias", "a25515.html#aee82c07e1bb88ac51417796036057af7", null ],
-    [ "LengthForNeutralSwing", "a25515.html#ab767c21ee51d0d3b7c23496ae9945276", null ]
+    [ "DespawnReason", "a25515.html#a85325f17fca5b3416e7a910972d86d4b", null ]
 ];

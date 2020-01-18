@@ -1,26 +1,7 @@
 var a03875 =
 [
-    [ "StaticClass", "a03875.html#a0391e80cfe2e0fbb499d65aaa8132700", null ],
-    [ "AudioSFXPool", "a03875.html#a5d15d982d7fbfc4b118ac86a9308f5da", null ],
-    [ "ChestInSuperheatedWaterSteadyStatePercentage", "a03875.html#ad665b515cecca88a46e1e94a745875af", null ],
-    [ "CooledDownSteamBlast", "a03875.html#a2f4ac120db31a9133bee915a38bdcb36", null ],
-    [ "DamageTable", "a03875.html#a8d94a5e42a3ca13407f4d65293783714", null ],
-    [ "DormantDuration", "a03875.html#a95116f935cd8064526ada61980137ebb", null ],
-    [ "ExplosionSfx", "a03875.html#abe91434e235d762063834595dd7a812a", null ],
-    [ "ExplosionVfx", "a03875.html#a9ddcef87e6049a5ab1557aa13adf9683", null ],
-    [ "ExtinguishedSfx", "a03875.html#a07844efd9828f2ce06e3ff87c973b85d", null ],
-    [ "HealthChangePerSecondWhilstCarryingASteamingChest", "a03875.html#a705f6279091b948ad55dbec1e162907b", null ],
-    [ "InWaterCoolingRate", "a03875.html#a4ba3b89a46424ec7dcccc463139d6f2a", null ],
-    [ "OnFireDuration", "a03875.html#ac7478eb84157102ebc790659cd681b79", null ],
-    [ "OnFireVfx", "a03875.html#a60cd5c1697d59a7bf39a7ecb10142747", null ],
-    [ "PercentageToHeatHullWaterPerSecond", "a03875.html#acf7086e1fc1515da116b58dc0c73939b", null ],
-    [ "RageBuildingDuration", "a03875.html#adfb1d122bd7c7e1605626169f84a4208", null ],
-    [ "RageBuildingVfx", "a03875.html#a882564a80f3a6e05b12281e48f27e43d", null ],
-    [ "StartWhistlingSfx", "a03875.html#adc1b3fa8f9481856919c65846ac9fd19", null ],
-    [ "SteamingDuration", "a03875.html#aa987df73b748e17c76235f32ddba5321", null ],
-    [ "SteamingVfx", "a03875.html#a74250a16012e787f65894f9c145d1dfd", null ],
-    [ "StopWhistlingSfx", "a03875.html#a4bdb4750e5b354e553af80d7e3739027", null ],
-    [ "TimeToRemovePerSplash", "a03875.html#a20ffa6a12cca0e47634908f76ac2ab50", null ],
-    [ "UnknownData00", "a03875.html#a50029c7fa16c152ef34d214f74bbe894", null ],
-    [ "WaterHeightCheckOffset", "a03875.html#a8300100633b117579952a80b7c9731ff", null ]
+    [ "IsSocketRegistered", "a03875.html#ae0b7a01f3361ae1cf7ba1c0dadec5768", null ],
+    [ "RegisterSocket", "a03875.html#a86307618a80ce537aa63d453ab29345c", null ],
+    [ "StaticClass", "a03875.html#a85b085047216525d51644d980e152f7b", null ],
+    [ "UnregisterSocket", "a03875.html#ab9a5dde6ea7aca8caa0dbc57086a1a50", null ]
 ];

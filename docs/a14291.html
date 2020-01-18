@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FFragileComponentHealthScalarEntry Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FShipDamageEntry Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,45 @@ $(document).ready(function(){initNavTree('a14291.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14288.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FFragileComponentHealthScalarEntry Struct Reference</div>  </div>
+<div class="title">SDK::FShipDamageEntry Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFragileComponentHealthScalarEntry:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FShipDamageEntry:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14289.svg" width="479" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a14289.svg" width="591" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a61a7ca54f15337e8d09b228ddebc29c1"><td class="memItemLeft" align="right" valign="top"><a id="a61a7ca54f15337e8d09b228ddebc29c1"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EHealthChangedReason &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>HealthChangedReason</b></td></tr>
-<tr class="separator:a61a7ca54f15337e8d09b228ddebc29c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5c91a93ea54cb1b17e5b09ae98cfe54"><td class="memItemLeft" align="right" valign="top"><a id="aa5c91a93ea54cb1b17e5b09ae98cfe54"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:aa5c91a93ea54cb1b17e5b09ae98cfe54"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57bfa15e250317257fe341dcf81beb64"><td class="memItemLeft" align="right" valign="top"><a id="a57bfa15e250317257fe341dcf81beb64"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>HealthChangeScalar</b></td></tr>
-<tr class="separator:a57bfa15e250317257fe341dcf81beb64"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6c5bbbe273e502f044d1df2adb16d09"><td class="memItemLeft" align="right" valign="top"><a id="ac6c5bbbe273e502f044d1df2adb16d09"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>OtherShipSize</b></td></tr>
+<tr class="separator:ac6c5bbbe273e502f044d1df2adb16d09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaacf8beecb5f6f11b6ed69cadbc2208f"><td class="memItemLeft" align="right" valign="top"><a id="aaacf8beecb5f6f11b6ed69cadbc2208f"></a>
+class <a class="el" href="a27043.html">UForceFeedbackEffect</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ForceFeedbackEffect</b></td></tr>
+<tr class="separator:aaacf8beecb5f6f11b6ed69cadbc2208f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae77dba6d596756573a7508efccda746f"><td class="memItemLeft" align="right" valign="top"><a id="ae77dba6d596756573a7508efccda746f"></a>
+struct <a class="el" href="a26443.html">FInt32Range</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumZonesToDamageForInstigator</b></td></tr>
+<tr class="separator:ae77dba6d596756573a7508efccda746f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06e5d08e1d88ed6aadce23e3c5737089"><td class="memItemLeft" align="right" valign="top"><a id="a06e5d08e1d88ed6aadce23e3c5737089"></a>
+struct <a class="el" href="a26443.html">FInt32Range</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DamageLevelForInstigator</b></td></tr>
+<tr class="separator:a06e5d08e1d88ed6aadce23e3c5737089"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a239fc14355f6118ff8aba6f9ed1eccb4"><td class="memItemLeft" align="right" valign="top"><a id="a239fc14355f6118ff8aba6f9ed1eccb4"></a>
+struct <a class="el" href="a26443.html">FInt32Range</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumZonesToDamageForReceiver</b></td></tr>
+<tr class="separator:a239fc14355f6118ff8aba6f9ed1eccb4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaca50328ee4906f31f889aa1b8698e9a"><td class="memItemLeft" align="right" valign="top"><a id="aaca50328ee4906f31f889aa1b8698e9a"></a>
+struct <a class="el" href="a26443.html">FInt32Range</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DamageLevelForReceiver</b></td></tr>
+<tr class="separator:aaca50328ee4906f31f889aa1b8698e9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14291.html">FFragileComponentHealthScalarEntry</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14291.html">FShipDamageEntry</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:46 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

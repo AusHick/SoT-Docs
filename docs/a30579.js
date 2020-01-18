@@ -1,5 +1,11 @@
 var a30579 =
 [
-    [ "PosKeys", "a30579.html#ac4f0751a0a9bbe37146315cf6f86e4be", null ],
-    [ "Times", "a30579.html#a5e17154c3ca7eda447836f3dabab1532", null ]
+    [ "bHasBeenSimplified", "a30579.html#ac9934209715526c51054667dc626f531", null ],
+    [ "LODHysteresis", "a30579.html#a9e7069cc9ce2303a389b7ceff39c83b4", null ],
+    [ "LODMaterialMap", "a30579.html#ab25dbfdc88cb5faadfba4fa14ebf5c10", null ],
+    [ "ReductionSettings", "a30579.html#a4f9e88d7b93ca59b65974ae36a522897", null ],
+    [ "RemeshingSettings", "a30579.html#a581b080abadf525b7b4f508fb1bd5a44", null ],
+    [ "ScreenSize", "a30579.html#a99e52d2176c7202cfb11810d3a128522", null ],
+    [ "TriangleSortSettings", "a30579.html#a3564d2037477636bbb6ebacc3d56a0a6", null ],
+    [ "UnknownData00", "a30579.html#a9fcc955d731a6bec0bb17b962773244e", null ]
 ];

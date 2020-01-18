@@ -1,9 +1,12 @@
 var a14539 =
 [
-    [ "LocationSource", "a14539.html#a7265b680ce6102d73bbd443798267584", null ],
-    [ "Map", "a14539.html#a6904878f676bc166d01845c2966c7b5b", null ],
-    [ "MapSpaceLocationOffset", "a14539.html#aa7479f3f4e38f74ea182b0411739e4d1", null ],
-    [ "RotationFromNorth", "a14539.html#a459f78c435831ac7543f4af9635b2b4b", null ],
-    [ "TreasureLocations", "a14539.html#a1021ea754bec45c0f2cfe298e73b27c6", null ],
-    [ "UnknownData00", "a14539.html#a15e27c87d43bb9009ed51777d41a7a96", null ]
+    [ "CharacterFadeCompleteTimeout", "a14539.html#a4180968cff4d16a94c67f6326dfef937", null ],
+    [ "FadeAudio", "a14539.html#ac2c58a3f2723443099a34a4c8568a32f", null ],
+    [ "FadeColour", "a14539.html#a482410b2c4220066ed84dab5a09f8d02", null ],
+    [ "FadeDuration", "a14539.html#a8f4f9c90ae85e299dfd52b096c2b6db0", null ],
+    [ "FadeEventTimeout", "a14539.html#a49a2fcf750d42e65d2448c72f31c16b3", null ],
+    [ "FadeServerTimeout", "a14539.html#aacc87e36d52c4329d948ef527d123f2a", null ],
+    [ "TeleportCompleteTimeout", "a14539.html#af2267560a1aebe7b3d8a179cc76e2cea", null ],
+    [ "TeleportNetRelevancyTimeout", "a14539.html#a0ff107b4c6ca12540237503c56db6421", null ],
+    [ "UnknownData00", "a14539.html#abac6ee66fe0385bc67adeeb149445e64", null ]
 ];

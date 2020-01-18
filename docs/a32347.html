@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FGameplayTagQuery Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FFireGridCellSelection Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,45 +87,57 @@ $(document).ready(function(){initNavTree('a32347.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a32344.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FGameplayTagQuery Struct Reference</div>  </div>
+<div class="title">SDK::FFireGridCellSelection Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FGameplayTagQuery:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFireGridCellSelection:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a32345.svg" width="100%" height="537"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a32345.svg" width="100%" height="504"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab7637c47361ea6aee6a6e8738a449979"><td class="memItemLeft" align="right" valign="top"><a id="ab7637c47361ea6aee6a6e8738a449979"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>TokenStreamVersion</b></td></tr>
-<tr class="separator:ab7637c47361ea6aee6a6e8738a449979"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1df5df2564a51aaeb32f4e501a973fc4"><td class="memItemLeft" align="right" valign="top"><a id="a1df5df2564a51aaeb32f4e501a973fc4"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a1df5df2564a51aaeb32f4e501a973fc4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c8eed881a013a7883cc20e33d25d9b1"><td class="memItemLeft" align="right" valign="top"><a id="a6c8eed881a013a7883cc20e33d25d9b1"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a32343.html">FGameplayTag</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>TagDictionary</b></td></tr>
-<tr class="separator:a6c8eed881a013a7883cc20e33d25d9b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a39146be24a25eba5783c86fcf6ef8f9d"><td class="memItemLeft" align="right" valign="top"><a id="a39146be24a25eba5783c86fcf6ef8f9d"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; unsigned char &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>QueryTokenStream</b></td></tr>
-<tr class="separator:a39146be24a25eba5783c86fcf6ef8f9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e4d9989286723d83b5f050067c3c2db"><td class="memItemLeft" align="right" valign="top"><a id="a5e4d9989286723d83b5f050067c3c2db"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>UserDescription</b></td></tr>
-<tr class="separator:a5e4d9989286723d83b5f050067c3c2db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f6a7241b1e75b5b0ed3a921f997443b"><td class="memItemLeft" align="right" valign="top"><a id="a7f6a7241b1e75b5b0ed3a921f997443b"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AutoDescription</b></td></tr>
-<tr class="separator:a7f6a7241b1e75b5b0ed3a921f997443b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8c11dd62a93f5709f621ab1359f6215"><td class="memItemLeft" align="right" valign="top"><a id="ae8c11dd62a93f5709f621ab1359f6215"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>NumberOfAffectedCells</b></td></tr>
+<tr class="separator:ae8c11dd62a93f5709f621ab1359f6215"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c8b529712de17623da23124c46c41f8"><td class="memItemLeft" align="right" valign="top"><a id="a4c8b529712de17623da23124c46c41f8"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>AdjacencyRadius</b></td></tr>
+<tr class="separator:a4c8b529712de17623da23124c46c41f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a738f66f0e929d0217f76057b0f372ccd"><td class="memItemLeft" align="right" valign="top"><a id="a738f66f0e929d0217f76057b0f372ccd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ChanceToAffectCellsAbove</b></td></tr>
+<tr class="separator:a738f66f0e929d0217f76057b0f372ccd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e0e7a1b5e5e39e915b322467cb4facd"><td class="memItemLeft" align="right" valign="top"><a id="a2e0e7a1b5e5e39e915b322467cb4facd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ChanceToAffectCellsBelow</b></td></tr>
+<tr class="separator:a2e0e7a1b5e5e39e915b322467cb4facd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf9c94542fecd8aa5a89fb7d179a705a"><td class="memItemLeft" align="right" valign="top"><a id="acf9c94542fecd8aa5a89fb7d179a705a"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TreatDiagonalsAsAdjacent</b></td></tr>
+<tr class="separator:acf9c94542fecd8aa5a89fb7d179a705a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a480e899ff62aa4c8f7643c37f969257e"><td class="memItemLeft" align="right" valign="top"><a id="a480e899ff62aa4c8f7643c37f969257e"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>OverrideFirePropagationTimesForAffectedCells</b></td></tr>
+<tr class="separator:a480e899ff62aa4c8f7643c37f969257e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a384dd98bea8acfdca263092bf37eeea4"><td class="memItemLeft" align="right" valign="top"><a id="a384dd98bea8acfdca263092bf37eeea4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x2]</td></tr>
+<tr class="separator:a384dd98bea8acfdca263092bf37eeea4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4ba74f6f8da641f3e6358b9f35df4db"><td class="memItemLeft" align="right" valign="top"><a id="aa4ba74f6f8da641f3e6358b9f35df4db"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SidewaysPropagationTimeOverride</b></td></tr>
+<tr class="separator:aa4ba74f6f8da641f3e6358b9f35df4db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8feaa79ab4851414190db669d713fba0"><td class="memItemLeft" align="right" valign="top"><a id="a8feaa79ab4851414190db669d713fba0"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>UpwardPropagationTimeOverride</b></td></tr>
+<tr class="separator:a8feaa79ab4851414190db669d713fba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67ded668ac7f17657e8099cb0b531cbf"><td class="memItemLeft" align="right" valign="top"><a id="a67ded668ac7f17657e8099cb0b531cbf"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DownwardPropagationTimeOverride</b></td></tr>
+<tr class="separator:a67ded668ac7f17657e8099cb0b531cbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32347.html">FGameplayTagQuery</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32347.html">FFireGridCellSelection</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

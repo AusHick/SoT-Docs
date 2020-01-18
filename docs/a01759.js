@@ -1,11 +1,5 @@
 var a01759 =
 [
-    [ "DamageParams", "a01759.html#ae5bf87d4088743e8ff58c2837b1571b5", null ],
-    [ "EncounterType", "a01759.html#a69e970cd9ab9ffcfb04ec48257098a45", null ],
-    [ "ShipControllerParams", "a01759.html#a6d91a7cbcc75f53ab4fa483a1ce42353", null ],
-    [ "ShipType", "a01759.html#ad79b0d837d00f201b8604c05bcb28e82", null ],
-    [ "SkeletonAmmoTypeOverrides", "a01759.html#ae185cecb4375c74cb977598b5cd62812", null ],
-    [ "SkillsetOverrides", "a01759.html#a730eb1375a0b751cae7417019e5d0193", null ],
-    [ "UnknownData00", "a01759.html#a188c2375505be0645943ebc339dfd92c", null ],
-    [ "UnknownData01", "a01759.html#ae87776e3d2a1fded30249af547a138f2", null ]
+    [ "Params", "a01759.html#a52a0bb7db3b0274aef107a54081c072a", null ],
+    [ "ShipSize", "a01759.html#a3149a81e68150529c52bf45ba2f508ce", null ]
 ];

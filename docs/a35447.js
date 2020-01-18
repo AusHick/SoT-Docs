@@ -1,9 +1,8 @@
 var a35447 =
 [
-    [ "StaticClass", "a35447.html#a5f83028c9a0aaef602c24bfca4b5e687", null ],
-    [ "Stretch", "a35447.html#a7e6cb5f4f5e226c5ca7f8c5f7df5c172", null ],
-    [ "StretchDirection", "a35447.html#a4a3357fb42b31b9b6466b3dd3bc922df", null ],
-    [ "UnknownData00", "a35447.html#aa5e3ba1513992c1ff9b5bdeb9921dd9a", null ],
-    [ "UnknownData01", "a35447.html#af31448584ab118584477d3ab6f681511", null ],
-    [ "UserSpecifiedScale", "a35447.html#a3d781843bd16754b5a431903b26e3c37", null ]
+    [ "StaticClass", "a35447.html#aad9a3586f60f491b99d07589438b0536", null ],
+    [ "Rotation", "a35447.html#ab85382d63ddc50749f47672dbc62d84d", null ],
+    [ "Scale", "a35447.html#ae10f58e18496f5b0be35c5255fa54aa8", null ],
+    [ "Shear", "a35447.html#a905c5542a0dc9ef96e9da14cd7684f42", null ],
+    [ "Translation", "a35447.html#ad523b250f5cf3eaeb79e176d3d841ed7", null ]
 ];

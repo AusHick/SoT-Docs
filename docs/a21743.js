@@ -1,4 +1,4 @@
 var a21743 =
 [
-    [ "QuestId", "a21743.html#a8bfa2202b3c5848f7150b24dc61e3ebf", null ]
+    [ "ItemDesc", "a21743.html#a66642e1a7e0e50b2cc1029d74addabbc", null ]
 ];

@@ -1,7 +1,7 @@
 var a35275 =
 [
-    [ "GetStringValue", "a35275.html#a100f5205a4dee60856e4b21afe2c70c1", null ],
-    [ "GetTextValue", "a35275.html#ae7161938c2aaa29cf877caca1e2e3524", null ],
-    [ "StaticClass", "a35275.html#ac2a49804f4067b65b6e9209dae00de3d", null ],
-    [ "UnknownData00", "a35275.html#aa12690f00f0b15a92a185c61e9400cec", null ]
+    [ "StaticClass", "a35275.html#ac1b57f6dccfbff02ce4c7a5ee36c7fc4", null ],
+    [ "IslandName", "a35275.html#aac83b618551aeefdaee1eed08a288d3a", null ],
+    [ "Location", "a35275.html#ae49bc0049e525060bbef76d20ee2f60b", null ],
+    [ "MapId", "a35275.html#ade348e79e96f174470728063e2c27faf", null ]
 ];

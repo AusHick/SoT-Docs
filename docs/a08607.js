@@ -1,4 +1,8 @@
 var a08607 =
 [
-    [ "StaticClass", "a08607.html#ae4ec4391b46539afa45d49695defddb7", null ]
+    [ "StaticClass", "a08607.html#ab02db3f70b5c328b4c0c61d5fbb47d21", null ],
+    [ "AITargetVisibilityPoints", "a08607.html#a282fa964cd7efd9edb1c4abfc4f1e1d9", null ],
+    [ "TargetBoxHeightMultiplier", "a08607.html#a9d2d25c5bad3796150da9dee21c97a42", null ],
+    [ "TargetBoxZOffsetMultiplier", "a08607.html#a1fe2cfd2d96b0e2be1079c093ec557c6", null ],
+    [ "UnknownData00", "a08607.html#a24183cf9ad25c8ddf794d4b80f0f92e5", null ]
 ];

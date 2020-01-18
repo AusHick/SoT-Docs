@@ -1,5 +1,10 @@
 var a06899 =
 [
-    [ "StaticClass", "a06899.html#a66ed6564e8921d4284e58afc8128b8c4", null ],
-    [ "Entitlement", "a06899.html#aa9b729eaa5117dee1242fbd9c2e95619", null ]
+    [ "StaticClass", "a06899.html#a4dd5f839a0c05a0e9267321a52006a4b", null ],
+    [ "ClientRunnables", "a06899.html#aab04c6580e53f8551c17298d1934ba74", null ],
+    [ "ConditionalStatsToFire", "a06899.html#a5869a5126a0784d3c0d965e462d6a285", null ],
+    [ "Conditions", "a06899.html#a6bbe2067a4eb63bb630638a0636a51ae", null ],
+    [ "StatsToFire", "a06899.html#aae0c2c0969b45aab59211afbe3024bdb", null ],
+    [ "TelemetryKey", "a06899.html#a7da2e64a5b9aa61c139b0464fa1548bc", null ],
+    [ "UnknownData00", "a06899.html#af06a60e786ff23ca4c179815cb35a55a", null ]
 ];

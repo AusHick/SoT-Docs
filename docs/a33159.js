@@ -1,4 +1,5 @@
 var a33159 =
 [
-    [ "StaticClass", "a33159.html#a8b595c3f6f69f9d806c20a2b5b8ce722", null ]
+    [ "OutVal", "a33159.html#a9bf355c945e1a64162dab93ca18751f1", null ],
+    [ "Tangent", "a33159.html#a485e050e0556097ac4bde11f02ac3e17", null ]
 ];

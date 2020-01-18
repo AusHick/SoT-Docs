@@ -1,5 +1,5 @@
 var a05831 =
 [
-    [ "StaticClass", "a05831.html#a7947524e72e255b679caa762edffb25f", null ],
-    [ "UnknownData00", "a05831.html#aa2c1e6a3bc5a9429e96f3f0c83fcbbce", null ]
+    [ "StaticClass", "a05831.html#ae160860f25dc4a7367f2d2992130ec98", null ],
+    [ "RequiredShipCustomizationData", "a05831.html#adb918807eb38982943675054fb9dee69", null ]
 ];

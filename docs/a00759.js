@@ -1,5 +1,5 @@
 var a00759 =
 [
-    [ "Type", "a00759.html#ae001cde691c6de539cdff8aef15e1ed8", null ],
-    [ "UnknownData00", "a00759.html#a24342b5f6e5c4557c2114d7975c2fd03", null ]
+    [ "Entries", "a00759.html#af219d288103e267b6e83d023bd6b30d9", null ],
+    [ "State", "a00759.html#a82673a4361614d9fb9f2b38870e0fd4f", null ]
 ];

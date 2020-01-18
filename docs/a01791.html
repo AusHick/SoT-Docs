@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIShipBattleEncounterDescGenerationParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIShipContextDescGenerationShipSpecificParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a01791.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01788.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIShipBattleEncounterDescGenerationParams Struct Reference</div>  </div>
+<div class="title">SDK::FAIShipContextDescGenerationShipSpecificParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipBattleEncounterDescGenerationParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipContextDescGenerationShipSpecificParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,26 +100,26 @@ $(document).ready(function(){initNavTree('a01791.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5585beee5a70e10d3af6bb71c473d43e"><td class="memItemLeft" align="right" valign="top"><a id="a5585beee5a70e10d3af6bb71c473d43e"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>EnableHardShip</b></td></tr>
-<tr class="separator:a5585beee5a70e10d3af6bb71c473d43e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cb44406bc4ad02546042c485be1d9f4"><td class="memItemLeft" align="right" valign="top"><a id="a9cb44406bc4ad02546042c485be1d9f4"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a9cb44406bc4ad02546042c485be1d9f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d2054072554972e57db8d56066583a1"><td class="memItemLeft" align="right" valign="top"><a id="a3d2054072554972e57db8d56066583a1"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a01783.html">FFeatureLockedAIShipEncounterBattleGenerationParams</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BattleGenerationParams</b></td></tr>
-<tr class="separator:a3d2054072554972e57db8d56066583a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a891d64e7462e8bd079ece927d9d04731"><td class="memItemLeft" align="right" valign="top"><a id="a891d64e7462e8bd079ece927d9d04731"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a01787.html">FAIShipEncounterBattleDesc</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BattleDescs</b></td></tr>
-<tr class="separator:a891d64e7462e8bd079ece927d9d04731"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e78205d9a2b73e43f8535dddecb3834"><td class="memItemLeft" align="right" valign="top"><a id="a6e78205d9a2b73e43f8535dddecb3834"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ShipSize</b></td></tr>
+<tr class="separator:a6e78205d9a2b73e43f8535dddecb3834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40f072fa865257f436bc0be5c8238e74"><td class="memItemLeft" align="right" valign="top"><a id="a40f072fa865257f436bc0be5c8238e74"></a>
+class <a class="el" href="a10323.html">UShipDescAsset</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ShipDesc</b></td></tr>
+<tr class="separator:a40f072fa865257f436bc0be5c8238e74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5ded91a9360f0a4b1263af9034293d2"><td class="memItemLeft" align="right" valign="top"><a id="af5ded91a9360f0a4b1263af9034293d2"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a01787.html">FAIShipGenerationParams</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ShipGenerationParams</b></td></tr>
+<tr class="separator:af5ded91a9360f0a4b1263af9034293d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b99c700bd9ad39f6318e884be99bd43"><td class="memItemLeft" align="right" valign="top"><a id="a4b99c700bd9ad39f6318e884be99bd43"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a01727.html">FAIShipEncounterParamsSpawnerData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnerTemplates</b></td></tr>
+<tr class="separator:a4b99c700bd9ad39f6318e884be99bd43"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01791.html">FAIShipBattleEncounterDescGenerationParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01791.html">FAIShipContextDescGenerationShipSpecificParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

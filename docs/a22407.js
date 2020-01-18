@@ -1,5 +1,7 @@
 var a22407 =
 [
-    [ "X", "a22407.html#ac6278691b26c6c73f3e9b8b8f873c668", null ],
-    [ "Y", "a22407.html#ae1554b4cc5b02808e532ceb72348c4ff", null ]
+    [ "BindingName", "a22407.html#ab4d754b0dd46f047e84c40c88364fe98", null ],
+    [ "ControllerType", "a22407.html#a771b64e957dff46dff9a5248cf12221b", null ],
+    [ "KeyName", "a22407.html#aee2adeca88ae0027823932850beb490f", null ],
+    [ "UnknownData00", "a22407.html#aed761658c94988a46c194fab5282a636", null ]
 ];

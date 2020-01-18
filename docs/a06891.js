@@ -1,6 +1,5 @@
 var a06891 =
 [
-    [ "StaticClass", "a06891.html#aa1f69c349bb200a8ff08e9eaafb33477", null ],
-    [ "ParameterName", "a06891.html#a9e5115b9d5a6102d5ee6b048b7f5fe1a", null ],
-    [ "Value", "a06891.html#ab855537cb9002c381c32dfdf9dec36f7", null ]
+    [ "StaticClass", "a06891.html#af1873f74d01d36362b750be83018f1ef", null ],
+    [ "Text", "a06891.html#ad08364a681ca36dfed1ac2dbdc5f2922", null ]
 ];

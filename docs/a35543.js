@@ -1,8 +1,11 @@
 var a35543 =
 [
-    [ "StaticClass", "a35543.html#ac78780250cfde20f14fd3c64b69f2bd8", null ],
-    [ "Animations", "a35543.html#a0668b0961dbbf9131b0fcf6e4a048504", null ],
-    [ "Bindings", "a35543.html#a262c87838ddb190c8ee1635282f7d3c8", null ],
-    [ "NamedSlots", "a35543.html#a40b97921e51a2de25014d0a73cce7bbe", null ],
-    [ "WidgetTree", "a35543.html#a936b8004bc056014a87ae3ac71a4c9b2", null ]
+    [ "SetHorizontalAlignment", "a35543.html#ae32df281160a832ac17cf28d4e156d4b", null ],
+    [ "SetPadding", "a35543.html#acd7ab75c8411b049d387ce4b8c8c19ef", null ],
+    [ "SetVerticalAlignment", "a35543.html#ae0446db6b23cc7e2c9b23f44e8cca3e4", null ],
+    [ "StaticClass", "a35543.html#a0e3dcd11eba7d6c323f7f1f3ce59f6e7", null ],
+    [ "HorizontalAlignment", "a35543.html#a8df2205f05dd8dbf7308eba0ba0b66f3", null ],
+    [ "Padding", "a35543.html#a5fcac41576cd83960b74f95147524b5b", null ],
+    [ "UnknownData00", "a35543.html#aa1f9b4aef48278591c3aecc5549e488c", null ],
+    [ "VerticalAlignment", "a35543.html#a95f0291493928172f7740fac7adf28f9", null ]
 ];

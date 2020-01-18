@@ -1,10 +1,12 @@
 var a14251 =
 [
-    [ "FlameColour", "a14251.html#a1a4881e84d33d1040acb17217e7d094c", null ],
-    [ "FlameOfFateType", "a14251.html#ac5e1be166ea8a2e7c019faca1aa3c9ba", null ],
-    [ "FXColour", "a14251.html#a08a9870d70766e7f7fe6e46ccfd427e3", null ],
-    [ "GlowColour", "a14251.html#a21a858dcf59f687980f129294f010ee1", null ],
-    [ "LightColour", "a14251.html#add342664c4e4f6b858cce444ba3a7b31", null ],
-    [ "StatToFireWhenTaken", "a14251.html#a5b990369b2a6297de81696fc62986774", null ],
-    [ "UnknownData00", "a14251.html#a9e127a4732928887f5cab2e946721392", null ]
+    [ "ClientErrorOxygenDifference", "a14251.html#a77f833ad8930b0c187024d59830b6fe8", null ],
+    [ "DamagePerMinute", "a14251.html#aa21ea8a0dcacb322bf0ad341fe67ea0d", null ],
+    [ "DrownWaterLevel", "a14251.html#ac87214f9f8f11f0d3b2486d1ee0f2b02", null ],
+    [ "ExtraBubblesFirstPerson", "a14251.html#acf75199e5be4812be3936bfda5733097", null ],
+    [ "GulpingPeakTime", "a14251.html#afd8140426468890be0f2c545fc83bc84", null ],
+    [ "GulpingStartTime", "a14251.html#a5108f00d6524aa4aee8a89f10ddc585a", null ],
+    [ "TimeToEmptyLungs", "a14251.html#a318f34d499dc649452438714ea414a16", null ],
+    [ "TimeToFillLungs", "a14251.html#a05056e488d859557544aa67dc4417f5b", null ],
+    [ "UnknownData00", "a14251.html#a762b68a872cbe3c8df253e3aaef25cb1", null ]
 ];

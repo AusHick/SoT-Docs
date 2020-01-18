@@ -1,20 +1,15 @@
 var a01623 =
 [
-    [ "StaticClass", "a01623.html#a4e67dffb08f34794fb501a8291f6237d", null ],
-    [ "EnableMaximumEncounterDuration", "a01623.html#aee3b68effcf4d83f7b5150e3c2a5eb93", null ],
-    [ "EnableSecondsUntilEncounterEndsAfterLastCrewLeft", "a01623.html#a05c532d4060007c85c748a2bbbd1c276", null ],
-    [ "EncounterType", "a01623.html#a8e8efc1f3bfa0e0b169f01bd6f6348e5", null ],
-    [ "Location", "a01623.html#a2c9cd2492237ab9e07b8719aa4b4a59e", null ],
-    [ "MaximumEncounterDuration", "a01623.html#af1634380d81421a3806c63e1076eb4ff", null ],
-    [ "Moveable", "a01623.html#afe01dcdb966b372870479d74c0861725", null ],
-    [ "Radius", "a01623.html#ae4867352752d45afd124d464eff68e8a", null ],
-    [ "RequirePlayerShipInZoneToSpawnShips", "a01623.html#afaaf55512ecbd7f46fc9e1941b796bee", null ],
-    [ "SecondsUntilEncounterEndsAfterLastCrewLeft", "a01623.html#a75c4ac35251fc28a0a38b9dbecfcec6b", null ],
-    [ "ShouldSpawnShipCloud", "a01623.html#a7673a080e54fcddf0701a9eba26cf5a5", null ],
-    [ "ShowCompleteBanner", "a01623.html#af20ec63a60494b211fe07489dc324f63", null ],
-    [ "ShowRevealBanner", "a01623.html#a0962282b26f5d0d0d65b2047bb70a738", null ],
-    [ "UnknownData00", "a01623.html#a052458df8f2b25263d8cfc4e60f01ae4", null ],
-    [ "UnknownData01", "a01623.html#a44f8ecce2df6ff2049879f0844dd705e", null ],
-    [ "UnknownData02", "a01623.html#a1de25879c729b8f313a51e6ec03088f6", null ],
-    [ "Waves", "a01623.html#a9799295789bad335edef445446054c56", null ]
+    [ "StaticClass", "a01623.html#a8b4aee4e55a368d9fefd42594db84aea", null ],
+    [ "AmmoType", "a01623.html#a2eea651f9ff1c87f282ed95c37bff89d", null ],
+    [ "ControllerParams", "a01623.html#a1b4dae4a289566e01286f9a5fb0e6cf4", null ],
+    [ "DamageParams", "a01623.html#abb3f3ae29c3f1ae82f08d891b8df41ea", null ],
+    [ "EncounterType", "a01623.html#a12350bbd692be8dcaad69c59ffa81f6d", null ],
+    [ "FormType", "a01623.html#a30c855073d7f1868b7a153456dcdde5e", null ],
+    [ "SailColour", "a01623.html#a5284abd2be467dbbd44f415d42061c2f", null ],
+    [ "SailsCustomisation", "a01623.html#aeeacaf289389c4f2c0df30921ce8edba", null ],
+    [ "ShipDesc", "a01623.html#a144ce6649e854cc9908270845b82378f", null ],
+    [ "ShipType", "a01623.html#ad1a49845493c11b17519421e62dc71a0", null ],
+    [ "Spawners", "a01623.html#adf013cc72776a6effceaa4342e57d9c6", null ],
+    [ "UnknownData00", "a01623.html#ac5a4dea30b78ae6aa01bd42bed3fa45c", null ]
 ];

@@ -1,6 +1,6 @@
 var a12671 =
 [
-    [ "ProjectileClass", "a12671.html#a7a8610510adfd54757f5d36e448f2f5a", null ],
-    [ "UnknownData00", "a12671.html#ac14f7f1df6ca58d4f5a8270c93a0e505", null ],
-    [ "Weight", "a12671.html#a13504467043336694302d1f1aec49e9a", null ]
+    [ "DevCenterId", "a12671.html#a8e1e1236cdcc91f725d46117538a6a9d", null ],
+    [ "FriendlyName", "a12671.html#ab6411b480bc2f0f9758f08a722087f6a", null ],
+    [ "UnlockCriteria", "a12671.html#a7393fe59b30eeeb55c82af95a1ed2f89", null ]
 ];

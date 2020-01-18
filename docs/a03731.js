@@ -1,7 +1,7 @@
 var a03731 =
 [
-    [ "StaticClass", "a03731.html#a721ae93aec4e206cf558db58341ffec3", null ],
-    [ "CrewsWithPickUpData", "a03731.html#aa61c6b5ba614cb12c23192e0b8183251", null ],
-    [ "UnknownData00", "a03731.html#a25b600472a9315ce88ee8b608a705da2", null ],
-    [ "UnknownData01", "a03731.html#a957a282a00f573f8b761f6518b77e99e", null ]
+    [ "OnDisengage", "a03731.html#a5a39be9a3bf1375bc2ef775d0f09c4ee", null ],
+    [ "OnPrimaryInteract", "a03731.html#a39fa6d28a4f8339c1b32be641422fdfd", null ],
+    [ "StaticClass", "a03731.html#ae0704285fadeaf417b13ad247e92de26", null ],
+    [ "UnknownData00", "a03731.html#a1a97486818464c43262c29770c265ca4", null ]
 ];

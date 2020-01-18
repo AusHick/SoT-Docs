@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAthenaAnimationFishing Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAthenaAnimationObjectMeleeV2 Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,46 +87,90 @@ $(document).ready(function(){initNavTree('a12927.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a12924.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAthenaAnimationFishing Struct Reference</div>  </div>
+<div class="title">SDK::FAthenaAnimationObjectMeleeV2 Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAthenaAnimationFishing:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAthenaAnimationObjectMeleeV2:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a12925.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a12925.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6cd8e441e465c726a2672891d415f740"><td class="memItemLeft" align="right" valign="top"><a id="a6cd8e441e465c726a2672891d415f740"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>AnimationOverride</b></td></tr>
-<tr class="separator:a6cd8e441e465c726a2672891d415f740"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0300e833185889e47bb5ac0113093e56"><td class="memItemLeft" align="right" valign="top"><a id="a0300e833185889e47bb5ac0113093e56"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x31F]</td></tr>
-<tr class="separator:a0300e833185889e47bb5ac0113093e56"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a344883bba4bfffa4618922ec7fc8dd2f"><td class="memItemLeft" align="right" valign="top"><a id="a344883bba4bfffa4618922ec7fc8dd2f"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FishingRodActor</b></td></tr>
-<tr class="separator:a344883bba4bfffa4618922ec7fc8dd2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9fd286e43e8b95bf27cd69249d7fb19b"><td class="memItemLeft" align="right" valign="top"><a id="a9fd286e43e8b95bf27cd69249d7fb19b"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FishingFloat</b></td></tr>
-<tr class="separator:a9fd286e43e8b95bf27cd69249d7fb19b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0df96decbd0c6d84622918c8f2d78341"><td class="memItemLeft" align="right" valign="top"><a id="a0df96decbd0c6d84622918c8f2d78341"></a>
-class <a class="el" href="a02587.html">UAthenaAnimationInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>OwningAnimationInstance</b></td></tr>
-<tr class="separator:a0df96decbd0c6d84622918c8f2d78341"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64c84e499c12fd2cdea7b38893cbe184"><td class="memItemLeft" align="right" valign="top"><a id="a64c84e499c12fd2cdea7b38893cbe184"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x8]</td></tr>
-<tr class="separator:a64c84e499c12fd2cdea7b38893cbe184"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf019a389a323a80724ac54572513b4f"><td class="memItemLeft" align="right" valign="top"><a id="aaf019a389a323a80724ac54572513b4f"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a12923.html">FAthenaAnimationObjectComplexOneShot</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ComboAttacks</b></td></tr>
+<tr class="separator:aaf019a389a323a80724ac54572513b4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37666c700e5b053d81bef61895d3b83f"><td class="memItemLeft" align="right" valign="top"><a id="a37666c700e5b053d81bef61895d3b83f"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a12923.html">FAthenaAnimationObjectComplexOneShot</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ComboAttacksStatic</b></td></tr>
+<tr class="separator:a37666c700e5b053d81bef61895d3b83f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e792726b497c003d3c886b5897876e8"><td class="memItemLeft" align="right" valign="top"><a id="a0e792726b497c003d3c886b5897876e8"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a12923.html">FAthenaAnimationObjectComplexOneShot</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SwimmingComboAttacks</b></td></tr>
+<tr class="separator:a0e792726b497c003d3c886b5897876e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8c0789621f841da5a9b3301f9356aa6"><td class="memItemLeft" align="right" valign="top"><a id="ae8c0789621f841da5a9b3301f9356aa6"></a>
+struct <a class="el" href="a12923.html">FAthenaAnimationObjectComplexOneShot</a>&#160;</td><td class="memItemRight" valign="bottom"><b>HeavyAttack</b></td></tr>
+<tr class="separator:ae8c0789621f841da5a9b3301f9356aa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5b2888e599ab919f83b3166baa0af47"><td class="memItemLeft" align="right" valign="top"><a id="ad5b2888e599ab919f83b3166baa0af47"></a>
+struct <a class="el" href="a12923.html">FAthenaAnimationObjectComplexOneShot</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SwimmingHeavyAttack</b></td></tr>
+<tr class="separator:ad5b2888e599ab919f83b3166baa0af47"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ddaa91b96bb02b7fca5e3ae43e76316"><td class="memItemLeft" align="right" valign="top"><a id="a0ddaa91b96bb02b7fca5e3ae43e76316"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingMainInto</b></td></tr>
+<tr class="separator:a0ddaa91b96bb02b7fca5e3ae43e76316"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19927e60ea44977a08a71b1a25912349"><td class="memItemLeft" align="right" valign="top"><a id="a19927e60ea44977a08a71b1a25912349"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingIntoFromCombat</b></td></tr>
+<tr class="separator:a19927e60ea44977a08a71b1a25912349"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0794ebafbafb2007f7e37b8e16437104"><td class="memItemLeft" align="right" valign="top"><a id="a0794ebafbafb2007f7e37b8e16437104"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingMainBlendSpace</b></td></tr>
+<tr class="separator:a0794ebafbafb2007f7e37b8e16437104"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08bc444d6b25924eec5135c0e36ea208"><td class="memItemLeft" align="right" valign="top"><a id="a08bc444d6b25924eec5135c0e36ea208"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a27731.html">UAnimSequence</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingFeedbackSequences</b></td></tr>
+<tr class="separator:a08bc444d6b25924eec5135c0e36ea208"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff9509f54de8c656ed7cf7e17f16f0da"><td class="memItemLeft" align="right" valign="top"><a id="aff9509f54de8c656ed7cf7e17f16f0da"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingOut</b></td></tr>
+<tr class="separator:aff9509f54de8c656ed7cf7e17f16f0da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a526fac2760c122e3a013de11f69e0288"><td class="memItemLeft" align="right" valign="top"><a id="a526fac2760c122e3a013de11f69e0288"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingMainIntoSwimming</b></td></tr>
+<tr class="separator:a526fac2760c122e3a013de11f69e0288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e4e981718f656afed9f2cee01fd03d2"><td class="memItemLeft" align="right" valign="top"><a id="a7e4e981718f656afed9f2cee01fd03d2"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingMainBlendSpaceSwimming</b></td></tr>
+<tr class="separator:a7e4e981718f656afed9f2cee01fd03d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa4ac225fb04ee0062c570f8e1185a11"><td class="memItemLeft" align="right" valign="top"><a id="aaa4ac225fb04ee0062c570f8e1185a11"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a27731.html">UAnimSequence</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingFeedbackSequencesSwimming</b></td></tr>
+<tr class="separator:aaa4ac225fb04ee0062c570f8e1185a11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2dd45e18b7357c8d16530a77d5d5fc25"><td class="memItemLeft" align="right" valign="top"><a id="a2dd45e18b7357c8d16530a77d5d5fc25"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingOutSwimming</b></td></tr>
+<tr class="separator:a2dd45e18b7357c8d16530a77d5d5fc25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb130e5a95471bc9c52c1a1698cdf69e"><td class="memItemLeft" align="right" valign="top"><a id="abb130e5a95471bc9c52c1a1698cdf69e"></a>
+struct <a class="el" href="a12875.html">FAthenaAnimationObjectJumpingAnimations</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BlockingJump</b></td></tr>
+<tr class="separator:abb130e5a95471bc9c52c1a1698cdf69e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb0eb2027b0a845e13ff6858576b9943"><td class="memItemLeft" align="right" valign="top"><a id="adb0eb2027b0a845e13ff6858576b9943"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CombatLocomotion</b></td></tr>
+<tr class="separator:adb0eb2027b0a845e13ff6858576b9943"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fe51cfc23ea3fb029cde5d0578b1e54"><td class="memItemLeft" align="right" valign="top"><a id="a4fe51cfc23ea3fb029cde5d0578b1e54"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CombatLocomotionTurningLeft</b></td></tr>
+<tr class="separator:a4fe51cfc23ea3fb029cde5d0578b1e54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a539ef09734e16f120245b5f92b9766d9"><td class="memItemLeft" align="right" valign="top"><a id="a539ef09734e16f120245b5f92b9766d9"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CombatLocomotionTurningRight</b></td></tr>
+<tr class="separator:a539ef09734e16f120245b5f92b9766d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6053a8777e113c9fb8d9937f326be697"><td class="memItemLeft" align="right" valign="top"><a id="a6053a8777e113c9fb8d9937f326be697"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CombatLocomotionTurnOut</b></td></tr>
+<tr class="separator:a6053a8777e113c9fb8d9937f326be697"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a632965e3734e65f51f82529056506aa3"><td class="memItemLeft" align="right" valign="top"><a id="a632965e3734e65f51f82529056506aa3"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Dodge</b></td></tr>
+<tr class="separator:a632965e3734e65f51f82529056506aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99845fd5d8306944c9cf6c596cbfb598"><td class="memItemLeft" align="right" valign="top"><a id="a99845fd5d8306944c9cf6c596cbfb598"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>LungeWarmupLocomotion</b></td></tr>
+<tr class="separator:a99845fd5d8306944c9cf6c596cbfb598"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12927.html">FAthenaAnimationFishing</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:19 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12927.html">FAthenaAnimationObjectMeleeV2</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:31 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,10 +1,10 @@
 var a31591 =
 [
-    [ "Color", "a31591.html#ab71e4a1130d086fe9a9a96b545bf5510", null ],
-    [ "DepthPriority", "a31591.html#a99b91037fe5bd00abd70034e66b3c8b5", null ],
-    [ "End", "a31591.html#ab73739079d5268248bb776372fd47dc3", null ],
-    [ "RemainingLifeTime", "a31591.html#a61e9b2946a86e3bc7deb4330ec406dd0", null ],
-    [ "Start", "a31591.html#a4a0430b4a5b755c9e7ebe3e56c8aa4df", null ],
-    [ "Thickness", "a31591.html#afacc6a59d94949990438a08c326964d1", null ],
-    [ "UnknownData00", "a31591.html#acc3116785cfc44a40bf18d5a8bd98dfe", null ]
+    [ "AngVel", "a31591.html#abf98593092affcf5f9d919fe966268b8", null ],
+    [ "Flags", "a31591.html#ab39971f16de401a0a5c87273915b1381", null ],
+    [ "LinVel", "a31591.html#a63b6e1ead2ed7377501b091d0b0e0ed7", null ],
+    [ "Position", "a31591.html#aab82e1bb40a7ca17ead4b2264c8a393e", null ],
+    [ "Quaternion", "a31591.html#aca93499c749a4645c6ec0cb5e60cc05a", null ],
+    [ "UnknownData00", "a31591.html#ac24913bc5337571d30c561f677fd8509", null ],
+    [ "UnknownData01", "a31591.html#a07b09c412fae1b5957af70c8eaef4312", null ]
 ];

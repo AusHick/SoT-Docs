@@ -1,5 +1,6 @@
 var a25891 =
 [
-    [ "StaticClass", "a25891.html#a9e2f162c0f9d6a2373aa20b7fec3546d", null ],
-    [ "UnknownData00", "a25891.html#a2471167f9657fa5357ee1039a20ea5a5", null ]
+    [ "ObjectID", "a25891.html#ac5a4ecde4041878dac7d8ee2012a8a93", null ],
+    [ "TagAtLastTest", "a25891.html#a6841f0cf83064379d9ca341a7fb95fb2", null ],
+    [ "WeakPtr", "a25891.html#a5990452c0c351ab7e755cc21d7728ecb", null ]
 ];

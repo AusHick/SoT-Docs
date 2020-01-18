@@ -1,11 +1,6 @@
 var a18223 =
 [
-    [ "Categories", "a18223.html#aa44735446b47ebe4ceab52d1b4e025df", null ],
-    [ "Description", "a18223.html#a16bf65b8d8fa7cbfb381c9016f1888cd", null ],
-    [ "HasNewStuff", "a18223.html#a0f5ac049c3c0919ad1df5027b2e59033", null ],
-    [ "Icon", "a18223.html#a394bcf7f4853e8afde9e096db8239738", null ],
-    [ "IsOwned", "a18223.html#a0bc63882ec9259a9793dc1eaf55bb64a", null ],
-    [ "Name", "a18223.html#a93a7b3931cc66954d60fc04a79fb5469", null ],
-    [ "Offers", "a18223.html#a72996bd3586732f6e7a85fe5bca797ce", null ],
-    [ "UnknownData00", "a18223.html#a1ff7f74716306e696720c72b6d8d48bb", null ]
+    [ "Items", "a18223.html#aaff50da00bf072a9bcc1cf313d111435", null ],
+    [ "Offer", "a18223.html#ab5194ff84dd3e0dae2d405666a01a5c2", null ],
+    [ "Title", "a18223.html#a965649eafd150d03b2eb75f67095d00e", null ]
 ];

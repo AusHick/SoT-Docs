@@ -1,6 +1,9 @@
 var a04619 =
 [
-    [ "StaticClass", "a04619.html#a936bcbff529f81d9b4e5a11f77287405", null ],
-    [ "Desc", "a04619.html#aee17131dd64af3a75b96067e4f5131de", null ],
-    [ "UnknownData00", "a04619.html#a6994013737f747ccd1aa777bb5b78595", null ]
+    [ "OnDisengageInput", "a04619.html#a5214dd6a802ebf7ba1f105610108794d", null ],
+    [ "OnMoveForward", "a04619.html#a9db9c6be4cad2711870b4dba7f98c14f", null ],
+    [ "OnMoveRight", "a04619.html#a3c9f6524798ae5876e7ece420426c09a", null ],
+    [ "OnRightTrigger", "a04619.html#ab8318a7f53a7ed423bad99252c71e1e4", null ],
+    [ "StaticClass", "a04619.html#a0278ea4a514459f4085c7c3ecdac015a", null ],
+    [ "UnknownData00", "a04619.html#ac0b4e64fd18a39b076b939273588b02e", null ]
 ];

@@ -1,6 +1,6 @@
 var a27927 =
 [
-    [ "StaticClass", "a27927.html#ac6ae708f365cafd78225cf6df8703e82", null ],
-    [ "Max", "a27927.html#aea878b02675c990cd6d284d6bfcefbb2", null ],
-    [ "Min", "a27927.html#afd295edc3dc7b9e02317b17c60641ed9", null ]
+    [ "MergeSkeletalMeshes", "a27927.html#ab083abbd0ad9434f52f489b984191bc4", null ],
+    [ "MergeSkeletalMeshesWithMorphTargets", "a27927.html#aed369adfa076aaa8bbcd4dfc60aa8014", null ],
+    [ "StaticClass", "a27927.html#a0a19ee7fa34d72d185fc0c4a037a9f61", null ]
 ];

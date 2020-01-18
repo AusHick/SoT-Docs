@@ -1,5 +1,5 @@
 var a19351 =
 [
-    [ "GhostShipLevelId", "a19351.html#aa9d535112e80c0f769eead1ff14fbc13", null ],
-    [ "UnknownData00", "a19351.html#a2e6b8559f18a6d4dd601c1144105382d", null ]
+    [ "FiredFromCannon", "a19351.html#ac82fdd9a5a9ef4868ddbde2906465596", null ],
+    [ "InCannonIdle", "a19351.html#a53b6db724ef8289e6e1dc890d725e163", null ]
 ];

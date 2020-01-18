@@ -1,14 +1,19 @@
 var a32655 =
 [
-    [ "AnimationStates", "a32655.html#a81c404d81c46cfb2d1b1601fa8a77cdb", null ],
-    [ "HighDetailAnimationStreamingDistance", "a32655.html#a6ea3a467fe1b593acee15d6ade3b1ede", null ],
-    [ "TimeIntoEnteringShakeAttackToEnableCollisions", "a32655.html#aa01d1db6f96d3d2db1f5bbbf485790e8", null ],
-    [ "TimeIntoExitingShakeAttackToDisableCollisions", "a32655.html#af5df015236791b962bbef76bfd6b0a41", null ],
-    [ "TimeIntoUnwrappingToDisableCollisions", "a32655.html#a4ce816f0484ca8431f57822a0865a603", null ],
-    [ "TimeIntoUnwrappingToEnableInteractables", "a32655.html#a0a0c1ff7ccb1c42d76ee153008d492ab", null ],
-    [ "TimeIntoWrappingToDisableInteractables", "a32655.html#ac8ce4164075cc35922ae8e25ec6c1410", null ],
-    [ "TimeIntoWrappingToEnableCollisions", "a32655.html#a1c075a644340be3910cad94306ba0c0d", null ],
-    [ "UnknownData00", "a32655.html#afe12a006a211675b61b20c071727af45", null ],
-    [ "WrappingIntoWaterSplashVFX", "a32655.html#a8a0d4818d0a2c41f9f7ed3ec89c68792", null ],
-    [ "WrappingOutOfWaterSplashVFX", "a32655.html#a98e9ef3433a28ee2d52c6a08d797c2f6", null ]
+    [ "CanInteract", "a32655.html#ac80687ed40fea580fe391a236c859b54", null ],
+    [ "CanInteractionStatesBeSet", "a32655.html#a1fa1ec2582938e378394f74b36c65813", null ],
+    [ "CanInteractWithNotificationInputId", "a32655.html#aec14e4fa7e2a419ccfe1a4357f285b0a", null ],
+    [ "DoesRequireFacingFront", "a32655.html#ab2c4a420dc831dae3adc0cc1d15065a0", null ],
+    [ "DoesRequireNotBeingAirborne", "a32655.html#a95982563c4bd80ec4dcc0ee8c334e79c", null ],
+    [ "DoesRequireNotSwimming", "a32655.html#a18e4b0a0fa34930732d2bd1c5258475d", null ],
+    [ "GetActionRulesComponent", "a32655.html#a0ca4b445cff4d2e3391af7a86122cb92", null ],
+    [ "GetActorsToIgnoreDuringOcclusionChecker", "a32655.html#a53d7548192b14c0e29d8f31c833e96d6", null ],
+    [ "GetClosestInteractionPoint", "a32655.html#a2d609388e5b71765c1b2c8b164ae23ad", null ],
+    [ "GetFrontFacingVector", "a32655.html#ab4921792b4efc62268f262cc3823d1e3", null ],
+    [ "GetInteractionState", "a32655.html#a2f0f5cfd0fb97f0b7fa0e3a96a2f07a6", null ],
+    [ "Interact", "a32655.html#ad76bd5b58a103a93fe45057388ff0e02", null ],
+    [ "IsInteractableDisabled", "a32655.html#a726fb6a5add7e1e175552d26c522817d", null ],
+    [ "SetInteractionState", "a32655.html#a6f675e64bedaa91db936589e8fa9e906", null ],
+    [ "ShouldDrawTooltipInWorldSpace", "a32655.html#a5d5327f8382fd2332672b2680684799f", null ],
+    [ "StaticClass", "a32655.html#a3e8374eff596d9d2aaa7ac9b6318bd1f", null ]
 ];

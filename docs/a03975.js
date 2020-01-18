@@ -1,6 +1,7 @@
 var a03975 =
 [
-    [ "StaticClass", "a03975.html#a875b9e90b0f45570b7c6030f54640a2a", null ],
-    [ "RegisteredCloudDomes", "a03975.html#ae1d2529988e337a34e755f0dda38306a", null ],
-    [ "UnknownData00", "a03975.html#a58c988a6e32221d2cbed964b45696b81", null ]
+    [ "EquipClothing", "a03975.html#ad62ccc7e33afcc1a8d78b4b212c6341b", null ],
+    [ "SetClothingLoadout", "a03975.html#a77a41934b2a3e07ffd3477d5011169fa", null ],
+    [ "StaticClass", "a03975.html#af7bcb940e1f003df1efad75665c729d7", null ],
+    [ "UnequipClothing", "a03975.html#a3e561922b78de597339957e398f0a047", null ]
 ];

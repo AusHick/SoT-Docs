@@ -1,5 +1,10 @@
 var a06931 =
 [
-    [ "StaticClass", "a06931.html#aae4e42cc573cc9f57cf1f13b52203836", null ],
-    [ "SectionName", "a06931.html#a6d896c51184b73c7d8210a15adda889f", null ]
+    [ "StaticClass", "a06931.html#a64f3a54b3fbabde1f41deec62ae3cccb", null ],
+    [ "Catalog", "a06931.html#a8a3bb2e548566f89b17d43dfab73ae25", null ],
+    [ "CatalogOffer", "a06931.html#adf6cb5f5c6ccf6f85bded4a48679f41c", null ],
+    [ "Interactor", "a06931.html#acecf4a7442b48d4940c2e2562b6eab33", null ],
+    [ "OfferTriggeredPopupDesc", "a06931.html#af6ebc75dbb2376db766aca452bd80698", null ],
+    [ "Text", "a06931.html#a9dc42af4f38a1de0b1c554160a088cf7", null ],
+    [ "UnknownData00", "a06931.html#ac6282edecb24e190e92b3b217ef0c20f", null ]
 ];

@@ -1,5 +1,4 @@
 var a20395 =
 [
-    [ "ControllerData", "a20395.html#a314ce3ccb539237e54d02243cd8b6b9f", null ],
-    [ "MouseData", "a20395.html#a3a569de35ca8523a57696bd51945c02c", null ]
+    [ "UnknownData00", "a20395.html#a7bf2d884536d9bbf7f35796c0c7f7c05", null ]
 ];

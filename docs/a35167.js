@@ -1,9 +1,8 @@
 var a35167 =
 [
-    [ "ConvertGameWorldTimeToRealWorldTime", "a35167.html#a5efa565ca618ee316288cfc70837bb9e", null ],
-    [ "ConvertRealWorldTimeToGameWorldTime", "a35167.html#ac5cadf35b32be909afc1d465f951cb6f", null ],
-    [ "GetPreciseRealWorldTime", "a35167.html#abbf06ece23662a0000c9ee9c310bbe2a", null ],
-    [ "GetSmoothRealWorldTime", "a35167.html#a33b569928315f4e85aeaf408beeb9d2d", null ],
-    [ "GetTime", "a35167.html#a6538b90421ea931cff006821c2e5ddae", null ],
-    [ "StaticClass", "a35167.html#a89eedff26def192ee87a555aae2a6ac6", null ]
+    [ "AddContract", "a35167.html#ab5833ff3cb63d1a49922ba1bf27c56e8", null ],
+    [ "GetContract", "a35167.html#a36269fcb2914e4cc2033b376691475c7", null ],
+    [ "StaticClass", "a35167.html#a3f40e2f78ca79341a6f8af822626cb95", null ],
+    [ "Contracts", "a35167.html#a06c9a841288ff67fee20486dc0083090", null ],
+    [ "UnknownData00", "a35167.html#a76c2195902f06855dc4576a74738bd8a", null ]
 ];

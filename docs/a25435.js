@@ -1,5 +1,4 @@
 var a25435 =
 [
-    [ "GetNotificationInputDisplayName", "a25435.html#a0adf07339975b21b4d0c645fc1a482f9", null ],
-    [ "StaticClass", "a25435.html#a0f1cd1c040a9862379c46d37a3d74285", null ]
+    [ "WaveHasCaptain", "a25435.html#ac7250beac4b1e7fcb8b1a41977532328", null ]
 ];

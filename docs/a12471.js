@@ -1,5 +1,4 @@
 var a12471 =
 [
-    [ "StaticClass", "a12471.html#aa3b5159865006d52509dc1c89e204738", null ],
-    [ "SeasonDefinitionAssets", "a12471.html#a5f41fa0ec64b8b3367e851ecc1f11c50", null ]
+    [ "StaticClass", "a12471.html#a43cf661bbe1b5705a5c24240189048ba", null ]
 ];

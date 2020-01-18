@@ -1,7 +1,6 @@
 var a24259 =
 [
-    [ "StaticClass", "a24259.html#a05030be42041e4bb640f4a2718365871", null ],
-    [ "MaxNumLoops", "a24259.html#acc18627c0ff26d1a39102446aaa3e7e0", null ],
-    [ "MinNumLoops", "a24259.html#ad7694404329d833c3b0f34d772449877", null ],
-    [ "RandomNumLoopCurve", "a24259.html#aba469c4f07312475ad25241938b04104", null ]
+    [ "StaticClass", "a24259.html#a7e18bdd5b6a8d377d45a1c0e779e1431", null ],
+    [ "SpawnedWave", "a24259.html#a425b663c6e76b1f4a670b5af388972c7", null ],
+    [ "UnknownData00", "a24259.html#ac0ca2c616beec099fbdcf189ca2a78ba", null ]
 ];

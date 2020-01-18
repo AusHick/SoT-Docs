@@ -1,7 +1,6 @@
 var a13731 =
 [
-    [ "CorrectiveForceMultiplier", "a13731.html#aea11167f11621a2a6708f5b3cb40b268", null ],
-    [ "MaxError", "a13731.html#a6dec812516ceb7beff62b22d34422900", null ],
-    [ "MaxFreeLoweringVelocity", "a13731.html#adb3d03cd3ffaa3ff97bed1d70ecec593", null ],
-    [ "MaxVelocityPerPlayer", "a13731.html#adda157e96f27b3de9ae6cb55e60d3d84", null ]
+    [ "TargetMaterial", "a13731.html#a37425186a599a548e39129dc2d4c63f1", null ],
+    [ "TargetParameterName", "a13731.html#a093643c9a6d85e146021d3f7f6f04423", null ],
+    [ "TargetRGBValue", "a13731.html#a3979cbe84b0d1d37ee1573818f585b83", null ]
 ];

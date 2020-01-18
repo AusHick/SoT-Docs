@@ -1,5 +1,4 @@
 var a14987 =
 [
-    [ "SpawnedInfo", "a14987.html#a8bbaed49e003d1a032439b6107a20285", null ],
-    [ "SpawnedPet", "a14987.html#a5185ed09e796ecd6906eceee45b3aaa3", null ]
+    [ "UnknownData00", "a14987.html#a1a81fb1398c29724d5113e9e3c9d8580", null ]
 ];

@@ -1,5 +1,6 @@
 var a25307 =
 [
-    [ "SpawnConfigId", "a25307.html#a245e9abbb5d5ce2ed59bd56c2364abe0", null ],
-    [ "TinySharkPartTag", "a25307.html#ad9f5e071952819ec99497dc744444783", null ]
+    [ "NumSpawnedPawnsInWaves", "a25307.html#a1e679799202e17b86f201d5b0f1bf90c", null ],
+    [ "UnknownData00", "a25307.html#a38a9690f63863073d9eba1cd99a1e37c", null ],
+    [ "WavesSpawnedOnSpottedNewTarget", "a25307.html#a5ac8524882a6da5e8fd5485ba8b00d86", null ]
 ];

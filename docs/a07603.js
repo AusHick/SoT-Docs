@@ -1,5 +1,16 @@
 var a07603 =
 [
-    [ "StaticClass", "a07603.html#a54208b0c7ab80a4d5cdff99c7c8f584b", null ],
-    [ "Companies", "a07603.html#ad996b1bf06bec77a094ed5fd15941966", null ]
+    [ "OnItemRadialInventoryActivatedGamepad", "a07603.html#abdaccd786d1666ef065aef5a64a0e6ac", null ],
+    [ "OnItemRadialInventoryActivatedKeyboard", "a07603.html#a8ee2fd9cc21a0df4fe618c1d45d9efa8", null ],
+    [ "OnItemRadialInventoryDeactivatedGamepad", "a07603.html#a119e8a843dc55da896624daa89ab3343", null ],
+    [ "OnItemRadialInventoryDeactivatedKeyboard", "a07603.html#a98dc4c73898701d8a973e84f71df3914", null ],
+    [ "OnItemRadialTriggerNextAuxiliarySetOfItems", "a07603.html#af7dd6765a0046d59c1d06937083324c4", null ],
+    [ "OnItemRadialTriggerNextSetOfItems", "a07603.html#a4040413f5f023de2d737cda41b3de6f6", null ],
+    [ "OnItemRadialTriggerNextSpecialAmmoSetOfItems", "a07603.html#ac55f9a1645d122744219a6637ae40d4e", null ],
+    [ "OnMapRadialInventoryActivatedGamepad", "a07603.html#a2c8e3ff96a2cff4628c705dbb7d9cfa2", null ],
+    [ "OnMapRadialInventoryActivatedKeyboard", "a07603.html#aabdd6873e236704cf145f72adfa9dbaa", null ],
+    [ "OnMapRadialInventoryDeactivatedGamepad", "a07603.html#a849aedf36521548f2192b3a8079ff94d", null ],
+    [ "OnMapRadialInventoryDeactivatedKeyboard", "a07603.html#a04d2ea31821a44083acbeb5e4cc00a54", null ],
+    [ "StaticClass", "a07603.html#a39def354d3701ccdf53102e9fab432f7", null ],
+    [ "UnknownData00", "a07603.html#a9f76291e001565f0926cd9762ea8cc8a", null ]
 ];

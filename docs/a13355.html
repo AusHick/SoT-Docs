@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FStagingQuestParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FMermaidServiceParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,31 +87,75 @@ $(document).ready(function(){initNavTree('a13355.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a13352.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FStagingQuestParams Struct Reference</div>  </div>
+<div class="title">SDK::FMermaidServiceParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FStagingQuestParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FMermaidServiceParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a13353.svg" width="212" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a13353.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af7c3166e2a04f12765234d79984739d7"><td class="memItemLeft" align="right" valign="top"><a id="af7c3166e2a04f12765234d79984739d7"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x1]</td></tr>
-<tr class="separator:af7c3166e2a04f12765234d79984739d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36aace70e4c935099f8280d51748f18b"><td class="memItemLeft" align="right" valign="top"><a id="a36aace70e4c935099f8280d51748f18b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LocallyActiveMermaidCheckInterval</b></td></tr>
+<tr class="separator:a36aace70e4c935099f8280d51748f18b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a38abd561883c94778777c050bbad0b65"><td class="memItemLeft" align="right" valign="top"><a id="a38abd561883c94778777c050bbad0b65"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PlayerAbandonedCheckInterval</b></td></tr>
+<tr class="separator:a38abd561883c94778777c050bbad0b65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b21175fe70523f55acb62390525c13d"><td class="memItemLeft" align="right" valign="top"><a id="a2b21175fe70523f55acb62390525c13d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinDestroyDistancePlayerToMermaidIfPlayerNearEnemyShip</b></td></tr>
+<tr class="separator:a2b21175fe70523f55acb62390525c13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd97f806a74c47bb14b17243adbaebd1"><td class="memItemLeft" align="right" valign="top"><a id="acd97f806a74c47bb14b17243adbaebd1"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinDestroyDistancePlayerToMermaidIfPlayerNearIsland</b></td></tr>
+<tr class="separator:acd97f806a74c47bb14b17243adbaebd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac35effeb3c624cd08bd7b741dd1ef351"><td class="memItemLeft" align="right" valign="top"><a id="ac35effeb3c624cd08bd7b741dd1ef351"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinDestroyDistancePlayerToMermaidIfPlayerNotNearIsland</b></td></tr>
+<tr class="separator:ac35effeb3c624cd08bd7b741dd1ef351"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac91727722410b0ba7fcb22907599b335"><td class="memItemLeft" align="right" valign="top"><a id="ac91727722410b0ba7fcb22907599b335"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxDistFromCoastForPlayerToCountAsNearIsland</b></td></tr>
+<tr class="separator:ac91727722410b0ba7fcb22907599b335"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ea42296ee47ca466804209c48a09e6e"><td class="memItemLeft" align="right" valign="top"><a id="a3ea42296ee47ca466804209c48a09e6e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxDistFromCoastForShipToCountAsNearIsland</b></td></tr>
+<tr class="separator:a3ea42296ee47ca466804209c48a09e6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a27ce9a7abc77ca29f40bc08761d91e60"><td class="memItemLeft" align="right" valign="top"><a id="a27ce9a7abc77ca29f40bc08761d91e60"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinPlayerToShipDistForPlayerToQualifyAsAbandoned</b></td></tr>
+<tr class="separator:a27ce9a7abc77ca29f40bc08761d91e60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af9d7583996c228eee37092bf8ff06706"><td class="memItemLeft" align="right" valign="top"><a id="af9d7583996c228eee37092bf8ff06706"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinPlayerToEnemyShipDistForPlayerToQualifyForStealthSpawns</b></td></tr>
+<tr class="separator:af9d7583996c228eee37092bf8ff06706"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5195da5d88bba19d69d07c568388b82c"><td class="memItemLeft" align="right" valign="top"><a id="a5195da5d88bba19d69d07c568388b82c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinPlayerToWatercraftDistForPlayerToQualifyAsAbandoned</b></td></tr>
+<tr class="separator:a5195da5d88bba19d69d07c568388b82c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93ab9160e4be47ea1b14e570b31478db"><td class="memItemLeft" align="right" valign="top"><a id="a93ab9160e4be47ea1b14e570b31478db"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinDistFromAnyMermaidForPlayerToBeAbandonedIfPlayerNotNearIsland</b></td></tr>
+<tr class="separator:a93ab9160e4be47ea1b14e570b31478db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c5fdac8d7242cdb43669abcaa7e7eec"><td class="memItemLeft" align="right" valign="top"><a id="a2c5fdac8d7242cdb43669abcaa7e7eec"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinDistFromAnyMermaidForPlayerToBeAbandonedIfPlayerNearIsland</b></td></tr>
+<tr class="separator:a2c5fdac8d7242cdb43669abcaa7e7eec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6396e837f5d4b82f108bd6a0863cbf3"><td class="memItemLeft" align="right" valign="top"><a id="ac6396e837f5d4b82f108bd6a0863cbf3"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxNumberOfConcurrentMermaids</b></td></tr>
+<tr class="separator:ac6396e837f5d4b82f108bd6a0863cbf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0be097ad218b5d9401dafd21a6d0a1ae"><td class="memItemLeft" align="right" valign="top"><a id="a0be097ad218b5d9401dafd21a6d0a1ae"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinLifeTimeOfMermaidBeforeCanBeCulledInPopulationCheck</b></td></tr>
+<tr class="separator:a0be097ad218b5d9401dafd21a6d0a1ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fb1ec6470c29fa3ae0c9e62a721b27e"><td class="memItemLeft" align="right" valign="top"><a id="a9fb1ec6470c29fa3ae0c9e62a721b27e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnDistAroundSaviourMermaid</b></td></tr>
+<tr class="separator:a9fb1ec6470c29fa3ae0c9e62a721b27e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd19a22080bcd1bc3ae9610905c35c83"><td class="memItemLeft" align="right" valign="top"><a id="abd19a22080bcd1bc3ae9610905c35c83"></a>
+struct <a class="el" href="a13351.html">FMermaidServiceMermaidSpawnParams</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnParams</b></td></tr>
+<tr class="separator:abd19a22080bcd1bc3ae9610905c35c83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13355.html">FStagingQuestParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:30 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13355.html">FMermaidServiceParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:42 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

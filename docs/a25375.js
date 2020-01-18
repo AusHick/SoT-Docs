@@ -1,7 +1,7 @@
 var a25375 =
 [
-    [ "CachedComponent", "a25375.html#a2577736c69cce31692f5e59c0b7642d6", null ],
-    [ "ComponentClass", "a25375.html#aadccb18f1efc16be5da342672232bde1", null ],
-    [ "ComponentName", "a25375.html#ae33d96fdd60908c196e04ce3f4680902", null ],
-    [ "UnknownData00", "a25375.html#ab3067a62cad6f2e617f41a6ee7c09b86", null ]
+    [ "AIPawn", "a25375.html#a148e78307afd2aac53f348d8508303a8", null ],
+    [ "DeathType", "a25375.html#a26d8c2ddbd6afe34e46c69c7110d536f", null ],
+    [ "Instigator", "a25375.html#ad6a36481adf240fe1fde1cfe83fbb0da", null ],
+    [ "UnknownData00", "a25375.html#a6346f2913d59e5edddbe8326aead5a93", null ]
 ];

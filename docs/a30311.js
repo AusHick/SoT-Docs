@@ -1,7 +1,9 @@
 var a30311 =
 [
-    [ "AreaClass", "a30311.html#a9121becc195a72fc4812bdc5a65e1e5d", null ],
-    [ "AreaClassName", "a30311.html#afba30573101185715f5029688e40ccef", null ],
-    [ "AreaID", "a30311.html#acc2f8b3dc03915e91f65ec246483ce66", null ],
-    [ "UnknownData00", "a30311.html#a2627f27b839492e3066302a02009e735", null ]
+    [ "BlendExp", "a30311.html#a872ba49b7eda7c9c40e69acbed15d02f", null ],
+    [ "BlendFunction", "a30311.html#a9b166d054e4a7637a404b50877ff2ecc", null ],
+    [ "BlendTime", "a30311.html#ab6409a0ffce62d8715a448039c4a050a", null ],
+    [ "bLockOutgoing", "a30311.html#a227e58d2eb75e24ce01a5ac9834c04e3", null ],
+    [ "UnknownData00", "a30311.html#a27ec90a73dc4be3004c138c68c59c271", null ],
+    [ "UnknownData01", "a30311.html#afd825a02d37c89e76f5c5f697aecc747", null ]
 ];

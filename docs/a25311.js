@@ -1,6 +1,5 @@
 var a25311 =
 [
-    [ "TinySharkDespawnReason", "a25311.html#ab6af3826bd805609dfac494cc08450e8", null ],
-    [ "TinySharkId", "a25311.html#a4e90c1d0d77b7566af239f2620f45db3", null ],
-    [ "UnknownData00", "a25311.html#ab3205792b72ac319a4335c647f5aa576", null ]
+    [ "CurrentNumSpawnedPawns", "a25311.html#abbae38265e07fe2b2bd0410a95448ac5", null ],
+    [ "LastTargetPosition", "a25311.html#a194433d3fe355b56cfb3f2562b83b4b5", null ]
 ];

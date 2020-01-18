@@ -1,4 +1,5 @@
 var a14783 =
 [
-    [ "BlockingHalfAngle", "a14783.html#a1321abedf6acc23926c8849ecfe2971a", null ]
+    [ "CanLoadItemCategory", "a14783.html#adade9a7edf22b512989f60cfabbdf69b", null ],
+    [ "FeatureToggle", "a14783.html#a37b9ea0194dea12f896ada8cef312386", null ]
 ];

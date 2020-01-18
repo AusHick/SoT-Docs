@@ -1,8 +1,9 @@
 var a13059 =
 [
-    [ "Despawn", "a13059.html#ae1e95086e030425f1dbc054d7341bc1a", null ],
-    [ "ObjectID", "a13059.html#a956865993cbcc538d0a8582186e299bc", null ],
-    [ "SpawnOnLand", "a13059.html#a6b070641c97bb0b20434bc02b8395390", null ],
-    [ "SpawnOnShip", "a13059.html#a1a623ec48ce19d9bd1fa4ca2fb4131ad", null ],
-    [ "SpawnSummoned", "a13059.html#a850d21fce9c8a8883ce92063a29ba830", null ]
+    [ "Amount", "a13059.html#aae38a61009d0f1d9980602e86dd9d66e", null ],
+    [ "AttackId", "a13059.html#a628b71c486ca40fefb7dc74ad692f1fd", null ],
+    [ "DirectInstigator", "a13059.html#aeb1821b25a356eb93d4dacec709294c0", null ],
+    [ "Reason", "a13059.html#ae2c513758a2a7fc24be7952080f1f21b", null ],
+    [ "RootInstigator", "a13059.html#a60b6fc8a4b1658591ec90fb8b7eb12aa", null ],
+    [ "UnknownData00", "a13059.html#abd3ce0789d01881255b5a055d4d69013", null ]
 ];

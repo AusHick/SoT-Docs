@@ -1,6 +1,7 @@
 var a10095 =
 [
-    [ "StaticClass", "a10095.html#a621d24609bce8e8ddc89319ad41dcdc8", null ],
-    [ "MinimumSpeed", "a10095.html#a5665da6488b01e0d49f2cea59e882881", null ],
-    [ "UnknownData00", "a10095.html#ad624d689e7c949208574b0dbbb1594a0", null ]
+    [ "StaticClass", "a10095.html#ab34de1e66af2a2405a264d076dbfff56", null ],
+    [ "InteractionTimeThreshold", "a10095.html#aa637f1413168a7cebb7aaa98fb9fe9d4", null ],
+    [ "UnknownData00", "a10095.html#ac7ae9a5dfe7e982f5b222df27a17bf2f", null ],
+    [ "UnknownData01", "a10095.html#af321159f2add8113f10eb91512f90055", null ]
 ];

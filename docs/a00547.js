@@ -1,8 +1,11 @@
 var a00547 =
 [
-    [ "BaseLightData", "a00547.html#a95d45ef733b3c8b6a1394a371cfbbcce", null ],
-    [ "LightType", "a00547.html#a1f498390a2f247a782068071f1d9a9f0", null ],
-    [ "PointLightData", "a00547.html#a671e14d171a5d67cabe427757fdad5af", null ],
-    [ "SpotLightData", "a00547.html#a3ab83064c5f977b9cf0f2cb828095303", null ],
-    [ "UnknownData00", "a00547.html#af32e67b3f281c562db796f7364d2a25e", null ]
+    [ "StaticClass", "a00547.html#ab9dfbdfca702ccd9028159944df3fd82", null ],
+    [ "Category", "a00547.html#a377bf49687a3dac9bc79a4fb6fe44b19", null ],
+    [ "Company", "a00547.html#a05f4ed405bae6a0afd5a99a428ae9595", null ],
+    [ "Description", "a00547.html#abba0129d69f28f8f70e3eb21a39c2892", null ],
+    [ "IconInvPath", "a00547.html#a20b8bf9af00235e3579932d05e678ce7", null ],
+    [ "IconPath", "a00547.html#aff90efd62fffd8903d8a2e0cf3113490", null ],
+    [ "IconPrvPath", "a00547.html#a61c9e89e91e822b3f6e0199548ad105b", null ],
+    [ "Title", "a00547.html#a2fb2437ffe182e3da6298aa694da75e3", null ]
 ];

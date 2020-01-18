@@ -1,4 +1,7 @@
 var a26583 =
 [
-    [ "StaticClass", "a26583.html#a8e699d6f3dbd1ad3b0c0fc6ea51bff51", null ]
+    [ "GetNotifyName", "a26583.html#a3ed5be271cbfea36becce35da0613295", null ],
+    [ "Received_Notify", "a26583.html#a498b3a6c160266452b3bbf9d635773a3", null ],
+    [ "StaticClass", "a26583.html#a3c0699d799f6a9048ba3fe1e8f27aa61", null ],
+    [ "UnknownData00", "a26583.html#a92ac0cbaf28f9fe1f4acedc7bd7a4b33", null ]
 ];

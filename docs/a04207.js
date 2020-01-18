@@ -1,4 +1,11 @@
 var a04207 =
 [
-    [ "StaticClass", "a04207.html#a6279bad3e5ddf9c1cf31ee56c563e0db", null ]
+    [ "StaticClass", "a04207.html#aafde2ee0c492ac529f41c400e07fd76b", null ],
+    [ "AtmosphericMaterialParamsAssetRef", "a04207.html#af0b2768670bf3188500dd121269bdf83", null ],
+    [ "AtmosphericMaterialParamsInstance", "a04207.html#a4f953f8fbee02094f3bc900e6a1ab0b1", null ],
+    [ "ConstellationBespokeAudioEventsListInstance", "a04207.html#a75eb5817ba013aa0c8644c55cd03a919", null ],
+    [ "ConstellationsBespokeAudioEventsAssetRef", "a04207.html#a283b86438c93f29dfe21947333df5737", null ],
+    [ "UnknownData00", "a04207.html#a544b24f4635e877bd35bf96eec25ebaf", null ],
+    [ "UnknownData01", "a04207.html#a37d5d88f1a044fbebae81053907d6615", null ],
+    [ "ViewBoundaryDegrees", "a04207.html#a4bf784ebba7393579bcd76454b647159", null ]
 ];

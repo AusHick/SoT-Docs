@@ -1,5 +1,5 @@
 var a15647 =
 [
-    [ "AnimInstance", "a15647.html#aba50f6d60b47dd73f7317973fa73d40e", null ],
-    [ "UnknownData00", "a15647.html#a2719d322d449e8ba3380553e0ff5c417", null ]
+    [ "Loadout", "a15647.html#ab3737ba74c0c0ecefbfd1df5c2659d63", null ],
+    [ "PirateId", "a15647.html#aa168c446d44ee78f70462d5dab131d56", null ]
 ];

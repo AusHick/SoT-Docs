@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBountySpawnerTargetDesc Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIDebugVisualisationSphere Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,42 @@ $(document).ready(function(){initNavTree('a25075.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a25072.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBountySpawnerTargetDesc Struct Reference</div>  </div>
+<div class="title">SDK::FAIDebugVisualisationSphere Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBountySpawnerTargetDesc:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIDebugVisualisationSphere:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a25073.svg" width="538" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a25073.svg" width="555" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a27b314befcdb57510deeb75287124b89"><td class="memItemLeft" align="right" valign="top"><a id="a27b314befcdb57510deeb75287124b89"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EBountyTargetGender &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Gender</b></td></tr>
-<tr class="separator:a27b314befcdb57510deeb75287124b89"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef8e0046d55b8957873245c6ec38c965"><td class="memItemLeft" align="right" valign="top"><a id="aef8e0046d55b8957873245c6ec38c965"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EBountyTargetRank &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Rank</b></td></tr>
-<tr class="separator:aef8e0046d55b8957873245c6ec38c965"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4eeec459d9d7adeac9bd98db3f0d63b5"><td class="memItemLeft" align="right" valign="top"><a id="a4eeec459d9d7adeac9bd98db3f0d63b5"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x16]</td></tr>
-<tr class="separator:a4eeec459d9d7adeac9bd98db3f0d63b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a208240945ebee64a364b858399682a15"><td class="memItemLeft" align="right" valign="top"><a id="a208240945ebee64a364b858399682a15"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Centre</b></td></tr>
+<tr class="separator:a208240945ebee64a364b858399682a15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a6d7bdaa8390b344e24a5738b1e42af"><td class="memItemLeft" align="right" valign="top"><a id="a2a6d7bdaa8390b344e24a5738b1e42af"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Radius</b></td></tr>
+<tr class="separator:a2a6d7bdaa8390b344e24a5738b1e42af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5cc82ccecd3d02aa918f0df85e48001"><td class="memItemLeft" align="right" valign="top"><a id="aa5cc82ccecd3d02aa918f0df85e48001"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LifeTime</b></td></tr>
+<tr class="separator:aa5cc82ccecd3d02aa918f0df85e48001"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a363e83ea814af6f7e784e611196b630d"><td class="memItemLeft" align="right" valign="top"><a id="a363e83ea814af6f7e784e611196b630d"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAIDebugColour &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Colour</b></td></tr>
+<tr class="separator:a363e83ea814af6f7e784e611196b630d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61f7281399d122836ec497fa6072843b"><td class="memItemLeft" align="right" valign="top"><a id="a61f7281399d122836ec497fa6072843b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a61f7281399d122836ec497fa6072843b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25075.html">FBountySpawnerTargetDesc</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25075.html">FAIDebugVisualisationSphere</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:29 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

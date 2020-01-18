@@ -1,9 +1,10 @@
 var a24859 =
 [
-    [ "Colour", "a24859.html#a30bc2f409e357649f5818cd7fc6501c2", null ],
-    [ "From", "a24859.html#a69b58663f269000d727ec4fd85217a4f", null ],
-    [ "LifeTime", "a24859.html#a6729bd31354bec6f2ccfe0901f32a162", null ],
-    [ "Radius", "a24859.html#af0ce44d0a70531a42fb3af0d282e07b5", null ],
-    [ "To", "a24859.html#ab705e101789e990bf3c4ac06c9052c0c", null ],
-    [ "UnknownData00", "a24859.html#abe749f2347f48539c6fab453979eb2f5", null ]
+    [ "SpawnFaunaGroup", "a24859.html#a8b2362a767f44a58554cdac4b23a30ef", null ],
+    [ "StaticClass", "a24859.html#a1509bc72e4af22b44aff2f5b85bf1874", null ],
+    [ "FaunaLeader", "a24859.html#a2cc28c826c3d9fa9ad1756541831347c", null ],
+    [ "FaunaWave", "a24859.html#aa109c24f6361cc64eb387784fb3b5bcd", null ],
+    [ "PlayersInSpawnArea", "a24859.html#aceb92080d35dd7f2ecb6a826d59e1cbf", null ],
+    [ "UnknownData00", "a24859.html#acd9f291ed9498f16a655dc31eafd1248", null ],
+    [ "UnknownData01", "a24859.html#a20ba2729be9a5f98caac4e729df1c8a8", null ]
 ];

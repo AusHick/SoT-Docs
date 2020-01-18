@@ -1,5 +1,5 @@
 var a32839 =
 [
-    [ "NewState", "a32839.html#aba5888ad7aabab98e9f20b3585739642", null ],
-    [ "PreviousState", "a32839.html#a31065570d3b810aa90519528de80e9da", null ]
+    [ "StaticClass", "a32839.html#a75f2e3836aa8d900d94ebdd670431a1c", null ],
+    [ "Params", "a32839.html#a0ea0893cedd2e7d20528c2b797a9f399", null ]
 ];

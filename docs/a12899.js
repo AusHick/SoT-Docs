@@ -1,13 +1,16 @@
 var a12899 =
 [
-    [ "BrakeIdle", "a12899.html#ab77ad4381a2b38587865c7e1322f5ef0", null ],
-    [ "BrakeRecover", "a12899.html#a5e1c224ab015f37a7bda9e1e887590ca", null ],
-    [ "BrakeRow", "a12899.html#a6b08b2023adbc7d83a40842e6ce1f44c", null ],
-    [ "Idle", "a12899.html#abd4daa9cc04f89fbd76c3301c9d3beba", null ],
-    [ "IntoRow", "a12899.html#abe8df4b15234fef85027dfd0e3a29556", null ],
-    [ "IntoRowBrake", "a12899.html#af27756a64a0f1e3143a719e81a3fff75", null ],
-    [ "Recover", "a12899.html#a1ee7622c0ad9bb9ef375cabb5f10a0b1", null ],
-    [ "Row", "a12899.html#a6014bf8080b5520adda86585d8df4589", null ],
-    [ "SitDown", "a12899.html#acd07ebf32648cbeff379b7ae600295ea", null ],
-    [ "Stand", "a12899.html#a0134c1f523e7e645288d4881f13631ba", null ]
+    [ "MainCycleIdle", "a12899.html#aab522699f08c41728eb94ba0b0317ffc", null ],
+    [ "MainCycleJump", "a12899.html#a4e053327a5f3e9e307ef53d03982f18f", null ],
+    [ "MainCycleLocomotion", "a12899.html#a34d748bfc84d7706240167ea19d229a5", null ],
+    [ "MainFail", "a12899.html#a0d916f3060412f666bab5d54996d7281", null ],
+    [ "MainInto", "a12899.html#af23d59dcde033495424e89b6e8895419", null ],
+    [ "MainOutOf", "a12899.html#a2bc5e92ed5389a196ae5403506e53f58", null ],
+    [ "MainSwimming", "a12899.html#ac1fcf4b75de5fc79aa09a7bf5d7b78cd", null ],
+    [ "OneShotInto", "a12899.html#aacf7a25d39fee926eee76a4e60ed8cf8", null ],
+    [ "TurningLeftAlt", "a12899.html#a039bb637ffdf8f92316478b76c94770a", null ],
+    [ "TurningRightAlt", "a12899.html#a92503237c56db402311ba26305040b95", null ],
+    [ "TurnOutAlt", "a12899.html#a7d09a230b38f26d53f71bd97430f2b8f", null ],
+    [ "UnknownData00", "a12899.html#a374a08e82a237bd2c7d76cd1d52ac5dc", null ],
+    [ "UseMainCycleJump", "a12899.html#ad1b77f75622f845167a75986545e8310", null ]
 ];

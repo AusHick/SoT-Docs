@@ -1,4 +1,6 @@
 var a18763 =
 [
-    [ "UnknownData00", "a18763.html#a9395152cb65df2954978b665a1053193", null ]
+    [ "Body", "a18763.html#ab1f0506737befc24b87dd9c586200ad4", null ],
+    [ "KeyArt", "a18763.html#a113b65e59b51ae8035f0890053ee0691", null ],
+    [ "Title", "a18763.html#aa2938a2d17311e4bb43df682a0202f6d", null ]
 ];

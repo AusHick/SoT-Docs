@@ -1,5 +1,9 @@
 var a11911 =
 [
-    [ "StaticClass", "a11911.html#a41717962846b3e5c309c47ccf0246337", null ],
-    [ "Data", "a11911.html#ad730dd8d2bb09dbda0376eb5f7184c62", null ]
+    [ "StaticClass", "a11911.html#abc8f3e9f168037e7d6d507d0baccf2f1", null ],
+    [ "PermittedEventTypes", "a11911.html#a02423228a40704616da0850337fef3d6", null ],
+    [ "Settings", "a11911.html#a67359f923ee55957da3a34d8775f926e", null ],
+    [ "UnknownData00", "a11911.html#a6b9f540ccdda18df2cad4a2241ee24a0", null ],
+    [ "UnknownData01", "a11911.html#a01a838a698129211f3f8ce8d0003c775", null ],
+    [ "UnknownData02", "a11911.html#ae80e00f29fa1af56e6d7761f385bb856", null ]
 ];

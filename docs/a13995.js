@@ -1,7 +1,6 @@
 var a13995 =
 [
-    [ "OpenCrewCountRetrivalString", "a13995.html#aed8fa9331d4f4012e7739ae9f8efab13", null ],
-    [ "OpenCrewMemberCount", "a13995.html#ad3db2f29b4b7d4bef33cdcca624206c7", null ],
-    [ "ShipSize", "a13995.html#ae65836b4842ac423b2f96e7351fe8d09", null ],
-    [ "UnknownData00", "a13995.html#a663d00b4feee34e0e9ba7451a89204d9", null ]
+    [ "MenuBlurParams", "a13995.html#ad6e181f82b4401f206614a5f618e479c", null ],
+    [ "MigrationBlurParams", "a13995.html#ad987fe41b57eb8848d12dfec7be67c32", null ],
+    [ "ScreenEffectsMaterialParameterCollection", "a13995.html#a7856adf83fd207dd7ef2ed7f29cf891c", null ]
 ];

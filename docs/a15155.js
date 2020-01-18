@@ -1,5 +1,5 @@
 var a15155 =
 [
-    [ "Items", "a15155.html#a670ddd691b8c12f38a34a7e0507f3530", null ],
-    [ "Title", "a15155.html#abe52b474781f1b837e2205fcabd1578c", null ]
+    [ "Desc", "a15155.html#ac2c6546f629bdd4791c78b6417e035b6", null ],
+    [ "EntitlementId", "a15155.html#ad7069158749f119266e69a625d68eb16", null ]
 ];

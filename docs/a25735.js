@@ -1,12 +1,13 @@
 var a25735 =
 [
-    [ "StaticClass", "a25735.html#a9c8d429bf611e4be50c19b80bb2fadf2", null ],
-    [ "ClickThroughAlphaThreshold", "a25735.html#adb948292778d1d66d46cfed7ea5b7963", null ],
-    [ "Height", "a25735.html#a238337ff6d27aee8a55f7980d776ad24", null ],
-    [ "ManualTexture", "a25735.html#a894dfdb759fa06aceca2d24034d0e85a", null ],
-    [ "Transparent", "a25735.html#acf42167f6193e3e30e37beab770b1ed7", null ],
-    [ "UnknownData00", "a25735.html#ad8a12b3da156406d042f648bf26c2e09", null ],
-    [ "UnknownData01", "a25735.html#aa05f5c90a57ba8c9740d00acb3fc2de7", null ],
-    [ "URL", "a25735.html#ae2828730d5060be3cee7d1e0375cb3e5", null ],
-    [ "Width", "a25735.html#aa3c7b22cc98e15a58dc0edbd2d705c73", null ]
+    [ "Dynamics", "a25735.html#a9464f26a8f4f78e8ac88281f21ab2bd6", null ],
+    [ "End", "a25735.html#a5b94132880bc60d123d903c040562e18", null ],
+    [ "Roughness", "a25735.html#aaa1df3d4a6a88197358d37f9a9d6cc29", null ],
+    [ "Shape", "a25735.html#a4df5da649a20ca56ca7df9b104e85df5", null ],
+    [ "Start", "a25735.html#a2f63bce2ecb326c45b50c9c64a1f60e6", null ],
+    [ "Swing", "a25735.html#a370b4ce56dae23a563843391ed034d97", null ],
+    [ "Thickness", "a25735.html#a77d6eabc4f95bce3f00eebb33f046655", null ],
+    [ "UVBase", "a25735.html#ab45c5b96579ac842891b12952c95b381", null ],
+    [ "UVOffset", "a25735.html#a8d7ebadf94df789c9e5a5c004cc814cc", null ],
+    [ "UVScale", "a25735.html#abeaa0be7edfa9380f1ad3a4ec73c1c53", null ]
 ];

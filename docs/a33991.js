@@ -1,5 +1,6 @@
 var a33991 =
 [
-    [ "IntTest", "a33991.html#ae7b605d3d98a5a4f52311fb904e1951b", null ],
-    [ "StringTest", "a33991.html#a51bb1d3872f824aa03dcda834e078656", null ]
+    [ "FedWithItemId", "a33991.html#a8e941e0c98b070a0ee54f5b31d75b99b", null ],
+    [ "FeedingInteractionId", "a33991.html#a586bbd832f7226f30ea3aa7e584ece7b", null ],
+    [ "FeedingPlayerId", "a33991.html#af37e86b7ac786bd3fd214619dd176c9b", null ]
 ];

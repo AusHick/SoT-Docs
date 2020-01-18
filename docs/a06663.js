@@ -1,11 +1,5 @@
 var a06663 =
 [
-    [ "StaticClass", "a06663.html#a5dc6d630f3135ea42e7b4250a0e57b3c", null ],
-    [ "CrewMembersInteracting", "a06663.html#a78b1b2dbfc40abfd4f8f612f95a9e76e", null ],
-    [ "DisableShipCheckRestrictions", "a06663.html#a238894e210e53dcb8673dd9be4fe29ef", null ],
-    [ "MaxShipSpeedXY", "a06663.html#a68a8f5febb12d0ad8f1324398c53bfed", null ],
-    [ "ShipInteractionRadius", "a06663.html#abec062f175685a22e67b6da9a7ad37f2", null ],
-    [ "UnknownData00", "a06663.html#aedff0ed333b8cd1af8918429e064a473", null ],
-    [ "UnknownData01", "a06663.html#a896995e8fb06e3e115fc92e69d4a8780", null ],
-    [ "UnknownData02", "a06663.html#aba333ebe6fb8f2cb4512e80b30d0460c", null ]
+    [ "StaticClass", "a06663.html#a2d8e476fe4067282f203a82afdebcdb1", null ],
+    [ "Desc", "a06663.html#a61af717fbd6b4ccfdf7801e2b2a5b1f2", null ]
 ];

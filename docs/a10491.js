@@ -1,6 +1,6 @@
 var a10491 =
 [
-    [ "StaticClass", "a10491.html#a0753040a2bad4e883467309cdf737ee0", null ],
-    [ "MaxWaywardTokens", "a10491.html#a7ac6ac0a421da2885803f0712bfded12", null ],
-    [ "MinWaywardTokens", "a10491.html#a83889e4db44ba127ce4f46d8a4577d0d", null ]
+    [ "StaticClass", "a10491.html#ae521a3710aa258b995d0d6f51edf2769", null ],
+    [ "RewardDefinitionAssets", "a10491.html#af7c7e8c7c23fedf6f99c2890f903a477", null ],
+    [ "WeightRewardTable", "a10491.html#a88afe0badadaefac4948b1e053f89f89", null ]
 ];

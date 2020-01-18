@@ -1,8 +1,8 @@
 var a04255 =
 [
-    [ "StaticClass", "a04255.html#a6b44b8d574c005ce6c7e688058790610", null ],
-    [ "ArenaShipTeamSets", "a04255.html#a33f272eb78f5c3ae4396d08088538b6d", null ],
-    [ "ChanceOfUniqueShipSwap", "a04255.html#a5e2b71e1d7280326328af24ac4a51cdf", null ],
-    [ "UniqueLiverySets", "a04255.html#a39515894a095f89715b654ec9ac8844a", null ],
-    [ "UnknownData00", "a04255.html#a1fb4ba5d5818302ff43f31a1c75473c5", null ]
+    [ "OnRep_Crews", "a04255.html#aee7182c442706f51ef176e5955c9278e", null ],
+    [ "StaticClass", "a04255.html#abd715c31e7c0c34a0db70c79da965e25", null ],
+    [ "Crews", "a04255.html#a4e5c33e62fdf792820316fd8131ac88f", null ],
+    [ "UnknownData00", "a04255.html#aa85d7a533871f1cc7d2f687335a1e6ce", null ],
+    [ "UnknownData01", "a04255.html#a67df3c1c39264f5a5ef5a93ce093ebd9", null ]
 ];

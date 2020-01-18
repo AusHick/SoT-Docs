@@ -1,7 +1,10 @@
 var a30963 =
 [
-    [ "Action", "a30963.html#af311d4f286c02383354457f1ca4faa9e", null ],
-    [ "ActiveCondition", "a30963.html#a301618b63f735a021fe9efe7a38eb1a3", null ],
-    [ "Time", "a30963.html#a79c76e759cf7ce06108c590d6e4976c8", null ],
-    [ "UnknownData00", "a30963.html#a8a02f2a10ec9d37361a2e3a93f2575f8", null ]
+    [ "Center", "a30963.html#a46fb208738cdeeb24d4459a0e8076bb8", null ],
+    [ "Orientation", "a30963.html#a25ede268674e054fcb2e8a83b33d90d2", null ],
+    [ "UnknownData00", "a30963.html#a03770a094c18127820c34b7308c9df4c", null ],
+    [ "UnknownData01", "a30963.html#afb339a2ffa119e7e9083e07d9ca2b4de", null ],
+    [ "X", "a30963.html#a4d64e5b77e1c22c38500236a32af38a1", null ],
+    [ "Y", "a30963.html#a2b41366c9afcf020bf30e57baf97c9f5", null ],
+    [ "Z", "a30963.html#aa2bd5ac0b3b09368383a31642858ac19", null ]
 ];

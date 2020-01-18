@@ -1,11 +1,12 @@
 var a11955 =
 [
-    [ "StaticClass", "a11955.html#a4e9e5dbc4eeae7080c397d04da489221", null ],
-    [ "CollisionComponent", "a11955.html#af8c8dcac17373653dcdf14e796041ae2", null ],
-    [ "FishingFloatMesh", "a11955.html#af1d9875af407836df792c18dd38c169c", null ],
-    [ "FishingFloatSetupDataAsset", "a11955.html#ab87f089a6af80e145cbcf6b78999709c", null ],
-    [ "FloatMaterials", "a11955.html#a44dbbd63a8db8aad7725cf841eb818a6", null ],
-    [ "UnknownData00", "a11955.html#a1c84a2cd55472d72d9e9cf7f0b9d9f0f", null ],
-    [ "UnknownData01", "a11955.html#a3c7dfebe9c45276f8b76e3d4a1357c22", null ],
-    [ "WaterInteractionComponent", "a11955.html#aad0851d1ab2d509c027333e1b87f2470", null ]
+    [ "StaticClass", "a11955.html#a84e2169d14604d084902ef18ac8cc6c9", null ],
+    [ "ForceScalar", "a11955.html#a64e5315ccc968553216087abe5d7e4fa", null ],
+    [ "InteractableComponent", "a11955.html#ac45876066781ccb1adebc0874cb38843", null ],
+    [ "InteractionDisplayName", "a11955.html#a05273235d3ddf4875b7fd63238b3b497", null ],
+    [ "InteractionRadius", "a11955.html#aa8c8fed7a98e3ded2d8faaae0ec55710", null ],
+    [ "InteractionSplineComponent", "a11955.html#aeb2ffa60cca6bcb0a1ef5d3acfb42614", null ],
+    [ "UnknownData00", "a11955.html#abdc7c44c2128eead560062993b22df6a", null ],
+    [ "UnknownData01", "a11955.html#a890b6d761ebf3c137202680eae9c7b05", null ],
+    [ "UnknownData02", "a11955.html#af93c315d9cd3f9fca780ddb6c894ba0f", null ]
 ];

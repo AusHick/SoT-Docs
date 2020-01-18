@@ -1,5 +1,5 @@
 var a04511 =
 [
-    [ "StaticClass", "a04511.html#a0602bc522a9f7f0f708ce392bda90905", null ],
-    [ "SectionNameToGoTo", "a04511.html#a20bf5eec20a5aa98e78ebfc6159322f0", null ]
+    [ "GetLeakAmount", "a04511.html#ae536d53691ef11699daedb33ab9740ba", null ],
+    [ "StaticClass", "a04511.html#a4565f7c62ed9fc1f7c4aaf392057f616", null ]
 ];

@@ -1,9 +1,6 @@
 var a13099 =
 [
-    [ "AIKnockbackDirection", "a13099.html#a9dee3155e1eeba24b33cf27812f4f893", null ],
-    [ "KnockbackActive", "a13099.html#aff662c25f59606e4a93aec306381e93d", null ],
-    [ "KnockbackAnimations", "a13099.html#acd99893dfaafac4ca20c6721963ec3f6", null ],
-    [ "KnockbackAnimToUse", "a13099.html#ae6f6e7bcc9da68a37b133acf88a4dfab", null ],
-    [ "UnknownData00", "a13099.html#a3e7d6b3d3bea494d62ee452e98e34cbb", null ],
-    [ "UnknownData01", "a13099.html#a0c2e3386b8168056b1164acd692d4cb9", null ]
+    [ "IKStretchArms", "a13099.html#aca40ade23e3d6ea94ff91e95958f90fd", null ],
+    [ "IKStretchLegs", "a13099.html#a9ee2614f38eef9b056b4104a32fa408d", null ],
+    [ "IKStretchSpine", "a13099.html#af3e6592aeac8c8c93faa1c1719f7b347", null ]
 ];

@@ -1,7 +1,10 @@
 var a12871 =
 [
-    [ "LeftArmDownRangeA", "a12871.html#a9db17cecb259616f3f380586c477eaeb", null ],
-    [ "LeftArmDownRangeB", "a12871.html#a7a5ac2895520d3b7e8d8a5523d21df62", null ],
-    [ "RightArmDownRangeA", "a12871.html#ab4a6b947ecd2ffab09403f6e67d46b93", null ],
-    [ "RightArmDownRangeB", "a12871.html#a45c676033189a78e808747df58674d2d", null ]
+    [ "Locomotion1", "a12871.html#a53ee604f4a012390855c80b9f7b3b0b7", null ],
+    [ "Locomotion2", "a12871.html#afa813896409a8d0c136b268f7eb8f538", null ],
+    [ "Locomotion3", "a12871.html#a70d5e4a5d12cdea1415d4371bd52b980", null ],
+    [ "Locomotion4", "a12871.html#a050e68b3ce31cb14a4d8c1abe848d086", null ],
+    [ "LocomotionSwimming", "a12871.html#a1e08bb07071326c1758aee21340b7ef0", null ],
+    [ "LocomotionTurningLeft", "a12871.html#aee18047b7213beee24b8e8c2a698f84f", null ],
+    [ "LocomotionTurningRight", "a12871.html#a6fa772309eb548e19150464dd1b8799c", null ]
 ];

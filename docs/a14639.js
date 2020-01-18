@@ -1,5 +1,6 @@
 var a14639 =
 [
-    [ "LightingZoneParameters", "a14639.html#a2ad61224c0321168e6faea8c536553db", null ],
-    [ "Location", "a14639.html#a667d9f6c7a9e8fbf6562c0651dcc21ed", null ]
+    [ "Category", "a14639.html#a9e4260360f4cb6da564c99194d9330ef", null ],
+    [ "Policy", "a14639.html#a29c7de9534f8f6da55536dbe7eddca71", null ],
+    [ "UnknownData00", "a14639.html#a108e472a5c50e306bbf7cc54226ead16", null ]
 ];

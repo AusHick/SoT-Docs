@@ -1,8 +1,7 @@
 var a35179 =
 [
-    [ "DateTimesWithinTolerance", "a35179.html#a22b4f3106d354b03cfa93b310754a607", null ],
-    [ "MakeDateTimeFromRaw", "a35179.html#aa4012c4f33ccefc2cc8a86754eb2d50e", null ],
-    [ "MakeDateTimeFromReplicatedDateTime", "a35179.html#a6bd14fbd3f734e0b19ab994587c9d4c3", null ],
-    [ "MakeReplicatedDateTimeFromDateTime", "a35179.html#a444b3cbd16970630aa627a886119fd19", null ],
-    [ "StaticClass", "a35179.html#aac356f9b90879b1090bda5bb460fe31d", null ]
+    [ "AdvanceRiddleMap", "a35179.html#af5b18c4bdce981852290a5e2170ab9fc", null ],
+    [ "StaticClass", "a35179.html#a9720a9b670f3f51d273fa17430e7ee3f", null ],
+    [ "UpdateMerchantMap", "a35179.html#a0d5d294920579ab5d978c61c790fb125", null ],
+    [ "UnknownData00", "a35179.html#a1f65c66189519f80a3ff5eb4d4acc2a0", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FNamedAITrackerAndSpawner Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FServiceStatusNotification Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,37 +87,36 @@ $(document).ready(function(){initNavTree('a15423.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15420.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FNamedAITrackerAndSpawner Struct Reference</div>  </div>
+<div class="title">SDK::FServiceStatusNotification Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FNamedAITrackerAndSpawner:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServiceStatusNotification:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15421.svg" width="580" height="471"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a15421.svg" width="414" height="368"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a51aeb5ac4de3cfc922c2e7f2fb751c01"><td class="memItemLeft" align="right" valign="top"><a id="a51aeb5ac4de3cfc922c2e7f2fb751c01"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:a51aeb5ac4de3cfc922c2e7f2fb751c01"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1fce21d657264c6d8b91911d787eaa52"><td class="memItemLeft" align="right" valign="top"><a id="a1fce21d657264c6d8b91911d787eaa52"></a>
-class <a class="el" href="a24015.html">UAIProximityPlayerTracker</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AIProxPlayerTracker</b></td></tr>
-<tr class="separator:a1fce21d657264c6d8b91911d787eaa52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa954c9644a1fe8f04d98c409b85b1cd"><td class="memItemLeft" align="right" valign="top"><a id="afa954c9644a1fe8f04d98c409b85b1cd"></a>
-class <a class="el" href="a23687.html">UAISpawner</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AISpawner</b></td></tr>
-<tr class="separator:afa954c9644a1fe8f04d98c409b85b1cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf48c3c75f82b91db3a8d4452988fd57"><td class="memItemLeft" align="right" valign="top"><a id="adf48c3c75f82b91db3a8d4452988fd57"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>NotificationId</b></td></tr>
+<tr class="separator:adf48c3c75f82b91db3a8d4452988fd57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6900106c10108e0e3c5891e05897e3e0"><td class="memItemLeft" align="right" valign="top"><a id="a6900106c10108e0e3c5891e05897e3e0"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a6900106c10108e0e3c5891e05897e3e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a9e032da1309886b19e6c0117801f02"><td class="memItemLeft" align="right" valign="top"><a id="a1a9e032da1309886b19e6c0117801f02"></a>
+struct <a class="el" href="a26411.html">FDateTime</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ActivatedDateTimeUtc</b></td></tr>
+<tr class="separator:a1a9e032da1309886b19e6c0117801f02"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15423.html">FNamedAITrackerAndSpawner</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:26 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15423.html">FServiceStatusNotification</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:46 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

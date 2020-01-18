@@ -1,6 +1,6 @@
 var a04863 =
 [
-    [ "StaticClass", "a04863.html#a4732f67835f227eaa4dc7d178df3bded", null ],
-    [ "Radius", "a04863.html#ae3c3c65f4ac06e186aa2aa4be9df7d1f", null ],
-    [ "UnknownData00", "a04863.html#af53f9a758f777490257bd65dc64dc79a", null ]
+    [ "StaticClass", "a04863.html#a5329780882143d929891a8646c7f650b", null ],
+    [ "BufferRadius", "a04863.html#ae867fd1036dc2a39f0dfb1d2b86256cb", null ],
+    [ "UnknownData00", "a04863.html#ac374b615208396467fde2a5451cad4c3", null ]
 ];

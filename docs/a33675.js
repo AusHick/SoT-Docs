@@ -1,5 +1,4 @@
 var a33675 =
 [
-    [ "ReactionType", "a33675.html#a3e4959d41c83582b8ccbf1b16fda66d6", null ],
-    [ "UnknownData00", "a33675.html#a36cdb5b3869414b5cc28c2328dfe5bf5", null ]
+    [ "StaticClass", "a33675.html#a01c8c52ba8e9356505a0842f3703ea8e", null ]
 ];

@@ -1,7 +1,9 @@
 var a05803 =
 [
-    [ "StaticClass", "a05803.html#a45a2ef60a0853ac37d4f72dee5e4815b", null ],
-    [ "FaunaSettings", "a05803.html#a85d82f91757113e1407456e1faaf3029", null ],
-    [ "FaunaSpawners", "a05803.html#ae7a031a4237ac1503fab4b316fec2269", null ],
-    [ "UnknownData00", "a05803.html#a1311985836018b41ffafb4d9f135a885", null ]
+    [ "GetActorsCurrentIslandName", "a05803.html#a00901878da609dead5b833ccfc0812d8", null ],
+    [ "GetClosestIslandOfType", "a05803.html#ad4ae3a60a991ebf660aed4f5411dfcde", null ],
+    [ "GetIslandPositionByName", "a05803.html#a5b8d36cb437ae1824ac4060f9337256b", null ],
+    [ "GetIslandTriggerCircle", "a05803.html#a9d91a333f34b1e5e8d32dbc821658460", null ],
+    [ "GetLocalisedIslandName", "a05803.html#af0528d88ec854c8371b63692636f9c76", null ],
+    [ "StaticClass", "a05803.html#a30a8a25bb2f5f7e35e3c8acf0ee3dac6", null ]
 ];

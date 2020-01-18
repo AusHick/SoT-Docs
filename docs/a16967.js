@@ -1,5 +1,5 @@
 var a16967 =
 [
-    [ "Message", "a16967.html#a2329b75ffdaaef8f27a9ee4f1ea92405", null ],
-    [ "Sender", "a16967.html#a602e9763e8fedb0fd6514b25b526e9f4", null ]
+    [ "StopAudioLoopEvent", "a16967.html#a91cd2e03cffaea4bb76d427a3f6f43f6", null ],
+    [ "UnknownData00", "a16967.html#ae1f78eb46dccd45cc2cbea471d5ef5df", null ]
 ];

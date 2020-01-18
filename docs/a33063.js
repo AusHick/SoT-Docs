@@ -1,7 +1,5 @@
 var a33063 =
 [
-    [ "StaticClass", "a33063.html#a7f1878c45e683dcc0cff0bd0325bf8b9", null ],
-    [ "Rotation", "a33063.html#ac4bd2f8945194890f6ff84ac3901f6fa", null ],
-    [ "Scale", "a33063.html#a775a27ce6276c5324dc5e670e4adc777", null ],
-    [ "Translation", "a33063.html#a03fbc2f94c3f194c4270ce4b4a9d6996", null ]
+    [ "ConfigSpawnId", "a33063.html#a67c2188b80af0d94baf18c83491f38c4", null ],
+    [ "KrakenId", "a33063.html#ae8d7f1960803dbb7e1d84de1e3eb2d38", null ]
 ];

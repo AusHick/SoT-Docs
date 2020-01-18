@@ -1,8 +1,6 @@
 var a28459 =
 [
-    [ "StaticClass", "a28459.html#a0487deec4030b653af6e6c5a42ae201b", null ],
-    [ "FadeDistance", "a28459.html#ae0e4c35b84746cd873e256376f9e3dfd", null ],
-    [ "FadeDistanceDefault", "a28459.html#a370c7a0e7c61bb5a5f1ff66ba171eb9d", null ],
-    [ "InOpacity", "a28459.html#a640aabdf50aa28f891f8adc3e356b359", null ],
-    [ "OpacityDefault", "a28459.html#a2f12d38d80129bda80ce8d01383d5745", null ]
+    [ "StaticClass", "a28459.html#a4e3128fe853d4e67455568ceb3dad44d", null ],
+    [ "LastUpdatePosition", "a28459.html#ab79c32bcd5b96de0ded4cdaf7af65376", null ],
+    [ "UnknownData00", "a28459.html#ae1c4a21677be342400acbea57b0240a5", null ]
 ];

@@ -1,5 +1,6 @@
 var a20595 =
 [
-    [ "Locale", "a20595.html#a9f80f35d98f51c47cf5b56ac1ee40ed4", null ],
-    [ "LocDictionary", "a20595.html#a9653e9bc086dc09bae4632d105ca6e28", null ]
+    [ "Reason", "a20595.html#a96455d018288fd6f6960b41da64dced9", null ],
+    [ "TransactionId", "a20595.html#a484144cd58c0c3e857ed7b523f2b1ea3", null ],
+    [ "UnknownData00", "a20595.html#ae3331ee62535f5b849066f1d50272dc0", null ]
 ];

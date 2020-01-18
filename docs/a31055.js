@@ -1,9 +1,7 @@
 var a31055 =
 [
-    [ "Count", "a31055.html#ad886a6c7a63f3475e5a5b252a310a983", null ],
-    [ "CountLow", "a31055.html#a2b6f6106e89a11f9a1e3a5478b1c878c", null ],
-    [ "Group", "a31055.html#a29e5be431b9b31695f66c20759dc4126", null ],
-    [ "SpawnMultiplier", "a31055.html#a565f0ffdd9036935666b1bdde674969e", null ],
-    [ "Time", "a31055.html#a46c7becadb460b969ad2db6b831700f7", null ],
-    [ "UnknownData00", "a31055.html#a7a4a1790cd43dea13510d0b31daf43ae", null ]
+    [ "FunctionNameToBind", "a31055.html#af2d28568d1bed2af9e77882c9fbf35f8", null ],
+    [ "InputActionName", "a31055.html#a5cb4da675057aa9ec6145dfd96118c63", null ],
+    [ "InputKeyEvent", "a31055.html#a82a7aebc86ab200973e1105eb7c3a564", null ],
+    [ "UnknownData00", "a31055.html#a38fab360433aa2e6c8d60fdb2b818c6c", null ]
 ];

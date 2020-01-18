@@ -1,6 +1,6 @@
 var a14883 =
 [
-    [ "CapstanState", "a14883.html#a8b86d2d4d5f39bdd308ab90c0b12ebc3", null ],
-    [ "CapstanVelocity", "a14883.html#a59cb51aaeb7d02137f80a66eecf573ab", null ],
-    [ "NumCurrentUsers", "a14883.html#ad3420f99cfde035f173b4bc5fd8542b6", null ]
+    [ "Payout", "a14883.html#aff47cafd083233f2751833995c8e8cf2", null ],
+    [ "Rank", "a14883.html#aab3c0931d788337894761238fcce1614", null ],
+    [ "RequiredItems", "a14883.html#a94943fd6dfde07eb46850f21a6698e65", null ]
 ];

@@ -1,6 +1,8 @@
 var a04091 =
 [
-    [ "StaticClass", "a04091.html#aced25b9c5f603fb9f15c86fb418015a2", null ],
-    [ "Company", "a04091.html#aff31d0f38ba28787cef2a5e68f55fadc", null ],
-    [ "UnknownData00", "a04091.html#a0380a1ef8c58182c50861458b6b36c61", null ]
+    [ "OnReadyForBindings", "a04091.html#a3c34204382866be17d38b05819ffb153", null ],
+    [ "StaticClass", "a04091.html#afbf8f008c2d2db39ba8db8b7bf49a3a6", null ],
+    [ "CurrentCanvas", "a04091.html#a88871af1b3d15b1b95b1b307f76ff128", null ],
+    [ "UnknownData00", "a04091.html#a2521eb0c40ad6dd9c2c1469386bf068d", null ],
+    [ "UnknownData01", "a04091.html#a3dc4baa34cc2431759c8d4d49455f07d", null ]
 ];

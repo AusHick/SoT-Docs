@@ -1,6 +1,5 @@
 var a28563 =
 [
-    [ "StaticClass", "a28563.html#a00ac275ab3a2fffd0dbafd32d0fb5faa", null ],
-    [ "Lightmass", "a28563.html#aaaf2116e826d018a9ec05c5dcc062672", null ],
-    [ "Realtime", "a28563.html#af7676ebb546ee19088f4b35150fdf800", null ]
+    [ "StaticClass", "a28563.html#aaa0162a6f6a84189a09620c61740e81c", null ],
+    [ "WorldPosition", "a28563.html#abab15895c7481f1dc4495e664a2cce4c", null ]
 ];

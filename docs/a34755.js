@@ -1,6 +1,10 @@
 var a34755 =
 [
-    [ "InEffectTime", "a34755.html#a5a934efacecc7907fa039dbb28fd046e", null ],
-    [ "StatusEffect", "a34755.html#a861dd9fbced42ad1304ec22f2da389c7", null ],
-    [ "UnknownData00", "a34755.html#a544a382c7de662ca51a9a5ab8f842575", null ]
+    [ "ColorAndOpacity", "a34755.html#a9a8a45a552587b98c9e851e77bbb54c2", null ],
+    [ "Font", "a34755.html#a6db15966d8f2a2f43e1305bc4a791ccc", null ],
+    [ "HighlightColor", "a34755.html#a77ff369c9834dcf535d14ee586ada8ea", null ],
+    [ "HighlightShape", "a34755.html#afc7ed09266c32a3c8ea299e74f98b839", null ],
+    [ "SelectedBackgroundColor", "a34755.html#a902c6bda48eaa7e3ded9e82558be594c", null ],
+    [ "ShadowColorAndOpacity", "a34755.html#a4c0e37c4fd2e5aff355d64a298ff21fe", null ],
+    [ "ShadowOffset", "a34755.html#a1a376af17bf8b557add2b11cef4dcf54", null ]
 ];

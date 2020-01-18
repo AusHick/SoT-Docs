@@ -1,7 +1,6 @@
 var a01499 =
 [
-    [ "bInstanceSynced", "a01499.html#a9b9310e6ab6943a326012bf837deb9cc", null ],
-    [ "EntryName", "a01499.html#a6785f8e6c89e81d7b8ecd23461f682dc", null ],
-    [ "KeyType", "a01499.html#a17be11323ad4b9b95033a3b41cee6d8b", null ],
-    [ "UnknownData00", "a01499.html#a3f0a59be598acbf0671c9bd4faf568ad", null ]
+    [ "PredictedActor", "a01499.html#a5f204b33ed1330e248af9bce411e44ef", null ],
+    [ "Requestor", "a01499.html#ab88258542b549de4eb0ed125208a5662", null ],
+    [ "UnknownData00", "a01499.html#a00963c35e2025943f1cb36330ddd0eff", null ]
 ];

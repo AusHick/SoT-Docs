@@ -1,5 +1,6 @@
 var a15883 =
 [
-    [ "Customization", "a15883.html#a656adeea8eb40b6fbd7f6b21f410cec4", null ],
-    [ "PartName", "a15883.html#a0c3a4ec0fc2b2e5862ae2b2bd74fd02a", null ]
+    [ "Animation", "a15883.html#ad111cc1ce48dac359db52b6cb56195dc", null ],
+    [ "UnknownData00", "a15883.html#ab86fc349a4a5f4b5da0634ddcb827cd5", null ],
+    [ "Weighting", "a15883.html#ab6c11f729221119cac4be523b3094a99", null ]
 ];

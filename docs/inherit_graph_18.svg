@@ -10,7 +10,7 @@
 <title>Graphical Class Hierarchy</title>
 <!-- Node0 -->
 <g id="node1" class="node"><title>Node0</title>
-<g id="a_node1"><a xlink:href="a00739.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="a00767.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="0,-741 0,-760 170,-760 170,-741 0,-741"/>
 <text text-anchor="middle" x="85" y="-748" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FActionStateConstructionInfo</text>
 </a>
@@ -18,7 +18,7 @@
 </g>
 <!-- Node1 -->
 <g id="node2" class="node"><title>Node1</title>
-<g id="a_node2"><a xlink:href="a00755.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="a00783.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="206,-829 206,-848 399,-848 399,-829 206,-829"/>
 <text text-anchor="middle" x="302.5" y="-836" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FActorActionStateConstructionInfo</text>
 </a>
@@ -31,7 +31,7 @@
 </g>
 <!-- Node49 -->
 <g id="node50" class="node"><title>Node49</title>
-<g id="a_node50"><a xlink:href="a19311.html" target="_top" xlink:title=" ">
+<g id="a_node50"><a xlink:href="a19439.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="231.5,-779.5 231.5,-809.5 373.5,-809.5 373.5,-779.5 231.5,-779.5"/>
 <text text-anchor="start" x="239.5" y="-797.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FCharacterActionState</text>
 <text text-anchor="middle" x="302.5" y="-786.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -45,7 +45,7 @@
 </g>
 <!-- Node50 -->
 <g id="node51" class="node"><title>Node50</title>
-<g id="a_node51"><a xlink:href="a00751.html" target="_top" xlink:title=" ">
+<g id="a_node51"><a xlink:href="a00779.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="208.5,-741 208.5,-760 396.5,-760 396.5,-741 208.5,-741"/>
 <text text-anchor="middle" x="302.5" y="-748" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTestActionStateConstructionInfo</text>
 </a>
@@ -58,7 +58,7 @@
 </g>
 <!-- Node51 -->
 <g id="node52" class="node"><title>Node51</title>
-<g id="a_node52"><a xlink:href="a00747.html" target="_top" xlink:title=" ">
+<g id="a_node52"><a xlink:href="a00775.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="216,-691.5 216,-721.5 389,-721.5 389,-691.5 216,-691.5"/>
 <text text-anchor="start" x="224" y="-709.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTestActionStateConstruction</text>
 <text text-anchor="middle" x="302.5" y="-698.5" font-family="Helvetica,sans-Serif" font-size="10.00">InfoWithInner</text>
@@ -72,7 +72,7 @@
 </g>
 <!-- Node52 -->
 <g id="node53" class="node"><title>Node52</title>
-<g id="a_node53"><a xlink:href="a00767.html" target="_top" xlink:title=" ">
+<g id="a_node53"><a xlink:href="a00795.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="216,-642.5 216,-672.5 389,-672.5 389,-642.5 216,-642.5"/>
 <text text-anchor="start" x="224" y="-660.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTestActionStateConstruction</text>
 <text text-anchor="middle" x="302.5" y="-649.5" font-family="Helvetica,sans-Serif" font-size="10.00">InfoWithObjPointers</text>
@@ -86,7 +86,7 @@
 </g>
 <!-- Node2 -->
 <g id="node3" class="node"><title>Node2</title>
-<g id="a_node3"><a xlink:href="a19299.html" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="a19427.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="455,-1636.5 455,-1666.5 613,-1666.5 613,-1636.5 455,-1636.5"/>
 <text text-anchor="start" x="463" y="-1654.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FAIKnockbackActionState</text>
 <text text-anchor="middle" x="534" y="-1643.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -100,7 +100,7 @@
 </g>
 <!-- Node3 -->
 <g id="node4" class="node"><title>Node3</title>
-<g id="a_node4"><a xlink:href="a23299.html" target="_top" xlink:title=" ">
+<g id="a_node4"><a xlink:href="a23247.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="465,-1587.5 465,-1617.5 603,-1617.5 603,-1587.5 465,-1587.5"/>
 <text text-anchor="start" x="473" y="-1605.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FAISpawnActionState</text>
 <text text-anchor="middle" x="534" y="-1594.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -114,7 +114,7 @@
 </g>
 <!-- Node4 -->
 <g id="node5" class="node"><title>Node4</title>
-<g id="a_node5"><a xlink:href="a19303.html" target="_top" xlink:title=" ">
+<g id="a_node5"><a xlink:href="a19431.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="462.5,-1538.5 462.5,-1568.5 605.5,-1568.5 605.5,-1538.5 462.5,-1538.5"/>
 <text text-anchor="start" x="470.5" y="-1556.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FBeingRetractedAction</text>
 <text text-anchor="middle" x="534" y="-1545.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -128,7 +128,7 @@
 </g>
 <!-- Node5 -->
 <g id="node6" class="node"><title>Node5</title>
-<g id="a_node6"><a xlink:href="a19307.html" target="_top" xlink:title=" ">
+<g id="a_node6"><a xlink:href="a19435.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="455,-1489.5 455,-1519.5 613,-1519.5 613,-1489.5 455,-1489.5"/>
 <text text-anchor="start" x="463" y="-1507.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FCapturedByKrakenAction</text>
 <text text-anchor="middle" x="534" y="-1496.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -142,7 +142,7 @@
 </g>
 <!-- Node6 -->
 <g id="node7" class="node"><title>Node6</title>
-<g id="a_node7"><a xlink:href="a22095.html" target="_top" xlink:title=" ">
+<g id="a_node7"><a xlink:href="a22547.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="438,-1451 438,-1470 630,-1470 630,-1451 438,-1451"/>
 <text text-anchor="middle" x="534" y="-1458" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FDeadActionStateConstructionInfo</text>
 </a>
@@ -155,7 +155,7 @@
 </g>
 <!-- Node7 -->
 <g id="node8" class="node"><title>Node7</title>
-<g id="a_node8"><a xlink:href="a19135.html" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="a19263.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="457,-1401.5 457,-1431.5 611,-1431.5 611,-1401.5 457,-1401.5"/>
 <text text-anchor="start" x="465" y="-1419.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FDebugFlyingActionState</text>
 <text text-anchor="middle" x="534" y="-1408.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -169,7 +169,7 @@
 </g>
 <!-- Node8 -->
 <g id="node9" class="node"><title>Node8</title>
-<g id="a_node9"><a xlink:href="a19151.html" target="_top" xlink:title=" ">
+<g id="a_node9"><a xlink:href="a19279.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="456.5,-1352.5 456.5,-1382.5 611.5,-1382.5 611.5,-1352.5 456.5,-1352.5"/>
 <text text-anchor="start" x="464.5" y="-1370.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FDebugSuperSailorAction</text>
 <text text-anchor="middle" x="534" y="-1359.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -183,7 +183,7 @@
 </g>
 <!-- Node9 -->
 <g id="node10" class="node"><title>Node9</title>
-<g id="a_node10"><a xlink:href="a19139.html" target="_top" xlink:title=" ">
+<g id="a_node10"><a xlink:href="a19267.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="465,-1303.5 465,-1333.5 603,-1333.5 603,-1303.5 465,-1303.5"/>
 <text text-anchor="start" x="473" y="-1321.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FDockToObjectAction</text>
 <text text-anchor="middle" x="534" y="-1310.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -197,7 +197,7 @@
 </g>
 <!-- Node21 -->
 <g id="node22" class="node"><title>Node21</title>
-<g id="a_node22"><a xlink:href="a19323.html" target="_top" xlink:title=" ">
+<g id="a_node22"><a xlink:href="a19451.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="435,-1265 435,-1284 633,-1284 633,-1265 435,-1265"/>
 <text text-anchor="middle" x="534" y="-1272" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FEmoteActionStateConstructionInfo</text>
 </a>
@@ -210,7 +210,7 @@
 </g>
 <!-- Node22 -->
 <g id="node23" class="node"><title>Node22</title>
-<g id="a_node23"><a xlink:href="a19331.html" target="_top" xlink:title=" ">
+<g id="a_node23"><a xlink:href="a19459.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="462,-1215.5 462,-1245.5 606,-1245.5 606,-1215.5 462,-1215.5"/>
 <text text-anchor="start" x="470" y="-1233.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FFiredFromActorAction</text>
 <text text-anchor="middle" x="534" y="-1222.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -224,7 +224,7 @@
 </g>
 <!-- Node24 -->
 <g id="node25" class="node"><title>Node24</title>
-<g id="a_node25"><a xlink:href="a17295.html" target="_top" xlink:title=" ">
+<g id="a_node25"><a xlink:href="a17435.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="465.5,-1166.5 465.5,-1196.5 602.5,-1196.5 602.5,-1166.5 465.5,-1166.5"/>
 <text text-anchor="start" x="473.5" y="-1184.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FFirstPersonAnimatic</text>
 <text text-anchor="middle" x="534" y="-1173.5" font-family="Helvetica,sans-Serif" font-size="10.00">ActionStateConstructionInfo</text>
@@ -238,7 +238,7 @@
 </g>
 <!-- Node25 -->
 <g id="node26" class="node"><title>Node25</title>
-<g id="a_node26"><a xlink:href="a23415.html" target="_top" xlink:title=" ">
+<g id="a_node26"><a xlink:href="a23647.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="468.5,-1117.5 468.5,-1147.5 599.5,-1147.5 599.5,-1117.5 468.5,-1117.5"/>
 <text text-anchor="start" x="476.5" y="-1135.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FFishingActionState</text>
 <text text-anchor="middle" x="534" y="-1124.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -252,7 +252,7 @@
 </g>
 <!-- Node26 -->
 <g id="node27" class="node"><title>Node26</title>
-<g id="a_node27"><a xlink:href="a19339.html" target="_top" xlink:title=" ">
+<g id="a_node27"><a xlink:href="a19467.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="456,-1068.5 456,-1098.5 612,-1098.5 612,-1068.5 456,-1068.5"/>
 <text text-anchor="start" x="464" y="-1086.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FIngestedByKrakenAction</text>
 <text text-anchor="middle" x="534" y="-1075.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -266,7 +266,7 @@
 </g>
 <!-- Node27 -->
 <g id="node28" class="node"><title>Node27</title>
-<g id="a_node28"><a xlink:href="a19343.html" target="_top" xlink:title=" ">
+<g id="a_node28"><a xlink:href="a19471.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="460,-1019.5 460,-1049.5 608,-1049.5 608,-1019.5 460,-1019.5"/>
 <text text-anchor="start" x="468" y="-1037.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FInteractLoadableAction</text>
 <text text-anchor="middle" x="534" y="-1026.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -280,7 +280,7 @@
 </g>
 <!-- Node28 -->
 <g id="node29" class="node"><title>Node28</title>
-<g id="a_node29"><a xlink:href="a22539.html" target="_top" xlink:title=" ">
+<g id="a_node29"><a xlink:href="a22507.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="465.5,-970.5 465.5,-1000.5 602.5,-1000.5 602.5,-970.5 465.5,-970.5"/>
 <text text-anchor="start" x="473.5" y="-988.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FInteractObjectAction</text>
 <text text-anchor="middle" x="534" y="-977.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -294,7 +294,7 @@
 </g>
 <!-- Node29 -->
 <g id="node30" class="node"><title>Node29</title>
-<g id="a_node30"><a xlink:href="a19351.html" target="_top" xlink:title=" ">
+<g id="a_node30"><a xlink:href="a19479.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="460.5,-921.5 460.5,-951.5 607.5,-951.5 607.5,-921.5 460.5,-921.5"/>
 <text text-anchor="start" x="468.5" y="-939.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FLeaveGhostShipAction</text>
 <text text-anchor="middle" x="534" y="-928.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -308,7 +308,7 @@
 </g>
 <!-- Node30 -->
 <g id="node31" class="node"><title>Node30</title>
-<g id="a_node31"><a xlink:href="a22755.html" target="_top" xlink:title=" ">
+<g id="a_node31"><a xlink:href="a23191.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="459,-872.5 459,-902.5 609,-902.5 609,-872.5 459,-872.5"/>
 <text text-anchor="start" x="467" y="-890.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FLocomotionActionState</text>
 <text text-anchor="middle" x="534" y="-879.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -322,7 +322,7 @@
 </g>
 <!-- Node31 -->
 <g id="node32" class="node"><title>Node31</title>
-<g id="a_node32"><a xlink:href="a19363.html" target="_top" xlink:title=" ">
+<g id="a_node32"><a xlink:href="a19491.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="464,-823.5 464,-853.5 604,-853.5 604,-823.5 464,-823.5"/>
 <text text-anchor="start" x="472" y="-841.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FMeleeBlockingAction</text>
 <text text-anchor="middle" x="534" y="-830.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -336,7 +336,7 @@
 </g>
 <!-- Node32 -->
 <g id="node33" class="node"><title>Node32</title>
-<g id="a_node33"><a xlink:href="a19371.html" target="_top" xlink:title=" ">
+<g id="a_node33"><a xlink:href="a19499.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="464,-774.5 464,-804.5 604,-804.5 604,-774.5 464,-774.5"/>
 <text text-anchor="start" x="472" y="-792.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FMigrationActionState</text>
 <text text-anchor="middle" x="534" y="-781.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -350,7 +350,7 @@
 </g>
 <!-- Node33 -->
 <g id="node34" class="node"><title>Node33</title>
-<g id="a_node34"><a xlink:href="a19387.html" target="_top" xlink:title=" ">
+<g id="a_node34"><a xlink:href="a19515.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="460,-725.5 460,-755.5 608,-755.5 608,-725.5 460,-725.5"/>
 <text text-anchor="start" x="468" y="-743.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FModalInteractionAction</text>
 <text text-anchor="middle" x="534" y="-732.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -364,7 +364,7 @@
 </g>
 <!-- Node34 -->
 <g id="node35" class="node"><title>Node34</title>
-<g id="a_node35"><a xlink:href="a19395.html" target="_top" xlink:title=" ">
+<g id="a_node35"><a xlink:href="a19523.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="461,-676.5 461,-706.5 607,-706.5 607,-676.5 461,-676.5"/>
 <text text-anchor="start" x="469" y="-694.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FMoveToLocationAction</text>
 <text text-anchor="middle" x="534" y="-683.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -378,7 +378,7 @@
 </g>
 <!-- Node35 -->
 <g id="node36" class="node"><title>Node35</title>
-<g id="a_node36"><a xlink:href="a00771.html" target="_top" xlink:title=" ">
+<g id="a_node36"><a xlink:href="a00799.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="441,-638 441,-657 627,-657 627,-638 441,-638"/>
 <text text-anchor="middle" x="534" y="-645" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FNullActionStateConstructionInfo</text>
 </a>
@@ -391,7 +391,7 @@
 </g>
 <!-- Node36 -->
 <g id="node37" class="node"><title>Node36</title>
-<g id="a_node37"><a xlink:href="a33803.html" target="_top" xlink:title=" ">
+<g id="a_node37"><a xlink:href="a34027.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="462,-588.5 462,-618.5 606,-618.5 606,-588.5 462,-588.5"/>
 <text text-anchor="start" x="470" y="-606.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FPetSpawnActionState</text>
 <text text-anchor="middle" x="534" y="-595.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -405,7 +405,7 @@
 </g>
 <!-- Node37 -->
 <g id="node38" class="node"><title>Node37</title>
-<g id="a_node38"><a xlink:href="a22635.html" target="_top" xlink:title=" ">
+<g id="a_node38"><a xlink:href="a22787.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="466.5,-539.5 466.5,-569.5 601.5,-569.5 601.5,-539.5 466.5,-539.5"/>
 <text text-anchor="start" x="474.5" y="-557.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FPickupObjectAction</text>
 <text text-anchor="middle" x="534" y="-546.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -419,7 +419,7 @@
 </g>
 <!-- Node38 -->
 <g id="node39" class="node"><title>Node38</title>
-<g id="a_node39"><a xlink:href="a19399.html" target="_top" xlink:title=" ">
+<g id="a_node39"><a xlink:href="a19527.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="467.5,-490.5 467.5,-520.5 600.5,-520.5 600.5,-490.5 467.5,-490.5"/>
 <text text-anchor="start" x="475.5" y="-508.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FRepairObjectAction</text>
 <text text-anchor="middle" x="534" y="-497.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -433,7 +433,7 @@
 </g>
 <!-- Node39 -->
 <g id="node40" class="node"><title>Node39</title>
-<g id="a_node40"><a xlink:href="a19411.html" target="_top" xlink:title=" ">
+<g id="a_node40"><a xlink:href="a19539.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="462.5,-441.5 462.5,-471.5 605.5,-471.5 605.5,-441.5 462.5,-441.5"/>
 <text text-anchor="start" x="470.5" y="-459.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FShovelDigActionState</text>
 <text text-anchor="middle" x="534" y="-448.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -447,7 +447,7 @@
 </g>
 <!-- Node40 -->
 <g id="node41" class="node"><title>Node40</title>
-<g id="a_node41"><a xlink:href="a19427.html" target="_top" xlink:title=" ">
+<g id="a_node41"><a xlink:href="a19555.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="466,-392.5 466,-422.5 602,-422.5 602,-392.5 466,-392.5"/>
 <text text-anchor="start" x="474" y="-410.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FStunnedActionState</text>
 <text text-anchor="middle" x="534" y="-399.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -461,7 +461,7 @@
 </g>
 <!-- Node41 -->
 <g id="node42" class="node"><title>Node41</title>
-<g id="a_node42"><a xlink:href="a19431.html" target="_top" xlink:title=" ">
+<g id="a_node42"><a xlink:href="a19559.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="451.5,-343.5 451.5,-373.5 616.5,-373.5 616.5,-343.5 451.5,-343.5"/>
 <text text-anchor="start" x="459.5" y="-361.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FSwallowedByKrakenAction</text>
 <text text-anchor="middle" x="534" y="-350.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -475,7 +475,7 @@
 </g>
 <!-- Node42 -->
 <g id="node43" class="node"><title>Node42</title>
-<g id="a_node43"><a xlink:href="a22795.html" target="_top" xlink:title=" ">
+<g id="a_node43"><a xlink:href="a23219.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="458,-294.5 458,-324.5 610,-324.5 610,-294.5 458,-294.5"/>
 <text text-anchor="start" x="466" y="-312.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTakeControlActionState</text>
 <text text-anchor="middle" x="534" y="-301.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -489,7 +489,7 @@
 </g>
 <!-- Node43 -->
 <g id="node44" class="node"><title>Node43</title>
-<g id="a_node44"><a xlink:href="a19435.html" target="_top" xlink:title=" ">
+<g id="a_node44"><a xlink:href="a19563.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="459.5,-245.5 459.5,-275.5 608.5,-275.5 608.5,-245.5 459.5,-245.5"/>
 <text text-anchor="start" x="467.5" y="-263.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTalkToNPCActionState</text>
 <text text-anchor="middle" x="534" y="-252.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -503,7 +503,7 @@
 </g>
 <!-- Node44 -->
 <g id="node45" class="node"><title>Node44</title>
-<g id="a_node45"><a xlink:href="a19455.html" target="_top" xlink:title=" ">
+<g id="a_node45"><a xlink:href="a19583.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="467,-196.5 467,-226.5 601,-226.5 601,-196.5 467,-196.5"/>
 <text text-anchor="start" x="475" y="-214.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTeleportActionState</text>
 <text text-anchor="middle" x="534" y="-203.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -517,7 +517,7 @@
 </g>
 <!-- Node45 -->
 <g id="node46" class="node"><title>Node45</title>
-<g id="a_node46"><a xlink:href="a00783.html" target="_top" xlink:title=" ">
+<g id="a_node46"><a xlink:href="a00811.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="463,-147.5 463,-177.5 605,-177.5 605,-147.5 463,-147.5"/>
 <text text-anchor="start" x="471" y="-165.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTestActorActionState</text>
 <text text-anchor="middle" x="534" y="-154.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -531,7 +531,7 @@
 </g>
 <!-- Node46 -->
 <g id="node47" class="node"><title>Node46</title>
-<g id="a_node47"><a xlink:href="a22639.html" target="_top" xlink:title=" ">
+<g id="a_node47"><a xlink:href="a22791.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="466,-98.5 466,-128.5 602,-128.5 602,-98.5 466,-98.5"/>
 <text text-anchor="start" x="474" y="-116.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FUseItemActionState</text>
 <text text-anchor="middle" x="534" y="-105.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -545,7 +545,7 @@
 </g>
 <!-- Node47 -->
 <g id="node48" class="node"><title>Node47</title>
-<g id="a_node48"><a xlink:href="a19467.html" target="_top" xlink:title=" ">
+<g id="a_node48"><a xlink:href="a19595.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="453,-49.5 453,-79.5 615,-79.5 615,-49.5 453,-49.5"/>
 <text text-anchor="start" x="461" y="-67.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FWaitForDemoResetAction</text>
 <text text-anchor="middle" x="534" y="-56.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -559,7 +559,7 @@
 </g>
 <!-- Node48 -->
 <g id="node49" class="node"><title>Node48</title>
-<g id="a_node49"><a xlink:href="a19471.html" target="_top" xlink:title=" ">
+<g id="a_node49"><a xlink:href="a19599.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="459.5,-0.5 459.5,-30.5 608.5,-30.5 608.5,-0.5 459.5,-0.5"/>
 <text text-anchor="start" x="467.5" y="-18.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FWaitingToSpawnAction</text>
 <text text-anchor="middle" x="534" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -573,7 +573,7 @@
 </g>
 <!-- Node10 -->
 <g id="node11" class="node"><title>Node10</title>
-<g id="a_node11"><a xlink:href="a22783.html" target="_top" xlink:title=" ">
+<g id="a_node11"><a xlink:href="a23347.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="675,-1425.5 675,-1455.5 811,-1455.5 811,-1425.5 675,-1425.5"/>
 <text text-anchor="start" x="683" y="-1443.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FClamberActionState</text>
 <text text-anchor="middle" x="743" y="-1432.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -587,7 +587,7 @@
 </g>
 <!-- Node11 -->
 <g id="node12" class="node"><title>Node11</title>
-<g id="a_node12"><a xlink:href="a19143.html" target="_top" xlink:title=" ">
+<g id="a_node12"><a xlink:href="a19271.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="675,-1376.5 675,-1406.5 811,-1406.5 811,-1376.5 675,-1376.5"/>
 <text text-anchor="start" x="683" y="-1394.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FControlObjectAction</text>
 <text text-anchor="middle" x="743" y="-1383.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -601,7 +601,7 @@
 </g>
 <!-- Node17 -->
 <g id="node18" class="node"><title>Node17</title>
-<g id="a_node18"><a xlink:href="a19355.html" target="_top" xlink:title=" ">
+<g id="a_node18"><a xlink:href="a19483.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="669,-1303.5 669,-1333.5 817,-1333.5 817,-1303.5 669,-1303.5"/>
 <text text-anchor="start" x="677" y="-1321.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTransitionLadderAction</text>
 <text text-anchor="middle" x="743" y="-1310.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -615,7 +615,7 @@
 </g>
 <!-- Node20 -->
 <g id="node21" class="node"><title>Node20</title>
-<g id="a_node21"><a xlink:href="a19463.html" target="_top" xlink:title=" ">
+<g id="a_node21"><a xlink:href="a19591.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="670,-1254.5 670,-1284.5 816,-1284.5 816,-1254.5 670,-1254.5"/>
 <text text-anchor="start" x="678" y="-1272.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FUseLadderActionState</text>
 <text text-anchor="middle" x="743" y="-1261.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -629,7 +629,7 @@
 </g>
 <!-- Node12 -->
 <g id="node13" class="node"><title>Node12</title>
-<g id="a_node13"><a xlink:href="a19319.html" target="_top" xlink:title=" ">
+<g id="a_node13"><a xlink:href="a19447.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="863.5,-1523.5 863.5,-1553.5 997.5,-1553.5 997.5,-1523.5 863.5,-1523.5"/>
 <text text-anchor="start" x="871.5" y="-1541.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FControlPulleyAction</text>
 <text text-anchor="middle" x="930.5" y="-1530.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -643,7 +643,7 @@
 </g>
 <!-- Node13 -->
 <g id="node14" class="node"><title>Node13</title>
-<g id="a_node14"><a xlink:href="a19147.html" target="_top" xlink:title=" ">
+<g id="a_node14"><a xlink:href="a19275.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="853,-1474.5 853,-1504.5 1008,-1504.5 1008,-1474.5 853,-1474.5"/>
 <text text-anchor="start" x="861" y="-1492.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FDebugShipControlAction</text>
 <text text-anchor="middle" x="930.5" y="-1481.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -657,7 +657,7 @@
 </g>
 <!-- Node14 -->
 <g id="node15" class="node"><title>Node14</title>
-<g id="a_node15"><a xlink:href="a23327.html" target="_top" xlink:title=" ">
+<g id="a_node15"><a xlink:href="a23559.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="864.5,-1425.5 864.5,-1455.5 996.5,-1455.5 996.5,-1425.5 864.5,-1425.5"/>
 <text text-anchor="start" x="872.5" y="-1443.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FHideInObjectAction</text>
 <text text-anchor="middle" x="930.5" y="-1432.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -671,7 +671,7 @@
 </g>
 <!-- Node15 -->
 <g id="node16" class="node"><title>Node15</title>
-<g id="a_node16"><a xlink:href="a23371.html" target="_top" xlink:title=" ">
+<g id="a_node16"><a xlink:href="a23603.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="866.5,-1376.5 866.5,-1406.5 994.5,-1406.5 994.5,-1376.5 866.5,-1376.5"/>
 <text text-anchor="start" x="874.5" y="-1394.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FSittingActionState</text>
 <text text-anchor="middle" x="930.5" y="-1383.5" font-family="Helvetica,sans-Serif" font-size="10.00">ConstructionInfo</text>
@@ -685,7 +685,7 @@
 </g>
 <!-- Node16 -->
 <g id="node17" class="node"><title>Node16</title>
-<g id="a_node17"><a xlink:href="a21103.html" target="_top" xlink:title=" ">
+<g id="a_node17"><a xlink:href="a21235.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="853,-1327.5 853,-1357.5 1008,-1357.5 1008,-1327.5 853,-1327.5"/>
 <text text-anchor="start" x="861" y="-1345.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FTestControlObjectAction</text>
 <text text-anchor="middle" x="930.5" y="-1334.5" font-family="Helvetica,sans-Serif" font-size="10.00">StateConstructionInfo</text>
@@ -699,7 +699,7 @@
 </g>
 <!-- Node18 -->
 <g id="node19" class="node"><title>Node18</title>
-<g id="a_node19"><a xlink:href="a19359.html" target="_top" xlink:title=" ">
+<g id="a_node19"><a xlink:href="a19487.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="857.5,-1278.5 857.5,-1308.5 1003.5,-1308.5 1003.5,-1278.5 857.5,-1278.5"/>
 <text text-anchor="start" x="865.5" y="-1296.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FLinearTransitionLadder</text>
 <text text-anchor="middle" x="930.5" y="-1285.5" font-family="Helvetica,sans-Serif" font-size="10.00">ActionStateConstructionInfo</text>
@@ -713,7 +713,7 @@
 </g>
 <!-- Node19 -->
 <g id="node20" class="node"><title>Node19</title>
-<g id="a_node20"><a xlink:href="a19419.html" target="_top" xlink:title=" ">
+<g id="a_node20"><a xlink:href="a19547.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="857,-1229.5 857,-1259.5 1004,-1259.5 1004,-1229.5 857,-1229.5"/>
 <text text-anchor="start" x="865" y="-1247.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FSplineTransitionLadder</text>
 <text text-anchor="middle" x="930.5" y="-1236.5" font-family="Helvetica,sans-Serif" font-size="10.00">ActionStateConstructionInfo</text>
@@ -727,7 +727,7 @@
 </g>
 <!-- Node23 -->
 <g id="node24" class="node"><title>Node23</title>
-<g id="a_node24"><a xlink:href="a19335.html" target="_top" xlink:title=" ">
+<g id="a_node24"><a xlink:href="a19463.html" target="_top" xlink:title=" ">
 <polygon fill="none" stroke="black" points="671,-1205.5 671,-1235.5 815,-1235.5 815,-1205.5 671,-1205.5"/>
 <text text-anchor="start" x="679" y="-1223.5" font-family="Helvetica,sans-Serif" font-size="10.00">SDK::FLaunchedFromKraken</text>
 <text text-anchor="middle" x="743" y="-1212.5" font-family="Helvetica,sans-Serif" font-size="10.00">ActionStateConstructionInfo</text>

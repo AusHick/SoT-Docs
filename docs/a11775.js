@@ -1,9 +1,9 @@
 var a11775 =
 [
-    [ "StaticClass", "a11775.html#abc8f3e9f168037e7d6d507d0baccf2f1", null ],
-    [ "PermittedEventTypes", "a11775.html#a02423228a40704616da0850337fef3d6", null ],
-    [ "Settings", "a11775.html#a67359f923ee55957da3a34d8775f926e", null ],
-    [ "UnknownData00", "a11775.html#a6b9f540ccdda18df2cad4a2241ee24a0", null ],
-    [ "UnknownData01", "a11775.html#a01a838a698129211f3f8ce8d0003c775", null ],
-    [ "UnknownData02", "a11775.html#ae80e00f29fa1af56e6d7761f385bb856", null ]
+    [ "GetAllAtmosphericPressureZones", "a11775.html#a1ae016daa99052d48537bee019275c9b", null ],
+    [ "GetAtmosphericPressureZone", "a11775.html#a0ddc4d0139e8cf5ea3a5e86b99183370", null ],
+    [ "GetNumberOfAtmosphericPressureZones", "a11775.html#a09f0361b9e2d56a741f61aa577a2d0ac", null ],
+    [ "RegisterAtmosphericPressureZoneWithService", "a11775.html#a18b18906474ca054ecd19ef358149d4c", null ],
+    [ "StaticClass", "a11775.html#a0aefda6603d8d8cae2365d9f9884fc91", null ],
+    [ "UnregisterAtmosphericPressureZoneFromService", "a11775.html#ab4cb551bb50a1ea26ee7c5c9e8be6d62", null ]
 ];

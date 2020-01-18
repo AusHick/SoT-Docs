@@ -1,7 +1,4 @@
 var a10595 =
 [
-    [ "SpawnItem", "a10595.html#ae02a64f90a4526fcf45bd34b0075a42a", null ],
-    [ "SpawnItemAsWieldable", "a10595.html#a0ac2339fad13054623930eaaf59e111d", null ],
-    [ "SpawnProxyItem", "a10595.html#ab9a99938d3778bcc01ccb3c9986708ec", null ],
-    [ "StaticClass", "a10595.html#a81392f1fe0021cdda4f77eca77614adc", null ]
+    [ "StaticClass", "a10595.html#a454d1f71fc379dabeeb7de547393eefb", null ]
 ];

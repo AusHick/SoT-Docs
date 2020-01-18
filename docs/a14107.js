@@ -1,6 +1,7 @@
 var a14107 =
 [
-    [ "RepairableState", "a14107.html#a1c3345e19ce3c229237ab46f93c7e6fc", null ],
-    [ "RepairingList", "a14107.html#a1ff09122e7acdf3b21bd274895ca39c9", null ],
-    [ "UnknownData00", "a14107.html#a011e3d26f7a119104d8b647f26b6b650", null ]
+    [ "ReasonForScore", "a14107.html#a693007d3b1a80059d1c3716b50803fa9", null ],
+    [ "ScoreScrollScoringIcon", "a14107.html#afaca8caffc9f1a69b59e5c9dcd9ada1a", null ],
+    [ "ScoringIconAssetReference", "a14107.html#abeaf47abe4e39909ebde6dc6334d67b7", null ],
+    [ "UnknownData00", "a14107.html#a0dd4d8cc132fd53acd0cd465de236357", null ]
 ];

@@ -1,10 +1,15 @@
 var a24855 =
 [
-    [ "Centre", "a24855.html#a80a3d38c87f78eb9b815371bbd3bc93e", null ],
-    [ "Colour", "a24855.html#a3d29fe71e1256f48a19b9d5bb7d6af30", null ],
-    [ "Extents", "a24855.html#aa73e695267e72f84649aa5f331c2e376", null ],
-    [ "LifeTime", "a24855.html#abc1274ad8d63495a7f1925a300d80302", null ],
-    [ "Rotation", "a24855.html#a00c7ca789d63d2b887d8a790c9e42cf7", null ],
-    [ "UnknownData00", "a24855.html#ac0260075f9e06a283664c02a86928a8a", null ],
-    [ "UnknownData01", "a24855.html#a85db732e51aa3939c5870288e602388a", null ]
+    [ "CanProjectPointToNavigation", "a24855.html#ab4b61d333346fd9c39455dce31c47d0e", null ],
+    [ "CreateAISpawnerAtActor", "a24855.html#a28d712635f165b7835887a0aac64bf46", null ],
+    [ "CreateAISpawnerAtPosition", "a24855.html#a63c366b7091c6e59ce7b04f6f0530110", null ],
+    [ "DespawnAIPawn", "a24855.html#adde9eabc73be5972b8265ee1c5844dff", null ],
+    [ "EnableBehaviorTreeLogging", "a24855.html#a1dfa3f29fae0fa77dfabf90d3457aaf8", null ],
+    [ "EnableMaximumSightSettings", "a24855.html#ab45d8794ae98839373424d42fdef5b12", null ],
+    [ "GetEnvQueryManagerNumRunningQueries", "a24855.html#a3cd4e16a7ce280185f6b33dbacd448c8", null ],
+    [ "KillAllDebugAISpawners", "a24855.html#a82e357e7ea5d1de93ed7241dfda30b2a", null ],
+    [ "SetEnvQueryManagerMaxAllowedSeconds", "a24855.html#a8d011e64bfda4e766277d19624c02213", null ],
+    [ "SpawnAI", "a24855.html#aadfd34fd5518ac9c280431bac10fa0a4", null ],
+    [ "SpawnAIWithSettings", "a24855.html#ab1bd938e13b0e7e0a28ef9aa4f4b2849", null ],
+    [ "StaticClass", "a24855.html#adf74c3b7e206ada14326af12ce299a54", null ]
 ];

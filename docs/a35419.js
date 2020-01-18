@@ -1,32 +1,4 @@
 var a35419 =
 [
-    [ "GetDynamicMaterial", "a35419.html#afc9fd2b6699dcb04069697f52c4faa86", null ],
-    [ "SetBrush", "a35419.html#afb8acc7f69d9ed0e61db08cec09ad94a", null ],
-    [ "SetBrushColor", "a35419.html#a4ce9367dde73db40a808af4b156c8852", null ],
-    [ "SetBrushFromAsset", "a35419.html#acd96b36de0392577e4a492ee8ccc0997", null ],
-    [ "SetBrushFromMaterial", "a35419.html#a6319701818b89d2fbd915c8abb4bc253", null ],
-    [ "SetBrushFromTexture", "a35419.html#afe05aaeb439b754f1ad9a008b2bed19f", null ],
-    [ "SetContentColorAndOpacity", "a35419.html#a2d578d5e1d200e669ceca340cf62091a", null ],
-    [ "SetHorizontalAlignment", "a35419.html#a7031bb09f21e6f0d2026ea9e2c110177", null ],
-    [ "SetPadding", "a35419.html#a1da84525adcb0cec13d68791d366850f", null ],
-    [ "SetVerticalAlignment", "a35419.html#ac0bddb6c8d55edbc4972e793b44b5243", null ],
-    [ "StaticClass", "a35419.html#a148a5e4329e152a81924404056894430", null ],
-    [ "Background", "a35419.html#a90203947b7c7f6ca4ccfda5ad9abafda", null ],
-    [ "BackgroundDelegate", "a35419.html#ab508c7b79744cc53903c0e934f7ff7f8", null ],
-    [ "Brush", "a35419.html#acc66af7e9e128016e13616e8fc2b5a3c", null ],
-    [ "BrushColor", "a35419.html#a6e4c1d325b39bc916120c4c974f0de53", null ],
-    [ "BrushColorDelegate", "a35419.html#a9642397ad28429e954c1c0376d5d4069", null ],
-    [ "bShowEffectWhenDisabled", "a35419.html#a59917b8b3a75a46576380f5f4c24d857", null ],
-    [ "ContentColorAndOpacity", "a35419.html#aba393c43fb73ac983815f31c315c1313", null ],
-    [ "ContentColorAndOpacityDelegate", "a35419.html#a7b732eec67712795ef3aaed7c14c062b", null ],
-    [ "HorizontalAlignment", "a35419.html#a508b1dd61582aab2410909cf1bc39833", null ],
-    [ "OnMouseButtonDownEvent", "a35419.html#ad708ada9c62baf2fd4b7cb5aea6e070c", null ],
-    [ "OnMouseButtonUpEvent", "a35419.html#a42cd4e83e4be98316685206de3af54a0", null ],
-    [ "OnMouseDoubleClickEvent", "a35419.html#ace68388b383888d1f4b6df2d6b50f943", null ],
-    [ "OnMouseMoveEvent", "a35419.html#a66705eec3ab1c33ae21277fbf2be06ba", null ],
-    [ "Padding", "a35419.html#a47e19cf9d1faec6fb20179bda4875dde", null ],
-    [ "UnknownData00", "a35419.html#a5ce7d88bd0973277316e1d1544130140", null ],
-    [ "UnknownData01", "a35419.html#ad0e142fd3d724a6b52269ab06e5d5e54", null ],
-    [ "UnknownData02", "a35419.html#af68ade86eeadd8a8b0287a39c6f8359e", null ],
-    [ "VerticalAlignment", "a35419.html#ae6a34a9e9714490b4548fa39ac80c9e4", null ]
+    [ "StaticClass", "a35419.html#ab3da28fbf0a9f3d9433cc91128b0fcb5", null ]
 ];

@@ -1,11 +1,9 @@
 var a20839 =
 [
-    [ "AutoDetectedMachineSpec", "a20839.html#a158f336c7f57e6c5c3d78c836c52b48f", null ],
-    [ "AutoDetectedMaxVerticalResolution", "a20839.html#a430a1a5580b096b8ec2860928397a77c", null ],
-    [ "IsFullScreen", "a20839.html#abca7bdaf71cfdda35b5a81494fcc8d02", null ],
-    [ "ScreenHeight", "a20839.html#aee5e7a9cf9b86c20abe63f21d28bd54c", null ],
-    [ "ScreenWidth", "a20839.html#a3283f9bea4804b3aa6439fb6bf2d9582", null ],
-    [ "UnknownData00", "a20839.html#a88daa4c8946d1483aa0e4fba7f11c695", null ],
-    [ "WindowHeight", "a20839.html#a3fc8e08722d9d15cd274a25b0d9885f5", null ],
-    [ "WindowWidth", "a20839.html#a76eae123cbf451f1c454729e9c82f11c", null ]
+    [ "BootyId", "a20839.html#a6f971d7f508ba317e55e27c05fad71d8", null ],
+    [ "CompanyId", "a20839.html#a18c91fd8d05b260f6081dcca943fbda3", null ],
+    [ "PirateIdentity", "a20839.html#a8d1737a080cbd5181b857bb72e2b2cbb", null ],
+    [ "RequestID", "a20839.html#a19c630ff0fc5a80fe36ed9431419be34", null ],
+    [ "UnknownData00", "a20839.html#af119b9a8d647c22371de36f1e4d03dbc", null ],
+    [ "Xp", "a20839.html#abb5cf48c6148356161b0819bf19860c7", null ]
 ];

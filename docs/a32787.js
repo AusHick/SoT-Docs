@@ -1,10 +1,22 @@
 var a32787 =
 [
-    [ "DynamicsParams", "a32787.html#af3999b4ff55b9c08dfe7219f27534c18", null ],
-    [ "PortTentacleHeadLocations", "a32787.html#aa3b0e0f7a57988df5d026701719d2990", null ],
-    [ "StarboardTentacleHeadLocations", "a32787.html#aef53d41546f2feef4cca9b519047c3f8", null ],
-    [ "TentacleHeadHoldShipLocation", "a32787.html#a6764eaa56abffcf6931fed995773e815", null ],
-    [ "TentacleType", "a32787.html#a63ba1ae5827f5c8c83ce6e99da5df5de", null ],
-    [ "UnknownData00", "a32787.html#ad2892abf09ceb42a0253d65388e726d4", null ],
-    [ "WrapLocationAnchorPoint", "a32787.html#a0b7f034c2b4f0943da26fffe2a6ee333", null ]
+    [ "OnRep_CurrentServerAnimationState", "a32787.html#a234077942be2bf9d6b5f64b382fe48aa", null ],
+    [ "StaticClass", "a32787.html#aa7a889fb27aecc25b8a450ae0235462c", null ],
+    [ "AudioComponent", "a32787.html#a32f41a5c70e729ab92e21785840086ec", null ],
+    [ "CurrentServerAnimationState", "a32787.html#a5d4e4178ed4982352a7fe9f8a011f72f", null ],
+    [ "DamageZone", "a32787.html#af978031e4f47f5aac34874a9712a5b05", null ],
+    [ "HighDetailTentacleMesh", "a32787.html#a8e12f569b59a67deddec6779929e4ac0", null ],
+    [ "HighDetailTentacleMeshAsset", "a32787.html#a82dec0e17d4f0e68a528256fd2acdc78", null ],
+    [ "InteractableBlockingRegions", "a32787.html#a78d66e97a0b7c310613bd27ab8bee4c7", null ],
+    [ "KnockbackRegions", "a32787.html#a3817c03107c3f3d2aafc95ba28bfbb7f", null ],
+    [ "LowDetailTentacleMesh", "a32787.html#a581755e7a66e2a577ca5ca71c7ddbbb0", null ],
+    [ "Params", "a32787.html#aaedbb0bca706745ad30b160a4a8762d5", null ],
+    [ "PendingServerAnimationState", "a32787.html#a3ddd60ecccdae4203d4f2d7bca81e467", null ],
+    [ "SceneRoot", "a32787.html#af85300660a6ae64920b8b0a835dd8b2f", null ],
+    [ "TentacleCollisions", "a32787.html#aafdd58f6266f4996c26adc7c8ac6377a", null ],
+    [ "TentacleDynamicMaterialInstance", "a32787.html#a34f6aee3df7f9f9effa913b857b4657b", null ],
+    [ "TentacleHeadCollisions", "a32787.html#af43160a7d475300592052873afc916d9", null ],
+    [ "TentacleHeadKnockbackRegions", "a32787.html#ae0d6f02d6eb63218dc6deb1636b12883", null ],
+    [ "TentacleMesh", "a32787.html#aac853c00312d5a1373c9f22602ec3347", null ],
+    [ "UnknownData00", "a32787.html#a5f38bf65013fa7e4e0fcb0d654c2e427", null ]
 ];

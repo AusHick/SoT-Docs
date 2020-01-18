@@ -1,6 +1,6 @@
 var a15983 =
 [
-    [ "InnerRadius", "a15983.html#aabb9b5a19a3bcc0e229aba41db0d5c7f", null ],
-    [ "OuterRadius", "a15983.html#aed1ea36fecba6118512469eea0e5e06e", null ],
-    [ "Strength", "a15983.html#acb5cbad283f319b9acfd64e0b2fc6e05", null ]
+    [ "HitsChannel", "a15983.html#a8e79e010f7163f0949482dee1727470f", null ],
+    [ "MaxDistanceCheck", "a15983.html#a51fd490484bafb14e3b9cafcf8df0dee", null ],
+    [ "UnknownData00", "a15983.html#aa5fa16c8b56e51cd3c1d9d110042134d", null ]
 ];

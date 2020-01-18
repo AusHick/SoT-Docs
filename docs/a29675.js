@@ -1,6 +1,28 @@
 var a29675 =
 [
-    [ "StaticClass", "a29675.html#a301af02497923ab46e000d600e8cc981", null ],
-    [ "SoundGroupProfiles", "a29675.html#af9c7e904a5ed3fffe8f5cac1039d6119", null ],
-    [ "UnknownData00", "a29675.html#aaee9b9881c80b57075de19451e421a68", null ]
+    [ "StaticClass", "a29675.html#a46a363e1ea65585558039f96158438ef", null ],
+    [ "bClipSourceSegement", "a29675.html#a0fc4458a137f87f1005c3184da889588", null ],
+    [ "bDeadTrailsOnDeactivate", "a29675.html#a77c4924f62fce307bb947b1806d78d06", null ],
+    [ "bDeadTrailsOnSourceLoss", "a29675.html#aef2143f24ccc96251378a92f341e5f47", null ],
+    [ "bEnablePreviousTangentRecalculation", "a29675.html#a795fa237b994e26f18acdd354be79560", null ],
+    [ "bEnableTangentDiffInterpScale", "a29675.html#af5757ed4ab58ff127145ec21489407f4", null ],
+    [ "bRenderGeometry", "a29675.html#acd8f108248b5d96f1aba3a1d0c7325a7", null ],
+    [ "bRenderSpawnPoints", "a29675.html#a97e1e5d7aca6c9eeca6e15e1274f89a1", null ],
+    [ "bRenderTangents", "a29675.html#a17274105e30665f00365a9fd3e52048d", null ],
+    [ "bRenderTessellation", "a29675.html#adb5cd8e67cbad8327308a3f20aa178b9", null ],
+    [ "bSpawnInitialParticle", "a29675.html#afe802acde9c8bcd412fb05d0ede2865f", null ],
+    [ "bTangentRecalculationEveryFrame", "a29675.html#ac7ca881befe80dd569200cd2cf2c07a0", null ],
+    [ "DistanceTessellationStepSize", "a29675.html#a93c5ec1061d35612f559a19e103f4022", null ],
+    [ "MaxParticleInTrailCount", "a29675.html#aed773b1c7319af4b92de6cd729ce3154", null ],
+    [ "MaxTessellationBetweenParticles", "a29675.html#a7caf6d704f022dafe287a370ea63e4ba", null ],
+    [ "MaxTrailCount", "a29675.html#a7b42e454327a1907a23cc7c13a58b0de", null ],
+    [ "RenderAxis", "a29675.html#a20306c682f4fa42a6daa01ffa19c6ee1", null ],
+    [ "SheetsPerTrail", "a29675.html#a473b2649890baefcda8cc2a2ce078666", null ],
+    [ "TangentSpawningScalar", "a29675.html#acd5833f9bb1faa75bcf8252039e2937c", null ],
+    [ "TangentTessellationScalar", "a29675.html#ad131616c51823be8ad0d7ab046e2e907", null ],
+    [ "TilingDistance", "a29675.html#a6be6f06a2afdf6c850439ef3caee7d78", null ],
+    [ "UnknownData00", "a29675.html#a339a99837660babf95fe54ae34ab48bf", null ],
+    [ "UnknownData01", "a29675.html#ae00a59054aad111c5e646b4d79085c09", null ],
+    [ "UnknownData02", "a29675.html#ac642c86d31a0c46a3549ce6d92be1b92", null ],
+    [ "UnknownData03", "a29675.html#aeba42afe105c8d41d3ebd1d81cf3da23", null ]
 ];

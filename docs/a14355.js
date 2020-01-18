@@ -1,8 +1,15 @@
 var a14355 =
 [
-    [ "Deck", "a14355.html#a3a4517ffcf7f5c592bf2e64aa753e74e", null ],
-    [ "InternalHoleDecalOffset", "a14355.html#ae0d17cd027db0ec9e6ec5d8fea79dafc", null ],
-    [ "LeakAmount", "a14355.html#a146db8efd8a8a5c217870c5be4c2df69", null ],
-    [ "LeakParams", "a14355.html#a5c94f0159d130d42d2fca0f32bb7ea4c", null ],
-    [ "UnknownData00", "a14355.html#a552d0cd6a7e65258f492d98e81f75365", null ]
+    [ "LandIdleA", "a14355.html#a33b08ca2a4ea13bd969ffce6e68d3aed", null ],
+    [ "LandIdleB", "a14355.html#a377218ddd459957ac1ade13f86210874", null ],
+    [ "LandLocomotionA", "a14355.html#a03ca8c37e56ada12f2beb6b7ba07253d", null ],
+    [ "LandLocomotionB", "a14355.html#aed1765d1f87e2f95d12ae60eebb2816f", null ],
+    [ "SeaIdleA", "a14355.html#a1256d9e33a23654ce22880e9e0e77af8", null ],
+    [ "SeaIdleB", "a14355.html#a0e847a4088c7cc42e7a81a511ae94ce5", null ],
+    [ "SeaLocomotionA", "a14355.html#a23f8d35c497292610091bbdd9d48cc51", null ],
+    [ "SeaLocomotionB", "a14355.html#a0d4bf4cefffb6b8684d0c0bd504a41ee", null ],
+    [ "UnderwaterIdleA", "a14355.html#ac99fb5ec71cb9c7ef7a61f49c780e639", null ],
+    [ "UnderwaterIdleB", "a14355.html#aae9652f2cc9973687049aad55d483ac6", null ],
+    [ "UnderwaterLocomotionA", "a14355.html#ad54b2401fc915861a955b0ad327b63ca", null ],
+    [ "UnderwaterLocomotionB", "a14355.html#a9f41a3c094eaae4a5639e487aac00ade", null ]
 ];

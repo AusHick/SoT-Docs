@@ -1,7 +1,7 @@
 var a01607 =
 [
-    [ "StaticClass", "a01607.html#ae063422dd664a1a79e82d18c7c164cf2", null ],
-    [ "Ship", "a01607.html#a2ec8695dccbd73cf0525b16e389b1ede", null ],
-    [ "SpawnTargetShip", "a01607.html#a929f59e6281b7b54c40348923342595f", null ],
-    [ "UnknownData00", "a01607.html#a1579e3c9bf6b48bc63f3019650b27b41", null ]
+    [ "StaticClass", "a01607.html#a9a84b836b6123c4db933de191aa92255", null ],
+    [ "Battles", "a01607.html#a618886a05fb88f29b7e5cb2c6795d797", null ],
+    [ "EncounterCompleteText", "a01607.html#a05f8a4dded67ca56c6b87b7d1171a325", null ],
+    [ "SkellyCrewNames", "a01607.html#a2be2f4fb670264d43030ad1ffb0b32e7", null ]
 ];

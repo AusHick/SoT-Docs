@@ -1,9 +1,9 @@
 var a12959 =
 [
-    [ "Action", "a12959.html#a687a6fd1304cd776bf9707b299452f6f", null ],
-    [ "ActionVariant1", "a12959.html#a833ce7d34b458435b126e1a3a18cbbc9", null ],
-    [ "ActionVariant2", "a12959.html#afdebde315eeba94e9154a50bdfd3a1cf", null ],
-    [ "ActionVariant3", "a12959.html#a1eb138180f55bdb9afcdec88b6bfd9bf", null ],
-    [ "ActionVariant4", "a12959.html#ac81a63ae80424b95556bbe37e9b21e5c", null ],
-    [ "Fail", "a12959.html#adf5cef50b842b3139456549d2cc64499", null ]
+    [ "Action1", "a12959.html#a76a1135ea37c1e111f2100f631290a83", null ],
+    [ "Action1Water", "a12959.html#a0a3ab8902032439a0c9388ea672907b0", null ],
+    [ "Action2", "a12959.html#ae4e1f09e74f703a8f342fa9745850773", null ],
+    [ "Action2Water", "a12959.html#a8db0ecbbf8c6c8a66dc10d9ea0ebe373", null ],
+    [ "StandardPassive", "a12959.html#a716693f7987dcb342be4ee5328d58f51", null ],
+    [ "StandardWater", "a12959.html#af47e541935df7296bfb4a47ec180c11b", null ]
 ];

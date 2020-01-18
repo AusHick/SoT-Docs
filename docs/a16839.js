@@ -1,4 +1,4 @@
 var a16839 =
 [
-    [ "Rotation", "a16839.html#a972d75cdfbd84845a4bc118a8cce3d70", null ]
+    [ "PlayOnTeleportBeginSounds", "a16839.html#ace971472f3dfe731a90c98026cbd44d4", null ]
 ];

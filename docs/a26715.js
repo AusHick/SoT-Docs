@@ -1,7 +1,6 @@
 var a26715 =
 [
-    [ "StaticClass", "a26715.html#a16a1e09e1d7c448408ca4841fbb7d2e7", null ],
-    [ "bEnabled", "a26715.html#a097fe0839cec2ca1d956dddfd0f6e40e", null ],
-    [ "CullDistances", "a26715.html#ac25b47314e64fc4f8f222f1f03c2ad22", null ],
-    [ "UnknownData00", "a26715.html#afa1dbb0d93b7cacdf0e9c1687e343c7f", null ]
+    [ "StaticClass", "a26715.html#ae925baf5a716e5ba05fa55b5965d999f", null ],
+    [ "ClassType", "a26715.html#ab4585fcf17081a04a6fda9a8386b2dd7", null ],
+    [ "Entries", "a26715.html#a387d324355f2ee7129605330045fd59f", null ]
 ];

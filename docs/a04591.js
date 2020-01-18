@@ -1,9 +1,9 @@
 var a04591 =
 [
-    [ "OnDisengageInput", "a04591.html#a5214dd6a802ebf7ba1f105610108794d", null ],
-    [ "OnMoveForward", "a04591.html#a9db9c6be4cad2711870b4dba7f98c14f", null ],
-    [ "OnMoveRight", "a04591.html#a3c9f6524798ae5876e7ece420426c09a", null ],
-    [ "OnRightTrigger", "a04591.html#ab8318a7f53a7ed423bad99252c71e1e4", null ],
-    [ "StaticClass", "a04591.html#a0278ea4a514459f4085c7c3ecdac015a", null ],
-    [ "UnknownData00", "a04591.html#ac0b4e64fd18a39b076b939273588b02e", null ]
+    [ "Server_RequestSetRuddersAngleRatio", "a04591.html#a64bef96e6f8449b62af365bf743e5a2e", null ],
+    [ "Server_RequestToggleAnchorState", "a04591.html#a9b867cc543dbd99b9fcd13b0966b6877", null ],
+    [ "Server_RequestUpdateSailsAngle", "a04591.html#ab8f0bdad3404de2a0af1bfd797da99f7", null ],
+    [ "Server_RequestUpdateSailsLowered", "a04591.html#a6a2fca2f8e55703a555b9e463d971b00", null ],
+    [ "StaticClass", "a04591.html#a6f7e8e949025225b4f68775289faa245", null ],
+    [ "ControlledActor", "a04591.html#ab25ee7592d369e34ab77a2694c5aa0f5", null ]
 ];

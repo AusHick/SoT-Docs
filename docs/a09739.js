@@ -1,6 +1,5 @@
 var a09739 =
 [
-    [ "StaticClass", "a09739.html#afcaf6de90b27a975533002be2b1864ed", null ],
-    [ "ContestSafeZone", "a09739.html#ae9478c261eefa40d0bc3415e3a7c03f2", null ],
-    [ "ParentContestZone", "a09739.html#abba6eb6a089e684f0011b6d605e3cdbf", null ]
+    [ "StaticClass", "a09739.html#a95a5edf9ba8d096bd823ca2ece132f27", null ],
+    [ "UnknownData00", "a09739.html#a56d03269f1dbf2a23d569741afe67f3f", null ]
 ];

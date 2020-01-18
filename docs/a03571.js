@@ -1,6 +1,6 @@
 var a03571 =
 [
-    [ "StaticClass", "a03571.html#a533ef799d0e8b2ad45cc6496ea1e3233", null ],
-    [ "ConsumableWieldable", "a03571.html#afe51cde767f445c2aff165398c18a01c", null ],
-    [ "UnknownData00", "a03571.html#ab3c9092004d4beac2b0c33e866ac922e", null ]
+    [ "RemoveBuriedActor", "a03571.html#a65786bc76c031331fcb1bfc29063e423", null ],
+    [ "StaticClass", "a03571.html#a017d8be896127e5c1d98ac571358c710", null ],
+    [ "UnknownData00", "a03571.html#a6c5be74c874c42b209183195a6ef607a", null ]
 ];

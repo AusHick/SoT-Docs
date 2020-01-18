@@ -1,8 +1,15 @@
 var a09223 =
 [
-    [ "StaticClass", "a09223.html#aebcc6fb7790a1f218b0ce15deae686ac", null ],
-    [ "UnregisterActor", "a09223.html#a1b438bf9ba0331b9289e109598bd48b8", null ],
-    [ "ActorsAwaitingRegistration", "a09223.html#a4535d8e2d58b419419e74e2a91913ae9", null ],
-    [ "UnknownData00", "a09223.html#a06ef95c78f8f3338b5b2df3c84e461d2", null ],
-    [ "UnknownData01", "a09223.html#ab63f95184a1b23bf3d6d9965d536639d", null ]
+    [ "OnRep_Contents", "a09223.html#aaf997ea83919fd9d8343ce81ea2ac65e", null ],
+    [ "OnTextCanvasUpdate", "a09223.html#a42c216678ab333756f839f583ee8a752", null ],
+    [ "RefreshContents", "a09223.html#a7c7e9a2f5b896b239ccb996fac3f8b29", null ],
+    [ "StaticClass", "a09223.html#aef4b0e2228d80990961e096927d9d9de", null ],
+    [ "Contents", "a09223.html#a307997595585f180fe66cc9e0b17bbd9", null ],
+    [ "Font", "a09223.html#a533cb8924b731cf6cbc096f630db0454", null ],
+    [ "FontLineSpacingScale", "a09223.html#a73bcd434a0102fa13d3f9f54bce058df", null ],
+    [ "FontScale", "a09223.html#ad396d4c1bd030acf4758fd5920e5bdff", null ],
+    [ "MerchantMapLayout", "a09223.html#a41de01af88b5138016e1ed026301915f", null ],
+    [ "TextRenderTarget", "a09223.html#accca5e6ea15af0162283fd4b09bc60e8", null ],
+    [ "UnknownData00", "a09223.html#a01c0132d14451e0b9ee2ea25ce4b1d38", null ],
+    [ "UnknownData01", "a09223.html#af13754b712971ec05eea10d7d19e841b", null ]
 ];

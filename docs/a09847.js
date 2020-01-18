@@ -1,5 +1,4 @@
 var a09847 =
 [
-    [ "OnHitReactionImpact", "a09847.html#aebf18e28b2b080b81a3592fd1ab114a3", null ],
-    [ "StaticClass", "a09847.html#a4214cd1fe2abbd070928e82d8a2de863", null ]
+    [ "StaticClass", "a09847.html#aa9075fcf49262a7d743ec4525d22a4a6", null ]
 ];

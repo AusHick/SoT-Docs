@@ -1,9 +1,7 @@
 var a13339 =
 [
-    [ "GroupName", "a13339.html#a09263788ddcdbfcaed7e2a660c21ee95", null ],
-    [ "MaxDifferent", "a13339.html#a73d26d1518826f2be654aa86cd0b27d9", null ],
-    [ "MaxNum", "a13339.html#a3bbf15508918bf8d7ac7df765ee650c5", null ],
-    [ "MinDifferent", "a13339.html#a2256cd720bb726b7eb2a9739410263dd", null ],
-    [ "MinNum", "a13339.html#ae4f300fc175b40651b131a4c8a683edf", null ],
-    [ "Weight", "a13339.html#a4178177ca6c7d3d5d64fc909187e97e5", null ]
+    [ "bAttachParticlesToShovel", "a13339.html#a3368b796a72f32715a1a6400030cc3c5", null ],
+    [ "Particles", "a13339.html#a13016fac010d4003ebf78f4f3307a467", null ],
+    [ "Rumble", "a13339.html#aa4810048ce94f87b0aa6745196f0ead9", null ],
+    [ "UnknownData00", "a13339.html#a4fd00587edab59c405ee536a4c1aaa8c", null ]
 ];

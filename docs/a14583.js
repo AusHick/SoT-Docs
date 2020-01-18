@@ -1,5 +1,4 @@
 var a14583 =
 [
-    [ "Slots", "a14583.html#a55b3d1d6df7259cb8999b1e80ab70c87", null ],
-    [ "WeaponSlots", "a14583.html#a67232fa356b463df306c94149dc817a9", null ]
+    [ "LookAtOffsetParams", "a14583.html#a2e710dfa9e9133da9a2d56c0e72a9194", null ]
 ];

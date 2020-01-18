@@ -1,4 +1,5 @@
 var a15463 =
 [
-    [ "Targets", "a15463.html#adb055e1f7a6dbff825c000337255ac6a", null ]
+    [ "InitialEntitlements", "a15463.html#a33c96bf9be81f1df2f61295b4b4b1488", null ],
+    [ "Parts", "a15463.html#ad63b9e4008717b0ce137613339a8205c", null ]
 ];

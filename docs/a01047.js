@@ -1,8 +1,10 @@
 var a01047 =
 [
-    [ "StaticClass", "a01047.html#a0279d28c38f9dd144c4caeae3a874b04", null ],
-    [ "bHasSynchronizedKeys", "a01047.html#afa895ca2204e2aabe6170cc30f65a10b", null ],
-    [ "Keys", "a01047.html#a70970e681d57a86e3d831c9016bf1ab4", null ],
-    [ "Parent", "a01047.html#a449da60cc9577b2b061fd2212a73a324", null ],
-    [ "UnknownData00", "a01047.html#ab65f4f3392cf957f371afc97505150f9", null ]
+    [ "RestartLogic", "a01047.html#ad3720a1798ceb737f6729b8675562f6e", null ],
+    [ "StaticClass", "a01047.html#aef4e201441925491e28c277944c27c69", null ],
+    [ "StopLogic", "a01047.html#ab4ae3d9f95a95999bd523626ad3a69f6", null ],
+    [ "AIOwner", "a01047.html#afc015d944d991fe88137829b7bb4002c", null ],
+    [ "BlackboardComp", "a01047.html#a41a310ef251c807f8e5105b35ace6a9c", null ],
+    [ "UnknownData00", "a01047.html#ad1ccedd66853f7a15685409e6638ec95", null ],
+    [ "UnknownData01", "a01047.html#a0e5b5a50239635c857d27bcbca705bc6", null ]
 ];

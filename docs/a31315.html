@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPresortedBillboardsParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FDestructibleDamageParameters Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,54 @@ $(document).ready(function(){initNavTree('a31315.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31312.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPresortedBillboardsParams Struct Reference</div>  </div>
+<div class="title">SDK::FDestructibleDamageParameters Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPresortedBillboardsParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDestructibleDamageParameters:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31313.svg" width="519" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31313.svg" width="100%" height="515"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a82247514244dce6b2d9332085e805f8b"><td class="memItemLeft" align="right" valign="top"><a id="a82247514244dce6b2d9332085e805f8b"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EPresortedBillboardsMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Mode</b></td></tr>
-<tr class="separator:a82247514244dce6b2d9332085e805f8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6cc8422277c0bf0e9bf64991286688b4"><td class="memItemLeft" align="right" valign="top"><a id="a6cc8422277c0bf0e9bf64991286688b4"></a>
+<tr class="memitem:ac0b2f030779217f33d4b39f11849bab3"><td class="memItemLeft" align="right" valign="top"><a id="ac0b2f030779217f33d4b39f11849bab3"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DamageThreshold</b></td></tr>
+<tr class="separator:ac0b2f030779217f33d4b39f11849bab3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb8f23012a4c899d02770a8b15b9cd98"><td class="memItemLeft" align="right" valign="top"><a id="abb8f23012a4c899d02770a8b15b9cd98"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DamageSpread</b></td></tr>
+<tr class="separator:abb8f23012a4c899d02770a8b15b9cd98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc9182d03a319ed610aa0f21d9e6a942"><td class="memItemLeft" align="right" valign="top"><a id="adc9182d03a319ed610aa0f21d9e6a942"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableImpactDamage</b></td></tr>
+<tr class="separator:adc9182d03a319ed610aa0f21d9e6a942"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d3e7b3a268643d772abdbc3ee1db501"><td class="memItemLeft" align="right" valign="top"><a id="a2d3e7b3a268643d772abdbc3ee1db501"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a6cc8422277c0bf0e9bf64991286688b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae45223067eb225d0ade7a33240f9b7d3"><td class="memItemLeft" align="right" valign="top"><a id="ae45223067eb225d0ade7a33240f9b7d3"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>NumDirections</b></td></tr>
-<tr class="separator:ae45223067eb225d0ade7a33240f9b7d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a2d3e7b3a268643d772abdbc3ee1db501"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fb8b741af248f4c055d93e22c0200b9"><td class="memItemLeft" align="right" valign="top"><a id="a9fb8b741af248f4c055d93e22c0200b9"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactDamage</b></td></tr>
+<tr class="separator:a9fb8b741af248f4c055d93e22c0200b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad66514666407b9cc1d14a9d95424fd1a"><td class="memItemLeft" align="right" valign="top"><a id="ad66514666407b9cc1d14a9d95424fd1a"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultImpactDamageDepth</b></td></tr>
+<tr class="separator:ad66514666407b9cc1d14a9d95424fd1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc75aeca839ddface2e035369ac407ed"><td class="memItemLeft" align="right" valign="top"><a id="acc75aeca839ddface2e035369ac407ed"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bCustomImpactResistance</b></td></tr>
+<tr class="separator:acc75aeca839ddface2e035369ac407ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af271c1436423d32c734572baa4c06e28"><td class="memItemLeft" align="right" valign="top"><a id="af271c1436423d32c734572baa4c06e28"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:af271c1436423d32c734572baa4c06e28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70c59fc78c2665b539da49e7e660cdce"><td class="memItemLeft" align="right" valign="top"><a id="a70c59fc78c2665b539da49e7e660cdce"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactResistance</b></td></tr>
+<tr class="separator:a70c59fc78c2665b539da49e7e660cdce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31315.html">FPresortedBillboardsParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:28 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31315.html">FDestructibleDamageParameters</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:35 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

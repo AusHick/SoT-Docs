@@ -1,4 +1,4 @@
 var a21367 =
 [
-    [ "Loadout", "a21367.html#a40ccfeb19df1f890165aea25c98c83dd", null ]
+    [ "ItemDesc", "a21367.html#a8a37098872879bde564020ca685b39db", null ]
 ];

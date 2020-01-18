@@ -1,4 +1,5 @@
 var a16971 =
 [
-    [ "Message", "a16971.html#a2c0124cedfa6438e0e6b02cb9578f0da", null ]
+    [ "SpawnedFXObjects", "a16971.html#a681211d403c6f268c55cacb26ca5883a", null ],
+    [ "UnknownData00", "a16971.html#a205798951ca67d6f62828e7afed06627", null ]
 ];

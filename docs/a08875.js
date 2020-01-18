@@ -1,5 +1,5 @@
 var a08875 =
 [
-    [ "StaticClass", "a08875.html#ab0744a31f425fcf8929626cb7a2d3a34", null ],
-    [ "EnchantedSpyglassDesc", "a08875.html#aff409cc67d43797ae3916637ff5d8503", null ]
+    [ "StaticClass", "a08875.html#a865a7ade298d1e735b7ccc95f8d00b09", null ],
+    [ "RankRequirements", "a08875.html#a8a8c99b96963eb3f137e380b10b9256a", null ]
 ];

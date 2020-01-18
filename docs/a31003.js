@@ -1,6 +1,7 @@
 var a31003 =
 [
-    [ "Height", "a31003.html#ade229efbe592d2b64d02f0d168114ec7", null ],
-    [ "Offset", "a31003.html#a3117de6ee589ce0f5a3bd86abd95e746", null ],
-    [ "Radius", "a31003.html#afca3fb692478cb214d4fb58f34050432", null ]
+    [ "Direction", "a31003.html#a1970f89122e2ac1d1b12f3e2629614f6", null ],
+    [ "ItemName", "a31003.html#afa826898c51a7342e3fc871e5e0c5da4", null ],
+    [ "PolyFlags", "a31003.html#a8316252e7ae66e14a3a88bbdebcdb713", null ],
+    [ "VertexIndices", "a31003.html#ad1f0aeb1d27967061b2186a090b010a0", null ]
 ];

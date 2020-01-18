@@ -1,5 +1,6 @@
 var a15399 =
 [
-    [ "Base", "a15399.html#a7886b85408a910e5ac4cef008400fdc2", null ],
-    [ "MaxVariance", "a15399.html#aa1bf1307aeab74d3da37a8d8e1486c74", null ]
+    [ "FailureReason", "a15399.html#ada9de53e94e21afcbae79620643fa967", null ],
+    [ "RequestID", "a15399.html#aa5b22e1758ab2d26f511cdc565918748", null ],
+    [ "UnknownData00", "a15399.html#a9e8c2ca0881a28c4a43483268780bbe5", null ]
 ];

@@ -1,4 +1,5 @@
 var a19063 =
 [
-    [ "StreamingStatuses", "a19063.html#a38a12fe20f766e78285ecbc2420aeb51", null ]
+    [ "EstimatedWaitTime", "a19063.html#a0d3176855f600ce3a20e3edec04e3470", null ],
+    [ "RetryAfter", "a19063.html#afe39868963027ce448c88752d7a9ed18", null ]
 ];

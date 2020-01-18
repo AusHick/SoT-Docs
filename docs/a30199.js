@@ -1,14 +1,9 @@
 var a30199 =
 [
-    [ "Actor", "a30199.html#a435faa7f1a4ab9e03392abc437c514b9", null ],
-    [ "Color", "a30199.html#a5abd79102fe10912ffc21417272f7977", null ],
-    [ "EmitterPoints", "a30199.html#ab5396c89d42e8c2d0dba7337c78400b7", null ],
-    [ "Material", "a30199.html#a6a127d9866ff7737ccea566cca28af88", null ],
-    [ "Name", "a30199.html#a2b3af3e6cb2315eeb117c88a13653b06", null ],
-    [ "ParamType", "a30199.html#ae2309d4db86176dcb16ed69deb4ccc24", null ],
-    [ "Scalar", "a30199.html#a67dd75f6be55508e2052557fc21d460a", null ],
-    [ "Scalar_Low", "a30199.html#a459ad4d7eafbacd58ef3bb2bb12d435f", null ],
-    [ "UnknownData00", "a30199.html#abd1c6963c394212eff0d4a4053f4bc07", null ],
-    [ "Vector", "a30199.html#a93c2901b6d2e054f351fef6e92e660f2", null ],
-    [ "Vector_Low", "a30199.html#a97b009c90b5b423ec91cc43171921a79", null ]
+    [ "bCanCrouch", "a30199.html#ae2a5a272a31442dd7ef998fd97c7fd15", null ],
+    [ "bCanFly", "a30199.html#ae8d4c3d837c12ff3fbcd538513c92941", null ],
+    [ "bCanJump", "a30199.html#a94a9d7adc19bf1321747247f87f90b90", null ],
+    [ "bCanSwim", "a30199.html#a2c4437113143dcf107ddf29d9fe7debd", null ],
+    [ "bCanWalk", "a30199.html#a4b44af8cb33dc08854194a0b568f1129", null ],
+    [ "UnknownData00", "a30199.html#a54e27a6c80e870faa0de2598363e9dfc", null ]
 ];

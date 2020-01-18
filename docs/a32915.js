@@ -1,7 +1,7 @@
 var a32915 =
 [
-    [ "BaseRadius", "a32915.html#a97ba4c32907ca1c2a0cdfa4c460341db", null ],
-    [ "CalculateGeometricCentroidOffsetRelativeToBoundingSphereCentroid", "a32915.html#adf1db51296c86f2ec0627f8f0b5fddf9", null ],
-    [ "StaticClass", "a32915.html#adb21ce79abfc55a3b2760e7474faf1bf", null ],
-    [ "Volume", "a32915.html#a52b8428a892ec18ce2371b3512b23b87", null ]
+    [ "BranchAnimationTimeRemaining", "a32915.html#ac988e46a0796ee992c33d119e85a5bf4", null ],
+    [ "FromState", "a32915.html#ad3aeceecca74ad5ad00e5efab8bace71", null ],
+    [ "TransitionAnimations", "a32915.html#ae054166cbc29aca1d28e2187cf13836c", null ],
+    [ "UnknownData00", "a32915.html#af3fd1723bfa2a21eb45911242a75a982", null ]
 ];

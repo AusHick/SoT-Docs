@@ -1,9 +1,11 @@
 var a29395 =
 [
-    [ "StaticClass", "a29395.html#a973347c3fbf9feb967d09b7a2f9f7993", null ],
-    [ "LifeMultiplier", "a29395.html#a09489d8a5f5a1874e0d7f84b46981165", null ],
-    [ "MultiplyX", "a29395.html#a15083912c12a78fe2270d4fbf92c18f9", null ],
-    [ "MultiplyY", "a29395.html#ae96dea6efd6e9637beb30d01c664df65", null ],
-    [ "MultiplyZ", "a29395.html#ab6390d318f8611163655ebc29b874f33", null ],
-    [ "UnknownData00", "a29395.html#ab25565952dbaf7a785645d9b31ac5fa8", null ]
+    [ "StaticClass", "a29395.html#a0f3132e690d7a660812428c21ff6886b", null ],
+    [ "AdditionalStartLocations", "a29395.html#ac5118c0e9046c3781caaccc1c38c7953", null ],
+    [ "DistributeOverNPoints", "a29395.html#aa02275529a3bffc7eb5e716c67f29ef9", null ],
+    [ "DistributeThreshold", "a29395.html#a957be91c87814c8448d0155fcc91dceb", null ],
+    [ "StartLocation", "a29395.html#ae9a431378ed03f44a71657e9b090c4d2", null ],
+    [ "StartLocationUseGroupAForAll", "a29395.html#aa9b4eca59cb962af3cfdaccefdd0d6a0", null ],
+    [ "UnknownData00", "a29395.html#a3868b55adecee2e8bc7a7e2123b782ed", null ],
+    [ "UnknownData01", "a29395.html#ad71ba58e4d3e31a611026f0220122f54", null ]
 ];

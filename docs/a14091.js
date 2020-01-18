@@ -1,7 +1,9 @@
 var a14091 =
 [
-    [ "IsLocked", "a14091.html#a2f8ec6390c1e9a636d7072e07f71c150", null ],
-    [ "SessionId", "a14091.html#aec0373ad21c17e0c591f0bfe30e68131", null ],
-    [ "UnknownData00", "a14091.html#a35a07247938415316e44c021edb6365d", null ],
-    [ "Votes", "a14091.html#af5d620a123a9c14db9b428a970e3ec74", null ]
+    [ "ReasonForScore", "a14091.html#a23f9abc6178b027ae6767693198615de", null ],
+    [ "ScoreByPeriod", "a14091.html#ab1b1499eb8fb19efa842d4c5e85d6d5b", null ],
+    [ "ScoreToAward", "a14091.html#ac04b18c9e989be3d4bd73d180a3f4451", null ],
+    [ "ServicesConfigRetrievalString", "a14091.html#ae676281625230e7bc13fc2b8fc07d22d", null ],
+    [ "UnknownData00", "a14091.html#acb958254015f9dc1cbd0ca01f81640c3", null ],
+    [ "UnknownData01", "a14091.html#a0344d7a6c0e95bf4a50ce10fa6fd5d8e", null ]
 ];

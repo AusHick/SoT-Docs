@@ -1,5 +1,5 @@
 var a14127 =
 [
-    [ "Classes", "a14127.html#a76845e1e2482af6282786fe5bbc959ea", null ],
-    [ "DiggingEffectsConfig", "a14127.html#acb06d71123cde2ef7f6016c4c9ae2d7e", null ]
+    [ "CrewId", "a14127.html#a0de702c9238e97091b45412f19f08996", null ],
+    [ "Ship", "a14127.html#a90f98036f3c3adff1d6f3ca7d2744cf1", null ]
 ];

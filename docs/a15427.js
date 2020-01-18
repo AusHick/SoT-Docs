@@ -1,7 +1,9 @@
 var a15427 =
 [
-    [ "StaggerAmplitudeModifierX", "a15427.html#a1d44a24fd2b09710df32c4e968e8f017", null ],
-    [ "StaggerAmplitudeModifierY", "a15427.html#aa50b5c9f71df74a86b0346869730a3f1", null ],
-    [ "StaggerSpeedModifierX", "a15427.html#a04cbbcee659d8a873820f13aa56d2c5f", null ],
-    [ "StaggerSpeedModifierY", "a15427.html#a64869041ff80a791e4a7f5a4d9cec601", null ]
+    [ "BeginInvis", "a15427.html#ad55b400eb81c607121370a81df01534d", null ],
+    [ "InvisTime", "a15427.html#ad32f2bf554883b786e50e90f33e6cd09", null ],
+    [ "SkipAnimTimeCheck", "a15427.html#a93ee40bdbeb32e80f4e397416ad023b2", null ],
+    [ "SpawnTimeMax", "a15427.html#a46a22563d09848e56f22f2f97a8b2dba", null ],
+    [ "UnknownData00", "a15427.html#ac8666b9059a5b47f2e10491b39e7921b", null ],
+    [ "UnknownData01", "a15427.html#a6b223a7fe55c9fb9677e974b5187657a", null ]
 ];

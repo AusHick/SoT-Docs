@@ -1,11 +1,22 @@
 var a06395 =
 [
-    [ "CreateAndSetHingeTransform", "a06395.html#a74f09973f46dd7a023e7b936771cb29f", null ],
-    [ "GetHingeTransformBP", "a06395.html#a3d23bc22db30a2a0d2db10ef266911e6", null ],
-    [ "GetTransformRelativeToTheHinge", "a06395.html#a38e9eedce5848cf3cda81836a0e4991d", null ],
-    [ "RotateTransformAroundTheHinge", "a06395.html#a7ad6b7a9991c7359e006ba87f1572c42", null ],
-    [ "SetHingeTransform", "a06395.html#a5a612e641947105a8bd1693616816c12", null ],
-    [ "StaticClass", "a06395.html#afc2a26d6ee3d88833e03557c81398a97", null ],
-    [ "OnHingeTransformChanged", "a06395.html#abd4e1d464257ce048adc21fd375375cc", null ],
-    [ "UnknownData00", "a06395.html#a0218e69f20ed36901fcc4eed2344b522", null ]
+    [ "Client_RequestAttackResponse", "a06395.html#a855da638907b7761810991cdf1595b75", null ],
+    [ "Multicast_TriggerAttack", "a06395.html#a4245526cd9d2a57ee55dddfdf8b13d85", null ],
+    [ "OnBlockedAttack", "a06395.html#a64f07851f4e737d7e21d1adcd2965b15", null ],
+    [ "Server_RequestAttack", "a06395.html#a74567fa731b86ce11a3c6798e1f28dd5", null ],
+    [ "StaticClass", "a06395.html#a223cd0a1f978821c67d5a33e07f47f28", null ],
+    [ "CanUseWeaponToBlock", "a06395.html#a1766b00c11b41c4ef20d3257f219e3b4", null ],
+    [ "DataAsset", "a06395.html#a0cef94b48f3ae78526246ab24ebacbee", null ],
+    [ "InventoryItem", "a06395.html#a6e2905f2a359ddd3946848431e2fe87e", null ],
+    [ "MaxAcceptableAttackLocationDelta", "a06395.html#ab9656659f954ad9dbc7479980e1cc2fb", null ],
+    [ "MaxAcceptableAttackLocationOnShipDelta", "a06395.html#a9180afa6a206ddb3cf1ca6ae861f4e14", null ],
+    [ "MaxAcceptableAttackShipVelocityForLocation", "a06395.html#aa6535b42a584cb2ba7202faac05fc754", null ],
+    [ "MaxAcceptableAttackTimeStampDelta", "a06395.html#a66a064181ca3e35ddfbd3dfdfbb4e4e8", null ],
+    [ "NamedNotificationInputComponent", "a06395.html#a16192bfcc95b6e683d3a8f7816010270", null ],
+    [ "TrailParticleSystem_FP", "a06395.html#a8805a3d56f74bddf9599c00163a5d4ad", null ],
+    [ "TrailParticleSystem_TP", "a06395.html#a9c389dbaca4fea366e090897d8606933", null ],
+    [ "UnknownData00", "a06395.html#a8ebe22aa0844ed8f0b7a3993bd073d8f", null ],
+    [ "UnknownData01", "a06395.html#a858a285474ee5d696b674d832423b169", null ],
+    [ "UnknownData02", "a06395.html#a89e704539d2e90e385fe066df0ff64bf", null ],
+    [ "WieldersAttackProcessor", "a06395.html#a070562df3f20db15d0b66f1f193d7b70", null ]
 ];

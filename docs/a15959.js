@@ -1,5 +1,6 @@
 var a15959 =
 [
-    [ "RewardWeightings", "a15959.html#aa6160f32d3c2f0c34ea734a9f3bbf9bf", null ],
-    [ "UnknownData00", "a15959.html#aade2aaf3775ffbe1373fe12952dd79ab", null ]
+    [ "EntitlementsAsset", "a15959.html#a1e1bf36e9e89582375e2f9447b837e09", null ],
+    [ "Feature", "a15959.html#a7ab56fe6f6c00158ceb09540ce2d2f3c", null ],
+    [ "SupplementalEntitlementMap", "a15959.html#a3272bf82d35e63ca6231f45c4e5a97d6", null ]
 ];

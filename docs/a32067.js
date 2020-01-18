@@ -1,5 +1,5 @@
 var a32067 =
 [
-    [ "StaticClass", "a32067.html#a59b1eeeb8aaaf87d55f48b6a959aa763", null ],
-    [ "IgnitedStatus", "a32067.html#a3263cd72c994364987428d3d642b92ef", null ]
+    [ "ActiveTypeValue", "a32067.html#a7217058a7e887c9ac1f584833318f534", null ],
+    [ "ObjectToPoseIndex", "a32067.html#aacf3636286b87c8c503c55b4bfe7b364", null ]
 ];

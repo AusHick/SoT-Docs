@@ -1,6 +1,7 @@
 var a28475 =
 [
-    [ "StaticClass", "a28475.html#afcb9b9b7b47c000dccd6d2b5975b52c2", null ],
-    [ "A", "a28475.html#aa8d596cc9c665348372a11cad3c2b0a6", null ],
-    [ "B", "a28475.html#a00b53c09ea8b02e0131f292b247bcb33", null ]
+    [ "StaticClass", "a28475.html#a3006aea12b4d51cd71c0ca1bc95479f0", null ],
+    [ "ResetFloat", "a28475.html#a839693fc613a57423ef7378020f4a63c", null ],
+    [ "UnknownData00", "a28475.html#a20e6bef7bb8014687472814a8fef1150", null ],
+    [ "UnknownData01", "a28475.html#a6ea557a8a91dbe5988d97fa0f4398de1", null ]
 ];

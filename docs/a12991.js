@@ -1,7 +1,26 @@
 var a12991 =
 [
-    [ "LadderType", "a12991.html#a84a43c05ec4ff8119300fb1529d5f09c", null ],
-    [ "OffTopLadderBlendParams", "a12991.html#a6044388387e08e664fb6e4ee87c351c0", null ],
-    [ "OnTopLadderBlendParams", "a12991.html#a5ec12ef4cec9228b2317de8cdf4cd20d", null ],
-    [ "UnknownData00", "a12991.html#ab8a7012b286d2156a1f289eaf12fd079", null ]
+    [ "BlendInSpeed", "a12991.html#a382b2b03d61df843863093a477513fca", null ],
+    [ "BlendOutSpeed", "a12991.html#a617de1651cb597665604cb5eebb35055", null ],
+    [ "ControlledObject", "a12991.html#aef8aa1cb41e2f9f7f862d17f13f5471c", null ],
+    [ "FullBodyAlpha", "a12991.html#ad2bf7230e8dc705966bd5094962a0080", null ],
+    [ "HandOnWheelAnimationRanges", "a12991.html#a8043d4f2abe3310b4c61242871b43ea5", null ],
+    [ "LeftFingerAlpha", "a12991.html#a967c7ed194fe0229b71b68b3444adb77", null ],
+    [ "LeftHandFemaleSocket", "a12991.html#ac089574a32898a45abf95be385d9165d", null ],
+    [ "LeftHandMaleSocket", "a12991.html#a77345596682058a2bbc7883080fdc269", null ],
+    [ "LeftWheelArmDown", "a12991.html#a0cadee547a42d7a313f6e4a3b35e9ccf", null ],
+    [ "RightFingerAlpha", "a12991.html#a5a31263cab97c7b982e7a2b9a40eed86", null ],
+    [ "RightHandFemaleSocket", "a12991.html#a34bf453009abd05902f97c9b189571e4", null ],
+    [ "RightHandMaleSocket", "a12991.html#a3166a1b96e4dac9db2e0a4ed5a6c4d19", null ],
+    [ "RightWheelArmDown", "a12991.html#a693ab0603e165bdab38b7b6ccb7d8f65", null ],
+    [ "RotationStrength", "a12991.html#a8234f67f4f0f4f49f84536e069f9172a", null ],
+    [ "TranslationStrength", "a12991.html#a0498ed65987532cd6262e67eb3591448", null ],
+    [ "UnknownData00", "a12991.html#ac5c4c1ae9d5db3f67730b6200dad7752", null ],
+    [ "UnknownData01", "a12991.html#ac3cfebb63dc0be17692995aa6e31493a", null ],
+    [ "UnknownData02", "a12991.html#ae2a9e70ef073a9a0d5c98b6d1b9025ee", null ],
+    [ "WheelAnimationType", "a12991.html#ac233ccbf4b82c395c247fbd47748b431", null ],
+    [ "WheelArmIKDownWithinRange", "a12991.html#a8581bb15ada3062f2a19ec2982502d9d", null ],
+    [ "WheelDirection", "a12991.html#a7a6f9ceb24227ae886f580a9ea4352f9", null ],
+    [ "WheelDockingHandClaspAlpha", "a12991.html#aab48cd31cc2a46eb9caae7d410bb7ebb", null ],
+    [ "WheelTime", "a12991.html#a592eee5f8c05c8a1e85003b495966def", null ]
 ];

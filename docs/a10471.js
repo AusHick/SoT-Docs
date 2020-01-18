@@ -1,5 +1,4 @@
 var a10471 =
 [
-    [ "StaticClass", "a10471.html#ac478b1e1624bf66bd4f9c49d9967d60a", null ],
-    [ "EntitlementDesc", "a10471.html#a0d8abfb16553bd1c611b66e54733e8cc", null ]
+    [ "StaticClass", "a10471.html#a90acbf1cf85c1db5abcbc070c177c1f9", null ]
 ];

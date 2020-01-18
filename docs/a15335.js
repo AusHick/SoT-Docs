@@ -1,9 +1,6 @@
 var a15335 =
 [
-    [ "CameraShakeEffect", "a15335.html#ad91f30f23113581476183fcf96692c27", null ],
-    [ "ForceFeedbackEffect", "a15335.html#a2d5753442791f0a7afc9136600c3ecb2", null ],
-    [ "Looping", "a15335.html#a68606274f7fc0fbb4c0f7dfde7ac91f7", null ],
-    [ "Tag", "a15335.html#a4fa041f730d56bf9d0cf7c9dba60e345", null ],
-    [ "UnknownData00", "a15335.html#ae8af5f3e685758af4da7a93d95015dc1", null ],
-    [ "UnknownData01", "a15335.html#af20c5f4194bb4d01510ad630a5286ce7", null ]
+    [ "IconInv", "a15335.html#a0d009545b3bf8ef76b1baa08f66af8ab", null ],
+    [ "IconPrv", "a15335.html#a35a1d05d7ec5cf1a96f1fd6aa74929f5", null ],
+    [ "Mesh", "a15335.html#a61aacb7c11b1751d9f83f3b42eec7ad9", null ]
 ];

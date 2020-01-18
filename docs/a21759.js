@@ -1,6 +1,5 @@
 var a21759 =
 [
-    [ "BountyWaveIndex", "a21759.html#a6c6b6f95ba2cd4cb5e4531d6ee12e51e", null ],
-    [ "LandmarkName", "a21759.html#a31e8e56476b80410fcd34043f23faa44", null ],
-    [ "TotalBountyWaves", "a21759.html#aeb0bca99ee115c5e8971218f82c15006", null ]
+    [ "QuestId", "a21759.html#a315e7551be654cbb7629a7e531ea46a1", null ],
+    [ "QuestType", "a21759.html#aa50f6e09b7618b78c06c2914282223b2", null ]
 ];

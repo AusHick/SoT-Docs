@@ -1,5 +1,11 @@
 var a31339 =
 [
-    [ "ChannelWeights", "a31339.html#aa70e93c29982bc9d2ceea47858ff30bf", null ],
-    [ "SlotName", "a31339.html#a36c13bad3cbe491d93c7e475f64ab662", null ]
+    [ "AdvancedParameters", "a31339.html#a2b9b706e5f100d95331990269a0e887a", null ],
+    [ "DamageParameters", "a31339.html#a35b9d72e5a2e9685c9d74c2b85404207", null ],
+    [ "DebrisParameters", "a31339.html#a429fb67917855d695948915dcec03c1a", null ],
+    [ "DepthParameters", "a31339.html#a36fff60b83f8314b7a995e7918762941", null ],
+    [ "Flags", "a31339.html#a8994224de04bbed7b8f3bb1483d44932", null ],
+    [ "SpecialHierarchyDepths", "a31339.html#adb4212cdfa40724458c8a11a51d5834d", null ],
+    [ "UnknownData00", "a31339.html#ab78406133956f7fc0475f8bbae248732", null ],
+    [ "UnknownData01", "a31339.html#aea2794b298168e2d450ae8a0163d9722", null ]
 ];

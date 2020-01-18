@@ -1,7 +1,7 @@
 var a01343 =
 [
-    [ "StaticClass", "a01343.html#ab465b6c41ffcb013b028f3f66784cf68", null ],
-    [ "NavigationFilter", "a01343.html#adeb307d7c5735d6e743c28bbf819ff4d", null ],
-    [ "PathToItem", "a01343.html#a75b23f5f06e41ec68498b41aff8f5756", null ],
-    [ "ScanRangeMultiplier", "a01343.html#ae92186f544744561a94ccdbaf9af6c72", null ]
+    [ "StaticClass", "a01343.html#a77ef886a4798cacb9ede316b849bc688", null ],
+    [ "SearchCenter", "a01343.html#a4df78cb0da30efd4e289dd267fd6ffa1", null ],
+    [ "SearchedActorClass", "a01343.html#a4b2970ed8f0371572487b450a67b329b", null ],
+    [ "SearchRadius", "a01343.html#a92dc9fdcf7dd5998bc0568347a926497", null ]
 ];

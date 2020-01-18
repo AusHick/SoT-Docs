@@ -1,5 +1,4 @@
 var a06719 =
 [
-    [ "StaticClass", "a06719.html#a2ae8a1683a17ff597fb04630e78634da", null ],
-    [ "CollectorsChest", "a06719.html#a0e5c82a55e0fa33de71e7c15def492df", null ]
+    [ "StaticClass", "a06719.html#a3417b20571919d3d6afe010f6a59b9ee", null ]
 ];

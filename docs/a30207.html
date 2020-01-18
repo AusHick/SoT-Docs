@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FInstancedStaticMeshInstanceData Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FFindFloorResult Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a30207.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30204.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FInstancedStaticMeshInstanceData Struct Reference</div>  </div>
+<div class="title">SDK::FFindFloorResult Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FInstancedStaticMeshInstanceData:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFindFloorResult:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30205.svg" width="276" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a30205.svg" width="410" height="398"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab2ec2d138fb73b8a54c126b643916297"><td class="memItemLeft" align="right" valign="top"><a id="ab2ec2d138fb73b8a54c126b643916297"></a>
-struct <a class="el" href="a26139.html">FMatrix</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Transform</b></td></tr>
-<tr class="separator:ab2ec2d138fb73b8a54c126b643916297"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae7cffadd347af01ef6a24e0dba13d7a"><td class="memItemLeft" align="right" valign="top"><a id="aae7cffadd347af01ef6a24e0dba13d7a"></a>
-struct <a class="el" href="a26083.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LightmapUVBias</b></td></tr>
-<tr class="separator:aae7cffadd347af01ef6a24e0dba13d7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd966d5e51a24185c890c145ba4ebd38"><td class="memItemLeft" align="right" valign="top"><a id="afd966d5e51a24185c890c145ba4ebd38"></a>
-struct <a class="el" href="a26083.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ShadowmapUVBias</b></td></tr>
-<tr class="separator:afd966d5e51a24185c890c145ba4ebd38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeab3d72f26ba6f662c75c311aaf1b9e3"><td class="memItemLeft" align="right" valign="top"><a id="aeab3d72f26ba6f662c75c311aaf1b9e3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bBlockingHit</b>: 1</td></tr>
+<tr class="separator:aeab3d72f26ba6f662c75c311aaf1b9e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7a21c52e5ac19ad88f76b52fdb5c3d1"><td class="memItemLeft" align="right" valign="top"><a id="ad7a21c52e5ac19ad88f76b52fdb5c3d1"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bWalkableFloor</b>: 1</td></tr>
+<tr class="separator:ad7a21c52e5ac19ad88f76b52fdb5c3d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b003261b5869d44b4fd9ee40c961769"><td class="memItemLeft" align="right" valign="top"><a id="a1b003261b5869d44b4fd9ee40c961769"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLineTrace</b>: 1</td></tr>
+<tr class="separator:a1b003261b5869d44b4fd9ee40c961769"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4fd9c811fd471001c19ecfb1b543316f"><td class="memItemLeft" align="right" valign="top"><a id="a4fd9c811fd471001c19ecfb1b543316f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a4fd9c811fd471001c19ecfb1b543316f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af325f6bf8a7ee37e985709397f8e066d"><td class="memItemLeft" align="right" valign="top"><a id="af325f6bf8a7ee37e985709397f8e066d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FloorDist</b></td></tr>
+<tr class="separator:af325f6bf8a7ee37e985709397f8e066d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a2483627df0a7a5683827e0be8c5bda"><td class="memItemLeft" align="right" valign="top"><a id="a4a2483627df0a7a5683827e0be8c5bda"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LineDist</b></td></tr>
+<tr class="separator:a4a2483627df0a7a5683827e0be8c5bda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adce22f17152e5f6a007af74c88901c10"><td class="memItemLeft" align="right" valign="top"><a id="adce22f17152e5f6a007af74c88901c10"></a>
+struct <a class="el" href="a30127.html">FHitResult</a>&#160;</td><td class="memItemRight" valign="bottom"><b>HitResult</b></td></tr>
+<tr class="separator:adce22f17152e5f6a007af74c88901c10"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30207.html">FInstancedStaticMeshInstanceData</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30207.html">FFindFloorResult</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

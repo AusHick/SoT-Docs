@@ -1,10 +1,14 @@
 var a15451 =
 [
-    [ "AnchorForce", "a15451.html#a088e754bd9ba895096dbea3c6b22b57b", null ],
-    [ "BaseHandbrakeTorque", "a15451.html#aee4c65fa114721826ab7b5d686c4f13a", null ],
-    [ "ForwardSpeedBasedTorque", "a15451.html#a824624c3ca6d21191721a01dfc56d41f", null ],
-    [ "TimeAfterAnchorDownToGrabWantedYaw", "a15451.html#a8d115134f1dc8205253c424572071736", null ],
-    [ "UnaryWheelAngleBasedTorque", "a15451.html#ad92fab9bc7a9c007189514ca66debae6", null ],
-    [ "VelocityDeadZoneThreshold", "a15451.html#a234973d6e5bdec2962d021ad48c1235d", null ],
-    [ "YawDeltaVsCorrectiveTorquePerKgMass", "a15451.html#ae097027a39463bec4afadd0f7eff0ee8", null ]
+    [ "Emitter", "a15451.html#a16a2990ddc9871c5ed6cd3b3ae85daf9", null ],
+    [ "Name", "a15451.html#ab3fc2ff1162c283e31473865e8ddd28c", null ],
+    [ "Offset", "a15451.html#add627bbce82affdba4d32b489cbc3fe4", null ],
+    [ "SetRTPC_Pitch", "a15451.html#a783a2be46290bf0d40cfbb7260c2c5de", null ],
+    [ "SetRTPC_Roll", "a15451.html#abd6b69f97359beefb37c065858477540", null ],
+    [ "SetRTPC_Strain", "a15451.html#a5ebf7f11f79d31312200ebf218cf4bd7", null ],
+    [ "SetRTPC_Velocity", "a15451.html#ae6313867103f16c1c5be1fe50ca642f4", null ],
+    [ "ShipSinkingExceededRollThreshold", "a15451.html#a5ef20a51fd6953d3f4a615340871e67f", null ],
+    [ "UnknownData00", "a15451.html#accc89f580cce207f005c57c7d2b809b7", null ],
+    [ "WwiseEvent", "a15451.html#af2f1e6d7da076368829e6fd4d83a5ca1", null ],
+    [ "WwiseObjectPoolWrapper", "a15451.html#aae5f3d6435270d89c1d94a84eda3ae29", null ]
 ];

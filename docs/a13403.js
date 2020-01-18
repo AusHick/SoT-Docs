@@ -1,5 +1,5 @@
 var a13403 =
 [
-    [ "ContestZoneName", "a13403.html#af2aef1864ac0faaf4cc78edceff4a3f6", null ],
-    [ "Weight", "a13403.html#a4f7971ec770e77c489142e23b614d11c", null ]
+    [ "NumQuests", "a13403.html#a1eadbcd0738be8dc7e9147b2d84910da", null ],
+    [ "QuestsPerChapter", "a13403.html#a19d968928e631120be5453972570a29c", null ]
 ];

@@ -1,8 +1,7 @@
 var a36139 =
 [
-    [ "Front", "a36139.html#afef4c050ab37e84eaf52d79e23998816", null ],
-    [ "Position", "a36139.html#a5000e64c2e4c33d57298b6cd6a7bc56a", null ],
-    [ "Right", "a36139.html#aca616c6925bf94fae9b9032e51477da8", null ],
-    [ "Up", "a36139.html#a7c444d94949d36085f50aa31f7525fb9", null ],
-    [ "Velocity", "a36139.html#a474a0ee5b4e02409eadd2f9f2aa835c7", null ]
+    [ "OnWatercraftDestroyed", "a36139.html#a54849e14b3df9c576aee889d023e2f2e", null ],
+    [ "StaticClass", "a36139.html#ab60be1f3ea0d2985e432004f4b514cbc", null ],
+    [ "CurrentWatercrafts", "a36139.html#a007fcb83b966301a20cb33f498c8582b", null ],
+    [ "UnknownData00", "a36139.html#a534f07b8b1567c8bacb15ffb48c77477", null ]
 ];

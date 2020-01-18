@@ -1,7 +1,14 @@
 var a28275 =
 [
-    [ "StaticClass", "a28275.html#a598ff0caa02c2e842e6c0dde79d1cf56", null ],
-    [ "ResetVector", "a28275.html#a38299928b991e60e1dd905c0aae55a5f", null ],
-    [ "UnknownData00", "a28275.html#acd57992151d974381105685f5b22f963", null ],
-    [ "UnknownData01", "a28275.html#a9a53e26a022122c9f0a50c5fcc33e118", null ]
+    [ "StaticClass", "a28275.html#a7c8e35b56cff10c129aa0cedda16ebc0", null ],
+    [ "AllEventNames", "a28275.html#a4555afb4c5a91655270dc8d4059d90a4", null ],
+    [ "bShouldBakeAndPrune", "a28275.html#a548aee71e62ce3bffa51dc817033445e", null ],
+    [ "CachedDirectorGroup", "a28275.html#a1231573286576139d2b3e973f217bb12", null ],
+    [ "CurveEdSetup", "a28275.html#a3fd649e16ad1fc21144c6932a55e4595", null ],
+    [ "EdSectionEnd", "a28275.html#a5cbf538e8d76bbd461f679663ac7bba7", null ],
+    [ "EdSectionStart", "a28275.html#ab22e162e0005c793264ef42725093344", null ],
+    [ "InterpGroups", "a28275.html#a544330be9cb4396f5e3a320bcce2ee70", null ],
+    [ "InterpLength", "a28275.html#aff0cf68d3cf35a9ed0843ce7ee21a4d0", null ],
+    [ "PathBuildTime", "a28275.html#a7422de7ba9e99dd78cb0ad9d8a8b967f", null ],
+    [ "UnknownData00", "a28275.html#ad34dafdfd0e650daaca4fadd63752112", null ]
 ];

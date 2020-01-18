@@ -1,5 +1,18 @@
 var a08051 =
 [
-    [ "ApplyCustomization", "a08051.html#a0aa0cf5cdb506e5165b11a3d10fb0738", null ],
-    [ "StaticClass", "a08051.html#ade959f16b87fcae0d71ec038daab7e96", null ]
+    [ "OnOverlapBegin", "a08051.html#a7723513e2462420586a4728ea67319b4", null ],
+    [ "OnOverlapEnd", "a08051.html#aa8a551a37e7c3e822686c8e9e982bcba", null ],
+    [ "OnResetTo", "a08051.html#a9b50bd06b4c857fa79a68d006eb34b10", null ],
+    [ "StaticClass", "a08051.html#ad8aa08fd245579c6669e632320a6fcb6", null ],
+    [ "CalmZone", "a08051.html#a1295f9a71ea82d93794ba74cff31bcb9", null ],
+    [ "CloseEncounterParams", "a08051.html#afce8b109c4d12a6b303a3edd8530ea9b", null ],
+    [ "DistanceThresholdToConsiderPlayerAsBeingNearShipwreckForTelemetry", "a08051.html#a570bc1bf8794874b4918f8de5a6a5fc3", null ],
+    [ "LocalisedName", "a08051.html#a8bce22201d865647b52359fad73947af", null ],
+    [ "MeshParentComponent", "a08051.html#ac970959354225ed24f5d08301d29951d", null ],
+    [ "ProxyClass", "a08051.html#a4084c0ec5f705095e5c6874d01b31dbf", null ],
+    [ "RevealTriggerVolume", "a08051.html#a351ece16cec95ecc209d1021a3a99b52", null ],
+    [ "ServerMigrationPointOfInterestDistance", "a08051.html#acb33ef9e1d40f2acecb3fab63a95d43b", null ],
+    [ "SightingEncounterParams", "a08051.html#a4d70d66c9c70922210b0d20d1adffa90", null ],
+    [ "UnknownData00", "a08051.html#a97e1c26664367610d9e87b2e5cfb8545", null ],
+    [ "UnknownData01", "a08051.html#a8ef94b82cc1653de415aad5bbe1e8251", null ]
 ];

@@ -1,6 +1,6 @@
 var a32119 =
 [
-    [ "StaticClass", "a32119.html#a2734b0bbe56ecd64aa4248af33430dd0", null ],
-    [ "Params", "a32119.html#afc6d2f912d07401d14acb8831ea14f69", null ],
-    [ "UnknownData00", "a32119.html#a7db90eb65123b8ddae4c75d255599f64", null ]
+    [ "Property", "a32119.html#a13c6957965568eae22cdf70803488fc1", null ],
+    [ "UnknownData00", "a32119.html#a326e8c6c85646edf77f74d864d7d8085", null ],
+    [ "Value", "a32119.html#a26e6ce729ebdfc0573ad23d5ba363ea5", null ]
 ];

@@ -1,6 +1,7 @@
 var a27139 =
 [
-    [ "StaticClass", "a27139.html#a4958c85c0b7f5ba575b6dd5ffb03a57d", null ],
-    [ "CollisionComponent", "a27139.html#a7aafc39f1c3c7d933d21ee1a53843728", null ],
-    [ "SpriteComponent", "a27139.html#a343e77a411060e4e16a6273d37d2a7bf", null ]
+    [ "SetInnerConeAngle", "a27139.html#a18cffd28f48c1deb62da8eb5d43646e0", null ],
+    [ "SetOuterConeAngle", "a27139.html#a6b7c613f38782f653b07e8942c11cdd4", null ],
+    [ "StaticClass", "a27139.html#adf1c5559a9cf657ea5194ac85f5c337f", null ],
+    [ "SpotLightComponent", "a27139.html#a6c1c8a8fec338578f134e5cb434db36f", null ]
 ];

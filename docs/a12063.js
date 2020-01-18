@@ -1,18 +1,15 @@
 var a12063 =
 [
-    [ "OnComplexCollisionShapeBeginOverlap", "a12063.html#a257ad7b8a0d8462da03b32593d9dded2", null ],
-    [ "OnFirstActorEnteredSimpleCollisionShape", "a12063.html#ae12a92baae9ba366bfafc9817bd20ef3", null ],
-    [ "OnLastActorLeftSimpleCollisionShape", "a12063.html#a77cf4543feb92e9a09b348583b8dcfc7", null ],
-    [ "StaticClass", "a12063.html#a09fcfa5069ab59ab597a8ac6a450080e", null ],
-    [ "Axis", "a12063.html#a172f8982db2f593be9eb65386582859b", null ],
-    [ "CordChildren", "a12063.html#a2c826e4ab44432cbd0fa9aa535872be5", null ],
-    [ "Damage", "a12063.html#aedc90886afe26b53dfa82e83163f8884", null ],
-    [ "DamageReason", "a12063.html#ab6ff3832c067db1a5f61879354554e1d", null ],
-    [ "MaxAngle", "a12063.html#ae87e3732cdf0bae67c96e0d79f37c1ff", null ],
-    [ "MechanismInteractionComponent", "a12063.html#a09f7f9c671e7ca5aebaab493b318153c", null ],
-    [ "Mesh", "a12063.html#a8c06a34adf06ccc58435725eab6e0124", null ],
-    [ "MinAngle", "a12063.html#a0935ae6305f3fa7bd0a3c21c65d30d0d", null ],
-    [ "UnknownData00", "a12063.html#aac09ac2796fa84c4fe00969feb3af15e", null ],
-    [ "UnknownData01", "a12063.html#a83f2a69ca1b731ea22a3757d0ea797c5", null ],
-    [ "UnknownData02", "a12063.html#a55e1abde85bbde4cc0e7532e10ecb234", null ]
+    [ "OnJumpNotificationRecieved", "a12063.html#adb1193597df02b88678bae7947c5e270", null ],
+    [ "OnLookAroundMouseInputX", "a12063.html#a93e456b7947563a83ec5d9262050de3e", null ],
+    [ "OnLookAroundMouseInputY", "a12063.html#a2ded0bbb6462ae9133eb10482a2624bc", null ],
+    [ "OnLookAroundRightStickInputX", "a12063.html#a90eecbe5a573dc157601432b858c8c95", null ],
+    [ "OnLookAroundRightStickInputY", "a12063.html#a8c3000ee021e6be23d8aab3a465bfbc2", null ],
+    [ "OnMovementInputX", "a12063.html#a1fb8a14797274179107ce474851b112f", null ],
+    [ "OnMovementInputY", "a12063.html#a98e70656076243f1eb937e07e6bd45e6", null ],
+    [ "OnPrimaryItemUsePressedRecieved", "a12063.html#aecf371987d94c59e4405cfa4be2a3fdb", null ],
+    [ "OnPrimaryItemUseReleasedRecieved", "a12063.html#ab3b8d3c92fdc32683f44afcc27835291", null ],
+    [ "StaticClass", "a12063.html#af3d59be10b0196ba3b3f4ce91dad589f", null ],
+    [ "Owner", "a12063.html#a23685793dc63bd8682aa815222f2d8d3", null ],
+    [ "UnknownData00", "a12063.html#a4a4519ff35713b77840ca959dee1264c", null ]
 ];

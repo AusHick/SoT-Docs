@@ -1,9 +1,8 @@
 var a23123 =
 [
-    [ "ClothingLoadout", "a23123.html#acb6d0f95e447b5ba5e30221bf6086122", null ],
-    [ "Hash", "a23123.html#ae484878c1ec9f82a155313d4479756d1", null ],
-    [ "ItemLoadout", "a23123.html#a653f3307345bd631d8fa5d0c56781d22", null ],
-    [ "PetLoadout", "a23123.html#a4ade34607a57c6899f48ebb0c0e377d2", null ],
-    [ "PetNamingDisallowed", "a23123.html#ac28153affcacf4a7a16e07a9fa12d08d", null ],
-    [ "UnknownData00", "a23123.html#a5c523249dc17301cdf4c56ce8f75fc34", null ]
+    [ "BatchId", "a23123.html#a8597451c40b73b7aa374f6d0295fa04b", null ],
+    [ "CrewId", "a23123.html#add0622b01753606b2734c664f61ed683", null ],
+    [ "Item", "a23123.html#a7ca84a35eec35aa4930cc461e7873ad9", null ],
+    [ "ItemInfo", "a23123.html#a8e85b771dc0e905e35465babfca90a57", null ],
+    [ "PickUpId", "a23123.html#ada0507118dc50f525f32452b7148184f", null ]
 ];

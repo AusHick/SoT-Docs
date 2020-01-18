@@ -1,9 +1,10 @@
 var a19599 =
 [
-    [ "AssetSearchFolderPaths", "a19599.html#a8724824fcaf742040c14f6b93394393d", null ],
-    [ "CaptureProxyActor", "a19599.html#a237667db2f11b96b393f1f6afdb480a2", null ],
-    [ "CategoryClass", "a19599.html#a1e3dd2d6c48b79622633ddb12dd5709d", null ],
-    [ "FolderPath", "a19599.html#a27b98f8ff9e40c38f1e2169ad8a11e29", null ],
-    [ "MapToPositionIn", "a19599.html#aaead976d9364dbc750f24c6263f69b23", null ],
-    [ "WieldableActorParent", "a19599.html#acd11404a6e5eb197484448bde2d9d084", null ]
+    [ "ReceiveEntitlement", "a19599.html#a58b277a6637ad0cc4263b1a83764ddfa", null ],
+    [ "ReceiveLoadout", "a19599.html#a57aa37b611d0890e8b76763a1157ba0d", null ],
+    [ "StartSpot", "a19599.html#a39ee5cd90153357db3d28131d6723b91", null ],
+    [ "StreamInLevel", "a19599.html#afec6a2d561949141786aab048d3d2f61", null ],
+    [ "StreamOutLevel", "a19599.html#afc9b0964abd3fe1be570d2cc00a810ba", null ],
+    [ "UnknownData00", "a19599.html#aa966dbca05e7a7728e1d33fdebe03959", null ],
+    [ "WaitForRelevancy", "a19599.html#a46adda1eb694368c16c5a4e16132b45f", null ]
 ];

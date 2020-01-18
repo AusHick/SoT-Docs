@@ -1,6 +1,8 @@
 var a35999 =
 [
-    [ "GetWindAtLocation", "a35999.html#a90d8571bb447ab800246132bd2243cd0", null ],
-    [ "SetDefaultWindBlowingNorth", "a35999.html#ac755fa9cd0722053f81ae0517c0bc96f", null ],
-    [ "StaticClass", "a35999.html#a392c85d09f11bf901beb2793fa596548", null ]
+    [ "BuoyancyScalarCurve", "a35999.html#a400115c5375b4f358b4e81fdec90008c", null ],
+    [ "Configurations", "a35999.html#aa89b3e5c5cc52788ea54d7acca0f497d", null ],
+    [ "ProbeMovementCurve", "a35999.html#a66b37b822545840fdc0e961e1d4e3eae", null ],
+    [ "UnknownData00", "a35999.html#a5dc3b0fd340e70d5c7a024f06bc6408d", null ],
+    [ "UnknownData01", "a35999.html#aedf9ea4740090572d0d6e90975df06ef", null ]
 ];

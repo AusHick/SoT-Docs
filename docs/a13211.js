@@ -1,6 +1,7 @@
 var a13211 =
 [
-    [ "EncounterListenerType", "a13211.html#ad0ba4b4532b97d460d210d6d18a46ad7", null ],
-    [ "UnknownData00", "a13211.html#a24c2b40338b4d9b206aaf5cbacd8d1c6", null ],
-    [ "ValidEncounterTypes", "a13211.html#a2b4f72727042000981107fb023f0faa1", null ]
+    [ "FireAction", "a13211.html#a50afd8cab1c5a3863cec6f2ca92f9abc", null ],
+    [ "FireInto", "a13211.html#a3bdb8c54dabea684ecc41897fc775412", null ],
+    [ "FireOutOf", "a13211.html#afd38b7a78d6b01217499ba5ed5f598ab", null ],
+    [ "Idle", "a13211.html#af02fff28bdd13e6e531f1318f2d8ebb4", null ]
 ];

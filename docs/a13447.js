@@ -1,6 +1,27 @@
 var a13447 =
 [
-    [ "CutoutTextStyle", "a13447.html#a369390026de774dcc97a8ac5f95a80df", null ],
-    [ "Scale", "a13447.html#a5177db12abdbc0abdd21b354e1886b06", null ],
-    [ "UnknownData00", "a13447.html#ac429ee62afdb16b1a9b9e79e7353a0b2", null ]
+    [ "AdditionalWaves", "a13447.html#ae5b682a55b3c8d2be92676384cfe37e4", null ],
+    [ "ChanceOfAllTargetsBeingOnTheLastWave", "a13447.html#a43799a7a6b9a437cba23f11c047d796c", null ],
+    [ "ChanceOfFemale", "a13447.html#a5f3c934ae13b45b8bda62bf6c95120a4", null ],
+    [ "MaxFormsPerEncounter", "a13447.html#a2e87c0bfd14521986ed2e811b55f9c6e", null ],
+    [ "MaxNumberOfAIPerWave", "a13447.html#ae284952fbbf5d9d2e73082379fc71165", null ],
+    [ "MaxTimeBetweenSpawns", "a13447.html#a89582ac80bd3e50a93943cee54f81ea3", null ],
+    [ "MaxTimeBetweenWaves", "a13447.html#ae1c525cd77bf551c2e3cb2c2ab4c0f30", null ],
+    [ "MaxVarietiesPerEncounter", "a13447.html#ac3afe4d020efc0a7e55126fbdef5c74e", null ],
+    [ "MinFormsPerEncounter", "a13447.html#a316658b29f2648e4775a10b9fc6490ae", null ],
+    [ "MinNumberOfAIPerWave", "a13447.html#ac59940308f3faf8b750d0759e879affe", null ],
+    [ "MinTimeBetweenSpawns", "a13447.html#a6a268b94fd4952433bcae61efac01e5c", null ],
+    [ "MinTimeBetweenWaves", "a13447.html#a5cd6e23d575a3da59a341f84cbaf0ad9", null ],
+    [ "MinVarietiesPerEncounter", "a13447.html#adc60eb78c6e50713dba405b9df1cd834", null ],
+    [ "NumberOfTargetsTotal", "a13447.html#a4fde26030dde0b673ee85a934825bd4c", null ],
+    [ "NumberOfTargetsWhichAreCaptains", "a13447.html#a231ed69aaec2a002842d0f2d48c23898", null ],
+    [ "NumberOfWaves", "a13447.html#ab328570839a7d73237e2dcb629d64d04", null ],
+    [ "Recipes", "a13447.html#aea595a6b8af1eda7edf923468a79de49", null ],
+    [ "UnknownData00", "a13447.html#a09d377460426faf6d50ef2bfcf1509a2", null ],
+    [ "UnknownData01", "a13447.html#aebcbf0261beff085881f1cb420ddafb5", null ],
+    [ "UnknownData02", "a13447.html#a890d19f1f3f84d1a5be405911a4bc0ee", null ],
+    [ "WavesPerRelocate", "a13447.html#a033b4e1eb01b176c903f747c04ceedf5", null ],
+    [ "WaveSplitChance", "a13447.html#a80c09b399aeb99f706452b978e15ac69", null ],
+    [ "WaveSuicideMinDist", "a13447.html#a4d728afc53982a11bbfc10c1445f2024", null ],
+    [ "WaveSuicideTime", "a13447.html#a357a55a918cf1b6db992441e8a83a2c8", null ]
 ];

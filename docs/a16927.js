@@ -1,6 +1,6 @@
 var a16927 =
 [
-    [ "Company", "a16927.html#aa51e5a4377e1b0d71ca94bc528c45293", null ],
-    [ "Level", "a16927.html#a0cd3e5ccfb2642946022d13436d71089", null ],
-    [ "UnknownData00", "a16927.html#afaa76dee755302308bd223ac990ce5ac", null ]
+    [ "Status", "a16927.html#a7bbaced93066044ea0d8b1d975b144e2", null ],
+    [ "UnknownData00", "a16927.html#aff13fa61f2f9e9ad52bdfeb44fcce6f6", null ],
+    [ "UnknownData01", "a16927.html#ad1c9a380888419a231fbdedf5aee9213", null ]
 ];

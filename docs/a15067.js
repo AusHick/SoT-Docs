@@ -1,5 +1,5 @@
 var a15067 =
 [
-    [ "EntitlementsStatus", "a15067.html#a5b26d33f9c39439e040c0dfc51d9ef0d", null ],
-    [ "UnknownData00", "a15067.html#a48b0b489cfe6cd7785a58c20547786df", null ]
+    [ "SpawnedInfo", "a15067.html#a8bbaed49e003d1a032439b6107a20285", null ],
+    [ "SpawnedPet", "a15067.html#a5185ed09e796ecd6906eceee45b3aaa3", null ]
 ];

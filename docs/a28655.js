@@ -1,6 +1,5 @@
 var a28655 =
 [
-    [ "StaticClass", "a28655.html#a3037ac1fd3a80ad1f43df34dd431ac9a", null ],
-    [ "A", "a28655.html#a16dc51effee64738d9256afd9c18287e", null ],
-    [ "B", "a28655.html#a7309f217d678949ce93a97728c331b6e", null ]
+    [ "StaticClass", "a28655.html#a918a0e4cda77d99b0953083dac216eb3", null ],
+    [ "Value", "a28655.html#a76628a1c3a8a8bedd8735ac0719247cc", null ]
 ];

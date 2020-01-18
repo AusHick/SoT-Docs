@@ -1,5 +1,7 @@
 var a15591 =
 [
-    [ "MugShotImage", "a15591.html#ac5b91894b3f3815ef52f6934737deb9f", null ],
-    [ "Name", "a15591.html#a10fcf6d716f194c2a4989b902dbcf52f", null ]
+    [ "ItemInfo", "a15591.html#ab5c5cce833e7d1cf482805e778e36773", null ],
+    [ "ItemProxy", "a15591.html#a17b78a2a44b1c5939a250ce95ea2a20d", null ],
+    [ "Tracked", "a15591.html#a811ed45778af87060aeca7296efee5ef", null ],
+    [ "UnknownData00", "a15591.html#a0c86aba005a78eb691765d574ccf0b67", null ]
 ];

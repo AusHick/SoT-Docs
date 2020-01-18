@@ -1,5 +1,6 @@
 var a20567 =
 [
-    [ "PirateIdentity", "a20567.html#ab6543ae226368bec15cadfdfbc9ac52a", null ],
-    [ "RequestID", "a20567.html#a0d8bbc03c27e891ec53fb485d3993863", null ]
+    [ "DisplayDescription", "a20567.html#a90458dd298c6a83ad7dcce22eaa807b0", null ],
+    [ "DisplayName", "a20567.html#a9b121395f5395f83b99b5601ca021bb6", null ],
+    [ "Offers", "a20567.html#a0b872b35eefe54944b2a5c4ce25d8fd6", null ]
 ];

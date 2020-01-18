@@ -1,5 +1,8 @@
 var a13423 =
 [
-    [ "Category", "a13423.html#a85a4576fe03287ea0eb777938edb5aa1", null ],
-    [ "Customisation", "a13423.html#a9bdd482766378336ffa38dd60bc5d64e", null ]
+    [ "LocationSelectionMethod", "a13423.html#a90d08e38b64881c49a8b240258c70196", null ],
+    [ "MaxNumberOfPoolRetries", "a13423.html#a40d4f4b87ae8069ff760151927b11155", null ],
+    [ "PoolSelectionMethod", "a13423.html#a63ef61b7df98a527372a270d5ffa6b7e", null ],
+    [ "UnknownData00", "a13423.html#a50e65ff79f7cb5b1a765bf0b0b5e202a", null ],
+    [ "UseChapterBasedVoyageHistory", "a13423.html#ad8713268c13fad2974891b08ffefd215", null ]
 ];

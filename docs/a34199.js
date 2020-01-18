@@ -1,5 +1,5 @@
 var a34199 =
 [
-    [ "StaticClass", "a34199.html#ade6f9483566efd86289c9f275ce6428b", null ],
-    [ "UnknownData00", "a34199.html#a58480ca8d5e3d5a050273361c03d81ba", null ]
+    [ "Color", "a34199.html#ae1d43e6e3729990c951b235be19b3f9f", null ],
+    [ "ReferenceName", "a34199.html#a0c29400dbcc2e08fc851c7273343f987", null ]
 ];

@@ -1,4 +1,5 @@
 var a01583 =
 [
-    [ "StaticClass", "a01583.html#aee4d256ef397d1aa4a4b55a1a307ecd3", null ]
+    [ "ParamName", "a01583.html#adb5a32eea1fca87dd6f4f142fecde3de", null ],
+    [ "Value", "a01583.html#a71ad59041a58874433d80614147c80e4", null ]
 ];

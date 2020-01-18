@@ -1,5 +1,6 @@
 var a12711 =
 [
-    [ "AnimationSequence", "a12711.html#a34021cd1d0c78a6d0f3ae4be755cf5b1", null ],
-    [ "FacialAdditive", "a12711.html#afe1c5bbf8821310eba40de01c798f397", null ]
+    [ "ForwardInputVectorTolerance", "a12711.html#a53f245b07520bcd3a46404fad6b53931", null ],
+    [ "MinVelocityForwardDot", "a12711.html#aec1353414c4172ef0713e8940dd2faa4", null ],
+    [ "MinVelocityMagnitude", "a12711.html#a12e2f33ed6c503ab510b3a83e0dcaa4e", null ]
 ];

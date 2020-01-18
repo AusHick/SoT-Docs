@@ -1,4 +1,6 @@
 var a25339 =
 [
-    [ "StaticClass", "a25339.html#a9620c9fe9505c9a1feac600f55f8ae5d", null ]
+    [ "DeathReason", "a25339.html#ab2cafda21a552649f7c6ec5c70d994c7", null ],
+    [ "Killer", "a25339.html#a707b451092bca3e43b7ac317236f44fc", null ],
+    [ "UnknownData00", "a25339.html#a914bb57baf14b388419015455ff76fa6", null ]
 ];

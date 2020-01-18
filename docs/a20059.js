@@ -1,7 +1,5 @@
 var a20059 =
 [
-    [ "AttackId", "a20059.html#a971cbe1b858482e0269fd5ca3b84b1c7", null ],
-    [ "HitObjectId", "a20059.html#ad57388e5df1d458aede9b81959644c0a", null ],
-    [ "HitObjectType", "a20059.html#aed03fcee923759a256e71a9f8e15f286", null ],
-    [ "ProjectileId", "a20059.html#adcdcce589d0263576a68f267ca451e46", null ]
+    [ "Connection", "a20059.html#a9fee792fa5da9964a1bc78e00b15631d", null ],
+    [ "DataBlob", "a20059.html#abd69155d16e1461f76052022a857723b", null ]
 ];

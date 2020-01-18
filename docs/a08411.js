@@ -1,6 +1,5 @@
 var a08411 =
 [
-    [ "StaticClass", "a08411.html#a7039d78d802882a33ecfac631417ca76", null ],
-    [ "Duration", "a08411.html#a93d528b6d6ab72eb9d63caf92f3587cb", null ],
-    [ "UnknownData00", "a08411.html#a46868bc1c5f85b6d347188f8766e130a", null ]
+    [ "StaticClass", "a08411.html#ac7c14061b607e60565824feebf2370ef", null ],
+    [ "EmoteIdentifier", "a08411.html#a82c653471314551221bcc1f719117fa2", null ]
 ];

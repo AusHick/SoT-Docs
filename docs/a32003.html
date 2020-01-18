@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FNetTimeStampCalculator Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FSubTrackGroup Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,42 @@ $(document).ready(function(){initNavTree('a32003.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a32000.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FNetTimeStampCalculator Struct Reference</div>  </div>
+<div class="title">SDK::FSubTrackGroup Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FNetTimeStampCalculator:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FSubTrackGroup:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a32001.svg" width="284" height="243"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a32001.svg" width="400" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a8809da83b00c60f80dda54da2a15bf05"><td class="memItemLeft" align="right" valign="top"><a id="a8809da83b00c60f80dda54da2a15bf05"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x6A]</td></tr>
-<tr class="separator:a8809da83b00c60f80dda54da2a15bf05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b2e49e80f3c4b725957f1fa90c2babc"><td class="memItemLeft" align="right" valign="top"><a id="a5b2e49e80f3c4b725957f1fa90c2babc"></a>
-uint16_t&#160;</td><td class="memItemRight" valign="bottom"><b>TimesWrapped</b></td></tr>
-<tr class="separator:a5b2e49e80f3c4b725957f1fa90c2babc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa695bf3dccde93ae95117ea8b2b4d43"><td class="memItemLeft" align="right" valign="top"><a id="aaa695bf3dccde93ae95117ea8b2b4d43"></a>
-uint16_t&#160;</td><td class="memItemRight" valign="bottom"><b>PackedTimeStamp</b></td></tr>
-<tr class="separator:aaa695bf3dccde93ae95117ea8b2b4d43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1fe256df3350617a729f3d5f1216baa7"><td class="memItemLeft" align="right" valign="top"><a id="a1fe256df3350617a729f3d5f1216baa7"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x2]</td></tr>
-<tr class="separator:a1fe256df3350617a729f3d5f1216baa7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67eacd2c849dc7c6fe0be86a3a9b346d"><td class="memItemLeft" align="right" valign="top"><a id="a67eacd2c849dc7c6fe0be86a3a9b346d"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GroupName</b></td></tr>
+<tr class="separator:a67eacd2c849dc7c6fe0be86a3a9b346d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f06a588c0f98784759a71a43b5789a0"><td class="memItemLeft" align="right" valign="top"><a id="a1f06a588c0f98784759a71a43b5789a0"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>TrackIndices</b></td></tr>
+<tr class="separator:a1f06a588c0f98784759a71a43b5789a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77d857dc31afc174a649db8f33a7a0e0"><td class="memItemLeft" align="right" valign="top"><a id="a77d857dc31afc174a649db8f33a7a0e0"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsCollapsed</b>: 1</td></tr>
+<tr class="separator:a77d857dc31afc174a649db8f33a7a0e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a436ef99ac4a780f68b29e409c826009a"><td class="memItemLeft" align="right" valign="top"><a id="a436ef99ac4a780f68b29e409c826009a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsSelected</b>: 1</td></tr>
+<tr class="separator:a436ef99ac4a780f68b29e409c826009a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af087a877ed6e83b9646b52d019fc1563"><td class="memItemLeft" align="right" valign="top"><a id="af087a877ed6e83b9646b52d019fc1563"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:af087a877ed6e83b9646b52d019fc1563"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32003.html">FNetTimeStampCalculator</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:26 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32003.html">FSubTrackGroup</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

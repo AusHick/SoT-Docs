@@ -1,7 +1,6 @@
 var a05323 =
 [
-    [ "OnBeginOverlap", "a05323.html#a2036c8bcf1bc72a45482c5caf746d2a7", null ],
-    [ "StaticClass", "a05323.html#a780a048390f8ba22b7318e076efb7022", null ],
-    [ "TriggerZoneComponent", "a05323.html#aa07e0adcc09c2247316e51214effc801", null ],
-    [ "UnknownData00", "a05323.html#ad02e0c6c18d5df9b87bef6500e199cad", null ]
+    [ "StaticClass", "a05323.html#af6d322cb99643d917a117db2a2e90727", null ],
+    [ "MuzzleFlashVfxFirstPerson", "a05323.html#a9cad874770cd34b88961e8b70047c8bf", null ],
+    [ "MuzzleFlashVfxThirdPerson", "a05323.html#a427029931e2de9de59518684ec7ef046", null ]
 ];

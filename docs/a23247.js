@@ -1,7 +1,7 @@
 var a23247 =
 [
-    [ "CookState", "a23247.html#ab693540d5bab91423d0961d10c06a454", null ],
-    [ "ItemName", "a23247.html#a7c00c91fbecb1dfbc8453e41b49df63d", null ],
-    [ "StatusesApplied", "a23247.html#a887d0a496c7afd78d9dbb63277608c6f", null ],
-    [ "UnknownData00", "a23247.html#a7531ad38acf0891f5a1079540d2e3b3a", null ]
+    [ "HeldItemToBeginSpawn", "a23247.html#a02b7d577a4aca77ebaf14ea45660fb71", null ],
+    [ "QuickSpawn", "a23247.html#a0b132ae55a104933dfe9123a22fde081", null ],
+    [ "SpawnType", "a23247.html#a9c02a978f649f1d9a42a9cdd47811ee2", null ],
+    [ "UnknownData00", "a23247.html#a3e98dbb62c75d810a05c1186f734c68f", null ]
 ];

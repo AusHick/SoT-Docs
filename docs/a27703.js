@@ -1,11 +1,22 @@
 var a27703 =
 [
-    [ "StaticClass", "a27703.html#ace23d5c795519efa13c7f411aaa4b563", null ],
-    [ "bLoadAllTilesDuringCinematic", "a27703.html#a5cb2394e5a55d3a530f34898287efdec", null ],
-    [ "bRebaseOriginIn3DSpace", "a27703.html#a2f5d6b433191e81f2c6074f9b4224502", null ],
-    [ "RebaseOriginDistance", "a27703.html#ae8e522d45696c6c05ae1fbd76ede29db", null ],
-    [ "TilesStreaming", "a27703.html#a4383c003cdfaf16cd6f928e3a8905840", null ],
-    [ "TilesStreamingTimeThreshold", "a27703.html#abead360aa772747d05c1dbca960aa9f4", null ],
-    [ "UnknownData00", "a27703.html#a257ac47af596f0b2d4456179643e2697", null ],
-    [ "UnknownData01", "a27703.html#a31b7a8b3c1cad40cfc5499e1e85995ce", null ]
+    [ "AddOrUpdateBlendable", "a27703.html#a47ef37c756ad74b4c41da062adb05291", null ],
+    [ "StaticClass", "a27703.html#ac45834ab26acd5504b1afa83d6698d3c", null ],
+    [ "UpdateContent", "a27703.html#a63e10a34325e51f1a08d686a68100163", null ],
+    [ "AspectRatio", "a27703.html#afdba0663e8f635d4bd17e95a340779aa", null ],
+    [ "bConstrainAspectRatio", "a27703.html#a5cab2d134152f45802fc4830d3161e5c", null ],
+    [ "CaptureSource", "a27703.html#a554be14fd47ac5cb85320d9bb249fe8f", null ],
+    [ "FOVAngle", "a27703.html#a198ad4dc6476787fb8cb449e2a9fe41a", null ],
+    [ "LandscapeLODOverride", "a27703.html#afd38d36b607a0a62e5207fa9efcd034b", null ],
+    [ "OrthoFarClipPlane", "a27703.html#a9b1a844d76222ff2c194c42fd8c9ef79", null ],
+    [ "OrthoNearClipPlane", "a27703.html#a13edaf33362205e9ff9a2c692e447509", null ],
+    [ "OrthoWidth", "a27703.html#a3981e9006934f5e223d8c1e04444d50b", null ],
+    [ "PostProcessBlendWeight", "a27703.html#a5be94e59cae7ada6710d933e0d54ff09", null ],
+    [ "PostProcessSettings", "a27703.html#a3c3a8907f9be1fdf78280ad17d643d35", null ],
+    [ "ProjectionMode", "a27703.html#a074a6db3b68072438882021ab8e57697", null ],
+    [ "TextureTarget", "a27703.html#aea398a05b2d814de0e43b37023df1ccd", null ],
+    [ "UnknownData00", "a27703.html#af5f9c9560bddc3496130b28edafb2bfe", null ],
+    [ "UnknownData01", "a27703.html#a1a6b674194bcf2cfc1cb24f3eda57bf3", null ],
+    [ "UnknownData02", "a27703.html#ac5ebda8b612442b38b493a13bbc63d89", null ],
+    [ "UnknownData03", "a27703.html#af30ddb63256fcc502b184d1356fd1c5f", null ]
 ];

@@ -1,4 +1,5 @@
 var a20007 =
 [
-    [ "ItemDesc", "a20007.html#a04d15e9fdfc7c3baa24fd4ef289281e5", null ]
+    [ "GamerTag", "a20007.html#a99ceb9b4969e5047b2b7718cc1b4297e", null ],
+    [ "Title", "a20007.html#ac8e980e71cea0143f2dfecc31db55094", null ]
 ];

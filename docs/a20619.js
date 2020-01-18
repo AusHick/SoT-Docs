@@ -1,4 +1,4 @@
 var a20619 =
 [
-    [ "MigrationId", "a20619.html#a7024fb924a0ae03481436e35cfefabcb", null ]
+    [ "Balances", "a20619.html#a84bf5423dd57b3ca4d85932bab3b9453", null ]
 ];

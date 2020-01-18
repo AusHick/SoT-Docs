@@ -1,5 +1,5 @@
 var a08863 =
 [
-    [ "SetWoodenPlankDesc", "a08863.html#ab81358f49d20030b3b3a3e02f6860c32", null ],
-    [ "StaticClass", "a08863.html#ade35ddf9657d1cab2aad209141109813", null ]
+    [ "StaticClass", "a08863.html#aff2a81a7d542ed67ac9c0dfceedceed2", null ],
+    [ "LanternDesc", "a08863.html#a840615cce2484c96fdb235470b502bea", null ]
 ];

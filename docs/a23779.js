@@ -1,6 +1,6 @@
 var a23779 =
 [
-    [ "StaticClass", "a23779.html#a2ab97625e4dd7e4f793609beb08771a3", null ],
-    [ "AllAmmo", "a23779.html#aa4d2e0dbff24aa436e77a7dc60b812a3", null ],
-    [ "DefaultAmmo", "a23779.html#acfd66cb228b7205e468da4aa3826d00c", null ]
+    [ "DeltaTime", "a23779.html#a9ad9b574c244670990ad427a7058398f", null ],
+    [ "MovementRate", "a23779.html#a51f15d569b9e363895951c11aacc3be3", null ],
+    [ "Proportion", "a23779.html#a4a650203ce0c91592e9e6034e30c0aa1", null ]
 ];

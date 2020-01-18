@@ -1,7 +1,6 @@
 var a03607 =
 [
-    [ "StaticClass", "a03607.html#a7678a5749c0f6df29b3a613865bd2270", null ],
-    [ "ResourceManagedCanvases", "a03607.html#ae317dfd0bd400fa6050561e420a4c254", null ],
-    [ "UnknownData00", "a03607.html#a20619c933cbbe36648715d55a8a57c38", null ],
-    [ "UnknownData01", "a03607.html#ab0b6ee5d53e2ae44b8e4bbad0c56b10f", null ]
+    [ "StaticClass", "a03607.html#a533ef799d0e8b2ad45cc6496ea1e3233", null ],
+    [ "ConsumableWieldable", "a03607.html#afe51cde767f445c2aff165398c18a01c", null ],
+    [ "UnknownData00", "a03607.html#ab3c9092004d4beac2b0c33e866ac922e", null ]
 ];

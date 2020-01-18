@@ -1,10 +1,8 @@
 var a34763 =
 [
-    [ "Descriptor", "a34763.html#a2e7125a720980ef0f466eb1366ec828b", null ],
-    [ "InstancedResponses", "a34763.html#a02f4206be8865efcecdc55fe1240398a", null ],
-    [ "ResponsesAreActive", "a34763.html#ac6febfe21726c3cd639c638158dcc1ce", null ],
-    [ "ResponseTemplates", "a34763.html#aee17991424a69b55e7d356d183fe4938", null ],
-    [ "SourceStatus", "a34763.html#a569b12692c63171ab9a8f5dee47b9d50", null ],
-    [ "UnknownData00", "a34763.html#a2b58b05fa8625e57d7c015a36ca090e6", null ],
-    [ "UnknownData01", "a34763.html#ac3b52753da0154e9b70d8530f47a4f58", null ]
+    [ "BulkDataPtr", "a34763.html#a81ddc6d34e36b52b4e91bb7553514b87", null ],
+    [ "FontData", "a34763.html#a01b4bd257128b7ba4a23d7d827cb7693", null ],
+    [ "FontFilename", "a34763.html#acb46436161d03701c3d81751a55be055", null ],
+    [ "Hinting", "a34763.html#a6ec2e80e391ce22d6a7e3098b6b81af4", null ],
+    [ "UnknownData00", "a34763.html#ac1957bc0c2d4849ef5cc4208353af78f", null ]
 ];

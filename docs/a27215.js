@@ -1,10 +1,4 @@
 var a27215 =
 [
-    [ "StaticClass", "a27215.html#ad06abfeda8abf723a5785acb720ae0e2", null ],
-    [ "Acceleration", "a27215.html#a8bc554552f777f9bd93f3cb918c19e49", null ],
-    [ "bPositionCorrected", "a27215.html#ade6b96247fbad7011bea140fc8655d05", null ],
-    [ "Deceleration", "a27215.html#a6e2550b35b8248afa4944fde952c8b5b", null ],
-    [ "MaxSpeed", "a27215.html#a8b366cecfccf54e907bbb7ad39e85b51", null ],
-    [ "TurningBoost", "a27215.html#ab2b3c83ad9f3b2498abdc9cf960f6cde", null ],
-    [ "UnknownData00", "a27215.html#a2facf59ba34d28b992f50a4faae99b04", null ]
+    [ "StaticClass", "a27215.html#ac37d91c912cf0836a3ce9b26a2e5e410", null ]
 ];

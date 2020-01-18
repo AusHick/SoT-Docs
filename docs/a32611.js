@@ -1,5 +1,7 @@
 var a32611 =
 [
-    [ "StaticClass", "a32611.html#acc13f5b4a962a79e1481b7c125594c4d", null ],
-    [ "Params", "a32611.html#a39b9619214b18180eacc5a06180d1334", null ]
+    [ "GetService", "a32611.html#a3136d798cbe53563a1af9f4ba857b5a0", null ],
+    [ "RegisterService", "a32611.html#a8791792ca96fecf20bb46f8393efb15f", null ],
+    [ "StaticClass", "a32611.html#ac6060d4b210a2192639725aa8990390a", null ],
+    [ "UnregisterService", "a32611.html#a5219e7078d71f0b05f85350596a749ff", null ]
 ];

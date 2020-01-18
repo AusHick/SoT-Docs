@@ -1,5 +1,6 @@
 var a14787 =
 [
-    [ "IconImage", "a14787.html#a5c7e90657d807aed4b2fea43e27dae58", null ],
-    [ "Name", "a14787.html#a50f4fb1a7937c5fdfc7da6a7ab9b3b3e", null ]
+    [ "PetCustomizationDesc", "a14787.html#a1c8e531f0d86b9adb8c86c1812adb8cd", null ],
+    [ "PetEntitlementDesc", "a14787.html#a6c0f276315777fcb2b153f71a2127cf1", null ],
+    [ "PetName", "a14787.html#a9081f8e295939113f2e7a41d209eae13", null ]
 ];

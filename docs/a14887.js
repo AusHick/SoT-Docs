@@ -1,6 +1,6 @@
 var a14887 =
 [
-    [ "CapstanState", "a14887.html#a27658340c1b8ff5b94956a6de40f69ed", null ],
-    [ "CapstanVelocity", "a14887.html#a08e30f7d7f23a28aeb24a1ce29847c87", null ],
-    [ "NumCurrentUsers", "a14887.html#a053f44222487eeb1898d7cf89bad5295", null ]
+    [ "MontageLabel", "a14887.html#a46c59a7d0837319600a17d4e31ec6434", null ],
+    [ "State", "a14887.html#a3fa2ec62b68a692e7b8b59f72d34645f", null ],
+    [ "UnknownData00", "a14887.html#a9b52fbe4675cfdf02ecbb7b7bf74eca2", null ]
 ];

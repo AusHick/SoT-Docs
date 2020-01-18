@@ -1,8 +1,9 @@
 var a28491 =
 [
-    [ "StaticClass", "a28491.html#aa23e3768bf24bee50d5748975b38192e", null ],
-    [ "A", "a28491.html#a031b5a92496b4830c9a5c9418c4d3896", null ],
-    [ "B", "a28491.html#a760af56cacec7bd5fff31e00e2dde1a4", null ],
-    [ "ConstA", "a28491.html#a328487534c770e4be8eec1cf1bfc3909", null ],
-    [ "ConstB", "a28491.html#a30ae452104ad3d1f389761c56ee8534e", null ]
+    [ "StaticClass", "a28491.html#abd74b7ed3d4395fae63e949ba0b6756e", null ],
+    [ "Action", "a28491.html#a79f681f1e7b31d5da21043245be8238d", null ],
+    [ "bSavedActiveState", "a28491.html#a54973253afc762350bfe37caf213f5a2", null ],
+    [ "LastUpdatePosition", "a28491.html#a2b5e36b1c8b04a3aab00ff99e82c9445", null ],
+    [ "UnknownData00", "a28491.html#a39879a3dde65c33c81179075ddc79cff", null ],
+    [ "UnknownData01", "a28491.html#abddfd1dad3e9940894c99c5015f39764", null ]
 ];

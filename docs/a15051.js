@@ -1,5 +1,6 @@
 var a15051 =
 [
-    [ "IsCrewMemberInFavourOfChangingArenaLobby", "a15051.html#a9768c6d7afca4a872fd6888caa5841ca", null ],
-    [ "NumberOfVotes", "a15051.html#a2308e2ce685a810f5136eb5b0dbb9bb1", null ]
+    [ "FireForWholeCrew", "a15051.html#a418e779c118d6c755fb5133b76006426", null ],
+    [ "StatToFire", "a15051.html#afb85c28705aad2150887dff7a7f7f426", null ],
+    [ "UnknownData00", "a15051.html#ac85d251117846de28de41a6bd85225be", null ]
 ];

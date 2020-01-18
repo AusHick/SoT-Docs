@@ -1,10 +1,11 @@
 var a28739 =
 [
-    [ "StaticClass", "a28739.html#a5f2989c4d1e4f1d90355086630b3ae3b", null ],
-    [ "CenterX", "a28739.html#a5564f6aed2db9c7e7150a59d93b9ef19", null ],
-    [ "CenterY", "a28739.html#a862fbc485fd9e42266f986a87719c700", null ],
-    [ "ConstCoordinate", "a28739.html#a92b48ab9123cdcfc8a2d74553a4a3324", null ],
-    [ "Coordinate", "a28739.html#a04ee2e74073b8e5d49ac931b93ef1574", null ],
-    [ "Speed", "a28739.html#ab75c77ba702ed1cf52462a59d859d586", null ],
-    [ "Time", "a28739.html#a2c548c2e5d03a98ee211546e412298a9", null ]
+    [ "StaticClass", "a28739.html#abcacc84d12475b7d2c7701e53d2c9189", null ],
+    [ "BaseReflectFraction", "a28739.html#ab8003a4d7c84bff55f1676c786964f45", null ],
+    [ "BaseReflectFractionIn", "a28739.html#af3e50c5fd26a4e52cc9e2be887ecb913", null ],
+    [ "Exponent", "a28739.html#a28125f45714daee9d8049322a80a4ead", null ],
+    [ "ExponentIn", "a28739.html#ad190347fca4ba906e3d32e6370cb3108", null ],
+    [ "Normal", "a28739.html#a4f308d1d4e16a9960aba1efb1faac09a", null ],
+    [ "UnknownData00", "a28739.html#a6fafa5a77a777649bfb6591d59685e6b", null ],
+    [ "UnknownData01", "a28739.html#a7a7d3de08b496134952b59655a9b06fc", null ]
 ];

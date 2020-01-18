@@ -1,5 +1,5 @@
 var a36131 =
 [
-    [ "bEnableAccoustics", "a36131.html#a74f40d98c52c09ac9c3e9f3e8fed2fb2", null ],
-    [ "bEnableObstructionAndOcclusion", "a36131.html#a63a6c9b5ce057f33c937ff45e00cb430", null ]
+    [ "StaticClass", "a36131.html#a62ede60ecdf75c3b8d132a8eaf208be4", null ],
+    [ "UnknownData00", "a36131.html#a6f88d22527ce95407f8b6a387c682f27", null ]
 ];

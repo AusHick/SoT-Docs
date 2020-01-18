@@ -1,8 +1,8 @@
 var a31167 =
 [
-    [ "FadeInDistanceEnd", "a31167.html#a5d52b14f8199b33ac2e5559c35157664", null ],
-    [ "FadeInDistanceStart", "a31167.html#abdc13d797e0e228645b2690c237adada", null ],
-    [ "FadeOutDistanceEnd", "a31167.html#a29ff36f221c29b7cf6b774ce30bdcce5", null ],
-    [ "FadeOutDistanceStart", "a31167.html#a94e0d0a6974eed9b7dda4f834ffb33a9", null ],
-    [ "Volume", "a31167.html#ad81a2e7d20a9e456a458125a00671e3e", null ]
+    [ "Pitch", "a31167.html#a24e286e55b85c14cb4d2d4934ec629b0", null ],
+    [ "Sound", "a31167.html#ab590b8507d37bf5fede51504d104c03b", null ],
+    [ "Time", "a31167.html#a0957c3ca0451ba4406894e9ee94e89e3", null ],
+    [ "UnknownData00", "a31167.html#abc14b54bca61637c8ab9c54f868ad78e", null ],
+    [ "Volume", "a31167.html#aebfd5eb2faa63352b4eb9510aa7bb72f", null ]
 ];

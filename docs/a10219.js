@@ -1,26 +1,4 @@
 var a10219 =
 [
-    [ "StaticClass", "a10219.html#a20cdfbfea386b539c851bc28e5320784", null ],
-    [ "ActionMappingKeyLookupFallbacks", "a10219.html#a0bceddbde2e2d631068fdb3e36f1a03d", null ],
-    [ "AllowedInvertedCombinedAxis", "a10219.html#a9b42828b8255f28539840dcad4a876e4", null ],
-    [ "AllowedInvertedXAxis", "a10219.html#ac16ab28d7366b8d00d100aed7339847c", null ],
-    [ "AllowedInvertedYAxis", "a10219.html#ae500fe5605a8f9ddf037e02799ad4c44", null ],
-    [ "ControllerDeadzoneMax", "a10219.html#a7d60c504dbc6fe09c8fca1c5d4c82dc4", null ],
-    [ "ControllerDeadzoneMin", "a10219.html#acbba1eb9dd11bc0e06a66efb7f842c7b", null ],
-    [ "ControllerNonLinearityMax", "a10219.html#a2b754031770b0d8b0c7cbcaea8e17ab7", null ],
-    [ "ControllerNonLinearityMin", "a10219.html#ad093700006b3d89552b5e23448efbd14", null ],
-    [ "ControllerSensitivityMax", "a10219.html#af5540145e29968945e4a54007a0b73fe", null ],
-    [ "ControllerSensitivityMin", "a10219.html#a21f5d819ac71dcb08fdd1ad83f56641e", null ],
-    [ "MaxRadialSectorUnselectableFraction", "a10219.html#ade831030b89f633540beb5983436de9d", null ],
-    [ "MinDeflectionToBlockInputsAfterRadialDeactivation", "a10219.html#afec5d23dea7761fe24eaabf14c8a05d6", null ],
-    [ "MinRadialSectorUnselectableFraction", "a10219.html#a185d779647e7d72c40b0fcd822e8fbc9", null ],
-    [ "MouseSensitivityMax", "a10219.html#a2f8d6346b12be20d1b5384161da4bc6d", null ],
-    [ "MouseSensitivityMin", "a10219.html#a7a2dc149fbf1d68539159d8d1d91784d", null ],
-    [ "RadialActivationThreshold", "a10219.html#a20e92a39a0c933272df749694eef3df8", null ],
-    [ "RadialFastItemSwitchGracePeriod", "a10219.html#ad90faca6a908aff2bee58a8762c8da96", null ],
-    [ "RadialSelectionMagnitudeThreshold", "a10219.html#a5249399bb51eaf63eb9b43948d7399f0", null ],
-    [ "RadialSelectionTimeout", "a10219.html#a1a79e2a6d34110c7c77497842f8ef23f", null ],
-    [ "TimeToBlockInputsAfterRadialDeactivation", "a10219.html#a9e62223d9ffb9857b7690ebc74280c67", null ],
-    [ "VirtualActionBindingDefinitions", "a10219.html#a25168def30de4303b1d13a068f98b58e", null ],
-    [ "VirtualAxisBindingDefinitions", "a10219.html#a1b8cda7ac93997eb7813d658df6addfa", null ]
+    [ "StaticClass", "a10219.html#aa181f30fedbe9fdd461fb25b995fdd19", null ]
 ];

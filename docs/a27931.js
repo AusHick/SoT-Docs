@@ -1,5 +1,7 @@
 var a27931 =
 [
-    [ "StaticClass", "a27931.html#affe881eb12214e10423880cb5a19f554", null ],
-    [ "ConstantCurve", "a27931.html#aa512f4606de5933c5d3c3ca6cd7296e9", null ]
+    [ "LogBox", "a27931.html#a2cd6bc3c6225f16433416ff2b5bec81e", null ],
+    [ "LogLocation", "a27931.html#ad824707546bbff93e7f21a388ec4c4c2", null ],
+    [ "LogText", "a27931.html#a200808ea0fbc3ad3eff32f8086ad52b9", null ],
+    [ "StaticClass", "a27931.html#a8997378fc309aad62ade0946e5ecfe46", null ]
 ];

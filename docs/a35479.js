@@ -1,6 +1,6 @@
 var a35479 =
 [
-    [ "AddChildToVerticalBox", "a35479.html#af66314e9d13f1d29bd1adb5eb52c1906", null ],
-    [ "StaticClass", "a35479.html#a0fb4fa874e207d20cd4e8fe402a91d9a", null ],
-    [ "UnknownData00", "a35479.html#a40eea0c19212995d1e1eef209954eaa8", null ]
+    [ "GetValue", "a35479.html#a002ec2d9a657e9b5b6153a8fe7562c30", null ],
+    [ "StaticClass", "a35479.html#a5b1fba4ede9294492dc69a498349d773", null ],
+    [ "UnknownData00", "a35479.html#a08a24e73a2be3adfa177a1169ae26022", null ]
 ];

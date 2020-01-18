@@ -1,7 +1,5 @@
 var a16091 =
 [
-    [ "Operator", "a16091.html#ad838ab2daf962ff7171c9c2b93408856", null ],
-    [ "PlayerStat", "a16091.html#aa084d879c273128510df06a641f9703f", null ],
-    [ "Threshold", "a16091.html#aecb3303b165319e2c27a3fc436442ad9", null ],
-    [ "UnknownData00", "a16091.html#a4ecb3398c8c3fc722bba0465d76bc4d9", null ]
+    [ "AllowedItems", "a16091.html#a18b497eafac2dbd94450b734e5f6daf7", null ],
+    [ "FeatureName", "a16091.html#af976c9ac844900fe9f5fabb6e6b84b04", null ]
 ];

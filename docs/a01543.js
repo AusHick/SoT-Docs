@@ -1,6 +1,27 @@
 var a01543 =
 [
-    [ "Observer", "a01543.html#a6a756ade7ade12d3454b4d0c66638f23", null ],
-    [ "SeenActor", "a01543.html#afeef855f4aa7f49e71de6e161bc9d8ad", null ],
-    [ "UnknownData00", "a01543.html#ad812b44ee7d24123c09e56bb7761094b", null ]
+    [ "bCanDisableTrace", "a01543.html#a4e16025ea6cb2ea2d113aa6ef8bc3ca1", null ],
+    [ "bCanProjectDown", "a01543.html#a9985f88c4c56e6ef77b9701b9b7333b1", null ],
+    [ "bCanTraceOnGeometry", "a01543.html#a5e0507444cc0dcba6e3b0c533fd911d5", null ],
+    [ "bCanTraceOnNavMesh", "a01543.html#a707ab057047d0b163e7b2a91b90a82fd", null ],
+    [ "bOnlyBlockingHits", "a01543.html#af6187aec83808a37121aba877718138e", null ],
+    [ "bTraceComplex", "a01543.html#aedffb0d76603d176a18e6bdbd8db5e87", null ],
+    [ "bUseSourceZAsEnd", "a01543.html#ab02062eacd1d1ccceba7a3cc7971abcf", null ],
+    [ "bUseUpDownAsAbsoluteZStartAndEnd", "a01543.html#aca93a2ce4ad2390f5bc7ba0daddfbee4", null ],
+    [ "ExtentX", "a01543.html#aa7ada04366cd9154e5aa0b8b159ec63e", null ],
+    [ "ExtentY", "a01543.html#a1821b6233fbb5e05fb1202f3d76f8d3a", null ],
+    [ "ExtentZ", "a01543.html#afa69539280bdf36daabdff7eeea3a12b", null ],
+    [ "NavigationFilter", "a01543.html#aa907e5c61c21f0edd2faa452ca979462", null ],
+    [ "OverrideNavMesh", "a01543.html#a058fff7ed5d1c43196af6f989498ef38", null ],
+    [ "PostProjectionVerticalOffset", "a01543.html#a8b2c1a6113d6eb126987de3f4fb21773", null ],
+    [ "ProjectDown", "a01543.html#aa6a4b4b47368708073c59b6fa9d18374", null ],
+    [ "ProjectUp", "a01543.html#a1a6ff01dcc748d7265e102a3a4c230b8", null ],
+    [ "SerializedChannel", "a01543.html#a48b7376034032dbaeb60f31cf25110fa", null ],
+    [ "TraceChannel", "a01543.html#a46dfe432ad15f8126443f03bafaa64b4", null ],
+    [ "TraceMode", "a01543.html#aaadbe5a187684228c50e026649ffdc57", null ],
+    [ "TraceShape", "a01543.html#a7f840bc083942c68dd2700ce64eab7c1", null ],
+    [ "UnknownData00", "a01543.html#afc0f8e35ee47c946311ea2db6728ab70", null ],
+    [ "UnknownData01", "a01543.html#a6b0da92966fdb3aeff22b500b75a68be", null ],
+    [ "UnknownData02", "a01543.html#ac54d1c2f8cdda8e0c7e81de130b1bf38", null ],
+    [ "VersionNum", "a01543.html#a6ab3330129cf4936563aadaa9228ce88", null ]
 ];

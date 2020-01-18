@@ -1,6 +1,8 @@
 var a25075 =
 [
-    [ "Gender", "a25075.html#a27b314befcdb57510deeb75287124b89", null ],
-    [ "Rank", "a25075.html#aef8e0046d55b8957873245c6ec38c965", null ],
-    [ "UnknownData00", "a25075.html#a4eeec459d9d7adeac9bd98db3f0d63b5", null ]
+    [ "Centre", "a25075.html#a208240945ebee64a364b858399682a15", null ],
+    [ "Colour", "a25075.html#a363e83ea814af6f7e784e611196b630d", null ],
+    [ "LifeTime", "a25075.html#aa5cc82ccecd3d02aa918f0df85e48001", null ],
+    [ "Radius", "a25075.html#a2a6d7bdaa8390b344e24a5738b1e42af", null ],
+    [ "UnknownData00", "a25075.html#a61f7281399d122836ec497fa6072843b", null ]
 ];

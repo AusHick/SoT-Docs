@@ -1,6 +1,12 @@
 var a33475 =
 [
-    [ "StaticClass", "a33475.html#a73bdbafcd1e736197320e9ba60e4572e", null ],
-    [ "PetSpawnParams", "a33475.html#a2c0ed2f1ac390a3df12a28254cab02ac", null ],
-    [ "PreviewPetClass", "a33475.html#a8e0489ab9c4dbe0c97440c98730ab0c3", null ]
+    [ "OnRep_PlayersInZone", "a33475.html#ab2d0290f78bcd36dd6a0a9d137f25a86", null ],
+    [ "StaticClass", "a33475.html#ab9209992321c74f60dff94766cbebbb7", null ],
+    [ "FakeUnderwaterLocationsDistanceBetweenPointsInMetres", "a33475.html#aa375c7ed72aa51baea7c158c36df17ea", null ],
+    [ "FakeUnderwaterLocationsMinDistanceInMetres", "a33475.html#ae0a0c67f5795d24839d1eed4b00d1e1e", null ],
+    [ "HitDetectionVolume", "a33475.html#a39c0fb2fc99996f0697ef6400a0c4210", null ],
+    [ "PlayersInZone", "a33475.html#a75ce5e1e9c092734e60e8ff2710ccad3", null ],
+    [ "SetupData", "a33475.html#ae8901ab214858479b0096630b79568ae", null ],
+    [ "UnknownData00", "a33475.html#a47d73bd528cd5a48925d66aaa04b6b9f", null ],
+    [ "UnknownData01", "a33475.html#af53e795c324ce7a628f70c08837de51d", null ]
 ];

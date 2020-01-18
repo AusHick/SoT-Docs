@@ -1,8 +1,5 @@
 var a25607 =
 [
-    [ "MaxObjectsNotConsideredByGC", "a25607.html#ac8995f4757a94015d7e47fa19e81b50d", null ],
-    [ "ObjFirstGCIndex", "a25607.html#aeb0be36016dacfadc42c7e29c473ecff", null ],
-    [ "ObjLastNonGCIndex", "a25607.html#a01f012ed089390883c4fca029ac7fd90", null ],
-    [ "ObjObjects", "a25607.html#a812053ded2084693e6e6c1b06e125a64", null ],
-    [ "OpenForDisregardForGC", "a25607.html#a3ae05f232d4aad5f4ec063127158db53", null ]
+    [ "StaticClass", "a25607.html#a6583caefd08c9bed2ef64471801fd73c", null ],
+    [ "UnknownData00", "a25607.html#a2886c7ac6a4281938516ddecf88471c7", null ]
 ];

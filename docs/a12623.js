@@ -1,8 +1,5 @@
 var a12623 =
 [
-    [ "FirstPersonAnimSetDataId", "a12623.html#a4dd17010cc8a58115aa2bbfdb3213bb9", null ],
-    [ "FirstPersonMesh", "a12623.html#a5e556ab0215d170e5340e4497ff6ba75", null ],
-    [ "ThirdPersonAnimSetDataId", "a12623.html#a578de9f2c93b3c789f40ff907c6fb3a1", null ],
-    [ "ThirdPersonMesh", "a12623.html#a068dfe4cdcabe9f37e504d95d4ee1781", null ],
-    [ "UnknownData00", "a12623.html#aba0976ec961b29d7bcd2cb7e04e25f1f", null ]
+    [ "StaticClass", "a12623.html#a3b8d1597a7060b7bb88eaf2ebc3fdc5a", null ],
+    [ "ShantyListShantyName", "a12623.html#ab40b47cba28f827c9b6e57386926f912", null ]
 ];

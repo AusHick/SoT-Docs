@@ -1,4 +1,4 @@
 var a20939 =
 [
-    [ "CurrentContestState", "a20939.html#aef76bd13c90f51d18c7558b26759b2bd", null ]
+    [ "Notifications", "a20939.html#ac77eb6760dfc61d8fe3be047d03516eb", null ]
 ];

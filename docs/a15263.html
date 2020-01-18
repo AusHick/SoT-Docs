@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBuriedTreasureChestParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FWeaponProjectileParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,69 @@ $(document).ready(function(){initNavTree('a15263.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15260.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBuriedTreasureChestParams Struct Reference</div>  </div>
+<div class="title">SDK::FWeaponProjectileParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBuriedTreasureChestParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeaponProjectileParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15261.svg" width="612" height="427"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15261.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:afe63a1454662b0bec3c16e5045361bca"><td class="memItemLeft" align="right" valign="top"><a id="afe63a1454662b0bec3c16e5045361bca"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxSmallCrewSizeForNumDigsSelection</b></td></tr>
-<tr class="separator:afe63a1454662b0bec3c16e5045361bca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0bdb3761b7287f31785a3e8d92f032ed"><td class="memItemLeft" align="right" valign="top"><a id="a0bdb3761b7287f31785a3e8d92f032ed"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a0bdb3761b7287f31785a3e8d92f032ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abed5d6cdc96978588bad11ec6c5b0ed1"><td class="memItemLeft" align="right" valign="top"><a id="abed5d6cdc96978588bad11ec6c5b0ed1"></a>
-struct <a class="el" href="a32939.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumDigsRequiredForSmallCrewSize</b></td></tr>
-<tr class="separator:abed5d6cdc96978588bad11ec6c5b0ed1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3dac1fbfa17cdbb5c65ef724827d4b37"><td class="memItemLeft" align="right" valign="top"><a id="a3dac1fbfa17cdbb5c65ef724827d4b37"></a>
-struct <a class="el" href="a32939.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumDigsRequiredForBiggerCrewSize</b></td></tr>
-<tr class="separator:a3dac1fbfa17cdbb5c65ef724827d4b37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b353a9d4178328d85fdc40012b40b5f"><td class="memItemLeft" align="right" valign="top"><a id="a5b353a9d4178328d85fdc40012b40b5f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Damage</b></td></tr>
+<tr class="separator:a5b353a9d4178328d85fdc40012b40b5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28ec53e6c90a8788f1856710e7d8cccf"><td class="memItemLeft" align="right" valign="top"><a id="a28ec53e6c90a8788f1856710e7d8cccf"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DamageMultiplierAtMaximumRange</b></td></tr>
+<tr class="separator:a28ec53e6c90a8788f1856710e7d8cccf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af49d872bcefb38c19284eebf1d40aea9"><td class="memItemLeft" align="right" valign="top"><a id="af49d872bcefb38c19284eebf1d40aea9"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LifeTime</b></td></tr>
+<tr class="separator:af49d872bcefb38c19284eebf1d40aea9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa912e131b22b41db9cd82f82cb9b3b16"><td class="memItemLeft" align="right" valign="top"><a id="aa912e131b22b41db9cd82f82cb9b3b16"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TrailFadeOutTime</b></td></tr>
+<tr class="separator:aa912e131b22b41db9cd82f82cb9b3b16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7de7d0ff4b0fb2b23b3bbd81d76b6f5"><td class="memItemLeft" align="right" valign="top"><a id="aa7de7d0ff4b0fb2b23b3bbd81d76b6f5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Velocity</b></td></tr>
+<tr class="separator:aa7de7d0ff4b0fb2b23b3bbd81d76b6f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5d9ef70ed308a992e24bb1b6015f75e"><td class="memItemLeft" align="right" valign="top"><a id="ae5d9ef70ed308a992e24bb1b6015f75e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TimeBeforeApplyingGravity</b></td></tr>
+<tr class="separator:ae5d9ef70ed308a992e24bb1b6015f75e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7b63fed578833442f4c09232e903df4"><td class="memItemLeft" align="right" valign="top"><a id="ac7b63fed578833442f4c09232e903df4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DownForceVelocityFractionPerSecond</b></td></tr>
+<tr class="separator:ac7b63fed578833442f4c09232e903df4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a237f3b942cfe643bff162627e7a26870"><td class="memItemLeft" align="right" valign="top"><a id="a237f3b942cfe643bff162627e7a26870"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>VelocityDampeningPerSecond</b></td></tr>
+<tr class="separator:a237f3b942cfe643bff162627e7a26870"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48a0d8954a03176b5fadcca751201405"><td class="memItemLeft" align="right" valign="top"><a id="a48a0d8954a03176b5fadcca751201405"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Color</b></td></tr>
+<tr class="separator:a48a0d8954a03176b5fadcca751201405"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae57740d3f75275b6dc13171060a6a252"><td class="memItemLeft" align="right" valign="top"><a id="ae57740d3f75275b6dc13171060a6a252"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ProjectileId</b></td></tr>
+<tr class="separator:ae57740d3f75275b6dc13171060a6a252"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43fc6cb56d7d05f537462cc679471b8f"><td class="memItemLeft" align="right" valign="top"><a id="a43fc6cb56d7d05f537462cc679471b8f"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EHealthChangedReason &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>HealthChangeReason</b></td></tr>
+<tr class="separator:a43fc6cb56d7d05f537462cc679471b8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63e4d97d4fa87494e2b169a215c5a40d"><td class="memItemLeft" align="right" valign="top"><a id="a63e4d97d4fa87494e2b169a215c5a40d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a63e4d97d4fa87494e2b169a215c5a40d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1fbfd3e61e2c58a51ec628da71ff8cf"><td class="memItemLeft" align="right" valign="top"><a id="aa1fbfd3e61e2c58a51ec628da71ff8cf"></a>
+struct <a class="el" href="a15259.html">FWeaponProjectileEffectParams</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ProjectileEffects</b></td></tr>
+<tr class="separator:aa1fbfd3e61e2c58a51ec628da71ff8cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0063a70417e13500b74673a330dc7ca6"><td class="memItemLeft" align="right" valign="top"><a id="a0063a70417e13500b74673a330dc7ca6"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a0063a70417e13500b74673a330dc7ca6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15263.html">FBuriedTreasureChestParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15263.html">FWeaponProjectileParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:50 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

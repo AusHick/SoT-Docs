@@ -1,4 +1,6 @@
 var a19971 =
 [
-    [ "PossessionsChestType", "a19971.html#ab98ec970293d189b9e431019e6a2c7d1", null ]
+    [ "Index", "a19971.html#aeff4cfe287d774037853d2f1970b5752", null ],
+    [ "Text", "a19971.html#aaab918e49a629b2d6730ae939c864f35", null ],
+    [ "UnknownData00", "a19971.html#a4f7fd4464f6e45a68165d243bbc8d400", null ]
 ];

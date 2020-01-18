@@ -1,5 +1,26 @@
 var a29303 =
 [
-    [ "StaticClass", "a29303.html#a8382cc9b9e43c5b99998e14e56854b94", null ],
-    [ "GroupScales", "a29303.html#aee23353b4d66fc3764861ae1bc38f4d5", null ]
+    [ "StaticClass", "a29303.html#a1661b0741776d1cfc50d15ddd4e16bf5", null ],
+    [ "bApplyPhysics", "a29303.html#a7eed64e44b9c190af641394cfc67ce48", null ],
+    [ "bCollideOnlyIfVisible", "a29303.html#a26d1e0a12e372f3712eb312d010babf6", null ],
+    [ "bDropDetail", "a29303.html#a6074335b9a30f2ec6b27951b3bfd383a", null ],
+    [ "bIgnoreSourceActor", "a29303.html#a94e1c655add49550e87889be0d2d69d8", null ],
+    [ "bOnlyVerticalNormalsDecrementCount", "a29303.html#a6969ed5f7ab0fabe4364584956034d98", null ],
+    [ "bPawnsDoNotDecrementCount", "a29303.html#a3cfbef2a6c5c6d320aabda225a062cd9", null ],
+    [ "CollisionCompletionOption", "a29303.html#ad191716d79e29ef68e59b50fb2cca445", null ],
+    [ "CollisionTypes", "a29303.html#ac819499f61852f54d9215579c3de01b6", null ],
+    [ "DampingFactor", "a29303.html#a32c2e72ae0902715ece78402e3d71d61", null ],
+    [ "DampingFactorRotation", "a29303.html#a89abe76cfc82eb4fe724702e00006c78", null ],
+    [ "DelayAmount", "a29303.html#ad0809c8a69e2927653d21d56e71f027a", null ],
+    [ "DirScalar", "a29303.html#aacb4de88a64d1c7ab98fc362565097d2", null ],
+    [ "MaxCollisionDistance", "a29303.html#a109c7057df4908b225af8c5fe389660d", null ],
+    [ "MaxCollisions", "a29303.html#a57285ee8ef65cbc6ffab67cf3602a8d5", null ],
+    [ "ParticleMass", "a29303.html#a415097b794b99024594551ce51b9879e", null ],
+    [ "UnknownData00", "a29303.html#a67176fb88a32198e0af3cab872cacc0b", null ],
+    [ "UnknownData01", "a29303.html#af007ff4c3d6f38430f1e3bc4c4323af5", null ],
+    [ "UnknownData02", "a29303.html#aee8069817248424ed6e2c0923633fd55", null ],
+    [ "UnknownData03", "a29303.html#aabd57dd79c1ab8f96c575dd3b184c89e", null ],
+    [ "UnknownData04", "a29303.html#a5d071b7623e4f2ac719aa2b0f6e33a91", null ],
+    [ "UnknownData05", "a29303.html#a8c010d3d6c6e06a6a97142557445cae1", null ],
+    [ "VerticalFudgeFactor", "a29303.html#a0023e3e3b426fa7cbf9c98ae66bd8837", null ]
 ];

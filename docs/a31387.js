@@ -1,7 +1,6 @@
 var a31387 =
 [
-    [ "EditedObject", "a31387.html#a54b1da4627b617290561459f059025ed", null ],
-    [ "SavedViewOffset", "a31387.html#a059342c99eb7390949a6f2fefa9df1e6", null ],
-    [ "SavedZoomAmount", "a31387.html#a9dfd03b4bed50a512d0853d42dbff611", null ],
-    [ "UnknownData00", "a31387.html#ad3326383431db884d01788bd8e961acd", null ]
+    [ "bIsExternalCurve", "a31387.html#a8921025a6f9ec9da7f7323993221a6ed", null ],
+    [ "TrackName", "a31387.html#a275756a52ae36a5a6df0ab96bc3033b5", null ],
+    [ "UnknownData00", "a31387.html#ac8865aab71c1d0ed8c42025a8fc89213", null ]
 ];

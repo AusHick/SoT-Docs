@@ -1,5 +1,9 @@
 var a06567 =
 [
-    [ "StaticClass", "a06567.html#a47c8199dcf383e23568ca62a1e141fbe", null ],
-    [ "UnknownData00", "a06567.html#adc5add147e927f5580a8ab0b37379167", null ]
+    [ "Server_ShipCustomizationChestEquipItem", "a06567.html#a13fbaf16f9212c43da5227dbf62760dc", null ],
+    [ "Server_ShipCustomizationChestUnequipItem", "a06567.html#a6bc5711d094a68d684c4de78dd56f877", null ],
+    [ "StaticClass", "a06567.html#a624d281804059f8b436484a090efd8a4", null ],
+    [ "AllTab", "a06567.html#a124d3c652858b326fa81a09d7ccf0824", null ],
+    [ "Categories", "a06567.html#a0d7698d08b4268fac0a7126290f4f1eb", null ],
+    [ "UnknownData00", "a06567.html#a2a7c0f4fa05222a05dc0df9e14282756", null ]
 ];

@@ -1,4 +1,5 @@
 var a07231 =
 [
-    [ "StaticClass", "a07231.html#a6a5bc0a42697f09696333bc186bbb40e", null ]
+    [ "DebugRemoveLocalPlayer", "a07231.html#adb6e18486aeefd32a388d1cbca953f5f", null ],
+    [ "StaticClass", "a07231.html#a34bba8fc5857baa3f4a47d41d8e16ee1", null ]
 ];

@@ -1,4 +1,5 @@
 var a17351 =
 [
-    [ "UnknownData00", "a17351.html#a34cccdf29da2182fd2b91f963d68765e", null ]
+    [ "ChapterCount", "a17351.html#a6b1fdee376454cf16cd3404fa9c75909", null ],
+    [ "ChapterIndex", "a17351.html#ae9bcfa64532916f102ac9d8392e3c75a", null ]
 ];

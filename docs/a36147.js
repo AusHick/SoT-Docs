@@ -1,5 +1,6 @@
 var a36147 =
 [
-    [ "Reflectivity", "a36147.html#ac8143087039a1a986143b77cb6c8849c", null ],
-    [ "Thickness", "a36147.html#a5a6166bfb8f6c7409cb0be98b0196901", null ]
+    [ "RollThresholdToConsiderRolledOver", "a36147.html#aa1a6d9db0da32bd4f91eaaeac624f399", null ],
+    [ "TorqueScalar", "a36147.html#a433298c21c8cdd23ff776ebc978ee419", null ],
+    [ "UnknownData00", "a36147.html#a1423183db55fa9199803518a46f764d9", null ]
 ];

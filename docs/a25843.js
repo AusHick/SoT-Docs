@@ -1,7 +1,8 @@
 var a25843 =
 [
-    [ "StaticClass", "a25843.html#a6cc7310481d5f8da003405174afb19ee", null ],
-    [ "CanBePutInPot", "a25843.html#a845c7a460330058c144b270bfdf23772", null ],
-    [ "UnknownData00", "a25843.html#a0236ed751c8b5ef36dc8086d1b83cda1", null ],
-    [ "UnknownData01", "a25843.html#a5d50c949c10bf854134642faef887b98", null ]
+    [ "FString", "a25843.html#a287195eeeabf065b84fb139944b97ec4", null ],
+    [ "FString", "a25843.html#ab6877e3833bd876bb87aa64790d67a3c", null ],
+    [ "c_str", "a25843.html#a2d9a1c79a98c57b611e26e2dbe4a8e55", null ],
+    [ "IsValid", "a25843.html#a6d4c229036180b4662d9e886572a37cd", null ],
+    [ "ToString", "a25843.html#a4083dd19ac1e3dd573d714c2a49f3889", null ]
 ];

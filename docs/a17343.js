@@ -1,6 +1,7 @@
 var a17343 =
 [
-    [ "NumberOfLocationsRequested", "a17343.html#a2a8ac14b3d937f7efbb410b779c98ad0", null ],
-    [ "SalvageItemSpawnComponent", "a17343.html#a23a5c60a5849b2e7b517ba0023516ef0", null ],
-    [ "UnknownData00", "a17343.html#a618ebd372ddd10c3afbdafc7f68f5578", null ]
+    [ "Background", "a17343.html#a854994f80bb4bbc9e8fdc8cc4b7fcc64", null ],
+    [ "Images", "a17343.html#a83315a6cc93d511ea5e71ca8b0becdb5", null ],
+    [ "QuestCount", "a17343.html#a42286d9502a6c8b89b73abd965e6efea", null ],
+    [ "UnknownData00", "a17343.html#a56e6238829efc256e05897074703e7d7", null ]
 ];

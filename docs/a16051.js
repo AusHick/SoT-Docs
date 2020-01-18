@@ -1,5 +1,6 @@
 var a16051 =
 [
-    [ "Spawner", "a16051.html#a1273e8f5db2c9319f065e48b5401c4ec", null ],
-    [ "Type", "a16051.html#abfcc640fbbdf83655efa8a23217d7c43", null ]
+    [ "Entitlement", "a16051.html#aca7288b7d5f45771bb1fedc67bd5d747", null ],
+    [ "Value", "a16051.html#a51a0960ce1f70487dbf267fdf39582ce", null ],
+    [ "Weight", "a16051.html#aa1ca3a0dea015f05a26db992cc9c8ecc", null ]
 ];

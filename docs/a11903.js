@@ -1,7 +1,8 @@
 var a11903 =
 [
-    [ "StaticClass", "a11903.html#a6922121393162992dd81bfebfce82aac", null ],
-    [ "Desc", "a11903.html#a6e9c9679ef24d7d80e9db6353d582140", null ],
-    [ "Params", "a11903.html#a0b438ca70f731a86778466291f862a41", null ],
-    [ "UnknownData00", "a11903.html#a782521ecb213230a1e7f5c2c94b17a1a", null ]
+    [ "StaticClass", "a11903.html#a4b188a1a75312fd05abc6d74f5e4a9b3", null ],
+    [ "Configs", "a11903.html#acacea77486191820854ccc010951bc3b", null ],
+    [ "EventSettings", "a11903.html#ac0b1cb18a804bc5e7233c5c20a0e6a2d", null ],
+    [ "InitialStartupTime", "a11903.html#ae9c55b6c213acc909635ce5468b367e5", null ],
+    [ "UnknownData00", "a11903.html#a2956eaf9b343a338b31f9725a0cf3e44", null ]
 ];

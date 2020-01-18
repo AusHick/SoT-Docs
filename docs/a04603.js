@@ -1,8 +1,6 @@
 var a04603 =
 [
-    [ "EnableDrawingForAllMachines_RPC", "a04603.html#a4f43ee606fb2c3f67556692d030d165a", null ],
-    [ "StaticClass", "a04603.html#ad00e3c1d6521994206cdf920f317f96d", null ],
-    [ "DigRadius", "a04603.html#a0a3ffeeba261cc058f4e321ee987734e", null ],
-    [ "Pos", "a04603.html#ae2c60343b035989d3286b69cf291d09a", null ],
-    [ "UnknownData00", "a04603.html#a5a56a18c1bdaa6e4c9b9cc770b626ec4", null ]
+    [ "StaticClass", "a04603.html#a2442e27df1e7f8124529cc95bfc5e050", null ],
+    [ "PlayerShip", "a04603.html#ad942d0485cf84abe6773352c3ee6ba7b", null ],
+    [ "UnknownData00", "a04603.html#a6c0af0075ef7a06616dcf253421e4bc2", null ]
 ];

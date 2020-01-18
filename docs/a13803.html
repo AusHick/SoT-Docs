@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIShipsSpotted Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FBuoyantObjectSpawnProfile Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a13803.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a13800.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIShipsSpotted Struct Reference</div>  </div>
+<div class="title">SDK::FBuoyantObjectSpawnProfile Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipsSpotted:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBuoyantObjectSpawnProfile:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,20 +100,62 @@ $(document).ready(function(){initNavTree('a13803.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ac4fba02bcf6ec012fbe1220d45ab6be2"><td class="memItemLeft" align="right" valign="top"><a id="ac4fba02bcf6ec012fbe1220d45ab6be2"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SpottedShip</b></td></tr>
-<tr class="separator:ac4fba02bcf6ec012fbe1220d45ab6be2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa86ae5d606c9d6039ca43c8c19273099"><td class="memItemLeft" align="right" valign="top"><a id="aa86ae5d606c9d6039ca43c8c19273099"></a>
-double&#160;</td><td class="memItemRight" valign="bottom"><b>TimeSpotted</b></td></tr>
-<tr class="separator:aa86ae5d606c9d6039ca43c8c19273099"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa522473114de2b85a0446f86f16d6e3e"><td class="memItemLeft" align="right" valign="top"><a id="aa522473114de2b85a0446f86f16d6e3e"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TravelDistanceToSpawnObjects</b></td></tr>
+<tr class="separator:aa522473114de2b85a0446f86f16d6e3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8944c7113abddad8f4ac67487dbca41a"><td class="memItemLeft" align="right" valign="top"><a id="a8944c7113abddad8f4ac67487dbca41a"></a>
+struct <a class="el" href="a33147.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumberOfBarrelsToSpawn</b></td></tr>
+<tr class="separator:a8944c7113abddad8f4ac67487dbca41a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2eadd7d8a7cc6bb7d0bae60cc65627a"><td class="memItemLeft" align="right" valign="top"><a id="ab2eadd7d8a7cc6bb7d0bae60cc65627a"></a>
+struct <a class="el" href="a33147.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NumberOfSpecialItemTypesToSpawn</b></td></tr>
+<tr class="separator:ab2eadd7d8a7cc6bb7d0bae60cc65627a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8aa4cc0d7ce09740c30271942552045"><td class="memItemLeft" align="right" valign="top"><a id="aa8aa4cc0d7ce09740c30271942552045"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnCentreDistanceInFrontOfShip</b></td></tr>
+<tr class="separator:aa8aa4cc0d7ce09740c30271942552045"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07b94e17ab9de121c6253eccf5120647"><td class="memItemLeft" align="right" valign="top"><a id="a07b94e17ab9de121c6253eccf5120647"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnCentreOffsetFromShipPath</b></td></tr>
+<tr class="separator:a07b94e17ab9de121c6253eccf5120647"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab747dfeb7122ebcf46c76455a2eea18c"><td class="memItemLeft" align="right" valign="top"><a id="ab747dfeb7122ebcf46c76455a2eea18c"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectSpawnDepth</b></td></tr>
+<tr class="separator:ab747dfeb7122ebcf46c76455a2eea18c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab760dcc4ea7dcba4f4c2f1a2b0bb5db8"><td class="memItemLeft" align="right" valign="top"><a id="ab760dcc4ea7dcba4f4c2f1a2b0bb5db8"></a>
+struct <a class="el" href="a26435.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectLifetime</b></td></tr>
+<tr class="separator:ab760dcc4ea7dcba4f4c2f1a2b0bb5db8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a029c5e85b5d0fc8f92c9e6b0e46c6911"><td class="memItemLeft" align="right" valign="top"><a id="a029c5e85b5d0fc8f92c9e6b0e46c6911"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectSinkingTime</b></td></tr>
+<tr class="separator:a029c5e85b5d0fc8f92c9e6b0e46c6911"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cec30a0b16aa790926bcb2294a88f45"><td class="memItemLeft" align="right" valign="top"><a id="a4cec30a0b16aa790926bcb2294a88f45"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectSinkRadius</b></td></tr>
+<tr class="separator:a4cec30a0b16aa790926bcb2294a88f45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a071dd10caae41641f7462d764243fe82"><td class="memItemLeft" align="right" valign="top"><a id="a071dd10caae41641f7462d764243fe82"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinShipSpeedInKnotsToSpawnObjects</b></td></tr>
+<tr class="separator:a071dd10caae41641f7462d764243fe82"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b4d7bfc14371dae29c953bade2214da"><td class="memItemLeft" align="right" valign="top"><a id="a7b4d7bfc14371dae29c953bade2214da"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>WildlifeSpawnHeight</b></td></tr>
+<tr class="separator:a7b4d7bfc14371dae29c953bade2214da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a356042c0bce3239d250940a1b54ebadf"><td class="memItemLeft" align="right" valign="top"><a id="a356042c0bce3239d250940a1b54ebadf"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ChanceOfSpawningSpecialItems</b></td></tr>
+<tr class="separator:a356042c0bce3239d250940a1b54ebadf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6088e9c9826d2a1dd2bc9f8b2ecf81d7"><td class="memItemLeft" align="right" valign="top"><a id="a6088e9c9826d2a1dd2bc9f8b2ecf81d7"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a6088e9c9826d2a1dd2bc9f8b2ecf81d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ea964623d9d623fc9f6eb351b0ab7f7"><td class="memItemLeft" align="right" valign="top"><a id="a6ea964623d9d623fc9f6eb351b0ab7f7"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>WildlifeType</b></td></tr>
+<tr class="separator:a6ea964623d9d623fc9f6eb351b0ab7f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3fe150bbbb40d254085aad83e7799aa"><td class="memItemLeft" align="right" valign="top"><a id="ae3fe150bbbb40d254085aad83e7799aa"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>BarrelType</b></td></tr>
+<tr class="separator:ae3fe150bbbb40d254085aad83e7799aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40f169462c633b2ffb24726cf1a7b100"><td class="memItemLeft" align="right" valign="top"><a id="a40f169462c633b2ffb24726cf1a7b100"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a13799.html">FBuoyantObjectWeightedGroup</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpecialItemTypes</b></td></tr>
+<tr class="separator:a40f169462c633b2ffb24726cf1a7b100"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13803.html">FAIShipsSpotted</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:19 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13803.html">FBuoyantObjectSpawnProfile</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

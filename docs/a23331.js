@@ -1,4 +1,4 @@
 var a23331 =
 [
-    [ "UnknownData00", "a23331.html#ab797cdbce417f8c7c63754a62f3b63bc", null ]
+    [ "IsExposedToRain", "a23331.html#adabd0d55b3f6165d51c4e1ec41b7bd8f", null ]
 ];

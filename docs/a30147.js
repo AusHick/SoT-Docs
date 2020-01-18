@@ -1,6 +1,6 @@
 var a30147 =
 [
-    [ "Color", "a30147.html#aa3b9454cf150950a0cf17e4b5b4a0fbc", null ],
-    [ "Normal", "a30147.html#a5bc519bcac9c73a70f6636c57eeab4f1", null ],
-    [ "Position", "a30147.html#a242ff43242897a3d896bc2671cd8e82c", null ]
+    [ "RootMotion", "a30147.html#a39fd5011d96786234101416c6cb2b95a", null ],
+    [ "Time", "a30147.html#a1436129aa013e4e99711c897d3dcddb6", null ],
+    [ "UnknownData00", "a30147.html#a9755c1d910daf8f80033ca55131e9c33", null ]
 ];

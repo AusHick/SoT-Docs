@@ -1,6 +1,9 @@
 var a17083 =
 [
-    [ "IsMuted", "a17083.html#a7be646d236cb4ff7436f5f9c0b4dec8b", null ],
-    [ "UnknownData00", "a17083.html#a5786312258fbaa74f564dcf2f4bbd15c", null ],
-    [ "XUID", "a17083.html#a603a525d2a69a7a786fe21b59e572f19", null ]
+    [ "FootImpactType", "a17083.html#a765f976823d580129a86666c0217a89c", null ],
+    [ "FootIndex", "a17083.html#a39653f3e59a5d9b846903094b3d39aaf", null ],
+    [ "HitResult", "a17083.html#a5d7f38f758d53140fb45042733785b7e", null ],
+    [ "SocketTransform", "a17083.html#aa21776e093eee5d7022728930340aed6", null ],
+    [ "SocketVelocity", "a17083.html#ad9452a402db9aa8ec5bac1464f6cbad8", null ],
+    [ "UnknownData00", "a17083.html#aaf2111b58992fbbdf8c55b9e4409242c", null ]
 ];

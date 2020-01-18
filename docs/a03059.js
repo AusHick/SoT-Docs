@@ -1,9 +1,15 @@
 var a03059 =
 [
-    [ "GetAllAtmosphericPressureZones", "a03059.html#a1ae016daa99052d48537bee019275c9b", null ],
-    [ "GetAtmosphericPressureZone", "a03059.html#a0ddc4d0139e8cf5ea3a5e86b99183370", null ],
-    [ "GetNumberOfAtmosphericPressureZones", "a03059.html#a09f0361b9e2d56a741f61aa577a2d0ac", null ],
-    [ "RegisterAtmosphericPressureZoneWithService", "a03059.html#a18b18906474ca054ecd19ef358149d4c", null ],
-    [ "StaticClass", "a03059.html#a0aefda6603d8d8cae2365d9f9884fc91", null ],
-    [ "UnregisterAtmosphericPressureZoneFromService", "a03059.html#ab4cb551bb50a1ea26ee7c5c9e8be6d62", null ]
+    [ "OnTextCanvasUpdate", "a03059.html#a8a270330a90a454224c9c8de7f8cfc6b", null ],
+    [ "StaticClass", "a03059.html#aab7dbb45a0b67c246a4ae678a8eb3f89", null ],
+    [ "AthenaTextRenderTarget", "a03059.html#aea5ea6c06ca30945046548eca0f742dc", null ],
+    [ "CanvasHeight", "a03059.html#ad6f2901cc75c44876f9157ffb99c1606", null ],
+    [ "CanvasWidth", "a03059.html#a6625adaef16ceef15473d4805e2d32c6", null ],
+    [ "Font", "a03059.html#a8f344ad3386dd628ffc68844d0f55955", null ],
+    [ "FontLineSpacingScale", "a03059.html#a7fde80f57ddc3427d3e955e441b7a65c", null ],
+    [ "FontScale", "a03059.html#ae371ce67cf1fe05b484926f092ec19e7", null ],
+    [ "Text", "a03059.html#a85e8a8cd90c275d4a6c8ddf0f1203e41", null ],
+    [ "TextDesc", "a03059.html#a93f5f63b2aceb714f78b5609672f52bb", null ],
+    [ "UnknownData00", "a03059.html#a65f63f6b98ccd6742e35a68799bf6b83", null ],
+    [ "UnknownData01", "a03059.html#a6308fa02da099ebfbc9b1b2233fa2c90", null ]
 ];

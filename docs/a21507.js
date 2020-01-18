@@ -1,6 +1,6 @@
 var a21507 =
 [
-    [ "Descriptions", "a21507.html#ac3a293635b85577322ae062a844055a7", null ],
-    [ "Equipment", "a21507.html#a21986503c9f0496139cc2e21ace2ab75", null ],
-    [ "Resources", "a21507.html#a496a43c0e64a2e964c5bc066ec96ccba", null ]
+    [ "Index", "a21507.html#a25d93573198cfa2d6a7fbe74c8ab4876", null ],
+    [ "ItemDesc", "a21507.html#a0a5283610700c2ca28db1fcd02856242", null ],
+    [ "UnknownData00", "a21507.html#a6e525695101091fc69f459249ab2ccd0", null ]
 ];

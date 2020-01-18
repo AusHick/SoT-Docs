@@ -1,6 +1,16 @@
 var a27891 =
 [
-    [ "StaticClass", "a27891.html#ac478d16bec17292df3e5028cec9436dc", null ],
-    [ "Profiles", "a27891.html#a12b0d5c0851b8054b6a7d68aa61a2040", null ],
-    [ "UnknownData00", "a27891.html#af987fb38b678c6bdae4519b0bf856d7b", null ]
+    [ "BitIsMarked", "a27891.html#ada4d96e9a3ca258d8c13476fc61b8352", null ],
+    [ "ClearAllBits", "a27891.html#a42b62db729737d33776b0d2460b5ff96", null ],
+    [ "ClearBit", "a27891.html#a6ba513e882462f447fe22a315bb04ddc", null ],
+    [ "GetEnumeratorName", "a27891.html#a875c719718c5a6ad2b2b814fff75f262", null ],
+    [ "GetEnumeratorUserFriendlyName", "a27891.html#a29e0110252051e6c0de8401cda21e5d7", null ],
+    [ "GetFirstUnmarkedBit", "a27891.html#a715c95d666ff9164a067ab14d61f7d96", null ],
+    [ "GetRandomUnmarkedBit", "a27891.html#a844d56217fdf2d620a377ef6017674da", null ],
+    [ "GetUnmarkedBit", "a27891.html#a2abb8b23b00be4cd87ea538e023e7a4b", null ],
+    [ "GetValidIndex", "a27891.html#a9bde815fc18d10b5ffe8b447333386cd", null ],
+    [ "HasMarkedBit", "a27891.html#a201af47c4b75685549940ca16fb7b63c", null ],
+    [ "HasUnmarkedBit", "a27891.html#a01d5732115e6ded101a792380bfa570d", null ],
+    [ "MarkBit", "a27891.html#a5414787b79344bb0887352e0f6391f59", null ],
+    [ "StaticClass", "a27891.html#a72daa56d9a81b420300046405026b7ba", null ]
 ];

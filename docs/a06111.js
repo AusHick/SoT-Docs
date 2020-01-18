@@ -1,6 +1,6 @@
 var a06111 =
 [
-    [ "StartReaction", "a06111.html#a3b2fd1d301c2b0d1029cc39394ae9b4b", null ],
-    [ "StaticClass", "a06111.html#a965fb6c0631b1788dbb9ffcf05552661", null ],
-    [ "StopReaction", "a06111.html#ad5ddaa961c4a0c910a32095ef95ab818", null ]
+    [ "StaticClass", "a06111.html#a666b7f9376919ab4898de957b0c79f67", null ],
+    [ "ReactionIndex", "a06111.html#a72becf340fd8495bf7155cb1ca5db1f4", null ],
+    [ "UnknownData00", "a06111.html#a5c4f77433e38ba4724d6fb9f1aaf90d5", null ]
 ];

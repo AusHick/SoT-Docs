@@ -1,6 +1,5 @@
 var a15731 =
 [
-    [ "Effect", "a15731.html#acc1c61c1040284c7b23adfe209af0ef9", null ],
-    [ "Strength", "a15731.html#a6cd4782c7dbed1a1544828a8ade63754", null ],
-    [ "UnknownData00", "a15731.html#a4f5669c0591516f40fb89d446faf581a", null ]
+    [ "AnimInstance", "a15731.html#aba50f6d60b47dd73f7317973fa73d40e", null ],
+    [ "UnknownData00", "a15731.html#a2719d322d449e8ba3380553e0ff5c417", null ]
 ];

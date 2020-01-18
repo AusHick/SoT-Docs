@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FLoadoutEntry Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FLightingControllerSettingsOutput Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,321 @@ $(document).ready(function(){initNavTree('a14719.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14716.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FLoadoutEntry Struct Reference</div>  </div>
+<div class="title">SDK::FLightingControllerSettingsOutput Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLoadoutEntry:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLightingControllerSettingsOutput:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14717.svg" width="458" height="427"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a14717.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:acc16ade21daa617f52167a67c511bf18"><td class="memItemLeft" align="right" valign="top"><a id="acc16ade21daa617f52167a67c511bf18"></a>
-struct <a class="el" href="a13259.html">FPirateIdentity</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PirateIdentity</b></td></tr>
-<tr class="separator:acc16ade21daa617f52167a67c511bf18"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e17c74af2c4503d1457efbc35087bd1"><td class="memItemLeft" align="right" valign="top"><a id="a0e17c74af2c4503d1457efbc35087bd1"></a>
-struct <a class="el" href="a14715.html">FLoadout</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Loadout</b></td></tr>
-<tr class="separator:a0e17c74af2c4503d1457efbc35087bd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b2d86c3440ce50c9b24de8b65b2f731"><td class="memItemLeft" align="right" valign="top"><a id="a2b2d86c3440ce50c9b24de8b65b2f731"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Tag</b></td></tr>
-<tr class="separator:a2b2d86c3440ce50c9b24de8b65b2f731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afddeb7d5f4952e74539a13eced5e39a9"><td class="memItemLeft" align="right" valign="top"><a id="afddeb7d5f4952e74539a13eced5e39a9"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:afddeb7d5f4952e74539a13eced5e39a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9489f69643fafc34a7e928bbbcd64921"><td class="memItemLeft" align="right" valign="top"><a id="a9489f69643fafc34a7e928bbbcd64921"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogDensity</b></td></tr>
+<tr class="separator:a9489f69643fafc34a7e928bbbcd64921"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a724229782c3759604d49a987d0bbd8fc"><td class="memItemLeft" align="right" valign="top"><a id="a724229782c3759604d49a987d0bbd8fc"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogStartDistance</b></td></tr>
+<tr class="separator:a724229782c3759604d49a987d0bbd8fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacdf872d7926b04ee0a4e9a5d6bd93da"><td class="memItemLeft" align="right" valign="top"><a id="aacdf872d7926b04ee0a4e9a5d6bd93da"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LightIntensity</b></td></tr>
+<tr class="separator:aacdf872d7926b04ee0a4e9a5d6bd93da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6be2ed630413d1dcc958de7a434458c"><td class="memItemLeft" align="right" valign="top"><a id="ad6be2ed630413d1dcc958de7a434458c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeBrightness</b></td></tr>
+<tr class="separator:ad6be2ed630413d1dcc958de7a434458c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba4caf0bd5b2c820037568e55a48b2ab"><td class="memItemLeft" align="right" valign="top"><a id="aba4caf0bd5b2c820037568e55a48b2ab"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeMoonVisibility</b></td></tr>
+<tr class="separator:aba4caf0bd5b2c820037568e55a48b2ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4c07be1936cc7e88192341f4a5c96de"><td class="memItemLeft" align="right" valign="top"><a id="ac4c07be1936cc7e88192341f4a5c96de"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeStarBrightness</b></td></tr>
+<tr class="separator:ac4c07be1936cc7e88192341f4a5c96de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d6be5f904f8dd0240fa19fd7c73e23d"><td class="memItemLeft" align="right" valign="top"><a id="a5d6be5f904f8dd0240fa19fd7c73e23d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeSunBrightness</b></td></tr>
+<tr class="separator:a5d6be5f904f8dd0240fa19fd7c73e23d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba84499efbc077c548529c68100f888c"><td class="memItemLeft" align="right" valign="top"><a id="aba84499efbc077c548529c68100f888c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostLPVIntensity</b></td></tr>
+<tr class="separator:aba84499efbc077c548529c68100f888c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07df9f2cc7dc25a4d8eb71f24e4730ca"><td class="memItemLeft" align="right" valign="top"><a id="a07df9f2cc7dc25a4d8eb71f24e4730ca"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostExposureBias</b></td></tr>
+<tr class="separator:a07df9f2cc7dc25a4d8eb71f24e4730ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81a7bbc5a51785302d1c2ce69ae12eb9"><td class="memItemLeft" align="right" valign="top"><a id="a81a7bbc5a51785302d1c2ce69ae12eb9"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostLPVOcclusionIntensity</b></td></tr>
+<tr class="separator:a81a7bbc5a51785302d1c2ce69ae12eb9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a176d13c4afb467b35e43e0d981f3b070"><td class="memItemLeft" align="right" valign="top"><a id="a176d13c4afb467b35e43e0d981f3b070"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyLightIntensity</b></td></tr>
+<tr class="separator:a176d13c4afb467b35e43e0d981f3b070"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af948edd556c68818f60bad38ad8dda27"><td class="memItemLeft" align="right" valign="top"><a id="af948edd556c68818f60bad38ad8dda27"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogBrightnessNear</b></td></tr>
+<tr class="separator:af948edd556c68818f60bad38ad8dda27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa34fd59987b47b514b6cacb70d03ec55"><td class="memItemLeft" align="right" valign="top"><a id="aa34fd59987b47b514b6cacb70d03ec55"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogBrightnessFar</b></td></tr>
+<tr class="separator:aa34fd59987b47b514b6cacb70d03ec55"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ca7d8188badf03468d346100da79a95"><td class="memItemLeft" align="right" valign="top"><a id="a0ca7d8188badf03468d346100da79a95"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostBloomIntensity</b></td></tr>
+<tr class="separator:a0ca7d8188badf03468d346100da79a95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f2f8a9e81919bf0c42bf7064e5c2acb"><td class="memItemLeft" align="right" valign="top"><a id="a1f2f8a9e81919bf0c42bf7064e5c2acb"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostBloomThreshold</b></td></tr>
+<tr class="separator:a1f2f8a9e81919bf0c42bf7064e5c2acb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7379e7f6a15082128bfcb8741017057"><td class="memItemLeft" align="right" valign="top"><a id="ad7379e7f6a15082128bfcb8741017057"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeAuraBrightness</b></td></tr>
+<tr class="separator:ad7379e7f6a15082128bfcb8741017057"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41c40bca9b2fc75e98ca1ee1dcc35dcc"><td class="memItemLeft" align="right" valign="top"><a id="a41c40bca9b2fc75e98ca1ee1dcc35dcc"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostReflectionProbeBrightness</b></td></tr>
+<tr class="separator:a41c40bca9b2fc75e98ca1ee1dcc35dcc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a0454510c0e1ffd100e16ec33b4eb32"><td class="memItemLeft" align="right" valign="top"><a id="a5a0454510c0e1ffd100e16ec33b4eb32"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostReflectionProbeShadowBrightness</b></td></tr>
+<tr class="separator:a5a0454510c0e1ffd100e16ec33b4eb32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10132f64fc958f9a0831479a7ed56ff5"><td class="memItemLeft" align="right" valign="top"><a id="a10132f64fc958f9a0831479a7ed56ff5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>VfxController</b></td></tr>
+<tr class="separator:a10132f64fc958f9a0831479a7ed56ff5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39b794bf581df405ff22e7d533d83990"><td class="memItemLeft" align="right" valign="top"><a id="a39b794bf581df405ff22e7d533d83990"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogMaxOpacity</b></td></tr>
+<tr class="separator:a39b794bf581df405ff22e7d533d83990"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e6e946956bfd70d2c5b94cf6c0715c0"><td class="memItemLeft" align="right" valign="top"><a id="a8e6e946956bfd70d2c5b94cf6c0715c0"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogScatterExp</b></td></tr>
+<tr class="separator:a8e6e946956bfd70d2c5b94cf6c0715c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0678b3ee118ecd0a7ad5e3d9a23f1650"><td class="memItemLeft" align="right" valign="top"><a id="a0678b3ee118ecd0a7ad5e3d9a23f1650"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterDensity</b></td></tr>
+<tr class="separator:a0678b3ee118ecd0a7ad5e3d9a23f1650"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50052c9c447f57787ec843b33a078321"><td class="memItemLeft" align="right" valign="top"><a id="a50052c9c447f57787ec843b33a078321"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostLensFlareIntensity</b></td></tr>
+<tr class="separator:a50052c9c447f57787ec843b33a078321"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac23c02a8676d8b322e8035b8823018c8"><td class="memItemLeft" align="right" valign="top"><a id="ac23c02a8676d8b322e8035b8823018c8"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>EmissiveFoliage</b></td></tr>
+<tr class="separator:ac23c02a8676d8b322e8035b8823018c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d0f9b88ca722fb99f599627e7aa1346"><td class="memItemLeft" align="right" valign="top"><a id="a2d0f9b88ca722fb99f599627e7aa1346"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>EmissiveLights</b></td></tr>
+<tr class="separator:a2d0f9b88ca722fb99f599627e7aa1346"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a7ecf52c2d98efaad91195d7c07293a"><td class="memItemLeft" align="right" valign="top"><a id="a0a7ecf52c2d98efaad91195d7c07293a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostExposureMinBrightness</b></td></tr>
+<tr class="separator:a0a7ecf52c2d98efaad91195d7c07293a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33eea4fe5d0c94f670a525ce1af1270c"><td class="memItemLeft" align="right" valign="top"><a id="a33eea4fe5d0c94f670a525ce1af1270c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostExposureMaxBrightness</b></td></tr>
+<tr class="separator:a33eea4fe5d0c94f670a525ce1af1270c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71dcc4e60da171e57a92340a123c43eb"><td class="memItemLeft" align="right" valign="top"><a id="a71dcc4e60da171e57a92340a123c43eb"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeMoonBrightness</b></td></tr>
+<tr class="separator:a71dcc4e60da171e57a92340a123c43eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a865112a65d3631d1331c1615b3fbdf8f"><td class="memItemLeft" align="right" valign="top"><a id="a865112a65d3631d1331c1615b3fbdf8f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeHorizonCloudBrightness</b></td></tr>
+<tr class="separator:a865112a65d3631d1331c1615b3fbdf8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa93523716d5c203f37237c20eb303c77"><td class="memItemLeft" align="right" valign="top"><a id="aa93523716d5c203f37237c20eb303c77"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeGreenFlashStrength</b></td></tr>
+<tr class="separator:aa93523716d5c203f37237c20eb303c77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9879d88f3338c88040845a3204472919"><td class="memItemLeft" align="right" valign="top"><a id="a9879d88f3338c88040845a3204472919"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostSaturation</b></td></tr>
+<tr class="separator:a9879d88f3338c88040845a3204472919"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad631799a36bf3c69d834faf42b889d44"><td class="memItemLeft" align="right" valign="top"><a id="ad631799a36bf3c69d834faf42b889d44"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostContrast</b></td></tr>
+<tr class="separator:ad631799a36bf3c69d834faf42b889d44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d6e305cccd554778293b0218fc93097"><td class="memItemLeft" align="right" valign="top"><a id="a1d6e305cccd554778293b0218fc93097"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudRimlightScale</b></td></tr>
+<tr class="separator:a1d6e305cccd554778293b0218fc93097"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c6698be3973e8aa3759faa6f0bcbc29"><td class="memItemLeft" align="right" valign="top"><a id="a4c6698be3973e8aa3759faa6f0bcbc29"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudSkylightScale</b></td></tr>
+<tr class="separator:a4c6698be3973e8aa3759faa6f0bcbc29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab060df6e1ad4a1cd0dea842a8ba0db29"><td class="memItemLeft" align="right" valign="top"><a id="ab060df6e1ad4a1cd0dea842a8ba0db29"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudSunlightScale</b></td></tr>
+<tr class="separator:ab060df6e1ad4a1cd0dea842a8ba0db29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf468f75db790de86d11b7bd153e3796"><td class="memItemLeft" align="right" valign="top"><a id="abf468f75db790de86d11b7bd153e3796"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudGlobalPressure</b></td></tr>
+<tr class="separator:abf468f75db790de86d11b7bd153e3796"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cb4034cf1e5b7db80f8b9f7532cfef6"><td class="memItemLeft" align="right" valign="top"><a id="a5cb4034cf1e5b7db80f8b9f7532cfef6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PostUnderWaterBrightness</b></td></tr>
+<tr class="separator:a5cb4034cf1e5b7db80f8b9f7532cfef6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abaacf6fb14f582a9a55e0761e307dba0"><td class="memItemLeft" align="right" valign="top"><a id="abaacf6fb14f582a9a55e0761e307dba0"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>VfxCloudBrightness</b></td></tr>
+<tr class="separator:abaacf6fb14f582a9a55e0761e307dba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c5ab3fda85eb6d56ea611007685222d"><td class="memItemLeft" align="right" valign="top"><a id="a5c5ab3fda85eb6d56ea611007685222d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LightGodRayIntensity</b></td></tr>
+<tr class="separator:a5c5ab3fda85eb6d56ea611007685222d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12f1874f831039a852b8958fd04b5deb"><td class="memItemLeft" align="right" valign="top"><a id="a12f1874f831039a852b8958fd04b5deb"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudBottomBrightness</b></td></tr>
+<tr class="separator:a12f1874f831039a852b8958fd04b5deb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac8caac5acd3e34c82cf5c3b69f4e547"><td class="memItemLeft" align="right" valign="top"><a id="aac8caac5acd3e34c82cf5c3b69f4e547"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudSunlightShadowing</b></td></tr>
+<tr class="separator:aac8caac5acd3e34c82cf5c3b69f4e547"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5cdd65249cd86be6fa14caf8a41c0510"><td class="memItemLeft" align="right" valign="top"><a id="a5cdd65249cd86be6fa14caf8a41c0510"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SunDiscScale</b></td></tr>
+<tr class="separator:a5cdd65249cd86be6fa14caf8a41c0510"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f974d3a96c09c92481a5c00825cd3dd"><td class="memItemLeft" align="right" valign="top"><a id="a3f974d3a96c09c92481a5c00825cd3dd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>WaterSpecularBrightness</b></td></tr>
+<tr class="separator:a3f974d3a96c09c92481a5c00825cd3dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f536e63fdd07e7fa346641c6649859d"><td class="memItemLeft" align="right" valign="top"><a id="a2f536e63fdd07e7fa346641c6649859d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>VfxAmbientScale</b></td></tr>
+<tr class="separator:a2f536e63fdd07e7fa346641c6649859d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a762fa9cc538e5be989ae55a3aa71d3ad"><td class="memItemLeft" align="right" valign="top"><a id="a762fa9cc538e5be989ae55a3aa71d3ad"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterMaxOpacity</b></td></tr>
+<tr class="separator:a762fa9cc538e5be989ae55a3aa71d3ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acaa020e0364bccadaab2e4e15dbf174a"><td class="memItemLeft" align="right" valign="top"><a id="acaa020e0364bccadaab2e4e15dbf174a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterScatterExp</b></td></tr>
+<tr class="separator:acaa020e0364bccadaab2e4e15dbf174a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7f3bbf4fe519b70c65df38b0b785d86"><td class="memItemLeft" align="right" valign="top"><a id="ab7f3bbf4fe519b70c65df38b0b785d86"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterStartDistance</b></td></tr>
+<tr class="separator:ab7f3bbf4fe519b70c65df38b0b785d86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e1cfec65eefa196a704d19cf6e3c335"><td class="memItemLeft" align="right" valign="top"><a id="a8e1cfec65eefa196a704d19cf6e3c335"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterBrightnessNear</b></td></tr>
+<tr class="separator:a8e1cfec65eefa196a704d19cf6e3c335"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e5485470bf637969033f8fe01ed1fbb"><td class="memItemLeft" align="right" valign="top"><a id="a3e5485470bf637969033f8fe01ed1fbb"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterBrightnessFar</b></td></tr>
+<tr class="separator:a3e5485470bf637969033f8fe01ed1fbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31b7615b6a76e56c567813ae6fbd95cd"><td class="memItemLeft" align="right" valign="top"><a id="a31b7615b6a76e56c567813ae6fbd95cd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogDirectionalInscatteringStart</b></td></tr>
+<tr class="separator:a31b7615b6a76e56c567813ae6fbd95cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acec66b2fd0ab9f363234ab906e195541"><td class="memItemLeft" align="right" valign="top"><a id="acec66b2fd0ab9f363234ab906e195541"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FogUnderwaterDirectionalInscatteringStart</b></td></tr>
+<tr class="separator:acec66b2fd0ab9f363234ab906e195541"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2d23f1759a6d44d623d7f6435fabd3b"><td class="memItemLeft" align="right" valign="top"><a id="ab2d23f1759a6d44d623d7f6435fabd3b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CloudShadowBrightness</b></td></tr>
+<tr class="separator:ab2d23f1759a6d44d623d7f6435fabd3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affa8834f60195e86584d3fe8201acfb1"><td class="memItemLeft" align="right" valign="top"><a id="affa8834f60195e86584d3fe8201acfb1"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>StormCloudShadowBrightness</b></td></tr>
+<tr class="separator:affa8834f60195e86584d3fe8201acfb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a5a2090523416a16085a7710ada3b22"><td class="memItemLeft" align="right" valign="top"><a id="a9a5a2090523416a16085a7710ada3b22"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>StormPostBloomIntensity</b></td></tr>
+<tr class="separator:a9a5a2090523416a16085a7710ada3b22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6683c43f42aae91d695b609e4c080726"><td class="memItemLeft" align="right" valign="top"><a id="a6683c43f42aae91d695b609e4c080726"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>StormPostBloomThreshold</b></td></tr>
+<tr class="separator:a6683c43f42aae91d695b609e4c080726"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa620c32042ac76891db8640e3a417ec6"><td class="memItemLeft" align="right" valign="top"><a id="aa620c32042ac76891db8640e3a417ec6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DirectionalLightShadowSteppingRate</b></td></tr>
+<tr class="separator:aa620c32042ac76891db8640e3a417ec6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeff5c95cf6948b86e0e7725555d25d59"><td class="memItemLeft" align="right" valign="top"><a id="aeff5c95cf6948b86e0e7725555d25d59"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SkullBrightness</b></td></tr>
+<tr class="separator:aeff5c95cf6948b86e0e7725555d25d59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a844780611c6c71c0b318c01f6c89a0d2"><td class="memItemLeft" align="right" valign="top"><a id="a844780611c6c71c0b318c01f6c89a0d2"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FogColourAway</b></td></tr>
+<tr class="separator:a844780611c6c71c0b318c01f6c89a0d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae004c415f0e50ac5d2c3ac8ddc9c74ce"><td class="memItemLeft" align="right" valign="top"><a id="ae004c415f0e50ac5d2c3ac8ddc9c74ce"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FogColourTowards</b></td></tr>
+<tr class="separator:ae004c415f0e50ac5d2c3ac8ddc9c74ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13968566aa7a96637ea3cb623f8ac551"><td class="memItemLeft" align="right" valign="top"><a id="a13968566aa7a96637ea3cb623f8ac551"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LightSunColour</b></td></tr>
+<tr class="separator:a13968566aa7a96637ea3cb623f8ac551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07216fc3aa61afff546b50eb4a1fed95"><td class="memItemLeft" align="right" valign="top"><a id="a07216fc3aa61afff546b50eb4a1fed95"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeHorizonColour</b></td></tr>
+<tr class="separator:a07216fc3aa61afff546b50eb4a1fed95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f7101e7ca23a156a08389a5e3e23fcb"><td class="memItemLeft" align="right" valign="top"><a id="a9f7101e7ca23a156a08389a5e3e23fcb"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeZenithColour</b></td></tr>
+<tr class="separator:a9f7101e7ca23a156a08389a5e3e23fcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adca2ac5c96003dc43696fa4ccfed86f0"><td class="memItemLeft" align="right" valign="top"><a id="adca2ac5c96003dc43696fa4ccfed86f0"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkyLightColour</b></td></tr>
+<tr class="separator:adca2ac5c96003dc43696fa4ccfed86f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accbe889507d572e047f55c1036c4c035"><td class="memItemLeft" align="right" valign="top"><a id="accbe889507d572e047f55c1036c4c035"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PostAmbientShadowColour</b></td></tr>
+<tr class="separator:accbe889507d572e047f55c1036c4c035"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f1007069b30322919376d7401495bdf"><td class="memItemLeft" align="right" valign="top"><a id="a7f1007069b30322919376d7401495bdf"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FogColourAwayFar</b></td></tr>
+<tr class="separator:a7f1007069b30322919376d7401495bdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a1edbd58b1b1f8a5ba15a24cce8ee86"><td class="memItemLeft" align="right" valign="top"><a id="a5a1edbd58b1b1f8a5ba15a24cce8ee86"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FogColourUnderwater</b></td></tr>
+<tr class="separator:a5a1edbd58b1b1f8a5ba15a24cce8ee86"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a398ce01b9f0bc7d858e7c77554a86196"><td class="memItemLeft" align="right" valign="top"><a id="a398ce01b9f0bc7d858e7c77554a86196"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FogColourAwayUnderwater</b></td></tr>
+<tr class="separator:a398ce01b9f0bc7d858e7c77554a86196"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a722e92245664cb3040f6f1c31164016c"><td class="memItemLeft" align="right" valign="top"><a id="a722e92245664cb3040f6f1c31164016c"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterColour</b></td></tr>
+<tr class="separator:a722e92245664cb3040f6f1c31164016c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14fae4a1232d5d1909be7f5261a0edc6"><td class="memItemLeft" align="right" valign="top"><a id="a14fae4a1232d5d1909be7f5261a0edc6"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterColourShallow</b></td></tr>
+<tr class="separator:a14fae4a1232d5d1909be7f5261a0edc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b204a555026bc894ec7a28e6b104034"><td class="memItemLeft" align="right" valign="top"><a id="a3b204a555026bc894ec7a28e6b104034"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterBackLitColour</b></td></tr>
+<tr class="separator:a3b204a555026bc894ec7a28e6b104034"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b4afce0a22c086db6f6b63c2eef63b5"><td class="memItemLeft" align="right" valign="top"><a id="a5b4afce0a22c086db6f6b63c2eef63b5"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterFoamColour</b></td></tr>
+<tr class="separator:a5b4afce0a22c086db6f6b63c2eef63b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87b7a220c15c4d699bfce9f3fbee60be"><td class="memItemLeft" align="right" valign="top"><a id="a87b7a220c15c4d699bfce9f3fbee60be"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterFoamHighlightColour</b></td></tr>
+<tr class="separator:a87b7a220c15c4d699bfce9f3fbee60be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15838185717f7c88c627bba8191440e6"><td class="memItemLeft" align="right" valign="top"><a id="a15838185717f7c88c627bba8191440e6"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaterAmbientColour</b></td></tr>
+<tr class="separator:a15838185717f7c88c627bba8191440e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada2583c682f99a661b0ee7905bd77b8a"><td class="memItemLeft" align="right" valign="top"><a id="ada2583c682f99a661b0ee7905bd77b8a"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PostReflectionProbeTint</b></td></tr>
+<tr class="separator:ada2583c682f99a661b0ee7905bd77b8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e64102d5ef00960b88c84a2f0bd5dcf"><td class="memItemLeft" align="right" valign="top"><a id="a7e64102d5ef00960b88c84a2f0bd5dcf"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CloudRimlightColour</b></td></tr>
+<tr class="separator:a7e64102d5ef00960b88c84a2f0bd5dcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a201472805f113e2b0ff103ee80a324d1"><td class="memItemLeft" align="right" valign="top"><a id="a201472805f113e2b0ff103ee80a324d1"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CloudSkylightColour</b></td></tr>
+<tr class="separator:a201472805f113e2b0ff103ee80a324d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4b17c7835b1d54458ff36272a11a68b"><td class="memItemLeft" align="right" valign="top"><a id="ac4b17c7835b1d54458ff36272a11a68b"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CloudSunlightColour</b></td></tr>
+<tr class="separator:ac4b17c7835b1d54458ff36272a11a68b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c76e0cc86b8f3f9853cc4877df6825a"><td class="memItemLeft" align="right" valign="top"><a id="a8c76e0cc86b8f3f9853cc4877df6825a"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PostUnderWaterTint</b></td></tr>
+<tr class="separator:a8c76e0cc86b8f3f9853cc4877df6825a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae03201b39e9ff10a79ab0a6dccb9ff8d"><td class="memItemLeft" align="right" valign="top"><a id="ae03201b39e9ff10a79ab0a6dccb9ff8d"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeMoonColour</b></td></tr>
+<tr class="separator:ae03201b39e9ff10a79ab0a6dccb9ff8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac809bd80ecc91fd593dd066ff6232e29"><td class="memItemLeft" align="right" valign="top"><a id="ac809bd80ecc91fd593dd066ff6232e29"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PostGamma</b></td></tr>
+<tr class="separator:ac809bd80ecc91fd593dd066ff6232e29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae05494fcf94edfeac379015a72c3062f"><td class="memItemLeft" align="right" valign="top"><a id="ae05494fcf94edfeac379015a72c3062f"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkyDomeSunColour</b></td></tr>
+<tr class="separator:ae05494fcf94edfeac379015a72c3062f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a991ec285a1afb0e689d133c75e11119a"><td class="memItemLeft" align="right" valign="top"><a id="a991ec285a1afb0e689d133c75e11119a"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>VFXFoamColour</b></td></tr>
+<tr class="separator:a991ec285a1afb0e689d133c75e11119a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ccfa43d5d7d4580abe7baca2614697f"><td class="memItemLeft" align="right" valign="top"><a id="a6ccfa43d5d7d4580abe7baca2614697f"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>VFXWindColour</b></td></tr>
+<tr class="separator:a6ccfa43d5d7d4580abe7baca2614697f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ee104178ef57f0d30b040b988aa379b"><td class="memItemLeft" align="right" valign="top"><a id="a9ee104178ef57f0d30b040b988aa379b"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>VFXUnderwaterTint</b></td></tr>
+<tr class="separator:a9ee104178ef57f0d30b040b988aa379b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45b766a3a1ffdb53184aac0e22d684cd"><td class="memItemLeft" align="right" valign="top"><a id="a45b766a3a1ffdb53184aac0e22d684cd"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormRainColour</b></td></tr>
+<tr class="separator:a45b766a3a1ffdb53184aac0e22d684cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9291ee511c2dc30bf6fed9a0f4713fa0"><td class="memItemLeft" align="right" valign="top"><a id="a9291ee511c2dc30bf6fed9a0f4713fa0"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormSkyLightColour</b></td></tr>
+<tr class="separator:a9291ee511c2dc30bf6fed9a0f4713fa0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81e2671e87c3d1f901d0aefa3491a513"><td class="memItemLeft" align="right" valign="top"><a id="a81e2671e87c3d1f901d0aefa3491a513"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormPostGamma</b></td></tr>
+<tr class="separator:a81e2671e87c3d1f901d0aefa3491a513"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab41fca93f5a1f164c8a474bbfbb46ee0"><td class="memItemLeft" align="right" valign="top"><a id="ab41fca93f5a1f164c8a474bbfbb46ee0"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormFogColourUnderwater</b></td></tr>
+<tr class="separator:ab41fca93f5a1f164c8a474bbfbb46ee0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f310f5c7d3e93f1c5f37d16bc0fba5f"><td class="memItemLeft" align="right" valign="top"><a id="a2f310f5c7d3e93f1c5f37d16bc0fba5f"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormFogColourAwayUnderwater</b></td></tr>
+<tr class="separator:a2f310f5c7d3e93f1c5f37d16bc0fba5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc6a16e8c91a08dd8ad247592be90416"><td class="memItemLeft" align="right" valign="top"><a id="acc6a16e8c91a08dd8ad247592be90416"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterColour</b></td></tr>
+<tr class="separator:acc6a16e8c91a08dd8ad247592be90416"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c50076b1c3b11760d444c71732f45d4"><td class="memItemLeft" align="right" valign="top"><a id="a3c50076b1c3b11760d444c71732f45d4"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterColourShallow</b></td></tr>
+<tr class="separator:a3c50076b1c3b11760d444c71732f45d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13cb300b73d79e73810a733581ef2ae7"><td class="memItemLeft" align="right" valign="top"><a id="a13cb300b73d79e73810a733581ef2ae7"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterBackLitColour</b></td></tr>
+<tr class="separator:a13cb300b73d79e73810a733581ef2ae7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbdd4c62ea7eac868ed822f959cbb619"><td class="memItemLeft" align="right" valign="top"><a id="abbdd4c62ea7eac868ed822f959cbb619"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterFoamColour</b></td></tr>
+<tr class="separator:abbdd4c62ea7eac868ed822f959cbb619"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6260997794a8cbfbccea4dacd95f508"><td class="memItemLeft" align="right" valign="top"><a id="af6260997794a8cbfbccea4dacd95f508"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterFoamHighlightColour</b></td></tr>
+<tr class="separator:af6260997794a8cbfbccea4dacd95f508"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f8b6b34da68eea91496590d57c58763"><td class="memItemLeft" align="right" valign="top"><a id="a9f8b6b34da68eea91496590d57c58763"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormWaterAmbientColour</b></td></tr>
+<tr class="separator:a9f8b6b34da68eea91496590d57c58763"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab107264483bb4a1039d5d6fc41845b7a"><td class="memItemLeft" align="right" valign="top"><a id="ab107264483bb4a1039d5d6fc41845b7a"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StormPostReflectionProbeTint</b></td></tr>
+<tr class="separator:ab107264483bb4a1039d5d6fc41845b7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a431a6828b2b98d6a95a68195f5621b62"><td class="memItemLeft" align="right" valign="top"><a id="a431a6828b2b98d6a95a68195f5621b62"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SkullEyeColour</b></td></tr>
+<tr class="separator:a431a6828b2b98d6a95a68195f5621b62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaef5a09109599b798c1a0e8d3fa81334"><td class="memItemLeft" align="right" valign="top"><a id="aaef5a09109599b798c1a0e8d3fa81334"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SandColour</b></td></tr>
+<tr class="separator:aaef5a09109599b798c1a0e8d3fa81334"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14719.html">FLoadoutEntry</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:26 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14719.html">FLightingControllerSettingsOutput</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

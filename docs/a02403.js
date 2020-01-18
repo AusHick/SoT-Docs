@@ -1,5 +1,6 @@
 var a02403 =
 [
-    [ "PushCharacterIntoAIShipCaptainActionState", "a02403.html#a305f9ed5045109708484072ababc1da7", null ],
-    [ "StaticClass", "a02403.html#a0a45114670186da242b344f76a2c294f", null ]
+    [ "StaticClass", "a02403.html#a2ceab80b59aedde5c3bdad754e6cc491", null ],
+    [ "NamedAIDataAsset", "a02403.html#a67a08cfc4b3e4454cbd3dde65bee3d72", null ],
+    [ "UnknownData00", "a02403.html#ac526c87a9f62511579cb8af368030d1d", null ]
 ];

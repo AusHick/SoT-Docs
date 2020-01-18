@@ -1,7 +1,7 @@
 var a21079 =
 [
-    [ "PercentageOfPlayersToSendTelemetryFromForHighLOD", "a21079.html#aaccffea47a273e52547fea35ae7a9d38", null ],
-    [ "PercentageOfPlayersToSendTelemetryFromForLowLOD", "a21079.html#a51021a37e4de2e88c8b319996695b769", null ],
-    [ "PercentageOfPlayersToSendVerboseTelemetryFromForHighLOD", "a21079.html#a15d40023766c85e77e3c0f65982b151e", null ],
-    [ "PercentageOfPlayersToSendVerboseTelemetryFromForLowLOD", "a21079.html#ad16ffeb2394e9531641a4942900b9487", null ]
+    [ "ErrorMessage", "a21079.html#aa731a904db9643e2a363bc07266e40e7", null ],
+    [ "ReasonCode", "a21079.html#a6e95c7c6f7da92ebafac7f706d5c47a9", null ],
+    [ "UnknownData00", "a21079.html#a8fa5fa522d3c486967d7bab682c374e1", null ],
+    [ "UserId", "a21079.html#ae65f8713de513af6e04814bee17285f8", null ]
 ];

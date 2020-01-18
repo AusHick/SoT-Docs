@@ -1,6 +1,10 @@
 var a31907 =
 [
-    [ "Alpha", "a31907.html#a70c30f80d89b74c83073cfedb366a2b4", null ],
-    [ "Effector", "a31907.html#ac47e498a5533dfb92d1d7fb3eff4e94b", null ],
-    [ "UnknownData00", "a31907.html#af7c938231beb783c6a3ff64e628b279e", null ]
+    [ "DrawFont", "a31907.html#aa388488b682784fddee80518233cd233", null ],
+    [ "DrawX", "a31907.html#ac6c516f73b0791607a54ca028e2ed890", null ],
+    [ "DrawXL", "a31907.html#a6910f9b59c4bb6aa272b0a81a4afb713", null ],
+    [ "DrawY", "a31907.html#a4a02a74b321410eb6eacd4f62e2619c2", null ],
+    [ "DrawYL", "a31907.html#a6a74b98607ddc2d9af2293a9b7a0680c", null ],
+    [ "Scaling", "a31907.html#a1d2f34067383adb8faab6b1b03cd588c", null ],
+    [ "SpacingAdjust", "a31907.html#abb94ab0328cdde39e540cc14524a12a0", null ]
 ];

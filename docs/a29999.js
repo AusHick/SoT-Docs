@@ -1,10 +1,10 @@
 var a29999 =
 [
-    [ "bBlockingHit", "a29999.html#aeab3d72f26ba6f662c75c311aaf1b9e3", null ],
-    [ "bLineTrace", "a29999.html#a1b003261b5869d44b4fd9ee40c961769", null ],
-    [ "bWalkableFloor", "a29999.html#ad7a21c52e5ac19ad88f76b52fdb5c3d1", null ],
-    [ "FloorDist", "a29999.html#af325f6bf8a7ee37e985709397f8e066d", null ],
-    [ "HitResult", "a29999.html#adce22f17152e5f6a007af74c88901c10", null ],
-    [ "LineDist", "a29999.html#a4a2483627df0a7a5683827e0be8c5bda", null ],
-    [ "UnknownData00", "a29999.html#a4fd9c811fd471001c19ecfb1b543316f", null ]
+    [ "StaticClass", "a29999.html#a96752aefa69eeae2c6206de0832500bd", null ],
+    [ "RelativeLocation", "a29999.html#afa16c046f5f0748e8968c84cb823e1c7", null ],
+    [ "RelativeRotation", "a29999.html#a32acb973d2e23df49ff4d9e43991d7b8", null ],
+    [ "RelativeScale", "a29999.html#a341e87dc6c32a0a03bcc1ff97acea9d0", null ],
+    [ "SocketName", "a29999.html#af1370290ac93f8e9676389d485b666f5", null ],
+    [ "Tag", "a29999.html#a3f2d8ba463c308ffec8ed9916eee40e4", null ],
+    [ "UnknownData00", "a29999.html#a8504d1d81f40c6541d8911ca5336c3bb", null ]
 ];

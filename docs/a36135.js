@@ -1,6 +1,7 @@
 var a36135 =
 [
-    [ "SourceObj", "a36135.html#a88d106329f406d6f9f4d13ecf0cd9e3b", null ],
-    [ "SourcePath", "a36135.html#a3d81ea28a3adc0462343da4a1f03d948", null ],
-    [ "WwiseEvent", "a36135.html#aad08c047541fd345422ba3a632d4dc1c", null ]
+    [ "StaticClass", "a36135.html#ab5ee1711612b07aaff48600c683ce570", null ],
+    [ "MinDistanceToNearestWatercraftInMetres", "a36135.html#ab5a19dbc259e7f9bb6a0ca31d6f81006", null ],
+    [ "UnknownData00", "a36135.html#a44b49782195a7567fe070768be5036ed", null ],
+    [ "WatercraftType", "a36135.html#ad451f04314c6a606144634c3721c0384", null ]
 ];

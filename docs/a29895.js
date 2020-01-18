@@ -1,12 +1,9 @@
 var a29895 =
 [
-    [ "AngularVelocity", "a29895.html#a49f851ccbc6cb27eb683b6407c89f0bd", null ],
-    [ "bRepPhysics", "a29895.html#a73947636611ed047574cdcdb06c1ff64", null ],
-    [ "bSimulatedPhysicSleep", "a29895.html#abc32cf92696d4b5433f59e0eb4ce1a6d", null ],
-    [ "LinearVelocity", "a29895.html#a58f43530117331cc486d645ebaa955df", null ],
-    [ "Location", "a29895.html#a2089096bbe381a17cd8e30fab3318c2a", null ],
-    [ "LocationQuantizationLevel", "a29895.html#aac4afa7b6e4ac5bdf43d85857063ad2d", null ],
-    [ "Rotation", "a29895.html#abe7662f1ab7fc42ab129847815f5928b", null ],
-    [ "RotationQuantizationLevel", "a29895.html#a6855b2433362df478cd51797b555714b", null ],
-    [ "VelocityQuantizationLevel", "a29895.html#af6932d97b47671da75aa271a732b5506", null ]
+    [ "StaticClass", "a29895.html#a1d866259a8c42458e495d38d7cf9d3ed", null ],
+    [ "ChildClasses", "a29895.html#a20dcc4f194cf126b68c761402377f5a4", null ],
+    [ "ParentClass", "a29895.html#a2bba0596c174aee4732567b063dd064c", null ],
+    [ "PassiveSoundMixModifiers", "a29895.html#a07be285a6af148d783bcfdee7e1a68c9", null ],
+    [ "Properties", "a29895.html#abc6ba3e1adde379c53b687655b652576", null ],
+    [ "UnknownData00", "a29895.html#a8561945d9e47d4598b6df27a75a0c3b2", null ]
 ];

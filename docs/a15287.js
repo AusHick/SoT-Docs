@@ -1,6 +1,7 @@
 var a15287 =
 [
-    [ "Curse", "a15287.html#ac028127867a91cf96c28bd712ce91d2c", null ],
-    [ "StatToFire", "a15287.html#a274fa52755a211119808810a82d0a671", null ],
-    [ "UnknownData00", "a15287.html#a6b9a374e9812a8af39aee9162696cbd8", null ]
+    [ "AimData", "a15287.html#acf2608ca669a31548b4b9b3add240ca9", null ],
+    [ "IsRelativeAim", "a15287.html#a21a30d1891d53a049b976db09ad3811d", null ],
+    [ "TimeStamp", "a15287.html#aa048e36bdfc3d6db703689ca1fcce239", null ],
+    [ "UnknownData00", "a15287.html#af77f2e8a55e2a0ec31d1da8d9ab203de", null ]
 ];

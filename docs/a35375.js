@@ -1,27 +1,4 @@
 var a35375 =
 [
-    [ "AddOption", "a35375.html#a81eafe102b448d06f583641e920b10c9", null ],
-    [ "ClearOptions", "a35375.html#aa2b436d0754ebed00f7724c291235d76", null ],
-    [ "ClearSelection", "a35375.html#ac81fe6911a040e657233c0093a260f7f", null ],
-    [ "FindOptionIndex", "a35375.html#a01cf863890f98cbf12d4f73f0d303476", null ],
-    [ "GetOptionAtIndex", "a35375.html#a0c01a6a4390a6599019df2570fb71a18", null ],
-    [ "GetOptionCount", "a35375.html#a83cf3abad97c9b0fce6a679380a1f53b", null ],
-    [ "GetSelectedOption", "a35375.html#aea3e6bd5bf887e8a20c225003749b5e3", null ],
-    [ "OnOpeningEvent__DelegateSignature", "a35375.html#a62cf614a1370bed782f5a3d6e5ac5fb6", null ],
-    [ "OnSelectionChangedEvent__DelegateSignature", "a35375.html#adb1d508a27e709f2e963f02b11e42597", null ],
-    [ "RefreshOptions", "a35375.html#af01aad44b85da6962a5ff36ed5aa09a6", null ],
-    [ "RemoveOption", "a35375.html#a3b6f98b1c2a8f79e1474544f5bd15aa6", null ],
-    [ "SetSelectedOption", "a35375.html#a16508ee96d4c379346a497f9c94e7dc3", null ],
-    [ "StaticClass", "a35375.html#a2def00b2ff1bf050dcdab58963b5c79b", null ],
-    [ "ContentPadding", "a35375.html#a8932eb787251c70c20624e8d4be73d8c", null ],
-    [ "DefaultOptions", "a35375.html#a05a6e2a372fe6b8b8b2a1bb385ff3bcd", null ],
-    [ "HasDownArrow", "a35375.html#af81166123e1b5544000bdf0091571716", null ],
-    [ "MaxListHeight", "a35375.html#a0365d5ef3660570bb0ce1bb17c010928", null ],
-    [ "OnGenerateWidgetEvent", "a35375.html#a41987ad905a02e3a3bd582fef1479c54", null ],
-    [ "OnOpening", "a35375.html#a78de5d1b18e9e86ec491fb45d3e98eac", null ],
-    [ "OnSelectionChanged", "a35375.html#a6bbde181b0503ba4ea1fb6165a7fc99b", null ],
-    [ "SelectedOption", "a35375.html#aae48079e533e3d548e1620e3b19a0da2", null ],
-    [ "UnknownData00", "a35375.html#aadaaef4f33b357ec96c4a3897f875e55", null ],
-    [ "UnknownData01", "a35375.html#afd319f29fa581cab186c59d539af92d0", null ],
-    [ "WidgetStyle", "a35375.html#a3911bca4b370ddcc131537db3b78abf6", null ]
+    [ "StaticClass", "a35375.html#a3c31c90798b02e9b67ae2afce4f4c7f2", null ]
 ];

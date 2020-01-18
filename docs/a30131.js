@@ -1,7 +1,11 @@
 var a30131 =
 [
-    [ "InViewer", "a30131.html#ad075b60604694f7811932d1b39751b54", null ],
-    [ "ViewDir", "a30131.html#add628d90613f783c91f6203c8bdde056", null ],
-    [ "ViewLocation", "a30131.html#a9c8d5428a336628d968fe570bb130e0d", null ],
-    [ "ViewTarget", "a30131.html#ad46aec0416df53305b24f81e2d23c70c", null ]
+    [ "BoneName", "a30131.html#a8fc93630fb352301865de23629690325", null ],
+    [ "bRelativeRotation", "a30131.html#a66b9787abd68cf33640263c7a4601754", null ],
+    [ "bServerHasBaseComponent", "a30131.html#a3c7e6756b8f32b39a9c5f06de5c89f47", null ],
+    [ "LinearVelocity", "a30131.html#a43e955445faa5aefbf1d3c5bd0311e70", null ],
+    [ "Location", "a30131.html#acd65368e1aeeefa5b2adf4c0d2569b3e", null ],
+    [ "MovementBase", "a30131.html#acf4c7e6f755cd77a9ffffd1f5e672533", null ],
+    [ "Rotation", "a30131.html#afa928a93096a5c01c1875bbd9e362a2c", null ],
+    [ "UnknownData00", "a30131.html#abfea2c9bba867c9cb84dbe193515e4e6", null ]
 ];

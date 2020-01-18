@@ -1,6 +1,5 @@
 var a22519 =
 [
-    [ "Option", "a22519.html#a17eef293973644d6c3f9fe8dc3c353f9", null ],
-    [ "UnknownData00", "a22519.html#a9a7386fe79cc685935244c0a34679317", null ],
-    [ "Value", "a22519.html#ae10a2ca42fcc61cff7c805c34355b836", null ]
+    [ "ChangeRate", "a22519.html#a52ec6f52d788c9f161371f51afc2c1be", null ],
+    [ "CurrentHealth", "a22519.html#a25b70a9e0977a3e7c0c06164bb890093", null ]
 ];

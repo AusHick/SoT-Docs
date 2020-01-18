@@ -1,8 +1,6 @@
 var a01891 =
 [
-    [ "CheckAnimDataClassTypeForDuplicateAnimDataEntryStructs", "a01891.html#a66ab59f6791d9f1bcca34a98a6974674", null ],
-    [ "GetAnimDataEntryStructAsStructWrapper", "a01891.html#a6667fedb40a26a006dcdab6a9fc1a104", null ],
-    [ "MakeAnimationData", "a01891.html#ac59e05a726a8fbecac1fec17dd2176fb", null ],
-    [ "StaticClass", "a01891.html#afb4677f28b963ecd24447417cce66923", null ],
-    [ "UnwrapAnimDataEntryStruct", "a01891.html#aabdfaff89426030b059aeae9cd28bedc", null ]
+    [ "AIShipDestructionReason", "a01891.html#ad6eb765adc43509c20e901f7f4a2a561", null ],
+    [ "AIShipId", "a01891.html#a8207ed920a1b9c524ca700c4d01d62bf", null ],
+    [ "UnknownData00", "a01891.html#a6a11602feb725a92ff44498bda260c49", null ]
 ];

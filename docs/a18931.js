@@ -1,5 +1,5 @@
 var a18931 =
 [
-    [ "EstimatedWaitTime", "a18931.html#a0d3176855f600ce3a20e3edec04e3470", null ],
-    [ "RetryAfter", "a18931.html#afe39868963027ce448c88752d7a9ed18", null ]
+    [ "Outfit", "a18931.html#a26b7a6d2a568d0ad2955fe70575d0a62", null ],
+    [ "UnknownData00", "a18931.html#ad68f1071895788f6e475a5ef3bc5d837", null ]
 ];

@@ -1,7 +1,5 @@
 var a28279 =
 [
-    [ "StaticClass", "a28279.html#a4f62215104af958ccfb1971244b635b1", null ],
-    [ "LastUpdatePosition", "a28279.html#a5ea08f92f73321e58e565b54ebd78735", null ],
-    [ "PlayAudioComp", "a28279.html#ab15b48d9899222766b3cb07a8cb29e5c", null ],
-    [ "UnknownData00", "a28279.html#a50a8062711cf485968ca2637912ff112", null ]
+    [ "StaticClass", "a28279.html#acef5c8326251da3a478348af9af11448", null ],
+    [ "Caption", "a28279.html#adeb8993b22d926fb32b99a528765f8dd", null ]
 ];

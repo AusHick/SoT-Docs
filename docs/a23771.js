@@ -1,7 +1,6 @@
 var a23771 =
 [
-    [ "StaticClass", "a23771.html#ac8c1608ffb5463473f48d34391d394a4", null ],
-    [ "NumberOfRanks", "a23771.html#adc976bfe99bbb3853a1cbd46ef481053", null ],
-    [ "RankMappings", "a23771.html#a6498567a9bb166a3290f7f0426f7a203", null ],
-    [ "UnknownData00", "a23771.html#ac2e348ed33d787d82b353acdb5d35626", null ]
+    [ "MastType", "a23771.html#a1d94f905dcc18d112b0a7e66bf395b6c", null ],
+    [ "ParentShip", "a23771.html#a84b8764c4d0752820b00e20a467f33f4", null ],
+    [ "UnknownData00", "a23771.html#aab9ca35be800283ba6750b93d90acae7", null ]
 ];

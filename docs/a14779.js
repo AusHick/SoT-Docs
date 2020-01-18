@@ -1,6 +1,6 @@
 var a14779 =
 [
-    [ "Label", "a14779.html#a2ae24adf8126ced55b32666802a255d3", null ],
-    [ "SpeedScalar", "a14779.html#a9a11b4e08de3c0ba3654eb203d18aff2", null ],
-    [ "UnknownData00", "a14779.html#ab6a62f3453fb7ecdf445957a12e4fbe7", null ]
+    [ "LoadableState", "a14779.html#a92c5f5116809dd45c78e6950342a8e1a", null ],
+    [ "LoadedItem", "a14779.html#a1858ea1ce564c8ef353a25bd62662965", null ],
+    [ "UnknownData00", "a14779.html#ab34245dd369904c6bb4fbb7cadf0f3a2", null ]
 ];

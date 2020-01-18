@@ -1,16 +1,17 @@
 var a14731 =
 [
-    [ "AnimationSequenceState", "a14731.html#a689a6bd63c19793adf0d506f770248e2", null ],
-    [ "CurrentAnimationSequenceTime", "a14731.html#a4dfdc376e1ca8512560c8cef55d08d95", null ],
-    [ "InterpolatingItem", "a14731.html#a4db29742429cc1784e56071c0c79c25f", null ],
-    [ "IsInUnlockingSequence", "a14731.html#a1a28e238fe2bc107e15c8741e1897b80", null ],
-    [ "KeyItem", "a14731.html#a996d47c9738ceca1df2c00cea47e5721", null ],
-    [ "LockData", "a14731.html#a0ed1d017d42bb4fb0804ebcc12bef0e0", null ],
-    [ "Locked", "a14731.html#a7da199e2a8af29b7399cf7d4ce551209", null ],
-    [ "OwnerLockComponent", "a14731.html#a80ce7e14e2318e383c53df65fc00119d", null ],
-    [ "RequiredKey", "a14731.html#a69f877217873818fc438bef95f0cbdd9", null ],
-    [ "TargetKeyMesh", "a14731.html#a2116e2efd2539b8d9919feb22023da17", null ],
-    [ "UnknownData00", "a14731.html#a6f1256d9f1f69c49c8826501f4a60bf4", null ],
-    [ "UnknownData01", "a14731.html#a887cdd0f3bd7da8c6a8bf2d061c9c92a", null ],
-    [ "UnknownData02", "a14731.html#ac269941dcc8620283c74053e2fb2e78c", null ]
+    [ "CloudShadowMultiplier", "a14731.html#a2683b0a6f48be1470b9d57e4a18c4e23", null ],
+    [ "FoamIntensity", "a14731.html#a24082c303f164bc3b18917aaed39d19e", null ],
+    [ "FoamMaxLerp", "a14731.html#aec0a3b3fdbb81f16df431b1e04704519", null ],
+    [ "LightningDistanceIntensityCurve", "a14731.html#a1e5177730f8002b3ed187443bb00de99", null ],
+    [ "LightningDuration", "a14731.html#a7505391dbc6d9e3a361523111988ad19", null ],
+    [ "LightningTimeIntensityCurve", "a14731.html#a7c003c2b6d80130e548bfbeb2efadba6", null ],
+    [ "MaxLightningDistance", "a14731.html#ae06c96339c5c7ba0fa28f63773cb1d3a", null ],
+    [ "RainIntensity", "a14731.html#a5f65c934ff94ab007d59c4d07a0b37f0", null ],
+    [ "SkyLightIntensity", "a14731.html#a33c9265226767b6cb951b2b13ff57f39", null ],
+    [ "SkyLightMaxLerp", "a14731.html#a1ef2c9278a04f56c1114a9d07ceb4fc4", null ],
+    [ "SkyLightOcclusion", "a14731.html#aeb243274aa441087bc15969c3338edb0", null ],
+    [ "SunLightIntensity", "a14731.html#aafa5d88aa6947497ea461440f9821034", null ],
+    [ "SunLightMaxLerp", "a14731.html#afaf6fb683df3357b567e81c005d20538", null ],
+    [ "UnknownData00", "a14731.html#ab6391056eea39e536922d8b9b301d4b3", null ]
 ];

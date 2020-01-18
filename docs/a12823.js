@@ -1,5 +1,7 @@
 var a12823 =
 [
-    [ "Backwards", "a12823.html#a3453efec4b863a3d760872b59e14d21b", null ],
-    [ "Forwards", "a12823.html#a7deac51a521c3790e4be6f9cee8241a9", null ]
+    [ "AllianceJoinStatus", "a12823.html#ab07b2a2508ebdd0a13b032fd565629ff", null ],
+    [ "CrewId", "a12823.html#a3f9a85703fd2e94bb9073f35a8969e18", null ],
+    [ "LastAllianceJoinStatus", "a12823.html#a41a5bc0a912af160c52206fcae12c265", null ],
+    [ "UnknownData00", "a12823.html#ac5f3d66e0cd47c9ee83e62e4ff334562", null ]
 ];

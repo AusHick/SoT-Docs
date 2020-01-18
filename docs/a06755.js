@@ -1,5 +1,5 @@
 var a06755 =
 [
-    [ "StaticClass", "a06755.html#ad69f5cc9ea746785c1928e61cb3fa921", null ],
-    [ "UnknownData00", "a06755.html#abb039ce01dacb33139bfe41683fa176d", null ]
+    [ "StaticClass", "a06755.html#ae67c068ea9120cdc91214750bc948393", null ],
+    [ "FeatureName", "a06755.html#a15c36de9b6d84c28327d12d06cae9181", null ]
 ];

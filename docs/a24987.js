@@ -1,5 +1,7 @@
 var a24987 =
 [
-    [ "Pawn", "a24987.html#a1415f48a1e139e99f55e630fd94e3c1e", null ],
-    [ "UnknownData00", "a24987.html#a7ba048e41ef7a60aeed42f5d6133f5aa", null ]
+    [ "EncounterSettings", "a24987.html#a14802ac0da1cf3f249379e9a34f7b149", null ],
+    [ "RespawnTimerRangeProgression", "a24987.html#a390e8ff865bcfef58f94fa98bcd2ccf6", null ],
+    [ "SpawnContexts", "a24987.html#abe6c3cf9a33bc3b71c23bd5a25032f51", null ],
+    [ "SpawnWaveProgression", "a24987.html#a4f55204d7600e164e6024b9f2ed6c13f", null ]
 ];

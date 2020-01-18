@@ -1,15 +1,8 @@
 var a09435 =
 [
-    [ "GetVoter", "a09435.html#aeddd8b3e5f77289726d6c86c35cb2e83", null ],
-    [ "OnVoteAdded", "a09435.html#ab640ec282d5be7360ee2472d069c72b1", null ],
-    [ "OnVoteCompleted", "a09435.html#a8c34456cd7f7197bf480a1aedc2ceffa", null ],
-    [ "OnVoteRemoved", "a09435.html#a5132dc8963968be8e3282876a9cd79ba", null ],
-    [ "StaticClass", "a09435.html#a1d346edc9990113f56dda5e899e83e46", null ],
-    [ "HoldToTriggerTime", "a09435.html#a42e72ce9a13f03d005130e81d2468567", null ],
-    [ "InteractableComponent", "a09435.html#a65d0aa21d7cbbb506b688cc69d89aa65", null ],
-    [ "UnknownData00", "a09435.html#acaf3661e95b4148f5a9d01ecf551378b", null ],
-    [ "UnknownData01", "a09435.html#a93fdf4454044d21d615fd035af30db93", null ],
-    [ "UnknownData02", "a09435.html#a51a5638bc28d21b54187b9e9efb30401", null ],
-    [ "VotableObject", "a09435.html#ae5fbe990b720c7be8b53d0b2fad54a75", null ],
-    [ "Voters", "a09435.html#aa6e1d6681d4772b73e1f439bde0a9726", null ]
+    [ "CombineBlackboards", "a09435.html#aec11364108e2d6995f05bfb44da30cee", null ],
+    [ "GetValuesFromBlackboardByName", "a09435.html#a607fd4722aa9298bd6cef0996d8574c2", null ],
+    [ "GetValuesFromBlackboardByNameInt", "a09435.html#abeea4c4c74ddcf6e5d6e058b7434b54a", null ],
+    [ "PrintBlackboard", "a09435.html#af67711356355f1d084c851735d8b48ef", null ],
+    [ "StaticClass", "a09435.html#af85117e67b69204a9c472f7a0d3fb8b8", null ]
 ];

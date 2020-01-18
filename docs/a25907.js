@@ -1,5 +1,5 @@
 var a25907 =
 [
-    [ "StaticClass", "a25907.html#ae99a7793b8f4476bec18d3ec2df0b918", null ],
-    [ "UnknownData00", "a25907.html#a831dac10a39a4fc4bad0c3bd22f91d42", null ]
+    [ "AssetPathName", "a25907.html#a1a279f7695fed45e5217bb80deb6430c", null ],
+    [ "SubPathString", "a25907.html#a5432d43a9d16002a71bbf5be10b968ef", null ]
 ];

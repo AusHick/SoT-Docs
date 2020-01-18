@@ -1,5 +1,5 @@
 var a19139 =
 [
-    [ "DockToObject", "a19139.html#ab204bc44203f6494f9f44fd1a7affa15", null ],
-    [ "UnknownData00", "a19139.html#a162ba31d76180f40e31471ad23ce3506", null ]
+    [ "GamerTag", "a19139.html#a1f046dcd9609de2b398ffe23a4b79efd", null ],
+    [ "UserId", "a19139.html#a999de91cfedfdf481b0c6f99bffc9a95", null ]
 ];

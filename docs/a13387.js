@@ -1,8 +1,6 @@
 var a13387 =
 [
-    [ "Fixed", "a13387.html#ad03b7701f1deb24b6d2381b11ed5fd62", null ],
-    [ "Random", "a13387.html#a360811cee3344bff847aee203412b25d", null ],
-    [ "Type", "a13387.html#aae838304cb0c1309a8b87723c2c7573f", null ],
-    [ "UnknownData00", "a13387.html#aeef10b1fd81a96cf21c08e34446aba17", null ],
-    [ "UnknownData01", "a13387.html#a668a41c08b87ee30acbba08131c643d9", null ]
+    [ "Payout", "a13387.html#a1b7381d623cf0e4d3b92804b78965ae8", null ],
+    [ "Rank", "a13387.html#a850d01b2ad903ec6dd5edd4a88de787f", null ],
+    [ "Rewards", "a13387.html#ae37d6f42ce9e6b7e496216da5f4ff524", null ]
 ];

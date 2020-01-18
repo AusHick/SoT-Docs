@@ -1,6 +1,5 @@
 var a15919 =
 [
-    [ "HitsChannel", "a15919.html#a8e79e010f7163f0949482dee1727470f", null ],
-    [ "MaxDistanceCheck", "a15919.html#a51fd490484bafb14e3b9cafcf8df0dee", null ],
-    [ "UnknownData00", "a15919.html#aa5fa16c8b56e51cd3c1d9d110042134d", null ]
+    [ "ActionNames", "a15919.html#a91b7c15eca2cfede70ac34a33be1d3da", null ],
+    [ "BindingName", "a15919.html#affb5d850ddebedb0a3d39d6a8801d393", null ]
 ];

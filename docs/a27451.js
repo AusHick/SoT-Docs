@@ -1,4 +1,25 @@
 var a27451 =
 [
-    [ "StaticClass", "a27451.html#a2abb59e36dd09dc3fca1b13c1c1ddbcf", null ]
+    [ "StaticClass", "a27451.html#a136e84e06aa69ae8853f4046f1adc8be", null ],
+    [ "bCreateBoxObstacle", "a27451.html#a65a76108bd28377195ff53421b34793b", null ],
+    [ "bLinkEnabled", "a27451.html#a575c8e5620ab08c505c9624e3a766656", null ],
+    [ "bNotifyWhenDisabled", "a27451.html#a20b75594509458103ba52ad7fceb0d8e", null ],
+    [ "bNotifyWhenEnabled", "a27451.html#aebd1ae80ef456523c17caced041a3bc7", null ],
+    [ "BroadcastChannel", "a27451.html#a2bfbb242b31ea6a194450f8a8069bb71", null ],
+    [ "BroadcastInterval", "a27451.html#aa891b26abe8f343677e2e898593301ee", null ],
+    [ "BroadcastRadius", "a27451.html#a6727900d479b5c68d9b7372b8507feb8", null ],
+    [ "DisabledAreaClass", "a27451.html#ac16ff305613ec71ad5d71bc12082e7de", null ],
+    [ "EnabledAreaClass", "a27451.html#a041a9b2745b193fbe090b5ce9f7cc999", null ],
+    [ "LinkDirection", "a27451.html#a3c95342237a022b1d50ed707ec4f173f", null ],
+    [ "LinkRelativeEnd", "a27451.html#a0f35fd8067e56a57fd474e58b354590f", null ],
+    [ "LinkRelativeStart", "a27451.html#a38991bb79c9cd2ef26c3a5d44445ed2a", null ],
+    [ "NavLinkUserId", "a27451.html#a7b6998474226b391f094bf7fd1adbf9a", null ],
+    [ "ObstacleAreaClass", "a27451.html#a60da370344dbedc5db10b8dcda871b68", null ],
+    [ "ObstacleExtent", "a27451.html#ab95173ac9804151102134538f18bd209", null ],
+    [ "ObstacleOffset", "a27451.html#a541095f09c98ae349d6730bd86ae43f7", null ],
+    [ "UnknownData00", "a27451.html#ac6eb1310f605a8c680a70ba430923fb6", null ],
+    [ "UnknownData01", "a27451.html#a33b1a6585d6ab2fb826feec28a4b08e9", null ],
+    [ "UnknownData02", "a27451.html#ac3a855254e6a1f6c47809727d51a593c", null ],
+    [ "UnknownData03", "a27451.html#a307d604e0e1965962dcc9d9c5e38b2ae", null ],
+    [ "UnknownData04", "a27451.html#a6a48b64b00da729e5a3c1c7118363438", null ]
 ];

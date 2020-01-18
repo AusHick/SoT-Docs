@@ -1,7 +1,9 @@
 var a17763 =
 [
-    [ "NewStateName", "a17763.html#ac0c6c8d288bea5cc1b1a6ecb19e2fa45", null ],
-    [ "OldStateDuration", "a17763.html#a4eb3f98ca3d574dcf4972253e53f3192", null ],
-    [ "OldStateName", "a17763.html#aec8af02a3c16a1b77e998c356a02bf61", null ],
-    [ "UnknownData00", "a17763.html#a00fee626507e40102323b248569b39c9", null ]
+    [ "EncounterDistance", "a17763.html#aeb92a0bba17413a83483c649900937e0", null ],
+    [ "EncounteredObjectId", "a17763.html#a29f01b8ee8e3844ef1ae22df6fadadb3", null ],
+    [ "EncounterId", "a17763.html#afd113d8b1fda2b2ef9fc6da0df2765cd", null ],
+    [ "EncounterType", "a17763.html#a13a3e0245d1564d2cdcf6474465ed2c0", null ],
+    [ "ShipRegion", "a17763.html#a8390589f04716509efb8cd6e45906a9c", null ],
+    [ "UnknownData00", "a17763.html#aa6615a7fec9a2246e33d901af46a76ff", null ]
 ];

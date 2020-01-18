@@ -1,7 +1,5 @@
 var a15063 =
 [
-    [ "Entitlements", "a15063.html#a7cbf63815bf962131daf47d8855af85a", null ],
-    [ "PreCachedEntitlementTypes", "a15063.html#a65e7f86f5b3ca5fc9234d4feb755893c", null ],
-    [ "UnknownData00", "a15063.html#addba1ce13d7edb9c359d3a2e785025c1", null ],
-    [ "UnknownData01", "a15063.html#a5174e41651728eecb20819f9753ba516", null ]
+    [ "PetCustomisation", "a15063.html#a958361a6096cac36c60a60dff3e90ae7", null ],
+    [ "PetDesc", "a15063.html#aa29b80d5b0bdfde083a41c7f7ad59d57", null ]
 ];

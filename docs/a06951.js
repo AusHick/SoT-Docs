@@ -1,5 +1,7 @@
 var a06951 =
 [
-    [ "StaticClass", "a06951.html#af53e9cf5c1770007cea2d39994115278", null ],
-    [ "Text", "a06951.html#a4aff57cb6a19f57326a69d35ec3b2970", null ]
+    [ "StaticClass", "a06951.html#a3733a5aef03bbe0d87846934da43b95e", null ],
+    [ "EmptyText", "a06951.html#a774c98a5f63d5298c6c7c96454acbd53", null ],
+    [ "NoInventorySpaceText", "a06951.html#a864346cd107c277235b10bbd15976397", null ],
+    [ "Text", "a06951.html#a8666d2a82d6877c5942646dc9d8c780f", null ]
 ];

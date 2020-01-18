@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPetChestRemovePetEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FRewardGrantedNetworkEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,65 @@ $(document).ready(function(){initNavTree('a20027.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20024.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPetChestRemovePetEvent Struct Reference</div>  </div>
+<div class="title">SDK::FRewardGrantedNetworkEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPetChestRemovePetEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FRewardGrantedNetworkEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20025.svg" width="228" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a20026.svg" width="212" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRewardGrantedNetworkEvent:</div>
+<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-1-content" class="dyncontent" style="display:none;">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a20025.svg" width="100%" height="570"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab261cc9c71c1bac79d1a887ab86b7966"><td class="memItemLeft" align="right" valign="top"><a id="ab261cc9c71c1bac79d1a887ab86b7966"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a25915.html">UClass</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Removes</b></td></tr>
-<tr class="separator:ab261cc9c71c1bac79d1a887ab86b7966"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0ab75b49209f5f84c7424b3b23118d7"><td class="memItemLeft" align="right" valign="top"><a id="af0ab75b49209f5f84c7424b3b23118d7"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RewardId</b></td></tr>
+<tr class="separator:af0ab75b49209f5f84c7424b3b23118d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee4373e2decbf44850bb2afb4ec87d81"><td class="memItemLeft" align="right" valign="top"><a id="aee4373e2decbf44850bb2afb4ec87d81"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EWalletCurrencyId &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CurrencyId</b></td></tr>
+<tr class="separator:aee4373e2decbf44850bb2afb4ec87d81"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afbbaee60e0ca4feaf90b17d624782c71"><td class="memItemLeft" align="right" valign="top"><a id="afbbaee60e0ca4feaf90b17d624782c71"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:afbbaee60e0ca4feaf90b17d624782c71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af908994f5400a30455b9b66f870d9386"><td class="memItemLeft" align="right" valign="top"><a id="af908994f5400a30455b9b66f870d9386"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>CurrencyAmount</b></td></tr>
+<tr class="separator:af908994f5400a30455b9b66f870d9386"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee62be88a3703b1c7942f860440e0404"><td class="memItemLeft" align="right" valign="top"><a id="aee62be88a3703b1c7942f860440e0404"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CompanyId</b></td></tr>
+<tr class="separator:aee62be88a3703b1c7942f860440e0404"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95d27b05d118962f6c57c82b61adf05f"><td class="memItemLeft" align="right" valign="top"><a id="a95d27b05d118962f6c57c82b61adf05f"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>Xp</b></td></tr>
+<tr class="separator:a95d27b05d118962f6c57c82b61adf05f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3407cda78f9de3aed32a3e23cae11b5c"><td class="memItemLeft" align="right" valign="top"><a id="a3407cda78f9de3aed32a3e23cae11b5c"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>NumLevels</b></td></tr>
+<tr class="separator:a3407cda78f9de3aed32a3e23cae11b5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78c2b032a43bddba9dc2d09c145a26a2"><td class="memItemLeft" align="right" valign="top"><a id="a78c2b032a43bddba9dc2d09c145a26a2"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a25843.html">FString</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Entitlements</b></td></tr>
+<tr class="separator:a78c2b032a43bddba9dc2d09c145a26a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a25579"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a25579')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a25579.html">SDK::FBoxedRpc</a></td></tr>
+<tr class="memitem:a4c32b5988e212880eddb68413c9990b0 inherit pub_attribs_a25579"><td class="memItemLeft" align="right" valign="top"><a id="a4c32b5988e212880eddb68413c9990b0"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
+<tr class="separator:a4c32b5988e212880eddb68413c9990b0 inherit pub_attribs_a25579"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7bb6602688eddd86180dad7e51a0148 inherit pub_attribs_a25579"><td class="memItemLeft" align="right" valign="top"><a id="ab7bb6602688eddd86180dad7e51a0148"></a>
+class <a class="el" href="a26119.html">UScriptStruct</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
+<tr class="separator:ab7bb6602688eddd86180dad7e51a0148 inherit pub_attribs_a25579"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20027.html">FPetChestRemovePetEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20027.html">FRewardGrantedNetworkEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:46 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

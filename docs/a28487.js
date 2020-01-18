@@ -1,5 +1,7 @@
 var a28487 =
 [
-    [ "StaticClass", "a28487.html#a4bdd351ff107e44ce4c07c21f080d0cf", null ],
-    [ "Position", "a28487.html#a52e2c5715e52f30fdfa605df1a5d4394", null ]
+    [ "StaticClass", "a28487.html#a4f62215104af958ccfb1971244b635b1", null ],
+    [ "LastUpdatePosition", "a28487.html#a5ea08f92f73321e58e565b54ebd78735", null ],
+    [ "PlayAudioComp", "a28487.html#ab15b48d9899222766b3cb07a8cb29e5c", null ],
+    [ "UnknownData00", "a28487.html#a50a8062711cf485968ca2637912ff112", null ]
 ];

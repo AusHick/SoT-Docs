@@ -1,5 +1,6 @@
 var a12787 =
 [
-    [ "AlternateContinuousActions", "a12787.html#add85bc7d788f0cbc7f6b65f95f34a12c", null ],
-    [ "MainContinuousActions", "a12787.html#a8edd9a96f3c9892c12a66705d12eb4bb", null ]
+    [ "ProjectileClass", "a12787.html#a7a8610510adfd54757f5d36e448f2f5a", null ],
+    [ "UnknownData00", "a12787.html#ac14f7f1df6ca58d4f5a8270c93a0e505", null ],
+    [ "Weight", "a12787.html#a13504467043336694302d1f1aec49e9a", null ]
 ];

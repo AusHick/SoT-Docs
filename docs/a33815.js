@@ -1,8 +1,7 @@
 var a33815 =
 [
-    [ "GetAnimSetIdForDesc", "a33815.html#a1a1805551ec92222a27693e01b6ea6a2", null ],
-    [ "StaticClass", "a33815.html#a3a6fd955ffb5f3d074a9399f365e278c", null ],
-    [ "Entries", "a33815.html#a22450714fde111adc682bd0999fc149e", null ],
-    [ "Threshold", "a33815.html#a2e5e2a3952592e4c21e13600a3a706e1", null ],
-    [ "UnknownData00", "a33815.html#a2fc0afed6250e0b9e4687d9dbb187a37", null ]
+    [ "Responses", "a33815.html#a3e8532e9cd3664e3cda2d226ae659782", null ],
+    [ "SoundTag", "a33815.html#a40f0e1b5dc6d10508ff3240c3055910e", null ],
+    [ "TimeBeforeForgotten", "a33815.html#aced1a5132d659d69cda846292e77e328", null ],
+    [ "UnknownData00", "a33815.html#ab85c1936ccf949bbe376f95add48d83a", null ]
 ];

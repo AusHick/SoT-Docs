@@ -1,10 +1,9 @@
 var a33007 =
 [
-    [ "StaticClass", "a33007.html#a68b1c35ed6bd4b89c4a7611157178f37", null ],
-    [ "bIsActive", "a33007.html#a45f4b55e757c1a7df257db67da908d95", null ],
-    [ "bIsInfinite", "a33007.html#ad81d980e6ee3e082f9b6c56113d1c452", null ],
-    [ "EndTime", "a33007.html#a6691deac73fd989b57af03e775abb606", null ],
-    [ "RowIndex", "a33007.html#a1056f293f287efbf9385163c278b1b68", null ],
-    [ "StartTime", "a33007.html#a36e2b064cb85fc32140d06279ab7dc21", null ],
-    [ "UnknownData00", "a33007.html#aeb52910c289e19ec30c237730ba90f14", null ]
+    [ "ChanceOfSelectingNearLocationAfterSwitchingSides", "a33007.html#a9d4a1d167ad7c66e71769f426d866f52", null ],
+    [ "ChanceOfSelectingSelectingDifferentDistanceFromShipWhenRemaningOnSameSide", "a33007.html#a8b604fed6c6b4cebadee0a254f8e9feb", null ],
+    [ "ChanceOfSwitchingSides", "a33007.html#aca1aa3e0f774924ba5107ba196c474e2", null ],
+    [ "DamageRequiredToRelocate", "a33007.html#ab5d19c31f52d7a96e3cb1dac96ef46dc", null ],
+    [ "RelocationThreshold", "a33007.html#a8051ba2897849036a6815aa4f493bb75", null ],
+    [ "TentacleType", "a33007.html#a5f97fa52d71f4cf38c109f9c911d69c9", null ]
 ];

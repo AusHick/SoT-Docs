@@ -1,4 +1,5 @@
 var a11763 =
 [
-    [ "StaticClass", "a11763.html#a2e14be6e4fae3e2dd826978cd7ba080b", null ]
+    [ "GetLightingZoneParameters", "a11763.html#a1edaad31310a1e9dc29b8c7732589ecc", null ],
+    [ "StaticClass", "a11763.html#a3de327c73edc2b12fd6bc3b933d400c0", null ]
 ];

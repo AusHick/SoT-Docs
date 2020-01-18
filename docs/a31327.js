@@ -1,6 +1,9 @@
 var a31327 =
 [
-    [ "FOV", "a31327.html#aac81eca4c03fdd044f818fd29de494f1", null ],
-    [ "Location", "a31327.html#a3c64b00ec63eb6aa8af685478922b9ee", null ],
-    [ "Rotation", "a31327.html#a7d12894bd7d709a76bb0a1b3681dbd75", null ]
+    [ "bEnableDebris", "a31327.html#a74ad14d0b4baeba8c19ef1f60933e1ee", null ],
+    [ "DebrisDepth", "a31327.html#aef99a06b10ef651e7667ab147a8f24bb", null ],
+    [ "EssentialDepth", "a31327.html#af84e10232af85b0786fe42b3a4d4771a", null ],
+    [ "MinimumFractureDepth", "a31327.html#a3907ebf6c73f0d9ed3571e359040183b", null ],
+    [ "SupportDepth", "a31327.html#a38f7fb97f80ee831869a12236be27011", null ],
+    [ "UnknownData00", "a31327.html#ab953cd00818e5f5bc7ef9d041fb51c76", null ]
 ];

@@ -1,5 +1,8 @@
 var a24903 =
 [
-    [ "SpawnerClass", "a24903.html#a9897e1adb8f79505a8ad5fdc2f8f278b", null ],
-    [ "Weights", "a24903.html#ad75197c30abffb4c4c745ac6c43c2513", null ]
+    [ "StaticClass", "a24903.html#afca52f8e92fd9576e2e58cfd2cda305c", null ],
+    [ "AngleDeltaToAcceptFinalRotation", "a24903.html#a6cf3629b694364cf27fc365d2570c05f", null ],
+    [ "MaxTurnSpringAccel", "a24903.html#a55ce238415555461564411c635326156", null ],
+    [ "Timeout", "a24903.html#a9d4610adff27e38d024efc7e3fe89561", null ],
+    [ "TimeUntilMaxTurnSpringAccel", "a24903.html#a6685c3f8d9df52a338d058664823e9e0", null ]
 ];

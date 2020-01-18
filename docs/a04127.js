@@ -1,6 +1,28 @@
 var a04127 =
 [
-    [ "StaticClass", "a04127.html#a7ccaac67389a691c6d4ce73fcce5603d", null ],
-    [ "UnknownData00", "a04127.html#a6511b4f9d19125ce44303d2de0d76979", null ],
-    [ "WorldRegionRadius", "a04127.html#a6d3d815bcc5286f18d75b255d921aef7", null ]
+    [ "StaticClass", "a04127.html#a1ad689a9aea4cb545f194c785fe77600", null ],
+    [ "BootyBought", "a04127.html#afce61af6700982fa3ce0abf96dfeeddb", null ],
+    [ "Company", "a04127.html#ad90ae5575cdd053b294ae4492d8bf4b0", null ],
+    [ "CompanyFlavourText1", "a04127.html#a3d6bdb4f40c4708f270fe241498eb65d", null ],
+    [ "CompanyFlavourText2", "a04127.html#a73bbffef6d0596ab43909994b818db39", null ],
+    [ "MapsDiscoveredBackgroundImage", "a04127.html#adfcb5c186b4c8cb682d6ad6e37b43bd7", null ],
+    [ "MapsDiscoveredImages", "a04127.html#a6421b9f4b2c55bf3bcea471028f52582", null ],
+    [ "MaxVoyagesOffered", "a04127.html#ab73a88fe728781e5ab9b9624a5f4bc45", null ],
+    [ "Motto", "a04127.html#a1c2e1915313620dd8b83931e6eae2d0c", null ],
+    [ "ProgressIcons", "a04127.html#acb7bb2d9ad82d83641fb49ac1ef1d640", null ],
+    [ "RankData", "a04127.html#a0d355cf89047f4304c6d0bc21d5ec111", null ],
+    [ "ShopInfo", "a04127.html#a6cf89495045850f3e51ce348150a736a", null ],
+    [ "ShopSkin", "a04127.html#adfd86a6b40bda22fd6bee548d2658961", null ],
+    [ "ShouldBeHiddenWhenNothingUnlocked", "a04127.html#a0151f3e4d057d5299c0fc37b78aaa2c7", null ],
+    [ "ShouldBeOnCompanySummaryScreen", "a04127.html#a46c0497703b1509860b1e6645fe6c8bc", null ],
+    [ "ShouldHaveEmblems", "a04127.html#a0c859bf74c80c897ec86338b6f2ea765", null ],
+    [ "ShouldHaveLevels", "a04127.html#ae18381182347c1ae5f62e91ba558253f", null ],
+    [ "ShouldHaveVoyages", "a04127.html#ad5bb638ae2a4f472bcb0d2fd676c96d9", null ],
+    [ "Skin", "a04127.html#a00424977f5a73b232cd07f8a9c036e27", null ],
+    [ "TotalNumberOfItems", "a04127.html#abd6ae60cbe9d314faa5e7511c256e6d9", null ],
+    [ "TotalNumberOfTitles", "a04127.html#ac3dd40f3231127099e362d89e9b72fe6", null ],
+    [ "UnknownData00", "a04127.html#a2774799a1fe36c2722755561391a91fc", null ],
+    [ "UnknownData01", "a04127.html#a6a69f85e2c292d5535e02ffe65d509cd", null ],
+    [ "VoyageAudioSwitchName", "a04127.html#a1c38397c020bcda62adb63ee01f863f7", null ],
+    [ "VoyageAudioSwitchValue", "a04127.html#a9192d31b834a7e7d984d0f3fd3aadb00", null ]
 ];

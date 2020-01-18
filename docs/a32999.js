@@ -1,6 +1,6 @@
 var a32999 =
 [
-    [ "Id", "a32999.html#ad785c130c914d2834dcfcef08ee4b0be", null ],
-    [ "IslandName", "a32999.html#afb74aa7fc6b5d935732d4115574f4188", null ],
-    [ "Requests", "a32999.html#aacb4869f11b4645d638fc624863897ff", null ]
+    [ "Params", "a32999.html#a9321973f0765a0e1f6b5cd7fdd282cb5", null ],
+    [ "UnknownData00", "a32999.html#a7b3c2cf9152ae13f90e0c86feb77083b", null ],
+    [ "Weight", "a32999.html#accf132eece0127373fc9a84e5e75de89", null ]
 ];

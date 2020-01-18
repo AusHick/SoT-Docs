@@ -1,5 +1,6 @@
 var a33359 =
 [
-    [ "StaticClass", "a33359.html#ad75f92b743d95ac8f0f8f88d2df34706", null ],
-    [ "SuccessIds", "a33359.html#a76c7a0c6bb7fdaaf3ba29e01fdc2f26c", null ]
+    [ "StaticClass", "a33359.html#a51700d7f1d376c34dcb37ce9513fc5e1", null ],
+    [ "bIsSlateColor", "a33359.html#a177987f56244e96a50707a9258a74767", null ],
+    [ "UnknownData00", "a33359.html#acbfb18bc7eb181221a705dd7e173152b", null ]
 ];

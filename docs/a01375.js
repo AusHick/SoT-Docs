@@ -1,6 +1,7 @@
 var a01375 =
 [
-    [ "StaticClass", "a01375.html#aaafa3e10862a6c845561b8ad3541b202", null ],
-    [ "Generator", "a01375.html#abbf915f1b8b63ec559141039851ef7d0", null ],
-    [ "Tests", "a01375.html#a8e1b26545f2f02e4b280b15d365e4f69", null ]
+    [ "StaticClass", "a01375.html#a76a25cffbbd40f21453d2a207e4eec53", null ],
+    [ "DistanceTo", "a01375.html#a5349c86e4484b1d42bd41bb71c2087c1", null ],
+    [ "TestMode", "a01375.html#aa2c024311bc6c047087dce4d97802730", null ],
+    [ "UnknownData00", "a01375.html#ab825da6140666334d9d1991dfc59f4f8", null ]
 ];

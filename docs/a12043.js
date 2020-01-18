@@ -1,8 +1,19 @@
 var a12043 =
 [
-    [ "StaticClass", "a12043.html#a69ac749a80b11e8590eb070b36b242f1", null ],
-    [ "Animation", "a12043.html#acd0033934b03688cc34af005f0b1b335", null ],
-    [ "AnimationEvents", "a12043.html#ae26137492e9de1ba109a8138b159d4ec", null ],
-    [ "Pivot", "a12043.html#ac2026608666ff217ea9ea45e7a7ddc9b", null ],
-    [ "UnknownData00", "a12043.html#a5cb63e74e0bfa3f957c846dc874bdca3", null ]
+    [ "Multicast_SetVisible", "a12043.html#a51c4dc2d83050b4b99191e95f89df7ed", null ],
+    [ "StaticClass", "a12043.html#a27389d9ad2955375c1d6578909d584b1", null ],
+    [ "AutoKillTime", "a12043.html#a1962cdd691dd7d057741f0ba9860e32f", null ],
+    [ "BattlingVFX", "a12043.html#a5080df8ae7368e2a4ffd4fe2f391f276", null ],
+    [ "BeingTiredVFX", "a12043.html#a9f6926573731508eb04ecafa661a2212", null ],
+    [ "CaughtFishItemDesc", "a12043.html#aa63ee5c81813b7c573ef8393a59ea66b", null ],
+    [ "DitherComponent", "a12043.html#a4cdc441d80e64fb95db66f2990a28c26", null ],
+    [ "FishDataAsset", "a12043.html#aa455afd21bdba58713f5384db719ad31", null ],
+    [ "FishingMiniGameFishDataAsset", "a12043.html#ad9ec27605b63df069f35eebe87f4ea72", null ],
+    [ "MouthAttachLocation", "a12043.html#a61a38669aec5ce50a1b31a1e693e78b9", null ],
+    [ "RandomAnimationLoopVal", "a12043.html#a7b1a744f9042cb9e1db81c23b8273b1f", null ],
+    [ "UnknownData00", "a12043.html#a55fb26be93c25bd6eeb695384fd73274", null ],
+    [ "UnknownData01", "a12043.html#a2ba2531db3070683b924ab2923be882f", null ],
+    [ "UnknownData02", "a12043.html#a1006def1fd292b53d9cfc17dd01825c3", null ],
+    [ "UnknownData03", "a12043.html#aed70340d4c0933442e596a80157aa138", null ],
+    [ "WaterInteractionComponent", "a12043.html#a076a5dc3f3f4c9d5ba530c77650a32e3", null ]
 ];

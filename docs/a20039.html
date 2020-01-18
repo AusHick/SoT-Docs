@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPetChestSuccessfulNameChangeTelemetryEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FPlayerStatsDispatcherSettings Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,48 @@ $(document).ready(function(){initNavTree('a20039.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20036.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPetChestSuccessfulNameChangeTelemetryEvent Struct Reference</div>  </div>
+<div class="title">SDK::FPlayerStatsDispatcherSettings Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPetChestSuccessfulNameChangeTelemetryEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPlayerStatsDispatcherSettings:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20037.svg" width="200" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a20037.svg" width="419" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a2f53ba8f53e3a595383655a9b4cbdac5"><td class="memItemLeft" align="right" valign="top"><a id="a2f53ba8f53e3a595383655a9b4cbdac5"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PetName</b></td></tr>
-<tr class="separator:a2f53ba8f53e3a595383655a9b4cbdac5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ac03a56351da39fa003c3341937d7c6"><td class="memItemLeft" align="right" valign="top"><a id="a2ac03a56351da39fa003c3341937d7c6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DispatchFrequencySeconds</b></td></tr>
+<tr class="separator:a2ac03a56351da39fa003c3341937d7c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81484c2b1c8967f0075a2662a978a597"><td class="memItemLeft" align="right" valign="top"><a id="a81484c2b1c8967f0075a2662a978a597"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>NumOfCachedValuesToTriggerFlush</b></td></tr>
+<tr class="separator:a81484c2b1c8967f0075a2662a978a597"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b8d76c86d2d8cfcb58e80ddb5403310"><td class="memItemLeft" align="right" valign="top"><a id="a7b8d76c86d2d8cfcb58e80ddb5403310"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PollIntervalSeconds</b></td></tr>
+<tr class="separator:a7b8d76c86d2d8cfcb58e80ddb5403310"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7eb37e15a8d2aff92bde3e6b7ac4090"><td class="memItemLeft" align="right" valign="top"><a id="af7eb37e15a8d2aff92bde3e6b7ac4090"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BatchWindowMilliseconds</b></td></tr>
+<tr class="separator:af7eb37e15a8d2aff92bde3e6b7ac4090"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a515b37d3a1049c891e101259c94039d4"><td class="memItemLeft" align="right" valign="top"><a id="a515b37d3a1049c891e101259c94039d4"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>MaxBatchMessageNumberOfStats</b></td></tr>
+<tr class="separator:a515b37d3a1049c891e101259c94039d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cc20cede8f34f5f29253e00c7cf7b71"><td class="memItemLeft" align="right" valign="top"><a id="a1cc20cede8f34f5f29253e00c7cf7b71"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>BatchesPerSecond</b></td></tr>
+<tr class="separator:a1cc20cede8f34f5f29253e00c7cf7b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e6cb8f1abfcfa408eaa0d40e42f41f8"><td class="memItemLeft" align="right" valign="top"><a id="a8e6cb8f1abfcfa408eaa0d40e42f41f8"></a>
+uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>BurstCapacity</b></td></tr>
+<tr class="separator:a8e6cb8f1abfcfa408eaa0d40e42f41f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20039.html">FPetChestSuccessfulNameChangeTelemetryEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20039.html">FPlayerStatsDispatcherSettings</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:44 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,7 +1,9 @@
 var a01419 =
 [
-    [ "ParamName", "a01419.html#ada1ac8f652267c9fd92c2791215195c8", null ],
-    [ "ParamType", "a01419.html#abda766cc975e81fe4b0de8bc4940bc6f", null ],
-    [ "UnknownData00", "a01419.html#a9d022c9bf7e75173e941db981fd32889", null ],
-    [ "Value", "a01419.html#ac2053241f69a3d9f28854020a005f125", null ]
+    [ "ActionFinished", "a01419.html#a81d7176ad2c04c284304248879b55586", null ],
+    [ "ActionPause", "a01419.html#ab510620f53c3a7163bc465e37dfa16db", null ],
+    [ "ActionResume", "a01419.html#adbccb4ef5c36586aba382d53533fe4c7", null ],
+    [ "ActionStart", "a01419.html#a9cd22b27a87e6c761a2196c7d60af334", null ],
+    [ "ActionTick", "a01419.html#a811c4db6e225180bbb6e0dc65d88a91a", null ],
+    [ "StaticClass", "a01419.html#a2be565015530ebae5d816d41d1bfde0d", null ]
 ];

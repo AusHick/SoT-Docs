@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FWeightedPetAnimation Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FVomitProjectiles Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,63 @@ $(document).ready(function(){initNavTree('a15803.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15800.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FWeightedPetAnimation Struct Reference</div>  </div>
+<div class="title">SDK::FVomitProjectiles Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeightedPetAnimation:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FVomitProjectiles:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15801.svg" width="484" height="456"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15801.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad111cc1ce48dac359db52b6cb56195dc"><td class="memItemLeft" align="right" valign="top"><a id="ad111cc1ce48dac359db52b6cb56195dc"></a>
-class <a class="el" href="a27519.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Animation</b></td></tr>
-<tr class="separator:ad111cc1ce48dac359db52b6cb56195dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6c11f729221119cac4be523b3094a99"><td class="memItemLeft" align="right" valign="top"><a id="ab6c11f729221119cac4be523b3094a99"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>Weighting</b></td></tr>
-<tr class="separator:ab6c11f729221119cac4be523b3094a99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab86fc349a4a5f4b5da0634ddcb827cd5"><td class="memItemLeft" align="right" valign="top"><a id="ab86fc349a4a5f4b5da0634ddcb827cd5"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:ab86fc349a4a5f4b5da0634ddcb827cd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa29eab1cb8ce3dfa98d6b0494703ad7c"><td class="memItemLeft" align="right" valign="top"><a id="aa29eab1cb8ce3dfa98d6b0494703ad7c"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>VomitProjectileClass</b></td></tr>
+<tr class="separator:aa29eab1cb8ce3dfa98d6b0494703ad7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad16695929f960b85ae10813973cc0039"><td class="memItemLeft" align="right" valign="top"><a id="ad16695929f960b85ae10813973cc0039"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SocketName</b></td></tr>
+<tr class="separator:ad16695929f960b85ae10813973cc0039"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8369b53984027eb19b966f6949620982"><td class="memItemLeft" align="right" valign="top"><a id="a8369b53984027eb19b966f6949620982"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Speed</b></td></tr>
+<tr class="separator:a8369b53984027eb19b966f6949620982"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46cd1623eb606f511e65155c5c5d4f6d"><td class="memItemLeft" align="right" valign="top"><a id="a46cd1623eb606f511e65155c5c5d4f6d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AdditionalLiftAngle</b></td></tr>
+<tr class="separator:a46cd1623eb606f511e65155c5c5d4f6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60ba598395f2d482079b33999b2485f6"><td class="memItemLeft" align="right" valign="top"><a id="a60ba598395f2d482079b33999b2485f6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Radius</b></td></tr>
+<tr class="separator:a60ba598395f2d482079b33999b2485f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f8a7cc1b9916c0995ca70616d221284"><td class="memItemLeft" align="right" valign="top"><a id="a4f8a7cc1b9916c0995ca70616d221284"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactDelay</b></td></tr>
+<tr class="separator:a4f8a7cc1b9916c0995ca70616d221284"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa394c5c1c515e17b1d5672aac203a369"><td class="memItemLeft" align="right" valign="top"><a id="aa394c5c1c515e17b1d5672aac203a369"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactCutoff</b></td></tr>
+<tr class="separator:aa394c5c1c515e17b1d5672aac203a369"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a928cf87053ea4a4279511224aa12684f"><td class="memItemLeft" align="right" valign="top"><a id="a928cf87053ea4a4279511224aa12684f"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactsMin</b></td></tr>
+<tr class="separator:a928cf87053ea4a4279511224aa12684f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab3816ffe5c3e99db52801ad5935a9d6"><td class="memItemLeft" align="right" valign="top"><a id="aab3816ffe5c3e99db52801ad5935a9d6"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactsMax</b></td></tr>
+<tr class="separator:aab3816ffe5c3e99db52801ad5935a9d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a16d5284cefdd0664836bb63b5d7c9ea9"><td class="memItemLeft" align="right" valign="top"><a id="a16d5284cefdd0664836bb63b5d7c9ea9"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionChannel &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ChannelToIgnoreInShip</b></td></tr>
+<tr class="separator:a16d5284cefdd0664836bb63b5d7c9ea9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c596025a2bdd0d1c9cba04175f0fd89"><td class="memItemLeft" align="right" valign="top"><a id="a6c596025a2bdd0d1c9cba04175f0fd89"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>DebugLaunchClientProjectiles</b></td></tr>
+<tr class="separator:a6c596025a2bdd0d1c9cba04175f0fd89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf82d3ba0947b8e0e8c6b9ece451ad61"><td class="memItemLeft" align="right" valign="top"><a id="acf82d3ba0947b8e0e8c6b9ece451ad61"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x22]</td></tr>
+<tr class="separator:acf82d3ba0947b8e0e8c6b9ece451ad61"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15803.html">FWeightedPetAnimation</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:31 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15803.html">FVomitProjectiles</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:49 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

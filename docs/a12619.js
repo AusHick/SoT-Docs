@@ -1,7 +1,8 @@
 var a12619 =
 [
-    [ "MaxColourStrength", "a12619.html#aeb60050d5cd91521a3c4cf94b9040b11", null ],
-    [ "MaxShaderStrength", "a12619.html#a8c04fe5d2283188269eccf855b1abe69", null ],
-    [ "ShaderBlendDuration", "a12619.html#aee9de03013bdb6c217b0e28d15e8da3e", null ],
-    [ "VengeanceUpdateFrequency", "a12619.html#afdf7fe8eb222771cf5e379f4e7f465b9", null ]
+    [ "GetNumberOfInstrumentsPlayingOnEnsemble", "a12619.html#aa1a78fcde249e2e6bf735c5ff1dfea2a", null ],
+    [ "GetNumberOfShantiesPlaying", "a12619.html#a4b29f60dcb11f6a4fdbec1c7d34b11cb", null ],
+    [ "RequestInstrumentPlay", "a12619.html#a8b7a94fbb8d9f3de58f0aedd2a61ccdf", null ],
+    [ "RequestInstrumentStop", "a12619.html#a6641b30b60f2da9852a9b06439b164c8", null ],
+    [ "StaticClass", "a12619.html#a60fecd4fe9d33d7a3b877f49992d4f47", null ]
 ];

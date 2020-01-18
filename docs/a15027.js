@@ -1,7 +1,7 @@
 var a15027 =
 [
-    [ "MaxRunningSpeed", "a15027.html#abbdcb71d59523baf2dfeb2f3bcb23fca", null ],
-    [ "NoiseMakerParams", "a15027.html#afdaea4ae5889b519a356b1a099c03216", null ],
-    [ "SimulatedMaxRunningSpeed", "a15027.html#ac99de456d7113eafa6afc819fd8f3e98", null ],
-    [ "UnknownData00", "a15027.html#a72b768448c3031551202071d6797f9e1", null ]
+    [ "ContinuousSequences", "a15027.html#a8b199c78db873aa053013d1b7e200003", null ],
+    [ "InitialSpawnedCosmeticItems", "a15027.html#ad137ee2dc734f49ac3dc2cdf88c8aed2", null ],
+    [ "OneShotSequences", "a15027.html#a47751978c90eb037672b25d42fc05e16", null ],
+    [ "WieldableCosmeticItemList", "a15027.html#a34dfa0ad075c05ec1b1d12627c662453", null ]
 ];

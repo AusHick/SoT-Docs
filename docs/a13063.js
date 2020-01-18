@@ -1,8 +1,6 @@
 var a13063 =
 [
-    [ "FleeLocomotionBase", "a13063.html#ad306c3859d2f8c59a94b555771308bc2", null ],
-    [ "FleeLocomotionVariants", "a13063.html#ac2db96d049aa49e17d886d6e2490e300", null ],
-    [ "FleeTurnLeft", "a13063.html#ab4ee7dc5a7b7564bcd78f66c8a6fdd29", null ],
-    [ "FleeTurnRight", "a13063.html#aa720d2780724b47a69358fd5b4ce8e24", null ],
-    [ "UseWithObject", "a13063.html#ac26eb93bb678809ecb8b1767c1d27800", null ]
+    [ "IKFootPlantingState", "a13063.html#aa8ff6f7fd911a3eacd76ed7831a1d41b", null ],
+    [ "IKSolverType", "a13063.html#ab5a72e8aad24db99261dc2e60b729387", null ],
+    [ "IKState", "a13063.html#ad8772ee543b417c6274f7d511f3555b3", null ]
 ];

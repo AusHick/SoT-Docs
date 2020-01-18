@@ -1,4 +1,4 @@
 var a17347 =
 [
-    [ "UnknownData00", "a17347.html#a3ee13bfbe6d69f0c083a1bbc806770e7", null ]
+    [ "QuestCount", "a17347.html#a8fc3c677a00b0b6acedd8769352979e1", null ]
 ];

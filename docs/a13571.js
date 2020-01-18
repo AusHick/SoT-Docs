@@ -1,5 +1,6 @@
 var a13571 =
 [
-    [ "BootyItemIdentifier", "a13571.html#abb55027ffb71a06cdd0c7921e7c7d2e8", null ],
-    [ "PopUp", "a13571.html#a573b293a41fb952bdfe5546324765d99", null ]
+    [ "Locations", "a13571.html#a845ff1a58ee7cfb8660301902fe73090", null ],
+    [ "Texture", "a13571.html#abd95dd06a2e690f9d61c8eea69afc1d6", null ],
+    [ "WorldSize", "a13571.html#aee5cfbd02df85c3e172d34b77fa1d390", null ]
 ];

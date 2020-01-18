@@ -1,7 +1,7 @@
 var a05199 =
 [
-    [ "StaticClass", "a05199.html#a459575d104b64e60c1aa7fea86d692a0", null ],
-    [ "ToggleConditions", "a05199.html#af2ab68718e2a1467e21f154ac04a4f78", null ],
-    [ "UnknownData00", "a05199.html#ac7ccc911be221873e12c5f29e25401e3", null ],
-    [ "VisibleByDefault", "a05199.html#a7cb26a2e902e434bd17520178f3653c5", null ]
+    [ "StaticClass", "a05199.html#af3f94f73462026fa29bb4b3bb2788ed4", null ],
+    [ "PlayerStateDefault", "a05199.html#a608b668a611967c3590a5347fcfd566e", null ],
+    [ "PlayerStateGhostShip", "a05199.html#aa11d8dc12d8fa9ecaf3baeddbe7c14d1", null ],
+    [ "PlayerStateName", "a05199.html#aec8ab8f31d7b4174010a97c430bc4767", null ]
 ];

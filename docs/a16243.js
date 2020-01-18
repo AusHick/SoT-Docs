@@ -1,8 +1,16 @@
 var a16243 =
 [
-    [ "Actions", "a16243.html#a81c926348943700d8fe06ba3b4765d3c", null ],
-    [ "SelectedActions", "a16243.html#aec6f834a6c01f42ec9d4974a1faefcbf", null ],
-    [ "SelectedTriggers", "a16243.html#a5aec78c0e228d089d679ca6df8ae6676", null ],
-    [ "Settings", "a16243.html#a1ed6da9e365094efd3d812e71b5a6b96", null ],
-    [ "Triggers", "a16243.html#a698bd98118642c8763f6e7f20f5bb675", null ]
+    [ "CompletedDescription", "a16243.html#a2498cdab55ecfaacaaa5705f6d6a3bda", null ],
+    [ "Description", "a16243.html#a7ea6df1c3ccfe0d807546fb63dd97b46", null ],
+    [ "Emblems", "a16243.html#abf6dcb75e8c7fa2d2c77027065543908", null ],
+    [ "FriendlyName", "a16243.html#a55de307837d6cb4ef30f3d0eb8f72997", null ],
+    [ "GrantsTitleAfterLastUnlock", "a16243.html#ac5921cef8477e2f5125dddc5da664510", null ],
+    [ "Hidden", "a16243.html#ad7d9dc5c0563542b908cd5a224d59e85", null ],
+    [ "NoPopUp", "a16243.html#a3c04ca45ea12f8ddc0183acbc254720a", null ],
+    [ "Title", "a16243.html#a352010de65dbee87d0bac83cb9d74452", null ],
+    [ "UnknownData00", "a16243.html#aeb0bfc74c840ccf3d618964b3ccb35ea", null ],
+    [ "UnknownData01", "a16243.html#aa8799f11fff80c9b682590b5c2ad33b8", null ],
+    [ "UnlockPopUp", "a16243.html#a352cc55dc5b170bcbee98f7bae106bca", null ],
+    [ "UnlockPopUpAudioOverrides", "a16243.html#a772e6f65982a1e8d1328b08e3378d4a4", null ],
+    [ "ValueArgScalar", "a16243.html#a7d5c88c54ed36d741deb8bddc8185a1d", null ]
 ];

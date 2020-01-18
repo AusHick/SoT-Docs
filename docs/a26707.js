@@ -1,11 +1,25 @@
 var a26707 =
 [
-    [ "StaticClass", "a26707.html#a1c3ecbbb8844c266484ca42d5ecd534c", null ],
-    [ "AmbientZoneSettings", "a26707.html#a17684eedbf0c39fb2ac44fdcf329b868", null ],
-    [ "bEnabled", "a26707.html#af23805913f67f1f0ccfa90cd6976ad85", null ],
-    [ "NextLowerPriorityVolume", "a26707.html#a5254b084dcc71a5c7c4e2ece80bce074", null ],
-    [ "Priority", "a26707.html#abf6ccfffefe4e9740265b99c0ef69360", null ],
-    [ "Settings", "a26707.html#a1838706d6b7d8ddf90aa903e13a3d515", null ],
-    [ "UnknownData00", "a26707.html#a02721b7ec51ffcb50a949eed49bf2b63", null ],
-    [ "UnknownData01", "a26707.html#aaa24aaad4ca5ebd923d6b744335da6bd", null ]
+    [ "DecreaseCameraSpeed", "a26707.html#aaf77f9571df7b4dc1a283612a7bf32e8", null ],
+    [ "DecreaseFOV", "a26707.html#ac5f7c0437fc3c650990212b1d05f1467", null ],
+    [ "IncreaseCameraSpeed", "a26707.html#a02663edcd1f967e266cea0230dd76dcb", null ],
+    [ "IncreaseFOV", "a26707.html#a0ed5ae69c64f4a377c6057fc1b1a4380", null ],
+    [ "ShowDebugSelectedInfo", "a26707.html#a90fce2612ee4b4cc25541998c1435c41", null ],
+    [ "StaticClass", "a26707.html#ab18ed61b7cf4929e872296dc5236b11c", null ],
+    [ "ToggleDisplay", "a26707.html#a6001cfcd3df0c7d665b50cf3bb4253d4", null ],
+    [ "bIsFrozenRendering", "a26707.html#a33f25cbc5d39ccae5ace42fab6fbf62e", null ],
+    [ "bShowSelectedInfo", "a26707.html#a12ab058ce036606cdf2ecb07ca535b85", null ],
+    [ "bUseOriginalPlayerHUD", "a26707.html#af753c2bd252cf27ed6c988aa75303002", null ],
+    [ "DrawFrustum", "a26707.html#a82a5514239df6c665fa8552e1c9128f0", null ],
+    [ "FovScaleAdjustment", "a26707.html#ac78550186eb1e96f6263a58c3f379df5", null ],
+    [ "InitialAccel", "a26707.html#a68ad7071f3357415a4ca9cbede037d25", null ],
+    [ "InitialDecel", "a26707.html#a8a85d7fc45e3dde30dfa9e94d3187edf", null ],
+    [ "InitialMaxSpeed", "a26707.html#a1c6f12e523d9761dd310e39553bdce66", null ],
+    [ "OriginalControllerRef", "a26707.html#a62b0d010154a02c095b835187d2202ec", null ],
+    [ "OriginalPlayer", "a26707.html#a57a93cd151ba67975cc6369f385ddde7", null ],
+    [ "SpeedScale", "a26707.html#a1daea413c5409236f3f2176b94f13c01", null ],
+    [ "SpeedScaleAdjustment", "a26707.html#aaddd7cdbe856dcf67bb96255d738d06f", null ],
+    [ "UnknownData00", "a26707.html#aeabdeeeb9777855c6518d4d2117af7b5", null ],
+    [ "UnknownData01", "a26707.html#ac9f67f486b48c47611365bed62f99afa", null ],
+    [ "UnknownData02", "a26707.html#aa16442e30d200b0df6a99f46650ab9a2", null ]
 ];

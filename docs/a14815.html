@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FMetalAIFormRustyDamageResponse Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FLPVAdaptationState Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,84 @@ $(document).ready(function(){initNavTree('a14815.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14812.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FMetalAIFormRustyDamageResponse Struct Reference</div>  </div>
+<div class="title">SDK::FLPVAdaptationState Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FMetalAIFormRustyDamageResponse:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLPVAdaptationState:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14813.svg" width="662" height="486"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a14813.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a79bd8c150408ca67dac201ff988a3c0a"><td class="memItemLeft" align="right" valign="top"><a id="a79bd8c150408ca67dac201ff988a3c0a"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>DamagerType</b></td></tr>
-<tr class="separator:a79bd8c150408ca67dac201ff988a3c0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acfef86221f9c35ad66c81bb1ba4df7e3"><td class="memItemLeft" align="right" valign="top"><a id="acfef86221f9c35ad66c81bb1ba4df7e3"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>DamageMultiplier</b></td></tr>
-<tr class="separator:acfef86221f9c35ad66c81bb1ba4df7e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3fe43afa697ef772f9aca41dd82c02a"><td class="memItemLeft" align="right" valign="top"><a id="aa3fe43afa697ef772f9aca41dd82c02a"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ECharacterHitReactionAnimType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>HitReaction</b></td></tr>
-<tr class="separator:aa3fe43afa697ef772f9aca41dd82c02a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1a1ded228333c980f57ff92a9622f59"><td class="memItemLeft" align="right" valign="top"><a id="ae1a1ded228333c980f57ff92a9622f59"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:ae1a1ded228333c980f57ff92a9622f59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5f1aefae9f36d5aeebfa41c29b91d92"><td class="memItemLeft" align="right" valign="top"><a id="ae5f1aefae9f36d5aeebfa41c29b91d92"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InitialTransform</b></td></tr>
+<tr class="separator:ae5f1aefae9f36d5aeebfa41c29b91d92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5e48effa34b2b22cdbda17e1e88c8d2"><td class="memItemLeft" align="right" valign="top"><a id="ad5e48effa34b2b22cdbda17e1e88c8d2"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DestinationTransform</b></td></tr>
+<tr class="separator:ad5e48effa34b2b22cdbda17e1e88c8d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a946d42e6fc6954ecbd82e21a010c3b4c"><td class="memItemLeft" align="right" valign="top"><a id="a946d42e6fc6954ecbd82e21a010c3b4c"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentTransform</b></td></tr>
+<tr class="separator:a946d42e6fc6954ecbd82e21a010c3b4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05f4ce6744845a2f2c7e80a7270a89d4"><td class="memItemLeft" align="right" valign="top"><a id="a05f4ce6744845a2f2c7e80a7270a89d4"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SavedOffShipTransform</b></td></tr>
+<tr class="separator:a05f4ce6744845a2f2c7e80a7270a89d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31248db8866a828e517cc473fc2da73b"><td class="memItemLeft" align="right" valign="top"><a id="a31248db8866a828e517cc473fc2da73b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendWeight</b></td></tr>
+<tr class="separator:a31248db8866a828e517cc473fc2da73b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a973416e8e8984867c8ce6a0cce54ed1a"><td class="memItemLeft" align="right" valign="top"><a id="a973416e8e8984867c8ce6a0cce54ed1a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendTime</b></td></tr>
+<tr class="separator:a973416e8e8984867c8ce6a0cce54ed1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51ca2f84fed863fd132e0734c6fa64ab"><td class="memItemLeft" align="right" valign="top"><a id="a51ca2f84fed863fd132e0734c6fa64ab"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendTranslationTime</b></td></tr>
+<tr class="separator:a51ca2f84fed863fd132e0734c6fa64ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a171228ee61fca375e4f3dadd573d2ba8"><td class="memItemLeft" align="right" valign="top"><a id="a171228ee61fca375e4f3dadd573d2ba8"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AdditionalAdaptationTime</b></td></tr>
+<tr class="separator:a171228ee61fca375e4f3dadd573d2ba8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6e39425da5dbe1b6fffa0a15c5672c4"><td class="memItemLeft" align="right" valign="top"><a id="ab6e39425da5dbe1b6fffa0a15c5672c4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultRotationBlendTime</b></td></tr>
+<tr class="separator:ab6e39425da5dbe1b6fffa0a15c5672c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1d9586664edce67af527fa341c405160"><td class="memItemLeft" align="right" valign="top"><a id="a1d9586664edce67af527fa341c405160"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultTranslationBlendTime</b></td></tr>
+<tr class="separator:a1d9586664edce67af527fa341c405160"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcec838e8b21881feb9003264c81ad21"><td class="memItemLeft" align="right" valign="top"><a id="abcec838e8b21881feb9003264c81ad21"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultAdditionalBlendTime</b></td></tr>
+<tr class="separator:abcec838e8b21881feb9003264c81ad21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5832ee1728f9a168befd0f9908b27584"><td class="memItemLeft" align="right" valign="top"><a id="a5832ee1728f9a168befd0f9908b27584"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ELPVAdaptationType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultAdaptationType</b></td></tr>
+<tr class="separator:a5832ee1728f9a168befd0f9908b27584"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebe17ee23356e0d8754e8c706677e9b4"><td class="memItemLeft" align="right" valign="top"><a id="aebe17ee23356e0d8754e8c706677e9b4"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ELPVAdaptationType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AdaptationType</b></td></tr>
+<tr class="separator:aebe17ee23356e0d8754e8c706677e9b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6318a5588f0cefbb785cc5d0551932a2"><td class="memItemLeft" align="right" valign="top"><a id="a6318a5588f0cefbb785cc5d0551932a2"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x2]</td></tr>
+<tr class="separator:a6318a5588f0cefbb785cc5d0551932a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac106cb49c0925e992ffef335dc2a05b0"><td class="memItemLeft" align="right" valign="top"><a id="ac106cb49c0925e992ffef335dc2a05b0"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsPlayerInLPVRefFrameArea</b>: 1</td></tr>
+<tr class="separator:ac106cb49c0925e992ffef335dc2a05b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeea2bdb56f9d5e70caf78904660c7dd4"><td class="memItemLeft" align="right" valign="top"><a id="aeea2bdb56f9d5e70caf78904660c7dd4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsLPVAdapting</b>: 1</td></tr>
+<tr class="separator:aeea2bdb56f9d5e70caf78904660c7dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5ae6a2159f8fca20ea286b4cf3e06211"><td class="memItemLeft" align="right" valign="top"><a id="a5ae6a2159f8fca20ea286b4cf3e06211"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAdaptRotationOnly</b>: 1</td></tr>
+<tr class="separator:a5ae6a2159f8fca20ea286b4cf3e06211"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad6100359121a88ad6b82f5fcc5b3d30"><td class="memItemLeft" align="right" valign="top"><a id="aad6100359121a88ad6b82f5fcc5b3d30"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bUseInstanceDefaultValues</b>: 1</td></tr>
+<tr class="separator:aad6100359121a88ad6b82f5fcc5b3d30"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade3487c94ca829881ef82fcfd1a98784"><td class="memItemLeft" align="right" valign="top"><a id="ade3487c94ca829881ef82fcfd1a98784"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0xF]</td></tr>
+<tr class="separator:ade3487c94ca829881ef82fcfd1a98784"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14815.html">FMetalAIFormRustyDamageResponse</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:26 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14815.html">FLPVAdaptationState</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

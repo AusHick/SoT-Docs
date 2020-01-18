@@ -1,5 +1,5 @@
 var a15331 =
 [
-    [ "ConsistentPercentage", "a15331.html#abdc21196068a1d05e0a9bdbb2ae9c671", null ],
-    [ "RelativePercentage", "a15331.html#a5d3826b4c590cbd23665100e7ae4e9fd", null ]
+    [ "Id", "a15331.html#a1619be3aa21617f5c4d3b72a10c2906d", null ],
+    [ "Phrase", "a15331.html#ac51b70aca4be01f7caa526e1e33f42e6", null ]
 ];

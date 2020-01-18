@@ -1,6 +1,5 @@
 var a15315 =
 [
-    [ "FailureReason", "a15315.html#ada9de53e94e21afcbae79620643fa967", null ],
-    [ "RequestID", "a15315.html#aa5b22e1758ab2d26f511cdc565918748", null ],
-    [ "UnknownData00", "a15315.html#a9e8c2ca0881a28c4a43483268780bbe5", null ]
+    [ "Definition", "a15315.html#abaaa0461d17e32139388e0461d45d00f", null ],
+    [ "FeatureToggle", "a15315.html#a7925870b829337f8ccb004099baf92f5", null ]
 ];

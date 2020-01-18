@@ -1,10 +1,10 @@
 var a07595 =
 [
-    [ "StaticClass", "a07595.html#ac5e81b4ab0febfaa0ec32a7d400476c4", null ],
-    [ "CompassDirections", "a07595.html#a5a7cb7c2d6a020a11f0811d3d47678dc", null ],
-    [ "NumPacesPhraseId", "a07595.html#ac41a250a3bd2d4e904a2a893ba907da2", null ],
-    [ "RiddleActionInfo", "a07595.html#aa55a69f3c816f991d22cfff2d97c552e", null ],
-    [ "TemporaryLandmarkHeight", "a07595.html#ad4dd285b620120f4acc51e5e4ec3268b", null ],
-    [ "TemporaryLandmarkRadius", "a07595.html#a72c0132e99278887a01fbe0d31859999", null ],
-    [ "ValidRiddleOptions", "a07595.html#a6d5d0783e0f1e89df37f64a74c42f7aa", null ]
+    [ "OnEmotesRadialActivatedGamepad", "a07595.html#a47dbcd0a8ad03f0d2899ebd26dd9f383", null ],
+    [ "OnEmotesRadialActivatedKeyboard", "a07595.html#a1c7a39329b9c25e1f29ec03aa6b95b0a", null ],
+    [ "OnEmotesRadialDeactivatedGamepad", "a07595.html#a32fe4c65153af2553a917b5410d859b2", null ],
+    [ "OnEmotesRadialDeactivatedKeyboard", "a07595.html#a6c56c8da0592ec4d3033d3c312c65c6a", null ],
+    [ "OnEmotesRadialTriggerNextSetOfEmotes", "a07595.html#aea1b459bcfa6793dd270891dea09478f", null ],
+    [ "StaticClass", "a07595.html#a600a5c9ebd8b172335255532abde28ac", null ],
+    [ "UnknownData00", "a07595.html#a044844d6c868c5756e5fd5cc8363a5c8", null ]
 ];

@@ -1,10 +1,7 @@
 var a07491 =
 [
-    [ "StaticClass", "a07491.html#a390b4df7d32a98a28b403cf6ac3a6f99", null ],
-    [ "AssociatedSpawnLocations", "a07491.html#ac55dabc6e0d6dcd777721027dc18ed53", null ],
-    [ "BoxComponent", "a07491.html#a0fab0b30ce7b866cbdc3797ca9358f32", null ],
-    [ "Description", "a07491.html#ad6e048b3b70e2c096bf8e6c8a11e6816", null ],
-    [ "LinkedShipSpawnLocations", "a07491.html#a34103c69d376e4cfd014fcc3e088514a", null ],
-    [ "ShipSize", "a07491.html#a8cf9106a7ca19d1c6a233ea0e74ebcef", null ],
-    [ "UnknownData00", "a07491.html#a2cd980770c55daba337e4451e899a08b", null ]
+    [ "ClampAimPositionToWeapon", "a07491.html#aac62b4daa9547f6c06f6027e04df97b6", null ],
+    [ "StaticClass", "a07491.html#aa97ce8d3811a3dd7ca1f6dc638c96b7f", null ],
+    [ "AimPositionValidationTolerance", "a07491.html#a3af6e803f93fcafd1332f32e3fd6570e", null ],
+    [ "UnknownData00", "a07491.html#a01d50ea72b636e719325b09af9329f77", null ]
 ];

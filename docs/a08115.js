@@ -1,10 +1,9 @@
 var a08115 =
 [
-    [ "GenerateWreck", "a08115.html#af8368d035add5335835b830e02c7faa2", null ],
-    [ "GetIslands", "a08115.html#af549c150b6d4713b75c1221ff63da799", null ],
-    [ "ResetDebugDrawing", "a08115.html#abf81fc359830fee5695e8d596a46b7a9", null ],
-    [ "ResetShipwrecks", "a08115.html#a04d4f5e42c17cacb931fa6f84c6f6889", null ],
-    [ "SetIslands", "a08115.html#aec765a0ee8a4dc4a66a8e245e514162d", null ],
-    [ "StaticClass", "a08115.html#a7b9bff7ce89afd13d8218cbbce01ac2a", null ],
-    [ "SiteGenerator", "a08115.html#a1b857c3f16015e561de1c8251db94498", null ]
+    [ "StaticClass", "a08115.html#a6f69ff46d697dfcbf35ad029d489b9d7", null ],
+    [ "ConfirmPurchaseMessage", "a08115.html#afd277f8c9282d892e96fda6cbcfb8fb0", null ],
+    [ "GetShopOffersFailedMessage", "a08115.html#ac9c269adba4bf0458e1f78c480d7e963", null ],
+    [ "PurchaseFailedMessage", "a08115.html#a9b24041bd98cea290ecadc351d187d41", null ],
+    [ "PurchasePendingMessage", "a08115.html#aea53cb196b876794e498fdd561d311a8", null ],
+    [ "PurchaseSuccessMessage", "a08115.html#a698a82408f48785e72bdd15f05a78337", null ]
 ];

@@ -1,5 +1,5 @@
 var a10631 =
 [
-    [ "GetRadialPhrases", "a10631.html#a7acceb62dce5af751398b1b4b255c7cf", null ],
-    [ "StaticClass", "a10631.html#a5bbcd1f8cc1d5e1e959faf7106cecd3c", null ]
+    [ "HandleDestroy", "a10631.html#aa1253b3d8eee58222cfd1b00d3cda527", null ],
+    [ "StaticClass", "a10631.html#adafac5091e433aa987220ecd489120d7", null ]
 ];

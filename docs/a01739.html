@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FWeightedAIShipCrewFormType Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIShipCrewFormType Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a01739.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01736.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FWeightedAIShipCrewFormType Struct Reference</div>  </div>
+<div class="title">SDK::FAIShipCrewFormType Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeightedAIShipCrewFormType:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipCrewFormType:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01737.svg" width="396" height="398"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a01737.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a94083cb6b415dcc2650e91405eef838e"><td class="memItemLeft" align="right" valign="top"><a id="a94083cb6b415dcc2650e91405eef838e"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>Weight</b></td></tr>
-<tr class="separator:a94083cb6b415dcc2650e91405eef838e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cbfe1027a4961622c9a3c2cb93ee791"><td class="memItemLeft" align="right" valign="top"><a id="a9cbfe1027a4961622c9a3c2cb93ee791"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a9cbfe1027a4961622c9a3c2cb93ee791"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade275c3dd57eddd0051dcf66b029e310"><td class="memItemLeft" align="right" valign="top"><a id="ade275c3dd57eddd0051dcf66b029e310"></a>
-struct <a class="el" href="a01711.html">FAIShipCrewFormType</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Params</b></td></tr>
-<tr class="separator:ade275c3dd57eddd0051dcf66b029e310"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae68bd7e7a5c9f25109b4d413c1bf1f54"><td class="memItemLeft" align="right" valign="top"><a id="ae68bd7e7a5c9f25109b4d413c1bf1f54"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ESkellyFormIconType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>IconType</b></td></tr>
+<tr class="separator:ae68bd7e7a5c9f25109b4d413c1bf1f54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4024367587860a17e5c0061643b83fed"><td class="memItemLeft" align="right" valign="top"><a id="a4024367587860a17e5c0061643b83fed"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a4024367587860a17e5c0061643b83fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b054705fe4487cbce81643981736930"><td class="memItemLeft" align="right" valign="top"><a id="a7b054705fe4487cbce81643981736930"></a>
+struct <a class="el" href="a26327.html">FColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>IconColour</b></td></tr>
+<tr class="separator:a7b054705fe4487cbce81643981736930"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f68643d691642c1076680879042aaf6"><td class="memItemLeft" align="right" valign="top"><a id="a9f68643d691642c1076680879042aaf6"></a>
+int8_t&#160;</td><td class="memItemRight" valign="bottom"><b>IconIndex</b></td></tr>
+<tr class="separator:a9f68643d691642c1076680879042aaf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2b0ee7ebd1f8e58e14297714a63156b"><td class="memItemLeft" align="right" valign="top"><a id="ac2b0ee7ebd1f8e58e14297714a63156b"></a>
+int8_t&#160;</td><td class="memItemRight" valign="bottom"><b>CaptainIconIndex</b></td></tr>
+<tr class="separator:ac2b0ee7ebd1f8e58e14297714a63156b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e73435ebde91eb9e7ec69aea70e5efd"><td class="memItemLeft" align="right" valign="top"><a id="a0e73435ebde91eb9e7ec69aea70e5efd"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x6]</td></tr>
+<tr class="separator:a0e73435ebde91eb9e7ec69aea70e5efd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af882140f17e9efff1898ef0b341f44e6"><td class="memItemLeft" align="right" valign="top"><a id="af882140f17e9efff1898ef0b341f44e6"></a>
+struct <a class="el" href="a26419.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Form</b></td></tr>
+<tr class="separator:af882140f17e9efff1898ef0b341f44e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01739.html">FWeightedAIShipCrewFormType</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:31 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01739.html">FAIShipCrewFormType</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

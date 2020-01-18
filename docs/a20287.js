@@ -1,5 +1,5 @@
 var a20287 =
 [
-    [ "AssociatedCrew", "a20287.html#a39dd2a198a5e0eacd06a9ae9e552ed13", null ],
-    [ "NewLevel", "a20287.html#ac82f70d649b2306d00710a58fe57414d", null ]
+    [ "EmptyBucketTo", "a20287.html#a9b5fc4056f5035f53abf7bc644bc51db", null ],
+    [ "ScoopID", "a20287.html#a50d9d6bac9ae6d98095c1fbc3512aa93", null ]
 ];

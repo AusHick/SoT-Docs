@@ -1,8 +1,8 @@
 var a34159 =
 [
-    [ "AddMapping", "a34159.html#a7d49e2d8f7048451aed2e32ad90cf405", null ],
-    [ "AddMappingWithSingleEmitterComponent", "a34159.html#a3538d5342f1f2f630cc7d36a83dbc55d", null ],
-    [ "ClearMappings", "a34159.html#af0a56b93d4f9466fcc7a1b3314bc91fc", null ],
-    [ "StaticClass", "a34159.html#a47cdd94fe7332d333abee70ee511a9a7", null ],
-    [ "LocalComponentMappings", "a34159.html#ac655d1984d91ceda728551433b621390", null ]
+    [ "BaseMeshWeight", "a34159.html#a54be3c24201bf48d9fea51db121400d5", null ],
+    [ "Mesh", "a34159.html#a8959649efdbfbc9558760dfeb7efa4b7", null ],
+    [ "MeshPatchAssets", "a34159.html#a7b0818b0e64fe1faeaa6d5478fe7d683", null ],
+    [ "MeshPatchAssetWeights", "a34159.html#a5e749f65831306844d6e7cc5fe27969a", null ],
+    [ "UnknownData00", "a34159.html#adf6c8948e90c7c5dbd43a3b850915353", null ]
 ];

@@ -1,26 +1,6 @@
 var a23763 =
 [
-    [ "StaticClass", "a23763.html#ac075bd39d9e3ecb9856cda2914d53556", null ],
-    [ "IndividualAIAbilityParams", "a23763.html#a995b60c9121be7fcdd2cd8f3408022cc", null ],
-    [ "IndividualAIStrategyMovementProperties", "a23763.html#aee8787d29d148b13038b17e302ee98fd", null ],
-    [ "IndividualAnimationDataOverrideAsset", "a23763.html#a031daf48b64744bebcb2922e95b29367", null ],
-    [ "IndividualBeginFleeing", "a23763.html#a2d27db0ddbe0472894c8585feb2cce40", null ],
-    [ "IndividualCannonTargetingParams", "a23763.html#ac1da6f0e97a3aa6a534ab08487207634", null ],
-    [ "IndividualCustomAnimationAsset", "a23763.html#ab531367638d7f4c6af158d6226be591c", null ],
-    [ "IndividualDistanceInMToCannonShotHitChanceCurve", "a23763.html#a7f74e27fab60a2ca125bedb35758b350", null ],
-    [ "IndividualFleeingEQS", "a23763.html#af0765cce129cadd81d440bba32edc36d", null ],
-    [ "IndividualItemCategoryAIStrategyMovementPropertiesOverrides", "a23763.html#a12919d169f3bef6cfe079363bfdee683", null ],
-    [ "IndividualNamedItemParams", "a23763.html#a5da6458131d9da33404bfb664164707a", null ],
-    [ "IndividualNoInitialItem", "a23763.html#a4ea2cffb3ff1c1b04ba1014fd5cf8e9c", null ],
-    [ "IndividualOverrideBeginFleeing", "a23763.html#a0e54c7dc8a80c54682f80624731af36f", null ],
-    [ "IndividualOverrideNoInitialItem", "a23763.html#ae318c54f70ac533aad6e1055dcdf8f3c", null ],
-    [ "IndividualOverridePrioritiseInteractablesBeforeEnemies", "a23763.html#a0332c1f51e6ee07d4cf571d500c43e42", null ],
-    [ "IndividualOverrideUseRVOAvoidance", "a23763.html#a6b22281e6f3a5d8fbb1f25b9bde9f9fc", null ],
-    [ "IndividualPrioritiseInteractablesBeforeEnemies", "a23763.html#a621ed74ad36f916e19b434f65243261c", null ],
-    [ "IndividualSpawnItemDescForItemCategories", "a23763.html#a5a5ad9826d2f9adcfea3b8423a547830", null ],
-    [ "IndividualUseRVOAvoidance", "a23763.html#a6325477ff49303abafbdfd66949a3965", null ],
-    [ "IndividualWieldedItemOverrideNamedControllerParams", "a23763.html#a120ad4539c8812a4446e2c4d36471e3e", null ],
-    [ "IndividualWieldedItemProjectileEffectivenessProperties", "a23763.html#a9e4b04da07b5b42737573948c81f9884", null ],
-    [ "UnknownData00", "a23763.html#afaa2444bdf599c3515617b5f5766a553", null ],
-    [ "UnknownData01", "a23763.html#ae8bffaf91ef2e50004d508b1022288ee", null ]
+    [ "CurrentLevelsOfDamage", "a23763.html#af55e69819b60b35c686cf5558051b901", null ],
+    [ "DamageReceived", "a23763.html#adf0ad991373502fd4ad395fe58d5549f", null ],
+    [ "OldLevelsOfDamage", "a23763.html#a97ee5f29f3e24247a7756ad0045cfe17", null ]
 ];

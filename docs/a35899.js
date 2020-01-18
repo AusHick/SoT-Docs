@@ -1,5 +1,5 @@
 var a35899 =
 [
-    [ "SpawnWatercraft", "a35899.html#ab54342aa881ca989c252cb8f4df50a6b", null ],
-    [ "StaticClass", "a35899.html#a0eaf0d55b14f4f45ca9c89b75f972254", null ]
+    [ "StaticClass", "a35899.html#ab7fa7225a74977e34159c2d55d564690", null ],
+    [ "UnknownData00", "a35899.html#a2b7a011f9c5ab3a9ddc5032dca2fb4f8", null ]
 ];

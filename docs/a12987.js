@@ -1,6 +1,7 @@
 var a12987 =
 [
-    [ "LocationBlendEndByPercentage", "a12987.html#a56734ec0ded0dee59fa95869f57c964c", null ],
-    [ "RotationBlendEndByPercentage", "a12987.html#a9ad5f4ac7f985c0facd9145f29a8e173", null ],
-    [ "RotationBlendStartByPercentage", "a12987.html#a2bcba80ac795b25e27844ed00efd5d74", null ]
+    [ "LeftArmDownRangeA", "a12987.html#a9db17cecb259616f3f380586c477eaeb", null ],
+    [ "LeftArmDownRangeB", "a12987.html#a7a5ac2895520d3b7e8d8a5523d21df62", null ],
+    [ "RightArmDownRangeA", "a12987.html#ab4a6b947ecd2ffab09403f6e67d46b93", null ],
+    [ "RightArmDownRangeB", "a12987.html#a45c676033189a78e808747df58674d2d", null ]
 ];

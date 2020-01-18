@@ -1,6 +1,8 @@
 var a15303 =
 [
-    [ "ItemDesc", "a15303.html#abd5b9a462c0f3b971e160ca676697ae1", null ],
-    [ "NumItems", "a15303.html#af6de92d789384d5121627e97808e2787", null ],
-    [ "UnknownData00", "a15303.html#a7a1555c76e26237f4807a71c5e12417a", null ]
+    [ "Font", "a15303.html#a1a5b514f2373e831d85dadd2840fba27", null ],
+    [ "FontLineSpacingScale", "a15303.html#afdcc709b607ac8787b4d2fcfcafedd9a", null ],
+    [ "FontMaxScale", "a15303.html#a7e7e7d3e4d1fc35619d85f9fbff90e23", null ],
+    [ "FontScale", "a15303.html#a620f99aabdcd9603d70e68d24c862ab6", null ],
+    [ "UnknownData00", "a15303.html#a7372a6974a3ece258c40a784198b7008", null ]
 ];

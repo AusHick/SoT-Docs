@@ -1,6 +1,5 @@
 var a06183 =
 [
-    [ "StaticClass", "a06183.html#ac1b699d333ee9044b944ea8ff029c401", null ],
-    [ "IgnoreActors", "a06183.html#a92f2d0f67555bfcfd4c5c9ae0b6caf84", null ],
-    [ "UnknownData00", "a06183.html#a00ec2a0310dbb74a929cde40c1cb7ca0", null ]
+    [ "StaticClass", "a06183.html#a97e8b1479c82632bede0a09976236ed9", null ],
+    [ "Limping", "a06183.html#a33215be6688b247c8fc8dadade42f30e", null ]
 ];

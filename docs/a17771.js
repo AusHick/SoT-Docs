@@ -1,6 +1,5 @@
 var a17771 =
 [
-    [ "Message", "a17771.html#a291fc6889b23e3a64595bec657f6f329", null ],
-    [ "ServerAddress", "a17771.html#a48919d2cbac1d353230bc0871880e181", null ],
-    [ "TimeConnected", "a17771.html#a56ef6104f732f96229ce1ff2f5b94758", null ]
+    [ "ShipRegion", "a17771.html#aa2e8a7c4779e2c0f5b6d5dbeb25242a0", null ],
+    [ "TamperFlags", "a17771.html#ac817934c87f6494079a1172728eb662a", null ]
 ];

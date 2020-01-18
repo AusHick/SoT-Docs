@@ -1,7 +1,13 @@
 var a16191 =
 [
-    [ "FishHasEscaped", "a16191.html#a2b45d4f63d56a92f7f0c5146580dcda7", null ],
-    [ "FishingFish", "a16191.html#ac2175babd5749c6c67eb35ad6b07e29d", null ],
-    [ "FishingFishState", "a16191.html#add3f1e92820b7dc2cb12f030a82a70a1", null ],
-    [ "UnknownData00", "a16191.html#a0010d577701c0ae15f0285f794232ad2", null ]
+    [ "CameraAspect", "a16191.html#a2b93c9f3e08abe86a3e9126bf96cab9f", null ],
+    [ "CameraFarClip", "a16191.html#ab10bb99266663389eeb96b22c9c30f0d", null ],
+    [ "CameraFOV", "a16191.html#adfbd1d7d0c7889b95c4fc6f4c55ec882", null ],
+    [ "CameraNearClip", "a16191.html#a2a046467ac8618a4de2ab1f647aadf1d", null ],
+    [ "CameraOrientation", "a16191.html#a8f57c555b50c781b64cbd2695d25a97d", null ],
+    [ "CameraOrthoWidth", "a16191.html#a4373a47156807ba3095e2595962d70d2", null ],
+    [ "CameraPosition", "a16191.html#a1865fd83ef9681172f6641f1b949a2a1", null ],
+    [ "TextureHeight", "a16191.html#a8ae083308dcd6fa042d7d9e681fe03e8", null ],
+    [ "TextureWidth", "a16191.html#a2a561622acd2fd74ce1624425525ff74", null ],
+    [ "WorldSpaceCameraPosition", "a16191.html#a696b5df9e49507454c6fc4e5dfe579c0", null ]
 ];

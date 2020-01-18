@@ -1,5 +1,5 @@
 var a12511 =
 [
-    [ "StaticClass", "a12511.html#a3b8d1597a7060b7bb88eaf2ebc3fdc5a", null ],
-    [ "ShantyListShantyName", "a12511.html#ab40b47cba28f827c9b6e57386926f912", null ]
+    [ "StaticClass", "a12511.html#af7a8139b637fa46503d68b2817f27f9c", null ],
+    [ "SlotDefinitions", "a12511.html#a195b565337e91fa879a310a877669e42", null ]
 ];

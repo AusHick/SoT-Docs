@@ -1,6 +1,7 @@
 var a14087 =
 [
-    [ "UnknownData00", "a14087.html#aeefe1535daedb47eba80a9d0e6b67dad", null ],
-    [ "VoteOption", "a14087.html#ad6fe64f0fab5bdd110ff7502ceb4e9cf", null ],
-    [ "Voters", "a14087.html#af45512c2a16f919d2ce35ad97be3e812", null ]
+    [ "CrewId", "a14087.html#a45f24b7978ebcb0bc0c332d2b1517a2e", null ],
+    [ "Score", "a14087.html#a2bf5d71f36cea286f44c106f17cc2aca", null ],
+    [ "ShipName", "a14087.html#a5e828faa6c68cab5df994edcff9780b0", null ],
+    [ "UnknownData00", "a14087.html#a42fcc444978d8de8ec09020ff56bf1f9", null ]
 ];

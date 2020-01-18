@@ -1,6 +1,5 @@
 var a33959 =
 [
-    [ "Gender", "a33959.html#abdc561283141089d2ff3af15fcfca23f", null ],
-    [ "Texture", "a33959.html#a6d6596c8036b32dd01bd452d462d6aa3", null ],
-    [ "UnknownData00", "a33959.html#abc3134c5c6ec0689f037f6c63f74017b", null ]
+    [ "LinkedPet", "a33959.html#aad0d1eda937754814bf39b6340101711", null ],
+    [ "LinkedShip", "a33959.html#abdfbe46a2e0f0b8646717a756d4d4c3c", null ]
 ];

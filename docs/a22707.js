@@ -1,6 +1,7 @@
 var a22707 =
 [
-    [ "ActionSource", "a22707.html#a66085abd11f1ad6837e65d9c98bce928", null ],
-    [ "InputID", "a22707.html#a0c73d1fe86cf7b678534b758f69a86c1", null ],
-    [ "Usable", "a22707.html#a5f86f6f0f46a653c99a406b77864b965", null ]
+    [ "Amount", "a22707.html#a2145a7aa5715e6468e5bb167527849d2", null ],
+    [ "Currency", "a22707.html#a926e2af3b513636bf85c46617bfe28cc", null ],
+    [ "TransactionId", "a22707.html#a74749f2c3c155bafd2ec7743504627b9", null ],
+    [ "UnknownData00", "a22707.html#a9d495f3471bf71502b3da7070b8b7c4b", null ]
 ];

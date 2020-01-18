@@ -1,6 +1,7 @@
 var a07419 =
 [
-    [ "StaticClass", "a07419.html#a2b6ee9e6c53e6a86ea6f58ffbc6dc434", null ],
-    [ "AllTabIcon", "a07419.html#ad30b8959c7690f9aba124e1b726ee59f", null ],
-    [ "AllTabLabel", "a07419.html#ade2571be5b8ea7be055cd1e993bf51a8", null ]
+    [ "StaticClass", "a07419.html#a6a64be1acafcc440c9d344b8af87ec5d", null ],
+    [ "ItemSets", "a07419.html#ac1ea4dfe4aaf05237b69afd2d5ce9fef", null ],
+    [ "PageIcon", "a07419.html#af03a4d372d0cb505fcb561c01414ce9b", null ],
+    [ "PageTitle", "a07419.html#a4c21dc1dedbdd565e28101d928810565", null ]
 ];

@@ -1,4 +1,5 @@
 var a18731 =
 [
-    [ "UnknownData00", "a18731.html#a7bd912eb63eea282b66c6188e28320b6", null ]
+    [ "Description", "a18731.html#aa5297dcb3bc3323e28bd18c13b1ac104", null ],
+    [ "Outfit", "a18731.html#a4d8a98168bf975fea2958896e997d346", null ]
 ];

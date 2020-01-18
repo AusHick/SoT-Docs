@@ -1,7 +1,9 @@
 var a16175 =
 [
-    [ "IdleLoopEndingBackwards", "a16175.html#a77b4a3af8334e6ca63961e101ff55654", null ],
-    [ "IdleLoopEndingForwards", "a16175.html#a8a6e4843bce74477f8f4eebdba04e98c", null ],
-    [ "IdleLoopEndingLeft", "a16175.html#a06eb218a1d88a885e23e6d2cb1faa06e", null ],
-    [ "IdleLoopEndingRight", "a16175.html#ae056a402fa62877e7fc2f0620cb0b662", null ]
+    [ "LocationSource", "a16175.html#a7265b680ce6102d73bbd443798267584", null ],
+    [ "Map", "a16175.html#a6904878f676bc166d01845c2966c7b5b", null ],
+    [ "MapSpaceLocationOffset", "a16175.html#aa7479f3f4e38f74ea182b0411739e4d1", null ],
+    [ "RotationFromNorth", "a16175.html#a459f78c435831ac7543f4af9635b2b4b", null ],
+    [ "TreasureLocations", "a16175.html#a1021ea754bec45c0f2cfe298e73b27c6", null ],
+    [ "UnknownData00", "a16175.html#a15e27c87d43bb9009ed51777d41a7a96", null ]
 ];

@@ -1,10 +1,10 @@
 var a35171 =
 [
-    [ "EnableQueryServiceTime", "a35171.html#ab21059e00019db1a0c68ff697d64eb70", null ],
-    [ "GetTimeScalar", "a35171.html#aca4a07ae2c32cdc9f3127b6be1bce078", null ],
-    [ "SetGameWorldTime", "a35171.html#ab400cb3a922ef9777644f4c732b4add3", null ],
-    [ "SetSunrise", "a35171.html#a672abd0719251ef81d6039c4ab967418", null ],
-    [ "SetSunset", "a35171.html#ad7f2932982d07342238128c7720522ab", null ],
-    [ "SetTimeScalar", "a35171.html#a0ce701d616cb032a05f1b765e68f3a98", null ],
-    [ "StaticClass", "a35171.html#acde5713a9c4d1dd9f2777e52236d37e1", null ]
+    [ "StaticClass", "a35171.html#a0a3aa558dbf3e97f18a86565cc689bd6", null ],
+    [ "OnAllocated", "a35171.html#ad921dbea23cf7c42cf2eadaaf581ab94", null ],
+    [ "OnCollected", "a35171.html#a1caa050b731a5fc560bbfaa4bd4e0fe3", null ],
+    [ "OnCompleted", "a35171.html#a676bb4bbddf799f97fa460e039c8c619", null ],
+    [ "OnDelivered", "a35171.html#af4bc42b553dd0ebfb00a1e31fe33c17c", null ],
+    [ "OnExpired", "a35171.html#a3cf0246f37884cf24bb5e2f14982600a", null ],
+    [ "UnknownData00", "a35171.html#a628186df4d0bebba0eb39188ad02bf8a", null ]
 ];

@@ -1,10 +1,8 @@
 var a06547 =
 [
-    [ "StaticClass", "a06547.html#a29413732655664884e3e6d50ca59c9f1", null ],
-    [ "BeaconActorClasses", "a06547.html#a70c37a845ab2763e8a85299b9fd5e1a2", null ],
-    [ "BeaconRange", "a06547.html#a4f6d5d9177c1beb7f6d9b61d62e82b9f", null ],
-    [ "CollectedActorClasses", "a06547.html#a919bd0e1e6b4e8e4880e35dd34426e50", null ],
-    [ "MigrationSetupRequestTimeoutInSeconds", "a06547.html#a10bbce384e47f59fae76ccc08587173f", null ],
-    [ "UnknownData00", "a06547.html#a9bba22a4ebf834a3d7280de7adf06e0a", null ],
-    [ "UnknownData01", "a06547.html#ae2f537d966b52d47b680df3893a25cf2", null ]
+    [ "Server_ArmoryChestEquipWeapon", "a06547.html#af9f1947f692f012951427a9a9aae219c", null ],
+    [ "StaticClass", "a06547.html#abee8a0eaef28396593d093207af484a7", null ],
+    [ "AllTab", "a06547.html#acd9a93fffe8e42754ee5c32fa4930970", null ],
+    [ "Categories", "a06547.html#adc9b740088a1239a34a3b469a95c54bc", null ],
+    [ "UnknownData00", "a06547.html#a0e0e54b4a076d89b5db5e6be1fb6df7c", null ]
 ];

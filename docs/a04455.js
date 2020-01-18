@@ -1,5 +1,7 @@
 var a04455 =
 [
-    [ "StaticClass", "a04455.html#a6b7ec97e72347c8ac542a8eec25132cd", null ],
-    [ "AllCursedCannonballs", "a04455.html#a5fa8ee2083e3c44ef90987e4b82f37f5", null ]
+    [ "GetActivePartCustomizations", "a04455.html#ab94b95b11b1bd87cf7ead954e98f043f", null ],
+    [ "GetInitialShipCustomizations", "a04455.html#a0e2887bc00ed62b8cd94f15288554795", null ],
+    [ "GetShipCustomizationLoadout", "a04455.html#a44a637831945ea1e9469fbd25205d0ec", null ],
+    [ "StaticClass", "a04455.html#ae07ef0d471921d5eaa317856b100984c", null ]
 ];

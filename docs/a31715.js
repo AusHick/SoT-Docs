@@ -1,5 +1,5 @@
 var a31715 =
 [
-    [ "CurveTable", "a31715.html#ae3781be1af534d19846e6dd4e147154d", null ],
-    [ "RowName", "a31715.html#adc3381e23a5a7c4e71f8326bc07b8c0c", null ]
+    [ "BoneName", "a31715.html#a1e7f2cf4552e839be2b4061daece48a7", null ],
+    [ "NodeName", "a31715.html#a3a825557f17f8c4871f665f30a499baf", null ]
 ];

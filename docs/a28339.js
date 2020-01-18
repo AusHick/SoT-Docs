@@ -1,5 +1,9 @@
 var a28339 =
 [
-    [ "StaticClass", "a28339.html#ae6977cc55b89afadf1e7a4fb300cfb0a", null ],
-    [ "Input", "a28339.html#a06c67475284f078a7aac256848c85882", null ]
+    [ "StaticClass", "a28339.html#a20fe58b323ff75f7e99026cb0266035d", null ],
+    [ "bFadeAudio", "a28339.html#abc5f0db76a775bd61979a46ae21824fc", null ],
+    [ "bPersistFade", "a28339.html#a6b848c27d096f797839ba8aa9bfb8dc6", null ],
+    [ "FadeColor", "a28339.html#a1c190c7d98ed57afc7a452b2b32791d7", null ],
+    [ "UnknownData00", "a28339.html#a9b3d6e55595b79983aeff9e209582a08", null ],
+    [ "UnknownData01", "a28339.html#af5cb43bdc333e68a26a76392f9d1a2a1", null ]
 ];

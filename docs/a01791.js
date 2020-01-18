@@ -1,7 +1,7 @@
 var a01791 =
 [
-    [ "BattleDescs", "a01791.html#a891d64e7462e8bd079ece927d9d04731", null ],
-    [ "BattleGenerationParams", "a01791.html#a3d2054072554972e57db8d56066583a1", null ],
-    [ "EnableHardShip", "a01791.html#a5585beee5a70e10d3af6bb71c473d43e", null ],
-    [ "UnknownData00", "a01791.html#a9cb44406bc4ad02546042c485be1d9f4", null ]
+    [ "ShipDesc", "a01791.html#a40f072fa865257f436bc0be5c8238e74", null ],
+    [ "ShipGenerationParams", "a01791.html#af5ded91a9360f0a4b1263af9034293d2", null ],
+    [ "ShipSize", "a01791.html#a6e78205d9a2b73e43f8535dddecb3834", null ],
+    [ "SpawnerTemplates", "a01791.html#a4b99c700bd9ad39f6318e884be99bd43", null ]
 ];

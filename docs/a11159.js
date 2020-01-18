@@ -1,6 +1,5 @@
 var a11159 =
 [
-    [ "StaticClass", "a11159.html#a396baecebd96121a1cc139c7e10b7228", null ],
-    [ "Categories", "a11159.html#a87a24cf69035888551582b79304f8b64", null ],
-    [ "Items", "a11159.html#a628d6372012a9121eedcfe9dd368ce49", null ]
+    [ "StaticClass", "a11159.html#adc6ef1d4627c69da2e756d2380eef812", null ],
+    [ "ItemToGive", "a11159.html#a540ba52d821bcd72998fcbd9fc6fdb84", null ]
 ];

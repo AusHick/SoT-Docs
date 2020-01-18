@@ -1,4 +1,4 @@
 var a18783 =
 [
-    [ "UnknownData00", "a18783.html#a20b838ac0d26e14101975f1448baca14", null ]
+    [ "SessionType", "a18783.html#aa6ae4668c338c0056b2356ed30b92b6e", null ]
 ];

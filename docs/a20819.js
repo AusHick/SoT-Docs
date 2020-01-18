@@ -1,11 +1,10 @@
 var a20819 =
 [
-    [ "CrewCountBucket", "a20819.html#a653cd26443d6d736b4956dd5b73aff83", null ],
-    [ "FeatureHash", "a20819.html#ab687d4ed7c95dc5095f915cd2492d4a7", null ],
-    [ "PlayModeDefinition", "a20819.html#a31a7ee7121cea0209bf3ce4fc3255dbe", null ],
-    [ "PrivateServerId", "a20819.html#a4e8a8a24a02bc97bacf33e1c94def13c", null ],
-    [ "ServerLocation", "a20819.html#a890060ba01bbe1ef51c40eb8a42b05ce", null ],
-    [ "TitleVersion", "a20819.html#ae1c46adb4bf2ab88de7573f92d298971", null ],
-    [ "UnknownData00", "a20819.html#a9ceffbb41afb3f814418968083a693a3", null ],
-    [ "UnknownData01", "a20819.html#add89d295f3caa801d61697c6bd2a7a90", null ]
+    [ "Attempts", "a20819.html#af08578437dd4ef2d8f19566cbfd11db3", null ],
+    [ "Context", "a20819.html#a9df1d4ae6fce3b6e923dda98073edb34", null ],
+    [ "DurationMS", "a20819.html#a04e29fad99c96f6a0b798523c7c203eb", null ],
+    [ "Endpoint", "a20819.html#a65c3931bafe9e149c0ed2e55f34f914c", null ],
+    [ "Result", "a20819.html#a8d7e9bbfab3767ff3934e19bb2f6704e", null ],
+    [ "StatusCode", "a20819.html#a2fab7cc55d78b4a88ad66b0f3eea190e", null ],
+    [ "UnknownData00", "a20819.html#ab82be9796d68038d1d78ae78683d572a", null ]
 ];

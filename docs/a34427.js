@@ -1,5 +1,6 @@
 var a34427 =
 [
-    [ "StaticClass", "a34427.html#ae4538bb73bdaee8ffdacd5eb9f2b4caf", null ],
-    [ "ScrollBoxStyle", "a34427.html#a846c12fdf05bb95a084647223053c35e", null ]
+    [ "GetCurrentSpace", "a34427.html#a1e5961e134ba642a0bbec794e83cd266", null ],
+    [ "StaticClass", "a34427.html#af13973f6678dcf178d98aae8512879cd", null ],
+    [ "CurrentSpaces", "a34427.html#a3e0894b179da517525d62c64d1bd4d58", null ]
 ];

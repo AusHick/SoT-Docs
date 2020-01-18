@@ -1,11 +1,8 @@
 var a31583 =
 [
-    [ "bActive", "a31583.html#a458264b46035ead4c67d534ea81c473d", null ],
-    [ "bUseFFT", "a31583.html#ae539995e3d0cacdd3a1bcb8900426bfe", null ],
-    [ "FFTBasePlaneHeight", "a31583.html#a2869b560bd3d4c812492b082b6d9e44e", null ],
-    [ "NonFFTPlane", "a31583.html#a7d851058b1bf2f22f2eb2159d9a4619e", null ],
-    [ "UnknownData00", "a31583.html#a29f6169934ca7743c567e4df7ecbfb4d", null ],
-    [ "UnknownData01", "a31583.html#a4edb38e4e9dc9e4726b94db7c979f82e", null ],
-    [ "WaterId", "a31583.html#aa69904003ad2934e13d02248e98c78d9", null ],
-    [ "WaterOwner", "a31583.html#a1c25b9a2fda4de8996a1ed54da1edbb8", null ]
+    [ "ContactNormal", "a31583.html#aac5238e2ab186edd9e88d56a01077a44", null ],
+    [ "ContactPenetration", "a31583.html#ab48ae1aad08c8f7dd40c94ca1f029567", null ],
+    [ "ContactPosition", "a31583.html#ac1d1d069ceadb9d6fbdf32ed2853b1d9", null ],
+    [ "PhysMaterial", "a31583.html#aff32167c85525f2fbddfa52bf6bf429a", null ],
+    [ "UnknownData00", "a31583.html#ad613be53c4f06f5dc51b9ff29998283f", null ]
 ];

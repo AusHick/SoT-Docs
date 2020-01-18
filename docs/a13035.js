@@ -1,10 +1,7 @@
 var a13035 =
 [
-    [ "AllLoadedAIEmoteActionAnimations", "a13035.html#a99bb68983c769b71bb0b66dc86806e0f", null ],
-    [ "CheerAnimation", "a13035.html#a048951747dc35e8474bd8c22fd88841a", null ],
-    [ "CheerAnimationB", "a13035.html#a8b38b13f301b54a8454881b1e8b7bed2", null ],
-    [ "CurrentEmoteActionState", "a13035.html#aa5e33a78f27b7ed4665c493ccebb35c0", null ],
-    [ "TauntAnimation", "a13035.html#a80e5a5a867ef1eeb78fd0697f9f6759f", null ],
-    [ "TauntAnimationB", "a13035.html#ab0280d89202be9289375de20399513fc", null ],
-    [ "UnknownData00", "a13035.html#a593c39a8720dfe5b0b2ccfe18436899a", null ]
+    [ "UnknownData00", "a13035.html#aec37aa8b8c559beaaa47b6943a91267a", null ],
+    [ "WaterPumpHandleInMotion", "a13035.html#ae0ca7b990a4377a6e32fe8af945247e8", null ],
+    [ "WaterPumpHandlePosition", "a13035.html#a79e3a9b244d28ba7156fcb74db0e80e3", null ],
+    [ "WaterPumpHandlePreviousPosition", "a13035.html#a495f9dc78a22bdd861c09b1657a97d25", null ]
 ];

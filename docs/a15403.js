@@ -1,6 +1,5 @@
 var a15403 =
 [
-    [ "CrewId", "a15403.html#ab3d27fb9356f551eb65cfb7e0d46dbb0", null ],
-    [ "TimeOfLastRestock", "a15403.html#a23c4ed2d4f081e315bac33c1431bb5dd", null ],
-    [ "UnknownData00", "a15403.html#a37d8d04476fb8c95add26411c87ad7c9", null ]
+    [ "PrimaryCrewPercentage", "a15403.html#aba58cdc85a029ff77e70a35f53fffe5f", null ],
+    [ "SecondaryCrewsPercentage", "a15403.html#a43bc6976419a61cf217c5b4e65542d49", null ]
 ];

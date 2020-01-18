@@ -1,4 +1,5 @@
 var a17739 =
 [
-    [ "MatchmakingAttemptId", "a17739.html#a9f8f7a515921aec8d7325d696c1a203d", null ]
+    [ "ShipEquippedItemName", "a17739.html#aacb9fd2156a93099ae0c1d56921e8e78", null ],
+    [ "ShipEquippedItemType", "a17739.html#acbbe0c6db260c28c198770ac251a7186", null ]
 ];

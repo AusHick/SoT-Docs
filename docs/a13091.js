@@ -1,8 +1,10 @@
 var a13091 =
 [
-    [ "SkeletonDance", "a13091.html#a6fcd9280d650df3f6c6416b54d2704fc", null ],
-    [ "SkeletonDrunk", "a13091.html#a4285bd3e10c459bc64ef89da38cc0597", null ],
-    [ "SkeletonSleepInto", "a13091.html#a4de01d4f3cbbd6d1cdfe5b4806ad67e4", null ],
-    [ "SkeletonSleepLoop", "a13091.html#a2895de9ee76427a50190c237cfba55c4", null ],
-    [ "SkeletonSleepOut", "a13091.html#a87ccba7b19bbcaa0b0872fe903e6f847", null ]
+    [ "CameraAlpha", "a13091.html#a33f8586317ec7523959fe5dc7abb2d9d", null ],
+    [ "CameraLookPitchTime", "a13091.html#a57a4e05ba628913760644654f50cbfe7", null ],
+    [ "CameraLookYawTime", "a13091.html#aa1469360d3e6507007b2257aaf2fbf50", null ],
+    [ "CameraObjectAttachmentType", "a13091.html#a0f54232a619c70a14bb87e9433ee136f", null ],
+    [ "CameraPitch", "a13091.html#a320bae6b3e448dc8cb11e8914aeea0fd", null ],
+    [ "CameraYaw", "a13091.html#ac36d028c21b04e796811ed888c1819ea", null ],
+    [ "UnknownData00", "a13091.html#a40128ecf6f3229c081c82d1c6ed4f5da", null ]
 ];

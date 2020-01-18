@@ -1,5 +1,8 @@
 var a29327 =
 [
-    [ "StaticClass", "a29327.html#aa85bfb567f821a190008cd6da10354cf", null ],
-    [ "AdditionalAngle", "a29327.html#a6c115f64ec4189a51732a81935cf4a2f", null ]
+    [ "StaticClass", "a29327.html#a39eed5102e343879c3745fbc96aba9f5", null ],
+    [ "AlphaScaleOverLife", "a29327.html#a1feee37ac5954d07e45a6021e3420134", null ],
+    [ "bEmitterTime", "a29327.html#a924b363f513ee7d0bf2709a091ea9cc2", null ],
+    [ "ColorScaleOverLife", "a29327.html#a7f38c81e9446132e98d3eb82c786447b", null ],
+    [ "UnknownData00", "a29327.html#a970db521155c62350d2cd0abf83936b5", null ]
 ];

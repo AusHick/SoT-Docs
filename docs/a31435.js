@@ -1,8 +1,4 @@
 var a31435 =
 [
-    [ "bAttached", "a31435.html#a3af337695fb63ee970219553ea3d4656", null ],
-    [ "OriginalRadius", "a31435.html#a35bf037edd149be0342e0cc4245e2e03", null ],
-    [ "Texture", "a31435.html#a975f65685ba081c2e17c92e628957a04", null ],
-    [ "UnknownData00", "a31435.html#a05ffd4c8c92f07f2216b859db07fd3d7", null ],
-    [ "UnknownData01", "a31435.html#a3a6a9f0f20c01bbc45fa6f982726a5b0", null ]
+    [ "UnknownData00", "a31435.html#af9537f036e7edf91abc59d039f7e0ee1", null ]
 ];

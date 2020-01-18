@@ -1,4 +1,4 @@
 var a19979 =
 [
-    [ "ClosePossessionsChestEvent", "a19979.html#a5d96f8015bc186c2537206f306b6c1b9", null ]
+    [ "Definition", "a19979.html#a743cc8c23c361f3955b8594e2225c1f2", null ]
 ];

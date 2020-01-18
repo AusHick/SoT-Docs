@@ -1,10 +1,13 @@
 var a30755 =
 [
-    [ "Center", "a30755.html#a46fb208738cdeeb24d4459a0e8076bb8", null ],
-    [ "Orientation", "a30755.html#a25ede268674e054fcb2e8a83b33d90d2", null ],
-    [ "UnknownData00", "a30755.html#a03770a094c18127820c34b7308c9df4c", null ],
-    [ "UnknownData01", "a30755.html#afb339a2ffa119e7e9083e07d9ca2b4de", null ],
-    [ "X", "a30755.html#a4d64e5b77e1c22c38500236a32af38a1", null ],
-    [ "Y", "a30755.html#a2b41366c9afcf020bf30e57baf97c9f5", null ],
-    [ "Z", "a30755.html#aa2bd5ac0b3b09368383a31642858ac19", null ]
+    [ "EndOffset", "a30755.html#ac6090823c570d1dd25683e19b22069c6", null ],
+    [ "EndPos", "a30755.html#aeb1c24693681204eaf1f28b1dfe184a1", null ],
+    [ "EndRoll", "a30755.html#a2cef3f903ab3c167c58c68118eded284", null ],
+    [ "EndScale", "a30755.html#afc760304d9f221e09309cf16f3da2ef1", null ],
+    [ "EndTangent", "a30755.html#a56ec04b9fd5251db54249284501fc5bd", null ],
+    [ "StartOffset", "a30755.html#aa83ea5bc00ec45ae95f8429dee0e5909", null ],
+    [ "StartPos", "a30755.html#ac134e2cd16ec3bbc8304d3db1e42fd36", null ],
+    [ "StartRoll", "a30755.html#a5a48540852e25c9e9c571dcf93789db2", null ],
+    [ "StartScale", "a30755.html#a639b0c1e4946fd89216202bba6f2b560", null ],
+    [ "StartTangent", "a30755.html#a5067b8eb68f0a57cca6f316f575c0a8e", null ]
 ];

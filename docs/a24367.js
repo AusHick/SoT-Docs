@@ -1,6 +1,8 @@
 var a24367 =
 [
-    [ "StaticClass", "a24367.html#abe9ca99229f0f42252a63905ef75f1ee", null ],
-    [ "Max", "a24367.html#a6d12a8bf16fd35fc4cd2993b807ed35b", null ],
-    [ "Min", "a24367.html#a9eb61df33fd9d15b03d856321a0a010b", null ]
+    [ "EnableAllPerception", "a24367.html#ae8f4b9dabe3553dd8cfd5394b734209b", null ],
+    [ "EnablePerceptionSense", "a24367.html#a93cd42029180e28ed4f98e41f582979e", null ],
+    [ "IsAnyPerceptionEnabled", "a24367.html#af73b1cac868655a0657eff26a98b14ec", null ],
+    [ "IsPerceptionSenseEnabled", "a24367.html#a83c8d27749809fd55813602b5cabb21b", null ],
+    [ "StaticClass", "a24367.html#a3324a4641473ec23b707965910ec420b", null ]
 ];

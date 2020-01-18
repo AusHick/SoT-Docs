@@ -1,6 +1,7 @@
 var a33163 =
 [
-    [ "StaticClass", "a33163.html#ac3eceb1e119937d4fdcbcb664e8c2ba5", null ],
-    [ "NumChannelsUsed", "a33163.html#abd11e85c14c66d18ff4e8ec2c195eeab", null ],
-    [ "UnknownData00", "a33163.html#ac2a59a2ba8c41fb72efe794b0818be71", null ]
+    [ "IsLooped", "a33163.html#a78e1a1c0be90a24c6403c20e767df91e", null ],
+    [ "Points", "a33163.html#aa057262c7ffa91b238b861a2dae5c479", null ],
+    [ "StepTime", "a33163.html#a6c429b0cf243bfac0c2425de388d4be4", null ],
+    [ "UnknownData00", "a33163.html#a3df3ac76018ec299f544f9e2a7fbeb37", null ]
 ];

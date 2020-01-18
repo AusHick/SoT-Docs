@@ -1,5 +1,5 @@
 var a26107 =
 [
-    [ "X", "a26107.html#a9984e1e97cecf580df65163e014fc1f7", null ],
-    [ "Y", "a26107.html#a3c25ee4c2136ee5b91c911daaec9abc1", null ]
+    [ "StaticClass", "a26107.html#ae160206aeab3f333701e123a8a9e4a28", null ],
+    [ "UnknownData00", "a26107.html#ae9c074f6a481116eeb3f0303587b88ba", null ]
 ];

@@ -1,7 +1,12 @@
 var a06911 =
 [
-    [ "StaticClass", "a06911.html#a619253c0d5e7a3fc92c4e57644470acb", null ],
-    [ "EntitlementsSet", "a06911.html#a555e1658f2111f2dd59b65a5cd8d4ae5", null ],
-    [ "MinimumNumberSatisfied", "a06911.html#a946153983d110a462eb36c1f74a5d116", null ],
-    [ "UnknownData00", "a06911.html#a218bbd4c0b76c33184a62200b26b53d2", null ]
+    [ "StaticClass", "a06911.html#ac7fbce122d32da8e4aa005cde0630ee5", null ],
+    [ "CloseOnExectuted", "a06911.html#a923e7e5a5f1e4d64b045446283d82371", null ],
+    [ "LinkedDialog", "a06911.html#af1036709bec63e0418c95ad4a50794cb", null ],
+    [ "RelevantOnServer", "a06911.html#a08113650e47280afa169c5d7fa92c343", null ],
+    [ "Text", "a06911.html#a97a2631ec5bbf02e4bd94ff1f3b0d583", null ],
+    [ "TutorialDialogOption", "a06911.html#a11a531229f7e500aee5bd68281418b3a", null ],
+    [ "UnknownData00", "a06911.html#abe3f71522822bcad630f69a3ceb12356", null ],
+    [ "UnknownData01", "a06911.html#a65f69482fd25fa3542df9dde223f4eb2", null ],
+    [ "UnknownData02", "a06911.html#a7d1df3c30b89965b9a840d21f0b5ab0e", null ]
 ];

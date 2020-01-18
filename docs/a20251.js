@@ -1,6 +1,6 @@
 var a20251 =
 [
-    [ "IsFree", "a20251.html#af186adb71377525eb060b17adf582a31", null ],
-    [ "NetPlayerState", "a20251.html#ad66978ad8e746dcf97d3baadd5e561d8", null ],
-    [ "UnknownData00", "a20251.html#ab6f53e2f0a1bdb21d4021ba1d5db3b41", null ]
+    [ "Crews", "a20251.html#acf7ab068c0877c82ce3a440f8a80d25e", null ],
+    [ "MermaidStatueDespawnReason", "a20251.html#a30339b71d88389ec9a3f830c30ebf033", null ],
+    [ "MermaidStatueId", "a20251.html#a6bc62041c7ec95aab90120a85a0122cf", null ]
 ];

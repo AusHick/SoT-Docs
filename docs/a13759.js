@@ -1,7 +1,6 @@
 var a13759 =
 [
-    [ "GroupName", "a13759.html#abc4f44231d905c180f59f8f054807e8c", null ],
-    [ "RequiredItemEntries", "a13759.html#ae335679f1fff55291ec57db2d9741cc2", null ],
-    [ "UnknownData00", "a13759.html#aa4c3b1771bec8915cdf7b44620d8139a", null ],
-    [ "Weight", "a13759.html#abc6df41bac42bd93901e78f5dec8c87e", null ]
+    [ "DistanceToTravelInMetres", "a13759.html#acd829fd83ce2582380b78bbca6d06f80", null ],
+    [ "RangeToRemainWithinInMetres", "a13759.html#adc5310156182fec459f88984a3a6a957", null ],
+    [ "UnknownData00", "a13759.html#a8490c07f0892cf12ee6f16f94b90274f", null ]
 ];

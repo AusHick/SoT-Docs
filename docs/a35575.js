@@ -1,6 +1,11 @@
 var a35575 =
 [
-    [ "Alignment", "a35575.html#a55c0877009ecd7e5248e63dea3f53c5c", null ],
-    [ "Anchors", "a35575.html#ad62223c4345d13379e4cfdb59aadd762", null ],
-    [ "Offsets", "a35575.html#a85d7fbdd38047ccac7fb5fe0eaffd0a0", null ]
+    [ "SetHorizontalAlignment", "a35575.html#ae1ded0b33722495314ec7bbb8e792c0d", null ],
+    [ "SetPadding", "a35575.html#a58b9746f1960243c0264d3484e7bc3e8", null ],
+    [ "SetVerticalAlignment", "a35575.html#a59d92092563d44f5849120aa0ada8b81", null ],
+    [ "StaticClass", "a35575.html#acb2b5f799e1cb25f8475455d56c5ae7a", null ],
+    [ "HorizontalAlignment", "a35575.html#aae7a6b96c8ce00e5828d596f6f0c7c41", null ],
+    [ "Padding", "a35575.html#a2debfd8efc2e8800adc6dcd67d1f22d1", null ],
+    [ "UnknownData00", "a35575.html#a1a885b73091d130b645b3ceb399b4052", null ],
+    [ "VerticalAlignment", "a35575.html#a7afdf96e0356aecd18d159d919614771", null ]
 ];

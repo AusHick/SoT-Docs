@@ -1,5 +1,6 @@
 var a35823 =
 [
-    [ "StaticClass", "a35823.html#a030d52b60c9a49484af262ee6a16c43e", null ],
-    [ "WatercraftTypes", "a35823.html#ad6b361e7324dc831fe7f1bc30e00c67d", null ]
+    [ "AnimationGuid", "a35823.html#a4e06970fbd490c2f658ccbc93cfaaa88", null ],
+    [ "SlotWidgetName", "a35823.html#ae31e0cd144ec7f523449818d9be6a7ee", null ],
+    [ "WidgetName", "a35823.html#a9809ecab061140b0b5b36230772668ab", null ]
 ];

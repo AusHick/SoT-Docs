@@ -1,7 +1,6 @@
 var a19095 =
 [
-    [ "PlayMode", "a19095.html#a04a0c1cfacaf8aee29169e1dfc79df7a", null ],
-    [ "SessionMembers", "a19095.html#a9407cb18ac708077f7f244dfc278d5f3", null ],
-    [ "SessionTemplate", "a19095.html#ac14616f3669485c08ac0652518f3ab23", null ],
-    [ "SessionVisibility", "a19095.html#a22c8139b24724b148820d8533defd1a3", null ]
+    [ "bInCinematicMode", "a19095.html#a52883266cca8017d08019e296353a11e", null ],
+    [ "PlayerController", "a19095.html#a7423acdf63e65972d823fe40e059c170", null ],
+    [ "UnknownData00", "a19095.html#a36ff8d2be3761b348aca69744ae1660c", null ]
 ];

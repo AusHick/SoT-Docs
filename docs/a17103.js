@@ -1,8 +1,7 @@
 var a17103 =
 [
-    [ "CrewIcon", "a17103.html#a5fe1f7fd17d43f6ae24bb09f3fc4f7d5", null ],
-    [ "GamerTag", "a17103.html#ac9934225848d0a969a4107546e58ac62", null ],
-    [ "Muted", "a17103.html#a5b95508ff571db6c521763c3cef9866d", null ],
-    [ "UnknownData00", "a17103.html#ac4c9a80f2fc204c70275b01ba901d1a0", null ],
-    [ "XUID", "a17103.html#a4fee72c6081b8d0b743021494f15dca7", null ]
+    [ "NotificationType", "a17103.html#a0a0628110257d68ef28e33f7ae3ff7b8", null ],
+    [ "Sender", "a17103.html#a4a7e180a7298ff375068dd6ce6ce6792", null ],
+    [ "Text", "a17103.html#a3dedade148c1109312523fd1134bdfeb", null ],
+    [ "UnknownData00", "a17103.html#acb784c13e91abd93207e253709c61ce0", null ]
 ];

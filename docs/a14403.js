@@ -1,6 +1,6 @@
 var a14403 =
 [
-    [ "MountedWeaponParams", "a14403.html#a786439be62d9a4fb50d798ad7cb43c9a", null ],
-    [ "ReloadAttemptRepeatRate", "a14403.html#a85cbdf0aa8ccd586be9cc202dec5087a", null ],
-    [ "UnknownData00", "a14403.html#a5feba583faf7363916ab8f48b3289fbc", null ]
+    [ "HealthChangePropagated", "a14403.html#a75a1fadce91489f06aa5d3efd6a579fc", null ],
+    [ "ShipDamagerType", "a14403.html#ac89e5b342191c48315aa49381cac0336", null ],
+    [ "UnknownData00", "a14403.html#a4f5440a2f74f7c89d11c9d58056b2f65", null ]
 ];

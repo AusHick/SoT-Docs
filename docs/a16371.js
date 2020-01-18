@@ -1,4 +1,5 @@
 var a16371 =
 [
-    [ "Ship", "a16371.html#aa5f8e077260da4b0624172ecd1461f8a", null ]
+    [ "ActorType", "a16371.html#a383234e5f3e78a4ae8bf38addf4f6dc6", null ],
+    [ "CollisionProfileName", "a16371.html#a081a8f86bffa5a3320d56573fdd81e49", null ]
 ];

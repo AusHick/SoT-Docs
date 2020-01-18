@@ -1,4 +1,6 @@
 var a21403 =
 [
-    [ "UnknownData00", "a21403.html#aa3538d3e4c2bbd8a5f69f609d98c8449", null ]
+    [ "EventData", "a21403.html#a9cf0d080802e440cfdc0b3eb8b9ebfac", null ],
+    [ "EventName", "a21403.html#a3c673a9e18983bfca67c6be1a863a9c4", null ],
+    [ "Id", "a21403.html#aba6231e7e1d7047babfd2a2beffb1743", null ]
 ];

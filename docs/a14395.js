@@ -1,5 +1,8 @@
 var a14395 =
 [
-    [ "InitialClamberPitch", "a14395.html#a927eb7c194880ada95c71aad3ad0ba27", null ],
-    [ "LookAtOffsetParams", "a14395.html#ac445d9860600885cfa57e8f911ad7d1c", null ]
+    [ "DecalColour", "a14395.html#a77dd39e09b080b7e3ee198a91ad6490f", null ],
+    [ "DecalComponent", "a14395.html#a995801a9d1818067a2ee833676b288aa", null ],
+    [ "DecalMaterial", "a14395.html#adc8f4df10c80d01bc3fcedca12ff2b1f", null ],
+    [ "LocationIndex", "a14395.html#a20a8aceb784516921cb451a5f2303ddc", null ],
+    [ "UnknownData00", "a14395.html#ab664c0b053dbf18da3fb3af0e070f11c", null ]
 ];

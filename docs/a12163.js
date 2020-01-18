@@ -1,9 +1,13 @@
 var a12163 =
 [
-    [ "StaticClass", "a12163.html#a79fb68e487d6d7c4e7e62876a28303f9", null ],
-    [ "AllowedInteractableTypes", "a12163.html#a2e05ff8fa46bedf9cf08f7a9ea143bf9", null ],
-    [ "Damage", "a12163.html#a3e5f8f080980ebf93ed998855f542ce5", null ],
-    [ "DamageReason", "a12163.html#aaa9b63159f646df061b2cc173f05be60", null ],
-    [ "Extent", "a12163.html#a297d6a43cf2b10d247802aa8c16fc84a", null ],
-    [ "UnknownData00", "a12163.html#a125b69015835f744a194de740d07d61c", null ]
+    [ "CalculateAnimationDuration", "a12163.html#a62b7bc2faf37f0e09a9d802b8e6b7187", null ],
+    [ "StaticClass", "a12163.html#a1005be9e9060431a8fe222643a851f69", null ],
+    [ "AlwaysActive", "a12163.html#a55d8b4e5b1f92ceda0ede8bc40d2d496", null ],
+    [ "AudioEmitterPool", "a12163.html#af6ce1bc9ca48517ef4d484863de5870c", null ],
+    [ "Mode", "a12163.html#a0d5e5c79840cb597b34164f35e9992d7", null ],
+    [ "OnlyAnimateWhenActive", "a12163.html#a4f218a8efd1293d3a68eea306feba369", null ],
+    [ "Root", "a12163.html#a67cd102646fcf09f063fed644f289ec5", null ],
+    [ "UnknownData00", "a12163.html#a3ab90bd0915a026a53b03d0a9aee87dc", null ],
+    [ "UnknownData01", "a12163.html#a552fc4feef344b54349a8b5e491fbf52", null ],
+    [ "UnknownData02", "a12163.html#a78c096d62d1b34d76f7407cb4d598105", null ]
 ];

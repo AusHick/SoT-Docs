@@ -1,6 +1,6 @@
 var a04611 =
 [
-    [ "StaticClass", "a04611.html#a774e43b526f9fa759c1d31a29fb6f3f2", null ],
-    [ "DesiredAttitude", "a04611.html#a839d97433db2619bba5debdad22dbe26", null ],
-    [ "UnknownData00", "a04611.html#abf3b5f2c06d7400d08f61a41a929b64d", null ]
+    [ "StaticClass", "a04611.html#a0e3c3ba0fb74173b0dea27bdf5670a3a", null ],
+    [ "NextDesc", "a04611.html#aeea0f5efbe9d606226e62b2a236116d7", null ],
+    [ "SkipName", "a04611.html#a5c9cae72855c63a417ed669d83624361", null ]
 ];

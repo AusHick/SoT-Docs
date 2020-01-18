@@ -1,4 +1,5 @@
 var a16155 =
 [
-    [ "ServiceParamsAssetPath", "a16155.html#a645386f5f46e297b33176f7cfd948182", null ]
+    [ "EngageEnemyDataList", "a16155.html#a8e2955b9fb9ccbc73ae30b9f8962f1cd", null ],
+    [ "ItemCategory", "a16155.html#a44035c73ec6090ac96f59f0477e4133f", null ]
 ];

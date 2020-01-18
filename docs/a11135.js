@@ -1,5 +1,7 @@
 var a11135 =
 [
-    [ "StaticClass", "a11135.html#aada2a1fb9d06be143967924a953852be", null ],
-    [ "ItemDesc", "a11135.html#ad387b5dc0fad8d914611df2da5d8be18", null ]
+    [ "StaticClass", "a11135.html#ab417eccf565684497d5b0b35b8c58011", null ],
+    [ "DeliveryLocationId", "a11135.html#a3fcada94ae508459f347057c881f2f95", null ],
+    [ "DeliveryTimeLimitInMinutes", "a11135.html#a279ef9018d423581ec6cd3664fd9dc93", null ],
+    [ "UnknownData00", "a11135.html#a071fb587371eb99e035ce963702f67f4", null ]
 ];

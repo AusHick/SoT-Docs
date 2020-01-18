@@ -1,5 +1,6 @@
 var a01679 =
 [
-    [ "SetCursedCrewCustomisationProperties", "a01679.html#a80f7b007df12d614676807faa0355c72", null ],
-    [ "StaticClass", "a01679.html#aeb798df4647f4ab103b535e7f8c6b101", null ]
+    [ "StaticClass", "a01679.html#a5802e2a82ad6a0cb84eb655df1ebc338", null ],
+    [ "ActorKey", "a01679.html#a13bee52f0ba200e038ec74117389d0be", null ],
+    [ "LocationKey", "a01679.html#abedae1eea6af37d80650cc014538e0ca", null ]
 ];

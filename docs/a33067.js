@@ -1,7 +1,9 @@
 var a33067 =
 [
-    [ "StaticClass", "a33067.html#a94a84c25f1e0b75954449fd8ce9370b4", null ],
-    [ "AudioDilationFactor", "a33067.html#a1f571b0eef950c71ff54176cc4b85da8", null ],
-    [ "AudioStartTime", "a33067.html#abab6827574b8d1bc7a45484fff509ca8", null ],
-    [ "Sound", "a33067.html#ab82b761e06a1eb4db4d42c506d8c79d4", null ]
+    [ "AngleLerpShortest", "a33067.html#a677058eda096828a9ffd3802d2339322", null ],
+    [ "AngleMod180", "a33067.html#a52e6edfc1b366feed73302e45c8e1f1a", null ],
+    [ "AngleMod360", "a33067.html#a6b703241d3decaa801c01319cdf674a7", null ],
+    [ "AngleMoveTowardsMod180", "a33067.html#a61ed8157cbdb8ca1ab0abc2bcfc9f359", null ],
+    [ "CalculateEulerAngle", "a33067.html#ad16ac3405f7e6691106e777e2424b4bb", null ],
+    [ "StaticClass", "a33067.html#a0dc3b898d23dfd243c1b79d370a5d7bc", null ]
 ];

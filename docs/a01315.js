@@ -1,7 +1,15 @@
 var a01315 =
 [
-    [ "StaticClass", "a01315.html#a77ef886a4798cacb9ede316b849bc688", null ],
-    [ "SearchCenter", "a01315.html#a4df78cb0da30efd4e289dd267fd6ffa1", null ],
-    [ "SearchedActorClass", "a01315.html#a4b2970ed8f0371572487b450a67b329b", null ],
-    [ "SearchRadius", "a01315.html#a92dc9fdcf7dd5998bc0568347a926497", null ]
+    [ "EQSQueryDoneSignature__DelegateSignature", "a01315.html#a8834546748dc61e185d6e9fe2e790280", null ],
+    [ "GetItemScore", "a01315.html#a3ff3385829ea5e99c75eea6a876f3750", null ],
+    [ "GetResultsAsActors", "a01315.html#a0888a3fe15241dc7441a96fbaaec0901", null ],
+    [ "GetResultsAsLocations", "a01315.html#a9c62c962705fc2c15dd4d14f225924d1", null ],
+    [ "StaticClass", "a01315.html#a631cf3f5073d214f631ed607d4754a7a", null ],
+    [ "ItemType", "a01315.html#a0c74541aac891d931291a7df483d2b5e", null ],
+    [ "OnQueryFinishedEvent", "a01315.html#ae58b0bab83293efe331e05aea1534489", null ],
+    [ "OptionIndex", "a01315.html#ae81e9f10e3613bf138707ba658842119", null ],
+    [ "QueryID", "a01315.html#ae11aa420dc2d4a7fbb677be39019b8a5", null ],
+    [ "UnknownData00", "a01315.html#a0c1f90fd81118aa079ca606fee32cf95", null ],
+    [ "UnknownData01", "a01315.html#a4d707873646e8a53f77c3513915c8177", null ],
+    [ "UnknownData02", "a01315.html#acaade3c9c4496955f752a4745d9167bf", null ]
 ];

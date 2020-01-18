@@ -1,4 +1,5 @@
 var a02103 =
 [
-    [ "UnknownData00", "a02103.html#a23529330c7b8072ba6778ce78326b50c", null ]
+    [ "AnimDataId", "a02103.html#a6333fd4bfe121a41b13c71af92ba18e9", null ],
+    [ "AnimDataTypeCooked", "a02103.html#a8a1e491f38d6927061ed801cdb6fe17c", null ]
 ];

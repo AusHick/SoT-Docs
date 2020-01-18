@@ -1,10 +1,6 @@
 var a10695 =
 [
-    [ "CanBeUsed", "a10695.html#a172278b40befdef3493437cf5486f1c6", null ],
-    [ "IsBeingUsed", "a10695.html#a9cc1e435391e6c6a8b6f69c0ab8ea807", null ],
-    [ "IsInputBeingUsed", "a10695.html#adb38de0adf53981034560f4c856aa3d2", null ],
-    [ "StartUsing", "a10695.html#a9ffe99eaf3f97658888542a3e1306bab", null ],
-    [ "StaticClass", "a10695.html#ac5572752be3422580c372bda49f644a1", null ],
-    [ "StopUsing", "a10695.html#adf2643278f7ed0d6934951ac26a74278", null ],
-    [ "UpdateUsage", "a10695.html#a3f508b0c71472f9162b5a38f59439f9b", null ]
+    [ "PopCharacterOutOfUseItemActionState", "a10695.html#ac83ea56f573b11a781b294f532da8b8b", null ],
+    [ "PushCharacterIntoUseItemActionState", "a10695.html#aaf433c27020ded2015703cc8d6f9198a", null ],
+    [ "StaticClass", "a10695.html#a1d7c1fc828305f2548eff73b72849208", null ]
 ];

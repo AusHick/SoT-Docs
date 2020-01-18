@@ -1,6 +1,8 @@
 var a30591 =
 [
-    [ "OffsetData", "a30591.html#ac9bd34d3c4e000dd3d6f8c994745bca9", null ],
-    [ "StripSize", "a30591.html#aab7a28e75c6196c609402a03ab0ef645", null ],
-    [ "UnknownData00", "a30591.html#a7c7607be18e51a95f02f877350c1a89d", null ]
+    [ "ApexFileName", "a30591.html#a00bca1fca54a795e3a23054f30307eaa", null ],
+    [ "AssetName", "a30591.html#a3b1bd7cae27fbb214ac0b0c1dec0881b", null ],
+    [ "bClothPropertiesChanged", "a30591.html#adc818ceff392e35845d01169bba5832c", null ],
+    [ "PhysicsProperties", "a30591.html#a1a04846a1de89496a3120a81471bab33", null ],
+    [ "UnknownData00", "a30591.html#a5ef63d0212dddc47ada9a646d04a2c86", null ]
 ];

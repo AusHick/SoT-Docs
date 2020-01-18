@@ -1,11 +1,12 @@
 var a13131 =
 [
-    [ "AICanEmote", "a13131.html#aed938d3c762d29791fece555338b997c", null ],
-    [ "AICanFlee", "a13131.html#ae4f2fb43d65b5baf6fbfb1fb6826252c", null ],
-    [ "AIControllingCaptainWheel", "a13131.html#a173d6b7924cd5064e20e22bf92449e04", null ],
-    [ "AIShadowStunActive", "a13131.html#a21f151eac75a5703d48ffb931693b94c", null ],
-    [ "ArmOverlayAISensingCanActivate", "a13131.html#a7fbe15411a9350ebc17765672f074a6a", null ],
-    [ "CanBeKnockedBack", "a13131.html#ab4f1357b6033ba543b1117e09fa3a23d", null ],
-    [ "FullBodyAISensingCanActivate", "a13131.html#ac4d3d182b947ca652043700f3b1c05d7", null ],
-    [ "UnknownData00", "a13131.html#a5f340fdedd371cf6c03da2e1ba01d2ba", null ]
+    [ "ForceMultiplier", "a13131.html#ae6c577ba94e95a5bc08efed075b43cdb", null ],
+    [ "LookAtOffsetSet", "a13131.html#ae0595aa650e011db9082e9856c385e36", null ],
+    [ "LookingRight", "a13131.html#aa0cfbda853a956ca1d518f34763c5981", null ],
+    [ "MaxRate", "a13131.html#a809426361c51a18a35ad2f2449b3d575", null ],
+    [ "MovingPulley", "a13131.html#a3d51b3b32212f833e2ab160c571e054d", null ],
+    [ "PulleyMovementForce", "a13131.html#a739e8c9a99e8f0b83a6b4826d39cc631", null ],
+    [ "PulleyObjectTypes", "a13131.html#aee7200d6a915d35bda5e9a8dc8cb5917", null ],
+    [ "UnknownData00", "a13131.html#a7e1a5e272c172864eb01cf9677731935", null ],
+    [ "UsingPulley", "a13131.html#ac2e747b08a0f15df6b849b27fadd8066", null ]
 ];

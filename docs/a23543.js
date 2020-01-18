@@ -1,4 +1,4 @@
 var a23543 =
 [
-    [ "Proportion", "a23543.html#adc470c51eb6c29d9b09a91212340ccbc", null ]
+    [ "UsingActor", "a23543.html#af0a31b311e02ddaf2f422a699baae5c4", null ]
 ];

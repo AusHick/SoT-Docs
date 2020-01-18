@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FDisplayServiceStatusNotificationClient Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FProjectileWeaponFireStatsTelemetryEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,69 @@ $(document).ready(function(){initNavTree('a20335.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20332.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FDisplayServiceStatusNotificationClient Struct Reference</div>  </div>
+<div class="title">SDK::FProjectileWeaponFireStatsTelemetryEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDisplayServiceStatusNotificationClient:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FProjectileWeaponFireStatsTelemetryEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20333.svg" width="506" height="383"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a20333.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a233903ac7211f6079681a308a5e87fa1"><td class="memItemLeft" align="right" valign="top"><a id="a233903ac7211f6079681a308a5e87fa1"></a>
-uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>NotificationId</b></td></tr>
-<tr class="separator:a233903ac7211f6079681a308a5e87fa1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0d0865a57d0d1852f85dfc400a817a2"><td class="memItemLeft" align="right" valign="top"><a id="aa0d0865a57d0d1852f85dfc400a817a2"></a>
+<tr class="memitem:a904dcd5aa6dd8b7f1b87f9852c3b260d"><td class="memItemLeft" align="right" valign="top"><a id="a904dcd5aa6dd8b7f1b87f9852c3b260d"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ClientBlockingHits</b></td></tr>
+<tr class="separator:a904dcd5aa6dd8b7f1b87f9852c3b260d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b415d891cd59e3194a3dddb3013c3b8"><td class="memItemLeft" align="right" valign="top"><a id="a4b415d891cd59e3194a3dddb3013c3b8"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ServerBlockingHits</b></td></tr>
+<tr class="separator:a4b415d891cd59e3194a3dddb3013c3b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2395571354f9dfdab4311b4c174f1354"><td class="memItemLeft" align="right" valign="top"><a id="a2395571354f9dfdab4311b4c174f1354"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>LooseMatchingHits</b></td></tr>
+<tr class="separator:a2395571354f9dfdab4311b4c174f1354"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03dda0e8a6fdc0c2a58a86e4e65bca3c"><td class="memItemLeft" align="right" valign="top"><a id="a03dda0e8a6fdc0c2a58a86e4e65bca3c"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>LooseMatchingDamagingHits</b></td></tr>
+<tr class="separator:a03dda0e8a6fdc0c2a58a86e4e65bca3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ef916cc993108e6127e0ac7ae1fc7b2"><td class="memItemLeft" align="right" valign="top"><a id="a2ef916cc993108e6127e0ac7ae1fc7b2"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ExactMatchingHits</b></td></tr>
+<tr class="separator:a2ef916cc993108e6127e0ac7ae1fc7b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9bda03d50739fe416da6bbf20956893"><td class="memItemLeft" align="right" valign="top"><a id="aa9bda03d50739fe416da6bbf20956893"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ExactMatchingDamagingHits</b></td></tr>
+<tr class="separator:aa9bda03d50739fe416da6bbf20956893"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6181f9b765cb85dfdcf4540bb487327"><td class="memItemLeft" align="right" valign="top"><a id="ae6181f9b765cb85dfdcf4540bb487327"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>ProjectileCount</b></td></tr>
+<tr class="separator:ae6181f9b765cb85dfdcf4540bb487327"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ece50b7b6a6f0aae12925b02beeedc1"><td class="memItemLeft" align="right" valign="top"><a id="a0ece50b7b6a6f0aae12925b02beeedc1"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>DamagingProjectileCount</b></td></tr>
+<tr class="separator:a0ece50b7b6a6f0aae12925b02beeedc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af15ad22f51cf5d1cc62fcbe163ac321b"><td class="memItemLeft" align="right" valign="top"><a id="af15ad22f51cf5d1cc62fcbe163ac321b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AimPositionDifference</b></td></tr>
+<tr class="separator:af15ad22f51cf5d1cc62fcbe163ac321b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d2fb9d24506d5e5418ed92137fa1c60"><td class="memItemLeft" align="right" valign="top"><a id="a6d2fb9d24506d5e5418ed92137fa1c60"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AimPositionCorrection</b></td></tr>
+<tr class="separator:a6d2fb9d24506d5e5418ed92137fa1c60"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acfb899b9fd195a58e664e499d7ebc049"><td class="memItemLeft" align="right" valign="top"><a id="acfb899b9fd195a58e664e499d7ebc049"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LatencyMs</b></td></tr>
+<tr class="separator:acfb899b9fd195a58e664e499d7ebc049"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a274842622dae9c2be0aed90d381a78e7"><td class="memItemLeft" align="right" valign="top"><a id="a274842622dae9c2be0aed90d381a78e7"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AttackId</b></td></tr>
+<tr class="separator:a274842622dae9c2be0aed90d381a78e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac14b874565b8058f532363d54fc1de75"><td class="memItemLeft" align="right" valign="top"><a id="ac14b874565b8058f532363d54fc1de75"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:aa0d0865a57d0d1852f85dfc400a817a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35a26fbe416d2527c3e13483895ec8e7"><td class="memItemLeft" align="right" valign="top"><a id="a35a26fbe416d2527c3e13483895ec8e7"></a>
-struct <a class="el" href="a25647.html">FText</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NotificationText</b></td></tr>
-<tr class="separator:a35a26fbe416d2527c3e13483895ec8e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6a1184dd840f8c0eeb10055ca3a36bf"><td class="memItemLeft" align="right" valign="top"><a id="ab6a1184dd840f8c0eeb10055ca3a36bf"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Duration</b></td></tr>
-<tr class="separator:ab6a1184dd840f8c0eeb10055ca3a36bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ac14b874565b8058f532363d54fc1de75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d18e1f4ad126812340848d0d6956f68"><td class="memItemLeft" align="right" valign="top"><a id="a5d18e1f4ad126812340848d0d6956f68"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WeaponType</b></td></tr>
+<tr class="separator:a5d18e1f4ad126812340848d0d6956f68"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20335.html">FDisplayServiceStatusNotificationClient</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20335.html">FProjectileWeaponFireStatsTelemetryEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:44 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

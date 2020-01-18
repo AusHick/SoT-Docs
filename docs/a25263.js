@@ -1,10 +1,5 @@
 var a25263 =
 [
-    [ "AIClass", "a25263.html#aaffce96825dc95a189a2f12815c99e1f", null ],
-    [ "AIForm", "a25263.html#af1aa507714d0950eaabffe7a62e420a3", null ],
-    [ "AIId", "a25263.html#a409ae08cf3679284f7675cc541fc377a", null ],
-    [ "AILoadOut", "a25263.html#aec8ca91e2b8548e49c5739515d01e25e", null ],
-    [ "AIPawnType", "a25263.html#a1e220375bcedfa53c5665195eae044af", null ],
-    [ "AISkillset", "a25263.html#a1ee708e5d7c616545a15b30c954eb5cd", null ],
-    [ "AIType", "a25263.html#a2a08a4be400bd877f2a57fd0e867030a", null ]
+    [ "ReactId", "a25263.html#a485240d010aa88c27858bc1251b6c0db", null ],
+    [ "WieldableType", "a25263.html#ab46a529a58279fb26c5ef52619f7dbbe", null ]
 ];

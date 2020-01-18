@@ -1,7 +1,6 @@
 var a06343 =
 [
-    [ "InitializeLPVAdaptationStateDefaultOptions", "a06343.html#aab497454d624164da5c8e43e263d9df4", null ],
-    [ "SetLPVAdaptationState", "a06343.html#a43271544d6f1224159de4b7301e60aab", null ],
-    [ "StaticClass", "a06343.html#a241b997c0aaf37606d3373effdacb4f3", null ],
-    [ "TickLPVAdaptation", "a06343.html#a2d8cb215d37d3937d61abe775bb7bb10", null ]
+    [ "GetAudioInformationForSurface", "a06343.html#af6a7a738f1f3a4e98ad6c1d8373bd238", null ],
+    [ "GetVFXInformationForSurface", "a06343.html#aa3d932389822c522e8de469bacd87f0e", null ],
+    [ "StaticClass", "a06343.html#ac375fb9fa7f6bf972d93526c1067b036", null ]
 ];

@@ -1,5 +1,5 @@
 var a30903 =
 [
-    [ "AxisKeyName", "a30903.html#a43b6671e4c342b288b28e7674fa4d44a", null ],
-    [ "AxisProperties", "a30903.html#a466280a4c62b157042d28e10548620a1", null ]
+    [ "Color", "a30903.html#a5c349dec694f0c5bfa0b769ccc805004", null ],
+    [ "Name", "a30903.html#a058d3708975207e706399d8e0dd58c1a", null ]
 ];

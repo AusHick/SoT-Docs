@@ -1,10 +1,8 @@
 var a18227 =
 [
-    [ "Breeds", "a18227.html#a1e8227ddf9e4d5b04520beebaccb514d", null ],
-    [ "Description", "a18227.html#a31ac45fe0dc29b64d04144c6f52df225", null ],
-    [ "HasNewStuff", "a18227.html#a2d454c8b6d6495659c2dd0dc6ca03399", null ],
-    [ "HasOwnedOffer", "a18227.html#a49a4766555d3e0042a6b1cc8a9255183", null ],
-    [ "Icon", "a18227.html#a350ce4f61cff3eeb290c7231587539c0", null ],
-    [ "Name", "a18227.html#ab0ed6403d6055251b3f49b7851412fbb", null ],
-    [ "UnknownData00", "a18227.html#a982360866433fa816ed1ec9a18ec84c3", null ]
+    [ "IsSuperPremium", "a18227.html#ab26e8f9316c13749656e814a86027723", null ],
+    [ "LockedReason", "a18227.html#a6bb8e4dcc8cf5a78856c08a616ed6d85", null ],
+    [ "TimeLimited", "a18227.html#a5228abba02af9ee5c1b215650ae49f9b", null ],
+    [ "UnknownData00", "a18227.html#a7ec49642fb13e697637667edc0b58331", null ],
+    [ "UnknownData01", "a18227.html#ad74390c1c1f87ff8099d52e685bef263", null ]
 ];

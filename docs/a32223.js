@@ -1,17 +1,6 @@
 var a32223 =
 [
-    [ "AreaLightMesh", "a32223.html#af116d546e1de89fc932861608ade312d", null ],
-    [ "AreaLightZScale", "a32223.html#a344c600c4256ca9ce594a17fafafaf87", null ],
-    [ "LightMovementSpeedCmPerSecond", "a32223.html#ae59c9bb730aa4e35467697fe0ddde848", null ],
-    [ "LightParams", "a32223.html#af7187f1dc9a8d70e3bcabd2b0877bd66", null ],
-    [ "Lights", "a32223.html#a23ff7c0b416ebafeef8699cebd8df4f7", null ],
-    [ "LightSpawnDescs", "a32223.html#a1e01d1cf19678962e119fe42f4450c6f", null ],
-    [ "LightTemplate", "a32223.html#a9ad560475bc2a69c272b2b3d3389cda7", null ],
-    [ "MaxLightRadius", "a32223.html#af978fb09bd22d1da872e342b1e2ba946", null ],
-    [ "MinFlickerScale", "a32223.html#ad0a00370c9f1fb87d9f5f2c3fc346902", null ],
-    [ "MinLightRadius", "a32223.html#ae95ed3b4b519dd20768fbc3441dc7cba", null ],
-    [ "Propagator", "a32223.html#a1c7815232612c0a58ce9879dccd5c82c", null ],
-    [ "ShipPostProcessComponent", "a32223.html#afdde907b49e3d694a65c28b490bb1073", null ],
-    [ "UnknownData00", "a32223.html#ac0a545a094fa85b98ee8cb9446dc58c9", null ],
-    [ "UnknownData01", "a32223.html#a32f23f8ae8970b890ac094e53ed83f95", null ]
+    [ "ActorClass", "a32223.html#af9989f102f6b6999a380e14f3087f6fc", null ],
+    [ "Count", "a32223.html#a582bfe8bf4e7a94c800fa1cbe90f7b13", null ],
+    [ "UnknownData00", "a32223.html#a0cddd5b21b8cf4e0755d3443dd1fbf83", null ]
 ];

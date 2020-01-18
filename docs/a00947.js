@@ -1,11 +1,11 @@
 var a00947 =
 [
-    [ "StaticClass", "a00947.html#ae8d9ad077d2bafa6151e66c2b5c1a1d0", null ],
-    [ "HighImportanceQueryDistanceThreshold", "a00947.html#aae7441fd5246268dd5a3be8fe6b8e9ac", null ],
-    [ "MaxQueryImportance", "a00947.html#a5c6ff79754d84a476f679ece69d9b263", null ],
-    [ "MaxTracesPerTick", "a00947.html#ac9c4bc28ee836dc5907d6476b62bc5a4", null ],
-    [ "SightLimitQueryImportance", "a00947.html#aebb5e73fc59485e5ed6a3cdfcda91bb9", null ],
-    [ "UnknownData00", "a00947.html#a5c5313bac9839a5c83179f9349ab9382", null ],
-    [ "UnknownData01", "a00947.html#ac92381979f88807416891812edb1ffa9", null ],
-    [ "UnknownData02", "a00947.html#a3fd57f458b0ca8d94bf186b2590f90ba", null ]
+    [ "RegisterForSense", "a00947.html#a289bc56eb1920ca8609d6ce921a44957", null ],
+    [ "RegisterWithPerceptionSystem", "a00947.html#a8a12d3651e431cdf35ec7517b892dc54", null ],
+    [ "StaticClass", "a00947.html#a89aa30f2c1584f226330342d90490786", null ],
+    [ "UnregisterFromPerceptionSystem", "a00947.html#a8a0b8b14bbc209dfbaf91554e829dfa1", null ],
+    [ "UnregisterFromSense", "a00947.html#a85d2fcd3c47272b2f853bea836a3f958", null ],
+    [ "bAutoRegisterAsSource", "a00947.html#a9340d79d98ce902a9d5862b170f4840e", null ],
+    [ "RegisterAsSourceForSenses", "a00947.html#ae6100a8131f7034e354c893b3014b00a", null ],
+    [ "UnknownData00", "a00947.html#a6a817d62d72aa07ac7b38cc5e97f16be", null ]
 ];

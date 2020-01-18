@@ -1,4 +1,5 @@
 var a18411 =
 [
-    [ "ActiveAnimationState", "a18411.html#a860adcd7ffea9ad86d423702bd9a9a67", null ]
+    [ "BackOffTimeGain", "a18411.html#a48e08ffb38132e046b6bd252970ad610", null ],
+    [ "BackOffTimeInSeconds", "a18411.html#a199cae824825cd0056ec07b6556cb651", null ]
 ];

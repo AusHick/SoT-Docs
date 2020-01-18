@@ -1,5 +1,7 @@
 var a07059 =
 [
-    [ "StaticClass", "a07059.html#ad56fcdc3b12973ce61371ecb0701f303", null ],
-    [ "UnknownData00", "a07059.html#ae834af7751a107aed6ca6d25e9f18ba5", null ]
+    [ "StaticClass", "a07059.html#ae106565bee160a9185e0553e9a57d3aa", null ],
+    [ "RequiredAction", "a07059.html#ac5eed954a073f1231e5575b879770df1", null ],
+    [ "RequiredTrackId", "a07059.html#a8eabb954678c89dfd02725c36e15eb79", null ],
+    [ "UnknownData00", "a07059.html#a9ce84aafe534ad8bdd143f3fea27b06b", null ]
 ];

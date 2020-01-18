@@ -1,11 +1,6 @@
 var a26527 =
 [
-    [ "GetBaseMaterial", "a26527.html#aae0801fd8a8e826b570bf01669b08be4", null ],
-    [ "GetPhysicalMaterial", "a26527.html#a100d5156d6a2c68f8c1161f95b899b65", null ],
-    [ "StaticClass", "a26527.html#adeb8083466b828e339212554108d341d", null ],
-    [ "LightmassSettings", "a26527.html#aff6dc8d90fe233c3346a3ec28c7a071f", null ],
-    [ "SubsurfaceProfile", "a26527.html#a9c754b9be5286853bf276d806c8b9402", null ],
-    [ "UnknownData00", "a26527.html#af015174e70ae57b2f6fff419f713e367", null ],
-    [ "UnknownData01", "a26527.html#af7ca1f13cc6af7bb6e9f65b993c8c856", null ],
-    [ "UnknownData02", "a26527.html#a6deaab3bf1cc3488f9ab7290f1732bed", null ]
+    [ "EmoteIdentifier", "a26527.html#a5bc83a670d42de42044339bb9976eed6", null ],
+    [ "EndForcedEmote", "a26527.html#af2bbf41ef38e0cf50dd70939783b6331", null ],
+    [ "UnknownData00", "a26527.html#aaa089c539d46a8231882df7c288989bb", null ]
 ];

@@ -1,4 +1,4 @@
 var a18475 =
 [
-    [ "IsAccepted", "a18475.html#aad28821cce0b9331f4ef11704d6ce66e", null ]
+    [ "BannerData", "a18475.html#aba40f749fd000c57ad230b4e007eb23c", null ]
 ];

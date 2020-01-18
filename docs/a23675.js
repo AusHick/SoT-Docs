@@ -1,4 +1,4 @@
 var a23675 =
 [
-    [ "NewCrewJoining", "a23675.html#a89b7abc4ec22d72cb1438f9c7bd0fe74", null ]
+    [ "IsReelingWhileBattling", "a23675.html#a2e9c5de1cce1e7ca8dde71600f4ffabc", null ]
 ];

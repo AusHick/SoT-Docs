@@ -1,4 +1,4 @@
 var a21567 =
 [
-    [ "CampaignInformation", "a21567.html#a9f59193840380a51e68319ae82df6c18", null ]
+    [ "ItemLoadout", "a21567.html#a30171e4ebcb75f94b610482573c411a5", null ]
 ];

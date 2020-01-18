@@ -1,8 +1,7 @@
 var a15935 =
 [
-    [ "Content", "a15935.html#a04829bb208bc3eaa897da757d6160934", null ],
-    [ "Name", "a15935.html#af91dea6c1e0e6d4feba3c2a9f719da16", null ],
-    [ "PrimaryAction", "a15935.html#a005c31fd41f9f0898182e6c0dcff2601", null ],
-    [ "SecondaryAction", "a15935.html#a0692c10e3ef82b5f267fc394c08d6852", null ],
-    [ "TertiaryAction", "a15935.html#a1dd166a4cc402065653f3d47652bc1f7", null ]
+    [ "SettingCategory", "a15935.html#a0f5a5617c4b7e17f52823cdf8f330215", null ],
+    [ "SettingParams_Controller", "a15935.html#af525d0c3a2a0549d8278bd9228bbf6c6", null ],
+    [ "SettingParams_Mouse", "a15935.html#ab01bc03862905962894ef39c3b547262", null ],
+    [ "UnknownData00", "a15935.html#aea1098581df2bc2be8fe874fe893af8e", null ]
 ];

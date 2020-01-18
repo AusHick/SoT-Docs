@@ -1,8 +1,6 @@
 var a34187 =
 [
-    [ "GetRtpcName", "a34187.html#a8034b6c41696898f06d2d7bb5ad715df", null ],
-    [ "StaticClass", "a34187.html#a17f733033fbe6e5807e27c5be5dc8a95", null ],
-    [ "AmbienceToStart", "a34187.html#ae5144e9c8b69fbab934e0b6af3643df0", null ],
-    [ "AmbienceToStop", "a34187.html#ad08b576661c56a26053c5e395ecae8dd", null ],
-    [ "RtpcToUpdate", "a34187.html#a84c9ba89e1923d0acb6e1c59314035e7", null ]
+    [ "Ethnicity", "a34187.html#a9d614dfabe8f0d1a3ae4ef2a74d5172a", null ],
+    [ "Texture", "a34187.html#af03e8669420b974e0db593522e7c18d0", null ],
+    [ "UnknownData00", "a34187.html#acb17666ee70b9c908f0b7d9802d6e4d5", null ]
 ];

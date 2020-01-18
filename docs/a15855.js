@@ -1,7 +1,7 @@
 var a15855 =
 [
-    [ "ObserverAboveEffectAboveWater", "a15855.html#aab17efc8b6ebcc2a6873336513274ee6", null ],
-    [ "ObserverAboveEffectBelowWater", "a15855.html#a6a177e359e4683e102efc37625ab0b5b", null ],
-    [ "ObserverBelowEffectAboveWater", "a15855.html#a29516fad4c19b5075ad4957433bf8074", null ],
-    [ "ObserverBelowEffectBelowWater", "a15855.html#ac7d09cdf9899c35b52f5ca138dc9dc25", null ]
+    [ "LeftArmDown", "a15855.html#aab6625a416f15a84585739ff9cd7ec24", null ],
+    [ "LeftIKOn", "a15855.html#a33fe2149d6e08ed1d37f775350adfe67", null ],
+    [ "RightArmDown", "a15855.html#aed8285792a3a02190b5dac6b7ccb35f1", null ],
+    [ "RightIKOn", "a15855.html#a1b336b3eefa79b95edd6f55068cdf09a", null ]
 ];

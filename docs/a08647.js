@@ -1,11 +1,7 @@
 var a08647 =
 [
-    [ "StaticClass", "a08647.html#aa10c3428d0b1267f3b2d4d04aa9bb439", null ],
-    [ "CriticalActors", "a08647.html#a99ecd5f6cc971302dfa00e9c5a1d31d6", null ],
-    [ "Desc", "a08647.html#a275b0bbcebb46293e6de272b161835ce", null ],
-    [ "PhasedActors", "a08647.html#a4631074f139abcfc2841bfb89413a6f4", null ],
-    [ "PhasedClusterRoot", "a08647.html#ade902f12ed24ba6af13e572c581f798b", null ],
-    [ "PhasedItems", "a08647.html#a87025add1054723c19b73491c1e6bbf8", null ],
-    [ "TrackedActors", "a08647.html#aaea1086704a60c928e19461332905d42", null ],
-    [ "UnknownData00", "a08647.html#a94a2ce0e65a438865f85ce329018776d", null ]
+    [ "StaticClass", "a08647.html#a5a188baa4c466bdf06b13e8a25f8fbe5", null ],
+    [ "StepDesc", "a08647.html#a3615ad67f5ccde04040d097de2091dcd", null ],
+    [ "UnknownData00", "a08647.html#a57ab2a80114e005e32fc76612f6f4c64", null ],
+    [ "VaultAssigned", "a08647.html#abbf3ab956632a569cf269283eee2b3fc", null ]
 ];

@@ -1,5 +1,6 @@
 var a02419 =
 [
-    [ "StaticClass", "a02419.html#ad83f3b693a8755f0d54a934c0e360e0d", null ],
-    [ "UnknownData00", "a02419.html#a9ecd5434c811d27c27d841ad2ac0e230", null ]
+    [ "StaticClass", "a02419.html#a61bce71f9d7f36dcd104efb75126fe24", null ],
+    [ "FeatureName", "a02419.html#a7e2913408eba477bf66c36063ac834ff", null ],
+    [ "ItemLoadout", "a02419.html#a3617a305acbe509e1b0494a9e148a55a", null ]
 ];

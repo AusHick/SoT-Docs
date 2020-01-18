@@ -1,6 +1,6 @@
 var a21907 =
 [
-    [ "IslandName", "a21907.html#a6653e2c32784f46928461613e5ecac28", null ],
-    [ "NumTreasures", "a21907.html#a2448700d5d37950a5a2eb48e75e3534a", null ],
-    [ "UnknownData00", "a21907.html#a54e9f8e8db7c18b1c0940309066d0109", null ]
+    [ "BountyWaveIndex", "a21907.html#a6c6b6f95ba2cd4cb5e4531d6ee12e51e", null ],
+    [ "LandmarkName", "a21907.html#a31e8e56476b80410fcd34043f23faa44", null ],
+    [ "TotalBountyWaves", "a21907.html#aeb0bca99ee115c5e8971218f82c15006", null ]
 ];

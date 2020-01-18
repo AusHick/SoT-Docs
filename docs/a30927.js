@@ -1,6 +1,9 @@
 var a30927 =
 [
-    [ "Time", "a30927.html#a4742aaa76bba4e0d158a2766aa5f9a39", null ],
-    [ "UnknownData00", "a30927.html#a1de6e2c44e343d749a74c5210ba2e989", null ],
-    [ "Value", "a30927.html#a2eaeaa90fce8c5ef7661e1ccf91db870", null ]
+    [ "bAutoAdjustMinMax", "a30927.html#adbf11d8ab776b7bb045937799e0a0d9e", null ],
+    [ "MaxSamples", "a30927.html#a33a06e0ce69eb5943b896c5548b44c3d", null ],
+    [ "MaxValue", "a30927.html#a4173b7dfa522f8fea6575984eb5e99da", null ],
+    [ "MinValue", "a30927.html#ac252d8ec57fd3bfadf576cefd676bf14", null ],
+    [ "Samples", "a30927.html#ab8630ff78ed461a0a4a24f506615a06d", null ],
+    [ "UnknownData00", "a30927.html#ace97403864683646f7b0608481461dde", null ]
 ];

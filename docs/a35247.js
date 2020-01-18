@@ -1,5 +1,5 @@
 var a35247 =
 [
-    [ "GetValue", "a35247.html#ab614451335658f3b547e17fe30f3f8e7", null ],
-    [ "StaticClass", "a35247.html#a3f40c560c5c7fd30dc798f14a53f3850", null ]
+    [ "StaticClass", "a35247.html#ae7d5467476eef5c97a5e9db538afbfd2", null ],
+    [ "ActorVar", "a35247.html#a083825a04ebf7225b5b27e4b7af70a62", null ]
 ];

@@ -1,6 +1,8 @@
 var a24443 =
 [
-    [ "StaticClass", "a24443.html#a900457b69da50363856c2235bff5dd88", null ],
-    [ "NewValue", "a24443.html#ad163295536233d93382cef1051883d4f", null ],
-    [ "UnknownData00", "a24443.html#ac4e1198e4251fc7bcabc685cc3ffccd2", null ]
+    [ "StaticClass", "a24443.html#ad828e871140d951c10026aa9d29ebb54", null ],
+    [ "ConeHalfAngle", "a24443.html#a29ad0c138b44df23fda2c73b3b56cac6", null ],
+    [ "ConeOrigin", "a24443.html#aed52401844646708c6e761692120cd02", null ],
+    [ "Observed", "a24443.html#ae1c342960d4219d98be319583e09deed", null ],
+    [ "UnknownData00", "a24443.html#a700c8c6df10fbede86a60afb029043bb", null ]
 ];

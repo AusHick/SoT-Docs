@@ -1,9 +1,9 @@
 var a05379 =
 [
-    [ "StaticClass", "a05379.html#ae80df49895929c76070e306e73dd6edd", null ],
-    [ "HoleContainers", "a05379.html#af19cc9a8258224f91226e618dfb158ec", null ],
-    [ "HoleDataAsset", "a05379.html#acf70698378edd2255b4f6cada8325e09", null ],
-    [ "Holes", "a05379.html#a8d4aa824ef4f6bfe4941b502d407a197", null ],
-    [ "UnknownData00", "a05379.html#ac75bd64eb62d921205e8294548af8b15", null ],
-    [ "UnknownData01", "a05379.html#ad5e53f05bd7c4ca3ecf3e894207c594f", null ]
+    [ "ResetMockHitReactionComponent", "a05379.html#a70bb5d13ec6e8978f02c7f847a2a847d", null ],
+    [ "SetServerAuthoritiveReactions", "a05379.html#ab337b853b18b09a4cfbd6b75e4e5fe2f", null ],
+    [ "StaticClass", "a05379.html#a20f0f927df4fc6c4aa47c9ff4b4645ee", null ],
+    [ "CalledClientProcessHitReactionImpl", "a05379.html#a608168b2ad73a70c2e53b2f85e104e7f", null ],
+    [ "CalledServerProcessHitReactionImpl", "a05379.html#a79243e6f92a0289153c5ce7194490fb3", null ],
+    [ "UnknownData00", "a05379.html#ad65f83426a40da4df3b73027e0991581", null ]
 ];

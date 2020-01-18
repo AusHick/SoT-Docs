@@ -1,4 +1,30 @@
 var a33439 =
 [
-    [ "StaticClass", "a33439.html#afb89f77064f5b03e1030e78a5aaeeeb2", null ]
+    [ "StaticClass", "a33439.html#ae410cfb9a0594c50fd1526c886660540", null ],
+    [ "ActiveGustPower", "a33439.html#a7bad29295bbdede5f49aecb1e725aeda", null ],
+    [ "ActivePlayerFeedback", "a33439.html#a1998a4cb43e0287c883ed5d9ccb88998", null ],
+    [ "ActiveWindTurbulence", "a33439.html#a636cb25963470de3bce15e689bc16f1a", null ],
+    [ "ChanceEarthquakeTriggersGeysers", "a33439.html#a2e3fcc72f92306c8278f0ab3250eadf4", null ],
+    [ "ChanceOfTriggeringAVolcano", "a33439.html#abdecacd89929cca1f957753b22e92871", null ],
+    [ "CoolDownDuration", "a33439.html#ab94698bfd1e52a5a203c84aac3da828e", null ],
+    [ "DormantDuration", "a33439.html#a67ed42661282ed17e77977c7d003dc18", null ],
+    [ "EarthquakeDuration", "a33439.html#ab1896f9e468790fb9f60dd12aa369aaa", null ],
+    [ "EarthquakeEffects", "a33439.html#a55f8e3c74d142d99d2b66bd6569f855f", null ],
+    [ "EffectConeAngle", "a33439.html#a8c964aa03b28d7f14b947916e894d187", null ],
+    [ "EffectRaycastDistanceInMetres", "a33439.html#a4ff35250a9c4fc811f546cb06d1fd4f6", null ],
+    [ "ForceToApplyToShip", "a33439.html#ac094218b8d5c6ae24b8fadf052fa9839", null ],
+    [ "MaximumShipSpeedToBePushed", "a33439.html#a90262c4906649b63cc663fdc28df405a", null ],
+    [ "NumberOfLocalEffectsToTrigger", "a33439.html#a282124b23e1bdc2934f994c98a23ccff", null ],
+    [ "PercentageThroughCameraShakeToStartNextOne", "a33439.html#a601988689eb0d4d585935e15b6a724e9", null ],
+    [ "PercentageThroughEarthquakeToStartVolcano", "a33439.html#ac1074c1e99f5088d78336dce25ca611a", null ],
+    [ "StaggerStrengthDuration", "a33439.html#a220ee9d4cbeaffbbb24ec25312d5a3fc", null ],
+    [ "StaggerStrengthModifierWhenOnAShip", "a33439.html#a98d73508c04b6e80d3d01a3848272e91", null ],
+    [ "TimeBetweenLocalEffects", "a33439.html#a4f8f75d22c70af307b73b2c89f518a29", null ],
+    [ "TimeToShipPush", "a33439.html#abd23a3a3d5fe142d23fe7f348937a6e6", null ],
+    [ "UnknownData00", "a33439.html#ac797710ac1bb6a872d991fb0e5adcc7f", null ],
+    [ "UnknownData01", "a33439.html#af7c504bc6b5d3289dd325b792f9e1088", null ],
+    [ "WarmUpDuration", "a33439.html#a1e118747907bacdd13ec4d25cbd3b89c", null ],
+    [ "WarmupGustPower", "a33439.html#a327db9a5fecdf32eb55a0d8ee7f2f775", null ],
+    [ "WarmupPlayerFeedback", "a33439.html#a160bbbe5596b56b3a66c3c187e9981b4", null ],
+    [ "WarmupWindTurbulence", "a33439.html#a4da839e2994dc29059ae8cfcbf1a6989", null ]
 ];

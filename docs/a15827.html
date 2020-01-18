@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FServerWieldSet Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FWheelAnimationProperties Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,114 @@ $(document).ready(function(){initNavTree('a15827.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15824.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FServerWieldSet Struct Reference</div>  </div>
+<div class="title">SDK::FWheelAnimationProperties Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServerWieldSet:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWheelAnimationProperties:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15825.svg" width="444" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15825.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a3626385fb90c98b14bb0f50092ae12c5"><td class="memItemLeft" align="right" valign="top"><a id="a3626385fb90c98b14bb0f50092ae12c5"></a>
-struct <a class="el" href="a31231.html">FNetActorPtr</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WieldedItem</b></td></tr>
-<tr class="separator:a3626385fb90c98b14bb0f50092ae12c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ffe55657b17648edc0b583b012913e1"><td class="memItemLeft" align="right" valign="top"><a id="a7ffe55657b17648edc0b583b012913e1"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>EpochId</b></td></tr>
-<tr class="separator:a7ffe55657b17648edc0b583b012913e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a811d59eef7d1b6fa53c57a55f1cff210"><td class="memItemLeft" align="right" valign="top"><a id="a811d59eef7d1b6fa53c57a55f1cff210"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Fast</b></td></tr>
-<tr class="separator:a811d59eef7d1b6fa53c57a55f1cff210"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a675a238dced673708007dcd4213c3bd0"><td class="memItemLeft" align="right" valign="top"><a id="a675a238dced673708007dcd4213c3bd0"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a675a238dced673708007dcd4213c3bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62a12242b468147cd2583b519390ad1d"><td class="memItemLeft" align="right" valign="top"><a id="a62a12242b468147cd2583b519390ad1d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxWheelAngle</b></td></tr>
+<tr class="separator:a62a12242b468147cd2583b519390ad1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45b2ad079e9443dc8e3651249f0f65b2"><td class="memItemLeft" align="right" valign="top"><a id="a45b2ad079e9443dc8e3651249f0f65b2"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinWheelAngle</b></td></tr>
+<tr class="separator:a45b2ad079e9443dc8e3651249f0f65b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8701890b644da3b2b140e4a1797eacb6"><td class="memItemLeft" align="right" valign="top"><a id="a8701890b644da3b2b140e4a1797eacb6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxWheelSpeed</b></td></tr>
+<tr class="separator:a8701890b644da3b2b140e4a1797eacb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4848d0e284d00b80eac308afa95fe2fa"><td class="memItemLeft" align="right" valign="top"><a id="a4848d0e284d00b80eac308afa95fe2fa"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SpeedForFastTurns</b></td></tr>
+<tr class="separator:a4848d0e284d00b80eac308afa95fe2fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa50119de6f82080e5339eb172290fb04"><td class="memItemLeft" align="right" valign="top"><a id="aa50119de6f82080e5339eb172290fb04"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SpeedForMidTurns</b></td></tr>
+<tr class="separator:aa50119de6f82080e5339eb172290fb04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8a9c20138ea12e6d56cabc36b19b165"><td class="memItemLeft" align="right" valign="top"><a id="ae8a9c20138ea12e6d56cabc36b19b165"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Left180ZoneAMin</b></td></tr>
+<tr class="separator:ae8a9c20138ea12e6d56cabc36b19b165"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c78e07daa2413938709ef212c45d7ec"><td class="memItemLeft" align="right" valign="top"><a id="a5c78e07daa2413938709ef212c45d7ec"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Left180ZoneAMax</b></td></tr>
+<tr class="separator:a5c78e07daa2413938709ef212c45d7ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14b8ac9f655586fb885e2fed69cb3b7d"><td class="memItemLeft" align="right" valign="top"><a id="a14b8ac9f655586fb885e2fed69cb3b7d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Left180ZoneBMin</b></td></tr>
+<tr class="separator:a14b8ac9f655586fb885e2fed69cb3b7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bcc1092b64b2e8ca6d52f2d1ab47440"><td class="memItemLeft" align="right" valign="top"><a id="a7bcc1092b64b2e8ca6d52f2d1ab47440"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Left180ZoneBMax</b></td></tr>
+<tr class="separator:a7bcc1092b64b2e8ca6d52f2d1ab47440"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b42122891fa06a0ae81dfff09f207c8"><td class="memItemLeft" align="right" valign="top"><a id="a6b42122891fa06a0ae81dfff09f207c8"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Right180ZoneAMin</b></td></tr>
+<tr class="separator:a6b42122891fa06a0ae81dfff09f207c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f7cebd0f819a8d7dae1086f656f3296"><td class="memItemLeft" align="right" valign="top"><a id="a0f7cebd0f819a8d7dae1086f656f3296"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Right180ZoneAMax</b></td></tr>
+<tr class="separator:a0f7cebd0f819a8d7dae1086f656f3296"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab57364fba1bfb7e7e7a399635f4808d0"><td class="memItemLeft" align="right" valign="top"><a id="ab57364fba1bfb7e7e7a399635f4808d0"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Right180ZoneBMin</b></td></tr>
+<tr class="separator:ab57364fba1bfb7e7e7a399635f4808d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87be8c33706c9d698fc697376ab78279"><td class="memItemLeft" align="right" valign="top"><a id="a87be8c33706c9d698fc697376ab78279"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Right180ZoneBMax</b></td></tr>
+<tr class="separator:a87be8c33706c9d698fc697376ab78279"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea517f1ed45873228558d08c9dd7d4cd"><td class="memItemLeft" align="right" valign="top"><a id="aea517f1ed45873228558d08c9dd7d4cd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LeftMid180ZoneAMin</b></td></tr>
+<tr class="separator:aea517f1ed45873228558d08c9dd7d4cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6331addfb2624305eb8ee73084d2b2d"><td class="memItemLeft" align="right" valign="top"><a id="ac6331addfb2624305eb8ee73084d2b2d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LeftMid180ZoneAMax</b></td></tr>
+<tr class="separator:ac6331addfb2624305eb8ee73084d2b2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2f691f025a2eeb20e87f02ef2fcf2ee"><td class="memItemLeft" align="right" valign="top"><a id="ae2f691f025a2eeb20e87f02ef2fcf2ee"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RightMid180ZoneAMin</b></td></tr>
+<tr class="separator:ae2f691f025a2eeb20e87f02ef2fcf2ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec8d05a714131b84f319ee48cc25df31"><td class="memItemLeft" align="right" valign="top"><a id="aec8d05a714131b84f319ee48cc25df31"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RightMid180ZoneAMax</b></td></tr>
+<tr class="separator:aec8d05a714131b84f319ee48cc25df31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4096aee215006214ded9e6a1851aaa89"><td class="memItemLeft" align="right" valign="top"><a id="a4096aee215006214ded9e6a1851aaa89"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Animation180AngleMap</b></td></tr>
+<tr class="separator:a4096aee215006214ded9e6a1851aaa89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82e41b1598fed642f98931b8e1947dd4"><td class="memItemLeft" align="right" valign="top"><a id="a82e41b1598fed642f98931b8e1947dd4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ServerWheelBlend</b></td></tr>
+<tr class="separator:a82e41b1598fed642f98931b8e1947dd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab404e4f2d16a0f6dff7750b76bb2f387"><td class="memItemLeft" align="right" valign="top"><a id="ab404e4f2d16a0f6dff7750b76bb2f387"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>WheelBlend</b></td></tr>
+<tr class="separator:ab404e4f2d16a0f6dff7750b76bb2f387"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6867eae918c618a4328938bcad72a02"><td class="memItemLeft" align="right" valign="top"><a id="ac6867eae918c618a4328938bcad72a02"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceMaxDriftSpeed</b></td></tr>
+<tr class="separator:ac6867eae918c618a4328938bcad72a02"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5c82cef2200604498504e99368154fa"><td class="memItemLeft" align="right" valign="top"><a id="ab5c82cef2200604498504e99368154fa"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:ab5c82cef2200604498504e99368154fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8239ab7fd77bd334e9d96c98e8cc539b"><td class="memItemLeft" align="right" valign="top"><a id="a8239ab7fd77bd334e9d96c98e8cc539b"></a>
+class <a class="el" href="a27039.html">UCurveFloat</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceInputScale</b></td></tr>
+<tr class="separator:a8239ab7fd77bd334e9d96c98e8cc539b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9832e19110486a7d0699e702df3afd8a"><td class="memItemLeft" align="right" valign="top"><a id="a9832e19110486a7d0699e702df3afd8a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceMaxDriftPercentageCounter</b></td></tr>
+<tr class="separator:a9832e19110486a7d0699e702df3afd8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbd9d0e60c0de6608250939d98416778"><td class="memItemLeft" align="right" valign="top"><a id="acbd9d0e60c0de6608250939d98416778"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceMaxDriftBoostPercentage</b></td></tr>
+<tr class="separator:acbd9d0e60c0de6608250939d98416778"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a707271c0dc118f885cfc0fb0ea0cc913"><td class="memItemLeft" align="right" valign="top"><a id="a707271c0dc118f885cfc0fb0ea0cc913"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceLockJitterRate</b></td></tr>
+<tr class="separator:a707271c0dc118f885cfc0fb0ea0cc913"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fb7f274a304d7898372e5e72f010945"><td class="memItemLeft" align="right" valign="top"><a id="a5fb7f274a304d7898372e5e72f010945"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceLockJitter</b></td></tr>
+<tr class="separator:a5fb7f274a304d7898372e5e72f010945"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad590f3cf3969976b4b0aea3ac964565b"><td class="memItemLeft" align="right" valign="top"><a id="ad590f3cf3969976b4b0aea3ac964565b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceSmoothRate</b></td></tr>
+<tr class="separator:ad590f3cf3969976b4b0aea3ac964565b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85fc5e662d56a4a3b8a5ad8e8add4be8"><td class="memItemLeft" align="right" valign="top"><a id="a85fc5e662d56a4a3b8a5ad8e8add4be8"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>SteeringAngleFeedbackThreshold</b></td></tr>
+<tr class="separator:a85fc5e662d56a4a3b8a5ad8e8add4be8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15827.html">FServerWieldSet</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15827.html">FWheelAnimationProperties</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:50 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

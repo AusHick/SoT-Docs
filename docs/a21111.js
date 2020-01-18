@@ -1,4 +1,6 @@
 var a21111 =
 [
-    [ "Weapon", "a21111.html#a90ba8b75d2976ef70c9ff7b35fdac7ba", null ]
+    [ "GCFrametimesMs", "a21111.html#a530d2af085425d37adac4680666ec5a8", null ],
+    [ "MaxGCFrametimeMs", "a21111.html#aecc4f7aa5dcabfd49b503348f042878c", null ],
+    [ "UnknownData00", "a21111.html#a0517ec5df2088180650ad543842b264f", null ]
 ];

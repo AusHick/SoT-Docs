@@ -1,11 +1,9 @@
 var a31131 =
 [
-    [ "AdvancedParameters", "a31131.html#a2b9b706e5f100d95331990269a0e887a", null ],
-    [ "DamageParameters", "a31131.html#a35b9d72e5a2e9685c9d74c2b85404207", null ],
-    [ "DebrisParameters", "a31131.html#a429fb67917855d695948915dcec03c1a", null ],
-    [ "DepthParameters", "a31131.html#a36fff60b83f8314b7a995e7918762941", null ],
-    [ "Flags", "a31131.html#a8994224de04bbed7b8f3bb1483d44932", null ],
-    [ "SpecialHierarchyDepths", "a31131.html#adb4212cdfa40724458c8a11a51d5834d", null ],
-    [ "UnknownData00", "a31131.html#ab78406133956f7fc0475f8bbae248732", null ],
-    [ "UnknownData01", "a31131.html#aea2794b298168e2d450ae8a0163d9722", null ]
+    [ "Curves", "a31131.html#a094a782e8b557c4c9df2193f5c7e2de8", null ],
+    [ "TabName", "a31131.html#aef3bcd9ea6596e57256e59af08dad1b1", null ],
+    [ "ViewEndInput", "a31131.html#a03e99353fb48e102de89df7546eeb2c2", null ],
+    [ "ViewEndOutput", "a31131.html#aaca5ea9c7dabf66db8e03e7f85f1badc", null ],
+    [ "ViewStartInput", "a31131.html#a7ee07821d1f3db4b46c3a6e5e58a6a8d", null ],
+    [ "ViewStartOutput", "a31131.html#a1210dff9a2a8551abc91cb8f4595488e", null ]
 ];

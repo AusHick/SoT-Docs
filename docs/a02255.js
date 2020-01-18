@@ -1,7 +1,6 @@
 var a02255 =
 [
-    [ "StaticClass", "a02255.html#a3d39af947dd66e7a0ffb547a6235de9f", null ],
-    [ "LocalPlayer", "a02255.html#a4a9919ae3e1d420d05e3b71e2d9a2a8f", null ],
-    [ "UnknownData00", "a02255.html#a2458838b3d58708a1bd3d45e1586be38", null ],
-    [ "UnknownData01", "a02255.html#a175457ec4331ed727d6a45b0b4954f0f", null ]
+    [ "GetLookAtOffset", "a02255.html#a352c0e2ba2634544fe36f7ac46968573", null ],
+    [ "StaticClass", "a02255.html#abe649fbdf2d63266cd1806e17c4de2f3", null ],
+    [ "UnknownData00", "a02255.html#a50a141d72cc5cd2b0a72ed04098137bf", null ]
 ];

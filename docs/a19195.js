@@ -1,5 +1,5 @@
 var a19195 =
 [
-    [ "MemoryData", "a19195.html#ab06ddf81cb8c4cbf46ff64f58282af3f", null ],
-    [ "VisualiserCategories", "a19195.html#a93962491f669ccf8149f2e8f80abf2e4", null ]
+    [ "UpdateStreamersPollIntervalSeconds", "a19195.html#a0591d2615eb3fce36c0e6046df8d41cc", null ],
+    [ "UpdateStreamersRateLimitSeconds", "a19195.html#a9063526252d649e9a32a8d5e9ea9106f", null ]
 ];

@@ -1,4 +1,4 @@
 var a20067 =
 [
-    [ "ProjectileType", "a20067.html#aaf82918ac15e804b390c7c951f666527", null ]
+    [ "UnknownData00", "a20067.html#a572f70e94499fdb9ca7ff89cd345bb63", null ]
 ];

@@ -1,5 +1,7 @@
 var a09975 =
 [
-    [ "StaticClass", "a09975.html#a99a0186bcc0a17c4f51ac078e3c0b870", null ],
-    [ "Parameters", "a09975.html#a879010253356fff0c1519dfb667d55a4", null ]
+    [ "StaticClass", "a09975.html#a2fdbdad50beb17254793a5dcdb1d16e4", null ],
+    [ "FadeSetting", "a09975.html#a7f5d3879d0dd5b022a16e055df0e4347", null ],
+    [ "FadeTime", "a09975.html#a1a7e41e4d8bab1e4ee0ea0385169df30", null ],
+    [ "UnknownData00", "a09975.html#aa4b2e16ba312ec048b590903205b5f34", null ]
 ];

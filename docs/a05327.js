@@ -1,7 +1,7 @@
 var a05327 =
 [
-    [ "StaticClass", "a05327.html#a99be34fe60c0236face78f2415252700", null ],
-    [ "Hideouts", "a05327.html#a511013be61f1cf13422caebfbb671a4a", null ],
-    [ "UnknownData00", "a05327.html#a8fb1bdbcf856b57bd11e06c8f24a3c90", null ],
-    [ "UnknownData01", "a05327.html#a639f2b96def53a33180db0d2b7478d6e", null ]
+    [ "StaticClass", "a05327.html#a46f20b618d623a5155367452fce3f7c9", null ],
+    [ "RequiredEntitlements", "a05327.html#a2f3520350f1bb9152bbdd0ed977df4f7", null ],
+    [ "RequiredNumberToMatch", "a05327.html#aaf38c7cffc148e39805826c9c9bf82bf", null ],
+    [ "UnknownData00", "a05327.html#a2cad5961b93ce6f2c3fcf254e6c6e927", null ]
 ];

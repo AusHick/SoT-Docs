@@ -1,5 +1,5 @@
 var a31187 =
 [
-    [ "CurveFloat", "a31187.html#a8356ac1b29b9b65f64f57bbcb4411eb4", null ],
-    [ "UnknownData00", "a31187.html#ac04d77e23428104a5b428e61fbdf881a", null ]
+    [ "Input", "a31187.html#a6a156632e8ade9eb0626147f86766e93", null ],
+    [ "InputName", "a31187.html#a42177588835bed15d08b7703e9fcb509", null ]
 ];

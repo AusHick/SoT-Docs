@@ -1,5 +1,5 @@
 var a14327 =
 [
-    [ "ExitPoints", "a14327.html#a90d4d63c1470dd4ca096382e29f0d6ba", null ],
-    [ "PlayerState", "a14327.html#a020dabf8366142ba7ac65ac4cf937f01", null ]
+    [ "EatingNormal", "a14327.html#aa3515dd7d2df7e2ceafe0ce6f8461ef9", null ],
+    [ "EatingStarving", "a14327.html#a7ede4b16607c5ec36916c65d7aad9187", null ]
 ];

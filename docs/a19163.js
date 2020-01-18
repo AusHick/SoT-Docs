@@ -1,5 +1,7 @@
 var a19163 =
 [
-    [ "FwdSpd", "a19163.html#aa1175d1118c520c232ee3f778a5b00a1", null ],
-    [ "UnknownData00", "a19163.html#a74025cf8fa1a718a097ec8ab49d65c35", null ]
+    [ "Crews", "a19163.html#ab9490a6f7ea1ff2f3a4d518b3cb7c503", null ],
+    [ "ExpireAfter", "a19163.html#ae8c87ae46ca30942826f38b497758eb2", null ],
+    [ "MigrationThreshold", "a19163.html#ada08afffeb9e1fb08a92955b09c530a8", null ],
+    [ "RetryAfter", "a19163.html#a27dda05fea8b5baa261cb5bbdfef5ca0", null ]
 ];

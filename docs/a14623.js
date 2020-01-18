@@ -1,6 +1,25 @@
 var a14623 =
 [
-    [ "ForceFeedbackEffect", "a14623.html#ae0d7326ed78016b386c8f04cd7664239", null ],
-    [ "OuterRadius", "a14623.html#a343bdfeb599b88cad8badaf5886d3553", null ],
-    [ "UnknownData00", "a14623.html#a3e26c528fc76bc88b27bce978564c03b", null ]
+    [ "ApplyCapForTranslucency", "a14623.html#a607d26fa35768d644da46e0c4779d63b", null ],
+    [ "ApplyScaleForTranslucency", "a14623.html#aca6bf0f674f79bb29b9fa864850d22c3", null ],
+    [ "AttenuationRadius", "a14623.html#a071e19e10ff105dc3ac054aa0409612f", null ],
+    [ "CapForTranslucency", "a14623.html#a98c3ce605a9a924d4aed00505d8ec7d7", null ],
+    [ "ConeAngleInner", "a14623.html#ae6575687ab1713564c3b7289bd540b30", null ],
+    [ "ConeAngleOuter", "a14623.html#af3d0b63578b1bcf7541448504f1a8149", null ],
+    [ "Enabled", "a14623.html#a741497ddd84fb793797c0f610b9d8ddd", null ],
+    [ "FlickerFrequency", "a14623.html#ae6895ca5e3e2e8e63eb5627cc9de4452", null ],
+    [ "Intensity", "a14623.html#af3971887d16a1c911dd1d10af7800843", null ],
+    [ "IntensityScaleForWater", "a14623.html#a035fc23b8e0f58524ff3865d32ee1887", null ],
+    [ "LightColour", "a14623.html#a73a6b1f29c875865eee9293895598e79", null ],
+    [ "MinDistanceToLightClamp", "a14623.html#a3fbe0ff19c1f456fe3ffdb9b45952b86", null ],
+    [ "PulsePhase", "a14623.html#aee83d504fc95494f8132eb24bf977e40", null ],
+    [ "ScaleForTranslucency", "a14623.html#acf5967e576427e4d1727c41cc2eda8ba", null ],
+    [ "ScaleOffset", "a14623.html#ae10e1fe538df80d78135963d9460fe30", null ],
+    [ "SimpleFunctionType", "a14623.html#a1369341094f076803f027687236564fa", null ],
+    [ "Transform", "a14623.html#a6ef6b08695cda27bf9f6cc0de1eead53", null ],
+    [ "UnknownData00", "a14623.html#aa971b531ee0dc5439ebfc88dace475cf", null ],
+    [ "UnknownData01", "a14623.html#a0d65653dc654181b00518b0259fff0a7", null ],
+    [ "UnknownData02", "a14623.html#a7085c9cffa0f372ef77f0f7e9fdca1ad", null ],
+    [ "UnknownData03", "a14623.html#a48946eb48f2970d15858575a1311698f", null ],
+    [ "UnknownData04", "a14623.html#aefed77bf8c0d4b8d4f49a440ac669d25", null ]
 ];

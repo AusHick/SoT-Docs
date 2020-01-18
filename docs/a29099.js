@@ -1,13 +1,12 @@
 var a29099 =
 [
-    [ "StaticClass", "a29099.html#a6cacb67d0f1a1a4511c4fe0c4015be91", null ],
-    [ "CollisionMode", "a29099.html#a7b855273e600622bc35003c27e43afae", null ],
-    [ "DampingFactorRotation", "a29099.html#a6b2d1ad8bb393194ac07efc70c222401", null ],
-    [ "Friction", "a29099.html#a1e2878b4926e3ce18f08f6f0f38862fe", null ],
-    [ "RadiusBias", "a29099.html#ade0c192cbfce1e5f638fb9017590bdf0", null ],
-    [ "RadiusScale", "a29099.html#a1f76f599629a3e7a3ff20cff345b6b80", null ],
-    [ "Resilience", "a29099.html#a635f12825456da7159f7d9dc58e0c45f", null ],
-    [ "ResilienceScaleOverLife", "a29099.html#aa094e056d1b1619c6f8e6688ca667202", null ],
-    [ "Response", "a29099.html#a7d987dd75117e0b91772127ebec12523", null ],
-    [ "UnknownData00", "a29099.html#a6b863e52c6f85b8d0d8642eec1ff49fe", null ]
+    [ "StaticClass", "a29099.html#af058bbf0d3915840e76738ed7b4d6c91", null ],
+    [ "bExposeToLibrary", "a29099.html#ae31bb220a2ae44ced570018baa0912bf", null ],
+    [ "bReentrantFlag", "a29099.html#a3ee3e88172ed33f8f6c3c66a6c156383", null ],
+    [ "Description", "a29099.html#ae3a7b7207a6bb6bec7bebb942c172e50", null ],
+    [ "FunctionExpressions", "a29099.html#add3222f80dd629acd42f2312c3f0be16", null ],
+    [ "LibraryCategoriesText", "a29099.html#a55317f5f948219db5bd5c35d80f6e7c6", null ],
+    [ "StateId", "a29099.html#aa91f403badd07df0ebfe3956c9970ce3", null ],
+    [ "UnknownData00", "a29099.html#a7b1952200c2621ede9f33d5d1f0b9f32", null ],
+    [ "UnknownData01", "a29099.html#af3c186ff0f2f8a3bcfc579126b88039e", null ]
 ];

@@ -1,6 +1,7 @@
 var a01735 =
 [
-    [ "MinEngagedDistanceFromPlayers", "a01735.html#ac67f6c0aacc6bd6ab1d013948c6b2d53", null ],
-    [ "ShipTypeParams", "a01735.html#a632efc04c4e6fad089530becc517d4d2", null ],
-    [ "UnknownData00", "a01735.html#a98fc6f8f8b7a54639e24ecc21a774632", null ]
+    [ "CrewIndex", "a01735.html#a7629af9188c6e187d19e40048867bea5", null ],
+    [ "CursedCannonballIndex", "a01735.html#a109e469d5ee925cc7bb64391a2228197", null ],
+    [ "IconRGB", "a01735.html#ab218bcf001fdaac7e67406fa30805b84", null ],
+    [ "SailRGB", "a01735.html#afe853df4b5dfb31f6980aede0f8eea57", null ]
 ];

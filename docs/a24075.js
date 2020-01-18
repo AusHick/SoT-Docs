@@ -1,13 +1,13 @@
 var a24075 =
 [
-    [ "StaticClass", "a24075.html#a387e7f9bcd8046ba1e86dae5902f501d", null ],
-    [ "ActorToTrack", "a24075.html#ac56051c53963a6318bb38e95274df983", null ],
-    [ "NamedAIDataAsset", "a24075.html#a1bdf3abdb97f77095e647d2dc075b1c3", null ],
-    [ "NewWaveSpawnSfx", "a24075.html#aced6045487fe37141049cd57f1c9e98f", null ],
-    [ "NewWaveSpawnSfxTriggerRadius", "a24075.html#a1b5e639dd997a565530eeee17de93316", null ],
-    [ "NumberOfWavesToSpawn", "a24075.html#a16d1155485becdfa91d11860469ba3cc", null ],
-    [ "ShowNameplatesFor", "a24075.html#aae36e14ab149cdf2d757788f106fd366", null ],
-    [ "UnknownData00", "a24075.html#add99f472b60f34b04d187a184dd1c8ba", null ],
-    [ "UnknownData01", "a24075.html#aa2560b377f46c52a5bff8889ae61a7f4", null ],
-    [ "UnknownData02", "a24075.html#a8197a0bcb3b69bb36f7e47faf3dec2a0", null ]
+    [ "StaticClass", "a24075.html#a76cfdf9ec33b44970052083f91ff53f1", null ],
+    [ "Ammo", "a24075.html#a66a9e1ee262c5155f3dd93b0fbb7687e", null ],
+    [ "DioramaRole", "a24075.html#abaa6fdbc69d4b1df0d0594ec5f23c034", null ],
+    [ "EncounterTrackingParams", "a24075.html#a82ff59cc4db7a4361d06da7045226abe", null ],
+    [ "Form", "a24075.html#adb417f7f0fa42eba606d9d9627c8c677", null ],
+    [ "ItemDropComponentClass", "a24075.html#a3113709dc9dd375ed3f60f5c0a65ccf6", null ],
+    [ "Loadout", "a24075.html#a8b1b75b912f9655fa7b64d908eb5e494", null ],
+    [ "LocalisableName", "a24075.html#ae8b7472553b605d46d7742c0e102231e", null ],
+    [ "SpecificSkillset", "a24075.html#ae6bd41c3266d0a12ed5de948d4565ffd", null ],
+    [ "UnknownData00", "a24075.html#a182914bda66aa371aa456250decdf311", null ]
 ];

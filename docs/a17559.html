@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FServerMigrationHeartbeatEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FEventPlayerChangedTableMapPan Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,63 +87,30 @@ $(document).ready(function(){initNavTree('a17559.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a17556.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FServerMigrationHeartbeatEvent Struct Reference</div>  </div>
+<div class="title">SDK::FEventPlayerChangedTableMapPan Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServerMigrationHeartbeatEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEventPlayerChangedTableMapPan:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a17557.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a17557.svg" width="196" height="360"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5bfb77e3299b6d2e6c26796ee610439c"><td class="memItemLeft" align="right" valign="top"><a id="a5bfb77e3299b6d2e6c26796ee610439c"></a>
-struct <a class="el" href="a26071.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerId</b></td></tr>
-<tr class="separator:a5bfb77e3299b6d2e6c26796ee610439c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60c762a52a520a6c396b3d952324a560"><td class="memItemLeft" align="right" valign="top"><a id="a60c762a52a520a6c396b3d952324a560"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerLocation</b></td></tr>
-<tr class="separator:a60c762a52a520a6c396b3d952324a560"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a660a91544567fc7f969d27dfa2dbf5b5"><td class="memItemLeft" align="right" valign="top"><a id="a660a91544567fc7f969d27dfa2dbf5b5"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GameEndpoint</b></td></tr>
-<tr class="separator:a660a91544567fc7f969d27dfa2dbf5b5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6fbaf3650129bae41024b6b23a6653f1"><td class="memItemLeft" align="right" valign="top"><a id="a6fbaf3650129bae41024b6b23a6653f1"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MigrationEndpoint</b></td></tr>
-<tr class="separator:a6fbaf3650129bae41024b6b23a6653f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6551f5ebc78db162dbffe890b588069"><td class="memItemLeft" align="right" valign="top"><a id="ae6551f5ebc78db162dbffe890b588069"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a17555.html">FServerMigrationCrewMigrationStatus</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CrewsMigrationStatus</b></td></tr>
-<tr class="separator:ae6551f5ebc78db162dbffe890b588069"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5dca6c5edfbee356aae2c07bf0d06bae"><td class="memItemLeft" align="right" valign="top"><a id="a5dca6c5edfbee356aae2c07bf0d06bae"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>SequenceId</b></td></tr>
-<tr class="separator:a5dca6c5edfbee356aae2c07bf0d06bae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29669f12744f486a69eb7bf0a51ab0c8"><td class="memItemLeft" align="right" valign="top"><a id="a29669f12744f486a69eb7bf0a51ab0c8"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a29669f12744f486a69eb7bf0a51ab0c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a345cc6a627e2b95bc30a9111b9c291d8"><td class="memItemLeft" align="right" valign="top"><a id="a345cc6a627e2b95bc30a9111b9c291d8"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerUpTime</b></td></tr>
-<tr class="separator:a345cc6a627e2b95bc30a9111b9c291d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae44d6f5e9947a72913717c91b25a73ff"><td class="memItemLeft" align="right" valign="top"><a id="ae44d6f5e9947a72913717c91b25a73ff"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ExpectedServerLifetime</b></td></tr>
-<tr class="separator:ae44d6f5e9947a72913717c91b25a73ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f4e30c491200f5483b46663d589753e"><td class="memItemLeft" align="right" valign="top"><a id="a7f4e30c491200f5483b46663d589753e"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MessageInterval</b></td></tr>
-<tr class="separator:a7f4e30c491200f5483b46663d589753e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3be14db9456e87f759cb8d25f06ec422"><td class="memItemLeft" align="right" valign="top"><a id="a3be14db9456e87f759cb8d25f06ec422"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>ContestMatchmaking</b></td></tr>
-<tr class="separator:a3be14db9456e87f759cb8d25f06ec422"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8fab078e2cabd68691631cbc52da128"><td class="memItemLeft" align="right" valign="top"><a id="ac8fab078e2cabd68691631cbc52da128"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x7]</td></tr>
-<tr class="separator:ac8fab078e2cabd68691631cbc52da128"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a907beebf2d90c7c480ab1ad2c14597fa"><td class="memItemLeft" align="right" valign="top"><a id="a907beebf2d90c7c480ab1ad2c14597fa"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PanDelta</b></td></tr>
+<tr class="separator:a907beebf2d90c7c480ab1ad2c14597fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17559.html">FServerMigrationHeartbeatEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17559.html">FEventPlayerChangedTableMapPan</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:37 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,5 +1,7 @@
 var a14111 =
 [
-    [ "Classes", "a14111.html#a0502ac4caf833627ab58bdaef76e4fdc", null ],
-    [ "DiggingAnimationConfig", "a14111.html#afc2fba18dfe69120625e0a17d29d7623", null ]
+    [ "OpenCrewCountRetrivalString", "a14111.html#aed8fa9331d4f4012e7739ae9f8efab13", null ],
+    [ "OpenCrewMemberCount", "a14111.html#ad3db2f29b4b7d4bef33cdcca624206c7", null ],
+    [ "ShipSize", "a14111.html#ae65836b4842ac423b2f96e7351fe8d09", null ],
+    [ "UnknownData00", "a14111.html#a663d00b4feee34e0e9ba7451a89204d9", null ]
 ];

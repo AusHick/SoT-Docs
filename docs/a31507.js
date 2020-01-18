@@ -1,5 +1,8 @@
 var a31507 =
 [
-    [ "BoneName", "a31507.html#a1e7f2cf4552e839be2b4061daece48a7", null ],
-    [ "NodeName", "a31507.html#a3a825557f17f8c4871f665f30a499baf", null ]
+    [ "BaseDamage", "a31507.html#ad0c6371fd1aa8a112f8528338c0cf634", null ],
+    [ "DamageFalloff", "a31507.html#a974f9edb13e33ec025e7b9e64815b45c", null ],
+    [ "InnerRadius", "a31507.html#af1c74cdce386087fe53626e7b9f6b65c", null ],
+    [ "MinimumDamage", "a31507.html#ac90ef37d947390aac89422201f28a65d", null ],
+    [ "OuterRadius", "a31507.html#afbda66297df845dfd5e3db6be8ea163a", null ]
 ];

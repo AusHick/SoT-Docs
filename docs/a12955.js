@@ -1,10 +1,14 @@
 var a12955 =
 [
-    [ "CharacterType", "a12955.html#a412c912d2c87a84d429c855fa7703677", null ],
-    [ "DestinationStruct", "a12955.html#a0153222d50b1ebc144b4908f9a5d186d", null ],
-    [ "LoadedObjectAnimations", "a12955.html#a668d264ad13e28ccfd4a0f822b5b5966", null ],
-    [ "LoadedObjectID", "a12955.html#ac67988bb93bc20812506ad358b747ff8", null ],
-    [ "ObjectFound", "a12955.html#a13dea5eb343a7e5d4bf7465ef3c096e5", null ],
-    [ "UnknownData00", "a12955.html#a0a4ea1abe6098cc566b829d8a7085a01", null ],
-    [ "UnknownData01", "a12955.html#a50b944bae81bdcde3e05b0662e533e86", null ]
+    [ "ArmSelection", "a12955.html#ac3d8eee6ba0ce7afbc81c338b7f3a907", null ],
+    [ "LockHandOrientation", "a12955.html#ab38b7aff76955b6a35cc1d5b527b8e50", null ],
+    [ "LowerClampTargetingAngle", "a12955.html#ab774f936b3b207a5672c6a4b26d18d8c", null ],
+    [ "ShoulderInfluenceLower", "a12955.html#ae325f8c3f206e01a4d93856f232fc274", null ],
+    [ "ShoulderInfluenceUpper", "a12955.html#ae873be7dbce10518f89e25cc75e7de3b", null ],
+    [ "UnknownData00", "a12955.html#a37b031b289ef38c5c7b89e31b2a01b31", null ],
+    [ "UnknownData01", "a12955.html#a389a298f93a935d57f51abe029eabce2", null ],
+    [ "UpperClampTargetingAngle", "a12955.html#a9455a5ff6343fafcccc3274a3c9d5c57", null ],
+    [ "VirtualPivotOffsetLerped", "a12955.html#a3ecbebfa53e8240ea5dc61d7f07cb02b", null ],
+    [ "VirtualPivotOffsetLower", "a12955.html#a0fe9c35223ee1a0017c5c7a99a77d145", null ],
+    [ "VirtualPivotOffsetUpper", "a12955.html#a2d79c2c8f2f2d9d89f2599802958a117", null ]
 ];

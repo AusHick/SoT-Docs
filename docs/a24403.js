@@ -1,6 +1,10 @@
 var a24403 =
 [
-    [ "StaticClass", "a24403.html#a22fcdcbb315ae75d0bd848efbaa900f9", null ],
-    [ "TimeToForget", "a24403.html#a5a157a860104d4c983ef8b437cb02e18", null ],
-    [ "UnknownData00", "a24403.html#a4d37b91cd1a0cd502813248de91ad9c8", null ]
+    [ "StaticClass", "a24403.html#a7498619573648706e241e5d92d5c5b62", null ],
+    [ "CachedDescription", "a24403.html#ae58c5d33b4f7946db32576f06345b55d", null ],
+    [ "Class", "a24403.html#a7b7728604df5536ddc4faa2fc85f03a4", null ],
+    [ "Invert", "a24403.html#ad5c04d80ab203bfa46e56c945926ee2c", null ],
+    [ "NotifyObserver", "a24403.html#a04a629bc352cf4a0620b9c529aab3fb9", null ],
+    [ "UnknownData00", "a24403.html#a425f4185313e6c5334ab950c25b95b71", null ],
+    [ "UnknownData01", "a24403.html#ac6d43418f2b3a138bebf50eff49036af", null ]
 ];

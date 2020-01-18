@@ -1,4 +1,4 @@
 var a21739 =
 [
-    [ "QuestType", "a21739.html#a3a092c905b3303b6c8b6916f82739c00", null ]
+    [ "ItemDesc", "a21739.html#ad4487fbb16435d62dea25f7d3c1db39d", null ]
 ];

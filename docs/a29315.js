@@ -1,13 +1,15 @@
 var a29315 =
 [
-    [ "StaticClass", "a29315.html#ac76086643dce288ee359a9f39f7932d4", null ],
-    [ "AlphaThreshold", "a29315.html#a506f048a9903555aa15dcd3515d90c22", null ],
-    [ "BoundingMode", "a29315.html#a8f483c0838730aaf112f0b531b9fe22d", null ],
-    [ "OpacitySourceMode", "a29315.html#a57db223761fb7728724e170df3c057f9", null ],
-    [ "SafeMarginSize", "a29315.html#a9bd1dc2acc90e2130fb2627bd0c6353e", null ],
-    [ "SubImages_Horizontal", "a29315.html#a26713e2793fa2aa89479e54ae241fbb8", null ],
-    [ "SubImages_Vertical", "a29315.html#a318caa4e88156cbaecb647085ff7125c", null ],
-    [ "SubUVTexture", "a29315.html#adf8f66b830eb8eee7881bffabf0586a3", null ],
-    [ "UnknownData00", "a29315.html#a8da5a7b60b7e84594f3c3de629fdebed", null ],
-    [ "UnknownData01", "a29315.html#ad21753b2b2c2bcfbf297edd1a9c066ca", null ]
+    [ "StaticClass", "a29315.html#aef7cd43d7c8e5ec4c6920347f06cef0b", null ],
+    [ "AdditionalStartAlpha", "a29315.html#aa6bd74c8fc0e4b28bfe5a27a71edb19e", null ],
+    [ "AdditionalStartColor", "a29315.html#a613e098d48f36052ea3b155e92c96668", null ],
+    [ "bClampAlpha", "a29315.html#a6406052bdf27ba05266d341444f5d617", null ],
+    [ "bIgnoreComponentColorTint", "a29315.html#a8eee82f7ebb8b6dad2c4f1fef70d4e47", null ],
+    [ "bUseGroupAAlphaForAllGroups", "a29315.html#a0bdc6a67e38faec315d2d65b89c00ea4", null ],
+    [ "bUseGroupAColorForAllGroups", "a29315.html#a95b712393bad291f8dd9011f5cc6a720", null ],
+    [ "StartAlpha", "a29315.html#af93f35ce898afbf37311547db0a7a977", null ],
+    [ "StartColor", "a29315.html#a5d83b3b68aa0d5aaa073e7e47a7fa123", null ],
+    [ "UnknownData00", "a29315.html#a17d665c77ef71d7cf5a35fb4cab48dcb", null ],
+    [ "UnknownData01", "a29315.html#a0c65dfb358c4ccff7edc37732e577abb", null ],
+    [ "UnknownData02", "a29315.html#a12dfca411cf7103568882eea9820536a", null ]
 ];

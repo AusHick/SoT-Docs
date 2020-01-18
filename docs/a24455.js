@@ -1,6 +1,5 @@
 var a24455 =
 [
-    [ "StaticClass", "a24455.html#a97f738196e7415daf458ed7d5c13f0c0", null ],
-    [ "MaxValue", "a24455.html#a0779567a87d3d329aac1cef0dd54a4ce", null ],
-    [ "MinValue", "a24455.html#a16ed43d384644b22316d36e805dd1ced", null ]
+    [ "StaticClass", "a24455.html#af053e4aecea8a1d162bab5525a669774", null ],
+    [ "ChanceKeyPairs", "a24455.html#ad63263093621c4dfae7e80a5e44570ae", null ]
 ];

@@ -1,4 +1,6 @@
 var a14407 =
 [
-    [ "CameraDockTime", "a14407.html#a151bd6b40f5d8bbdf46e48499d41e11b", null ]
+    [ "HealthChangedReason", "a14407.html#a61a7ca54f15337e8d09b228ddebc29c1", null ],
+    [ "HealthChangeScalar", "a14407.html#a57bfa15e250317257fe341dcf81beb64", null ],
+    [ "UnknownData00", "a14407.html#aa5c91a93ea54cb1b17e5b09ae98cfe54", null ]
 ];

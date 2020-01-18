@@ -1,8 +1,9 @@
 var a04559 =
 [
-    [ "OnJump", "a04559.html#acc3f9b3ac91d7379926961a884e1893d", null ],
-    [ "OnLookUpRate", "a04559.html#a1c8103e5eefd36c5f6ac76dc20b5c90d", null ],
-    [ "OnMoveRight", "a04559.html#acf39457a60f4598e4c4ff50adc1a66c8", null ],
-    [ "OnTurnRate", "a04559.html#a21a7102c2623cfc7d6516f31e882fd94", null ],
-    [ "StaticClass", "a04559.html#ad7c6a8028c003d7fba4558733c41b4cf", null ]
+    [ "StaticClass", "a04559.html#aa31b8e8b2fa368926598e3a4e288491c", null ],
+    [ "ActorNames", "a04559.html#abfd54a87ae29bcd68c90ad0dc8e3a462", null ],
+    [ "ChatType", "a04559.html#a8fce874488f0cba1cb0a15089f19d643", null ],
+    [ "SourceText", "a04559.html#a02c6955f9948be9426888ae864d3408c", null ],
+    [ "TextSections", "a04559.html#a56e7a61fa5e33a603510a8b773c4e646", null ],
+    [ "UnknownData00", "a04559.html#ab341028a16adc16163f3b78063fbca16", null ]
 ];

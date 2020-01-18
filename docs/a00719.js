@@ -1,7 +1,12 @@
 var a00719 =
 [
-    [ "Id", "a00719.html#a3158743e0314b8ea522ab2e151aadf58", null ],
-    [ "Type", "a00719.html#a22f7e665663aa1dfe3999bf0350dc371", null ],
-    [ "UnknownData00", "a00719.html#ae2e24a3ad281be5c83d3757c89359bc3", null ],
-    [ "UnknownData01", "a00719.html#aad53df0a8234932a2c5770424426c766", null ]
+    [ "CreateTestConstructionInfo", "a00719.html#a0471ebb6b6139ff591683d6ed6f7a0ae", null ],
+    [ "CreateTestConstructionInfoWithInner", "a00719.html#a052f1d6839d883157c8fa583ee13bffc", null ],
+    [ "CreateTestSerialisableData", "a00719.html#a3eb2932b8d8719eda037a45a8b336b69", null ],
+    [ "GetTestConstructionInfo", "a00719.html#ace6063def741b54fc03985e68739eeef", null ],
+    [ "GetTestConstructionInfoWithInner", "a00719.html#aa46bf908821275faf5ad78d6852d3ac5", null ],
+    [ "HasTestConstructionInfo", "a00719.html#a8abb94aa01d80b708bee1961668272f8", null ],
+    [ "HasTestConstructionInfoWithInner", "a00719.html#a0607daf9b76e8b36426bf81c6f53e79d", null ],
+    [ "IsValid", "a00719.html#a5c88dbf38030711c3bcd7955e6f8d60b", null ],
+    [ "StaticClass", "a00719.html#a6db9fee3506f46b24c5bc8a990ae09fc", null ]
 ];

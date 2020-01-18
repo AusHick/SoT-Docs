@@ -1,7 +1,6 @@
 var a29347 =
 [
-    [ "StaticClass", "a29347.html#a1f069c2f0005a4ba0c2ceac61cd13364", null ],
-    [ "RotationOverLife", "a29347.html#a2baf890f7f38dab3d14ee9f38dff7130", null ],
-    [ "Scale", "a29347.html#ac9461408d97efac0b2773f372909d05e", null ],
-    [ "UnknownData00", "a29347.html#ac0e84bd589ef5c86e595bc34f7945ff7", null ]
+    [ "StaticClass", "a29347.html#aba796ff1800d8637254c2d2ba1293b49", null ],
+    [ "bStopSpawning", "a29347.html#a29e03092b19d6e5b96c1134d125cd3be", null ],
+    [ "UnknownData00", "a29347.html#a529da065f9d1544559413783a7e742d7", null ]
 ];

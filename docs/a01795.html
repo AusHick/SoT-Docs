@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIShipWeightedSize Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIShipContextDescGenerationParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,36 @@ $(document).ready(function(){initNavTree('a01795.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01792.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIShipWeightedSize Struct Reference</div>  </div>
+<div class="title">SDK::FAIShipContextDescGenerationParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipWeightedSize:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipContextDescGenerationParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01793.svg" width="554" height="442"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a01793.svg" width="100%" height="548"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab9d261d43f2d09f324ed18b81baa7217"><td class="memItemLeft" align="right" valign="top"><a id="ab9d261d43f2d09f324ed18b81baa7217"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Feature</b></td></tr>
-<tr class="separator:ab9d261d43f2d09f324ed18b81baa7217"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b71dd0b18122fddb6c3b088bfae2c6e"><td class="memItemLeft" align="right" valign="top"><a id="a0b71dd0b18122fddb6c3b088bfae2c6e"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>Weight</b></td></tr>
-<tr class="separator:a0b71dd0b18122fddb6c3b088bfae2c6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af099c93eab01109849da902ef47239f3"><td class="memItemLeft" align="right" valign="top"><a id="af099c93eab01109849da902ef47239f3"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:af099c93eab01109849da902ef47239f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35ae88a01df75c1cbc8e0ddce90d06a4"><td class="memItemLeft" align="right" valign="top"><a id="a35ae88a01df75c1cbc8e0ddce90d06a4"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ShipSize</b></td></tr>
-<tr class="separator:a35ae88a01df75c1cbc8e0ddce90d06a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a479db3b0480424640d0c973c26376a83"><td class="memItemLeft" align="right" valign="top"><a id="a479db3b0480424640d0c973c26376a83"></a>
+struct <a class="el" href="a01779.html">FAIShipContextDescGenerationSharedParams</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SharedParams</b></td></tr>
+<tr class="separator:a479db3b0480424640d0c973c26376a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5f2f9058b7ca96860573751832703d4"><td class="memItemLeft" align="right" valign="top"><a id="ac5f2f9058b7ca96860573751832703d4"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a01779.html">FAIShipContextDescGenerationSharedParams</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EncounterSpecificParams</b></td></tr>
+<tr class="separator:ac5f2f9058b7ca96860573751832703d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11d77363b29451fde33c480994f26627"><td class="memItemLeft" align="right" valign="top"><a id="a11d77363b29451fde33c480994f26627"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a01791.html">FAIShipContextDescGenerationShipSpecificParams</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ShipSpecificParams</b></td></tr>
+<tr class="separator:a11d77363b29451fde33c480994f26627"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01795.html">FAIShipWeightedSize</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:19 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01795.html">FAIShipContextDescGenerationParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

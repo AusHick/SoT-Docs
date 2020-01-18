@@ -1,7 +1,8 @@
 var a34091 =
 [
-    [ "GetVoiceAttenuationScaler", "a34091.html#a040340cca98e7434f2ac2be53628da1b", null ],
-    [ "GetVoiceAudioEmitterProxy", "a34091.html#a071ca88b1272a79f074be5ad6e67f20c", null ],
-    [ "GetVoiceLocation", "a34091.html#aad2dbdfd164a8fd128e67a41722bf351", null ],
-    [ "StaticClass", "a34091.html#a759fed4e3555adf7d81ef55c11b01e22", null ]
+    [ "StaticClass", "a34091.html#a5d130e9ba03313934d30b3fb2f269e8a", null ],
+    [ "bDuplicated", "a34091.html#a72b7a8aa86ff5504864f1d2e916ae03f", null ],
+    [ "DefaultParameters", "a34091.html#a1186e88734ca52473d7378d1363744f3", null ],
+    [ "UnknownData00", "a34091.html#a591ff243b502eea6faea6ba9a8fdaebd", null ],
+    [ "UnknownData01", "a34091.html#af92c3a207e60f609aa64bd12f7f7a77f", null ]
 ];

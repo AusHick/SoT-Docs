@@ -1,5 +1,6 @@
 var a13563 =
 [
-    [ "MugShot", "a13563.html#a9a24c95923d85a52524ac3bcde2466ad", null ],
-    [ "Name", "a13563.html#aeb51f725875a01ffef6ab47caf8a7abb", null ]
+    [ "CutoutTextStyle", "a13563.html#a369390026de774dcc97a8ac5f95a80df", null ],
+    [ "Scale", "a13563.html#a5177db12abdbc0abdd21b354e1886b06", null ],
+    [ "UnknownData00", "a13563.html#ac429ee62afdb16b1a9b9e79e7353a0b2", null ]
 ];

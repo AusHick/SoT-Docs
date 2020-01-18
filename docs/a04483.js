@@ -1,5 +1,5 @@
 var a04483 =
 [
-    [ "GetLeakAmount", "a04483.html#ae536d53691ef11699daedb33ab9740ba", null ],
-    [ "StaticClass", "a04483.html#a4565f7c62ed9fc1f7c4aaf392057f616", null ]
+    [ "StaticClass", "a04483.html#a6b7ec97e72347c8ac542a8eec25132cd", null ],
+    [ "AllCursedCannonballs", "a04483.html#a5fa8ee2083e3c44ef90987e4b82f37f5", null ]
 ];

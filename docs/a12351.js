@@ -1,7 +1,14 @@
 var a12351 =
 [
-    [ "StaticClass", "a12351.html#ae7f63c5445f1fe158f31e2bfcedc9b01", null ],
-    [ "GoldToSpawnInsideCollectorsChest", "a12351.html#a0cb3de1d311a2e748838a67dc0a39d38", null ],
-    [ "ItemsToSpawnInsideCollectorsChest", "a12351.html#a54b4903a5efc36d8bd74915d84f3d518", null ],
-    [ "NumberOfItemsToSpawn", "a12351.html#a1ddd635f44d807a0c9211ea46e8d8e68", null ]
+    [ "StaticClass", "a12351.html#ad38011fe066942c602ee0b424f7827fb", null ],
+    [ "AnalogControls", "a12351.html#acc1e71237ceaf080cdb443b0ac0bb9c7", null ],
+    [ "CameraLookAtParams", "a12351.html#a1f7d3620a1d5a83b49cab5ec6f5b6562", null ],
+    [ "CameraTracksMechanismsBeingPulled", "a12351.html#abe747b6443d8a0cf5ac651303234d41a", null ],
+    [ "DefaultLookAtLocation", "a12351.html#ab551d9bab5544eaded47d101784a4177", null ],
+    [ "InteractableComponent", "a12351.html#ac579c7def5129d16c8b645116567e048", null ],
+    [ "PulleyMechanismTriggerComponent", "a12351.html#a72e89dc98f8ec07a531263ec430865a0", null ],
+    [ "PulleyMesh", "a12351.html#afc9e237a12ad05cf8c61d30c06d0dc6c", null ],
+    [ "UnknownData00", "a12351.html#a92b54b9821c645e3be0829bc75cb9d41", null ],
+    [ "UnknownData01", "a12351.html#a5810951e109c6f14edf684c1c60bfe37", null ],
+    [ "UnknownData02", "a12351.html#aad2c5023f9bf1e0ea83bb79df3f0da9f", null ]
 ];

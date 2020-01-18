@@ -1,5 +1,6 @@
 var a17239 =
 [
-    [ "UnknownData00", "a17239.html#addd71acf995ea25d68890b79457b0883", null ],
-    [ "WeightedContests", "a17239.html#a8dbe90fb3625e84e5aaf70fb8efda485", null ]
+    [ "IsMuted", "a17239.html#ad02c6f38d4d3c924a73f49ea3b475eeb", null ],
+    [ "UnknownData00", "a17239.html#ad137c8da373399de7b9dbcf54de5f13b", null ],
+    [ "XUID", "a17239.html#a5c553a4d2d89d2fb4ba5fc2cab5f8e15", null ]
 ];

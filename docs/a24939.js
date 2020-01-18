@@ -1,5 +1,6 @@
 var a24939 =
 [
-    [ "Id", "a24939.html#ae0679bd08b0b5cff22b1158da023faa8", null ],
-    [ "Name", "a24939.html#a3481e1c703d7a8346e28ca68106e3809", null ]
+    [ "StaticClass", "a24939.html#a842569afcf425a9b0521b54f8b362e66", null ],
+    [ "DefaultPetName", "a24939.html#a9589a004388249aef74b39c477f8a83e", null ],
+    [ "UnknownData00", "a24939.html#ac21d147b1dfb130295ee8af432ef1c48", null ]
 ];

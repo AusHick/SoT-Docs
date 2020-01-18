@@ -1,5 +1,5 @@
 var a21767 =
 [
-    [ "CrateItemDesc", "a21767.html#a64139d272ef45795fc8d6c07cdcd9914", null ],
-    [ "UnknownData00", "a21767.html#a8add44b7575ed658195c295e9295eb31", null ]
+    [ "Count", "a21767.html#aa130fc65fb7e9736c59050ba1ac111a9", null ],
+    [ "RewardId", "a21767.html#a882667fd66185ddd20bea35261118e5e", null ]
 ];

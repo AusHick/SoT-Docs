@@ -1,9 +1,6 @@
 var a00795 =
 [
-    [ "StaticClass", "a00795.html#a01ad15079c23a8dd118f7139389999bc", null ],
-    [ "bInverseCondition", "a00795.html#ab419daf31ef68c5add981f96db1cd32a", null ],
-    [ "FlowAbortMode", "a00795.html#a23be1c12c7f6771b1b657a23ff8f8230", null ],
-    [ "UnknownData00", "a00795.html#a4530f86cb960468fb25860e58f37b9b1", null ],
-    [ "UnknownData01", "a00795.html#a6583d6fdbf46edeb03102199df58a5ae", null ],
-    [ "UnknownData02", "a00795.html#a1d15f7a61f56de12c91e8900bf7556cd", null ]
+    [ "Array", "a00795.html#a7de52aef476bd65a4a577fa2a3ee8237", null ],
+    [ "Inner", "a00795.html#a710a1e87cefd9583ace637136ef8a328", null ],
+    [ "ObjPointer", "a00795.html#a2a184c9bdfa18013dd8b23c427474210", null ]
 ];

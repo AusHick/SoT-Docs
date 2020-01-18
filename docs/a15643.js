@@ -1,6 +1,7 @@
 var a15643 =
 [
-    [ "Dependencies", "a15643.html#a713f1d5c1e20fb25ad22cbd9a93ff706", null ],
-    [ "UnknownData00", "a15643.html#ab44a8a0441ef140d62d2d1d934564c3c", null ],
-    [ "UnknownData01", "a15643.html#a5f21b5963b53c629cd3966205d5d987b", null ]
+    [ "Actor", "a15643.html#a5251bd89a7eea9c2bae4f05e6693a072", null ],
+    [ "Asset", "a15643.html#a5c845d9ec3683738b92f4fd33c1dc378", null ],
+    [ "AssetRef", "a15643.html#a842e8ffd76b53a3e4bd23a1a226e9a3e", null ],
+    [ "Type", "a15643.html#aae1a5b360d03e41171d600948b44084d", null ]
 ];

@@ -1,6 +1,5 @@
 var a20355 =
 [
-    [ "ConfigSpawnId", "a20355.html#ac2119febf06c8edc018474168913b0ed", null ],
-    [ "FortId", "a20355.html#a77badb31521a7032a260b61668f744a3", null ],
-    [ "FortName", "a20355.html#a4474f3d664d087302a935530e4f39c79", null ]
+    [ "AllianceId", "a20355.html#a0cf521af69483f76d4c6ffb48a969a50", null ],
+    [ "LeavingCrewSessionId", "a20355.html#aa8081e3977b0899e1f4bb77deddb4bc4", null ]
 ];

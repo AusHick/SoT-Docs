@@ -1,9 +1,7 @@
 var a01603 =
 [
-    [ "StaticClass", "a01603.html#a2686acc9a1cf55f482c0218a7daf9382", null ],
-    [ "MinSafeSpawnDistanceFromOtherShips", "a01603.html#ace9e4d6c40c36496e1527c28b26d6759", null ],
-    [ "Radius", "a01603.html#afa6bf100fab9de53c602330c48050a35", null ],
-    [ "RelativeSpawnLocationParams", "a01603.html#a7cef954fb7f03c700a9c59cda33bc59d", null ],
-    [ "SpawnDepth", "a01603.html#a59fd0853dc9472d49495345631739992", null ],
-    [ "TimeDelayBetweenWaves", "a01603.html#a90c342051be3e7bd6615b70d87972617", null ]
+    [ "Owner", "a01603.html#abd275c234bc2e57697a57c542a52ea38", null ],
+    [ "QueryTemplate", "a01603.html#a82dd4220db7c7fe126e04840fb7e0dff", null ],
+    [ "UnknownData00", "a01603.html#ae02345d157a0b09d8f6d403f61a64a41", null ],
+    [ "World", "a01603.html#ae31f3fe064175cf52134551d9ee53b2c", null ]
 ];

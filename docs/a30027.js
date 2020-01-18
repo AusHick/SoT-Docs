@@ -1,5 +1,7 @@
 var a30027 =
 [
-    [ "NewPluginName", "a30027.html#a398e31a2026e4cbf89514984334a2827", null ],
-    [ "OldPluginName", "a30027.html#a169697945501b2d637a8c8632c79d727", null ]
+    [ "StaticClass", "a30027.html#a5acccf1f432553f0698db92e57ced21e", null ],
+    [ "Format", "a30027.html#a973fa76960ec5bf4d4be405a9428abcd", null ],
+    [ "UnknownData00", "a30027.html#aff60a2364ae8cace7e902afe010f8496", null ],
+    [ "UnknownData01", "a30027.html#ab11c4ab9c1883e3b19ee616c04c8744c", null ]
 ];

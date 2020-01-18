@@ -1,4 +1,5 @@
 var a31943 =
 [
-    [ "BasePose", "a31943.html#a0a9416eb5fb6dba5ff54646cdaf9d605", null ]
+    [ "CurveTable", "a31943.html#ae3781be1af534d19846e6dd4e147154d", null ],
+    [ "RowName", "a31943.html#adc3381e23a5a7c4e71f8326bc07b8c0c", null ]
 ];

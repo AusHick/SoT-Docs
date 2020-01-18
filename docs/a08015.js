@@ -1,9 +1,8 @@
 var a08015 =
 [
-    [ "MakeShipFactory", "a08015.html#a700b7594572f38ee182635deec075872", null ],
-    [ "SpawnSync", "a08015.html#a25405f3fe96ea64cde652b39a172b77b", null ],
-    [ "SpawnSyncWithDatabase", "a08015.html#a4b5e509ac14eaa0718962bf83edda7e6", null ],
-    [ "StaticClass", "a08015.html#af4e1fe64ce92fcacee56a707494abf9b", null ],
-    [ "Builders", "a08015.html#a204a5c247063ba9c6fda71b09cadbc93", null ],
-    [ "UnknownData00", "a08015.html#a2f874f6da412b0fdfec43432de0d1909", null ]
+    [ "Customize", "a08015.html#a9ad344d4bebb7a0a9582f02c2654e987", null ],
+    [ "MakeAsyncShipPartCustomization", "a08015.html#a76607098c266c9b052187899994fb9cf", null ],
+    [ "MakeSyncShipPartCustomization", "a08015.html#a9e2bc68ce6bd183574633cebafa3766c", null ],
+    [ "StaticClass", "a08015.html#aa3ea64460708f0c02f1d092aa51266fc", null ],
+    [ "UnknownData00", "a08015.html#a0a56c041d37ebe9ab1b112338ac9e270", null ]
 ];

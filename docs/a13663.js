@@ -1,6 +1,6 @@
 var a13663 =
 [
-    [ "DamageParams", "a13663.html#a67839b23c1729fd8cc9ae4166a2f1f38", null ],
-    [ "DamagerType", "a13663.html#a2f34957773bb973c62c19953bf841303", null ],
-    [ "UnknownData00", "a13663.html#a1cee5798f4ce9ac18c95fe929d0ccb05", null ]
+    [ "ChanceOfBeingBoobyTrapped", "a13663.html#a84ea17bb9c3995b6f7a6cc27a5331caf", null ],
+    [ "Rank", "a13663.html#a14fc7acb2041fba2ade276a2d0376ee5", null ],
+    [ "Spawners", "a13663.html#a610846871245c895be66c9761519b546", null ]
 ];

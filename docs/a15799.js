@@ -1,9 +1,8 @@
 var a15799 =
 [
-    [ "AnimationType", "a15799.html#affeef073636006a03de25e93786eb503", null ],
-    [ "BlendInTime", "a15799.html#aaa13676a7f107ea2d518a4d98d64998e", null ],
-    [ "BlendOutTime", "a15799.html#a1e829a9d2b84a8224e00944853083f87", null ],
-    [ "CycleData", "a15799.html#ab82a2504171deeda59d60a5d2ae43714", null ],
-    [ "MontageData", "a15799.html#a816598cf68cfa115fd764aa9cdba2e82", null ],
-    [ "UnknownData00", "a15799.html#a60e41ef19d8ca7e5cc51e090e691a42d", null ]
+    [ "DebugInterval", "a15799.html#a55ee6905bc287cd231adf7d846c2f82c", null ],
+    [ "EnterDuration", "a15799.html#af41bdf0f5308c22787e69a9827331fb4", null ],
+    [ "ExitDuration", "a15799.html#a62456a7ec8d896c2b4da958803d5e300", null ],
+    [ "FullOnDuration", "a15799.html#ac3d0e4540bd6ad7cbe295ee969a717c2", null ],
+    [ "UnknownData00", "a15799.html#a865e689466412b0051d01bcf362534f1", null ]
 ];

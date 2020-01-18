@@ -1,6 +1,5 @@
 var a16219 =
 [
-    [ "ForceFeedback", "a16219.html#a0a072a5f0cd23b2323a7b170d90eb619", null ],
-    [ "MinimumTensionFactor", "a16219.html#a6db9bfb64399ac796aed1d7aa5683b5b", null ],
-    [ "UnknownData00", "a16219.html#aaf223fc0407178823bbb9b3fca97e4ed", null ]
+    [ "LightingZoneParameters", "a16219.html#a2ad61224c0321168e6faea8c536553db", null ],
+    [ "Location", "a16219.html#a667d9f6c7a9e8fbf6562c0651dcc21ed", null ]
 ];

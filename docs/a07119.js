@@ -1,9 +1,6 @@
 var a07119 =
 [
-    [ "StaticClass", "a07119.html#abfb0e4edbe1be2ced196f498b7be2410", null ],
-    [ "DespawnParams", "a07119.html#adaae1e3d0367daa196ba7f9245357a25", null ],
-    [ "FiredFromActorParams", "a07119.html#a1e1e3bd9aa24c000795d936355f8603d", null ],
-    [ "HideInObjectParams", "a07119.html#a1dd870addfbb6f9183226200d62c2238", null ],
-    [ "SpawnParams", "a07119.html#a8a870bb159e1a86b7a88666c5207692c", null ],
-    [ "UnknownData00", "a07119.html#a373b94ff468461c09e04d2416b4145ef", null ]
+    [ "StaticClass", "a07119.html#aa21e545036542ffdbdf6d67c810d84e1", null ],
+    [ "Pawns", "a07119.html#a74adcaa7847856f4c34aa0c25100d950", null ],
+    [ "UnknownData00", "a07119.html#aed84a9c16d6fb7e2e160745f1e8382f4", null ]
 ];

@@ -1,5 +1,7 @@
 var a19067 =
 [
-    [ "UpdateStreamersPollIntervalSeconds", "a19067.html#a0591d2615eb3fce36c0e6046df8d41cc", null ],
-    [ "UpdateStreamersRateLimitSeconds", "a19067.html#a9063526252d649e9a32a8d5e9ea9106f", null ]
+    [ "CrewId", "a19067.html#a6e9e78c584f9e69ccec4a352af62cf30", null ],
+    [ "SessionType", "a19067.html#ab991fe380a8be1333dffc441f4b455f6", null ],
+    [ "UnknownData00", "a19067.html#a1e85b5e38fa1e8cc2b3cf5ec691a8d4f", null ],
+    [ "UserId", "a19067.html#a415b2c1a4286edb790cc1ccca0d6acca", null ]
 ];

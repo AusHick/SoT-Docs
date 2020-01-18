@@ -1,4 +1,5 @@
 var a14871 =
 [
-    [ "ItemId", "a14871.html#a156f0bdc2dfe4dfe80bbc8fbbb438a50", null ]
+    [ "CrateDesc", "a14871.html#aec332715c7ea6f9bd44199a1bfe4b145", null ],
+    [ "HandInOnTimeRewardId", "a14871.html#ab01ddef55a56c94eebfc295ec9048797", null ]
 ];

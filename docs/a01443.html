@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPawnActionStack Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FBlackboardKeySelector Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,48 @@ $(document).ready(function(){initNavTree('a01443.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01440.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPawnActionStack Struct Reference</div>  </div>
+<div class="title">SDK::FBlackboardKeySelector Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPawnActionStack:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBlackboardKeySelector:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01441.svg" width="291" height="272"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a01441.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1e376a8e28d1753ec67eb160ea4edde6"><td class="memItemLeft" align="right" valign="top"><a id="a1e376a8e28d1753ec67eb160ea4edde6"></a>
-class <a class="el" href="a01211.html">UPawnAction</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TopAction</b></td></tr>
-<tr class="separator:a1e376a8e28d1753ec67eb160ea4edde6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f6db9b8c6e5d5c3237113e737298c8c"><td class="memItemLeft" align="right" valign="top"><a id="a3f6db9b8c6e5d5c3237113e737298c8c"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a00891.html">UBlackboardKeyType</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AllowedTypes</b></td></tr>
+<tr class="separator:a3f6db9b8c6e5d5c3237113e737298c8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb4d0d3f2412a0c0fc7f66ee240c2571"><td class="memItemLeft" align="right" valign="top"><a id="abb4d0d3f2412a0c0fc7f66ee240c2571"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SelectedKeyName</b></td></tr>
+<tr class="separator:abb4d0d3f2412a0c0fc7f66ee240c2571"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e6d4b282dec01f2197fdb11358691a0"><td class="memItemLeft" align="right" valign="top"><a id="a7e6d4b282dec01f2197fdb11358691a0"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SelectedKeyType</b></td></tr>
+<tr class="separator:a7e6d4b282dec01f2197fdb11358691a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade7415d4e9edf030e341d1f01fde8dd3"><td class="memItemLeft" align="right" valign="top"><a id="ade7415d4e9edf030e341d1f01fde8dd3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>SelectedKeyID</b></td></tr>
+<tr class="separator:ade7415d4e9edf030e341d1f01fde8dd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af455c4cbf88ce9491dfccf3c931a03e5"><td class="memItemLeft" align="right" valign="top"><a id="af455c4cbf88ce9491dfccf3c931a03e5"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:af455c4cbf88ce9491dfccf3c931a03e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d084177014fde2edd3fe2ea15e734fb"><td class="memItemLeft" align="right" valign="top"><a id="a2d084177014fde2edd3fe2ea15e734fb"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNoneIsAllowedValue</b>: 1</td></tr>
+<tr class="separator:a2d084177014fde2edd3fe2ea15e734fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8d32c065dffe2cf18e31db8251c1133"><td class="memItemLeft" align="right" valign="top"><a id="ad8d32c065dffe2cf18e31db8251c1133"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:ad8d32c065dffe2cf18e31db8251c1133"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01443.html">FPawnActionStack</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01443.html">FBlackboardKeySelector</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:32 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

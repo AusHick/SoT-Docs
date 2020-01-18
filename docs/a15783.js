@@ -1,6 +1,8 @@
 var a15783 =
 [
-    [ "In", "a15783.html#aaef62e070122edf6508f598a4cd6c68e", null ],
-    [ "Loop", "a15783.html#ab7f1671bf2ebdd18bc22d4a842b6aaee", null ],
-    [ "Out", "a15783.html#a419e0b52bf1f90ad7c76b90d997bdd5f", null ]
+    [ "AttachToComponent", "a15783.html#ae38b784be125712379ec5eb8362b875b", null ],
+    [ "EmitterTemplate", "a15783.html#a2e0dbb32e29eba4cabfdb30c933b9228", null ],
+    [ "Owner", "a15783.html#a21e6b1ab9695b1744423b3da3cf37641", null ],
+    [ "UnknownData00", "a15783.html#a630d7e78a9bfa75535dc1a2203d41b7d", null ],
+    [ "UnknownData01", "a15783.html#a4eaf3518316073be16961dd390f6bbcb", null ]
 ];

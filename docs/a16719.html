@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FEventCharacterDrowning Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FServerTelemetryConfigurationSettings Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,63 @@ $(document).ready(function(){initNavTree('a16719.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a16716.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FEventCharacterDrowning Struct Reference</div>  </div>
+<div class="title">SDK::FServerTelemetryConfigurationSettings Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEventCharacterDrowning:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServerTelemetryConfigurationSettings:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a16717.svg" width="218" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a16717.svg" width="612" height="434"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad73e449ce4499ada088b1cfc48707507"><td class="memItemLeft" align="right" valign="top"><a id="ad73e449ce4499ada088b1cfc48707507"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Drowning</b></td></tr>
-<tr class="separator:ad73e449ce4499ada088b1cfc48707507"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d257ace1361e7e777a64fe22c43515f"><td class="memItemLeft" align="right" valign="top"><a id="a2d257ace1361e7e777a64fe22c43515f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PlayerHeartbeatInterval</b></td></tr>
+<tr class="separator:a2d257ace1361e7e777a64fe22c43515f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a08d9283852f6293d917f16987b6fe6"><td class="memItemLeft" align="right" valign="top"><a id="a5a08d9283852f6293d917f16987b6fe6"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_ItemEquip</b></td></tr>
+<tr class="separator:a5a08d9283852f6293d917f16987b6fe6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12beb48bb4de7ee7d4a6f8b69fa24013"><td class="memItemLeft" align="right" valign="top"><a id="a12beb48bb4de7ee7d4a6f8b69fa24013"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_ItemUsageEnd</b></td></tr>
+<tr class="separator:a12beb48bb4de7ee7d4a6f8b69fa24013"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6011823e6ea3ef76052ae793db0e0418"><td class="memItemLeft" align="right" valign="top"><a id="a6011823e6ea3ef76052ae793db0e0418"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_ItemUsageStart</b></td></tr>
+<tr class="separator:a6011823e6ea3ef76052ae793db0e0418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c91c2ab5efab696f82dc9668f5d24ba"><td class="memItemLeft" align="right" valign="top"><a id="a7c91c2ab5efab696f82dc9668f5d24ba"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_ObjectUsageEnd</b></td></tr>
+<tr class="separator:a7c91c2ab5efab696f82dc9668f5d24ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79568b0fdab035aff3e6b1af31475eff"><td class="memItemLeft" align="right" valign="top"><a id="a79568b0fdab035aff3e6b1af31475eff"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_ObjectUsageStart</b></td></tr>
+<tr class="separator:a79568b0fdab035aff3e6b1af31475eff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a082dd6c9215993cf3da45f1127bbc59d"><td class="memItemLeft" align="right" valign="top"><a id="a082dd6c9215993cf3da45f1127bbc59d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_PlayerAction</b></td></tr>
+<tr class="separator:a082dd6c9215993cf3da45f1127bbc59d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a3cfa5bb9995a314189aed65863b850"><td class="memItemLeft" align="right" valign="top"><a id="a8a3cfa5bb9995a314189aed65863b850"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_PlayerChangedLoadout</b></td></tr>
+<tr class="separator:a8a3cfa5bb9995a314189aed65863b850"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45526b58178460babaf86b5eee1fcb0c"><td class="memItemLeft" align="right" valign="top"><a id="a45526b58178460babaf86b5eee1fcb0c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_PlayerChangedShipLoadout</b></td></tr>
+<tr class="separator:a45526b58178460babaf86b5eee1fcb0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55e1b18ad35564f79a6ebfdeb8c4355b"><td class="memItemLeft" align="right" valign="top"><a id="a55e1b18ad35564f79a6ebfdeb8c4355b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_PlayerHeartbeat</b></td></tr>
+<tr class="separator:a55e1b18ad35564f79a6ebfdeb8c4355b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee2603c21a806b614fd028f8b388476b"><td class="memItemLeft" align="right" valign="top"><a id="aee2603c21a806b614fd028f8b388476b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TelemetryEnabled_PlayerPerformedEmote</b></td></tr>
+<tr class="separator:aee2603c21a806b614fd028f8b388476b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7ab4d142fcbc961b73d03f0023d3b7a3"><td class="memItemLeft" align="right" valign="top"><a id="a7ab4d142fcbc961b73d03f0023d3b7a3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x2]</td></tr>
+<tr class="separator:a7ab4d142fcbc961b73d03f0023d3b7a3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16719.html">FEventCharacterDrowning</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:23 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16719.html">FServerTelemetryConfigurationSettings</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:46 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

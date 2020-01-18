@@ -1,6 +1,8 @@
 var a30951 =
 [
-    [ "ClipIDNumber", "a30951.html#a68350bbe75cac88562a062ce6ba27b5c", null ],
-    [ "Duration", "a30951.html#a17aae1f9182a4fe6c1e67c9825cbe954", null ],
-    [ "Time", "a30951.html#ab46f0ae2f7d4d7cb83fb5a63ca2c6aba", null ]
+    [ "InitialState", "a30951.html#ace80bc43f76ff4582532702f68c50b1b", null ],
+    [ "MachineName", "a30951.html#a53ca2151c1e91722518a217987dfe7f0", null ],
+    [ "States", "a30951.html#a9a19f8fb9d47c7748e05254eae67f296", null ],
+    [ "Transitions", "a30951.html#a559a6e402d20d016fb82b163a6702aa0", null ],
+    [ "UnknownData00", "a30951.html#a32c80f5162c777803aaaa57f4ee7f250", null ]
 ];

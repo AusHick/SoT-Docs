@@ -1,6 +1,6 @@
 var a03267 =
 [
-    [ "StaticClass", "a03267.html#aa1e88bb68422136a7ac714664e832857", null ],
-    [ "Desc", "a03267.html#ae8d103953cdcc155e5de54d2e97070d6", null ],
-    [ "UnknownData00", "a03267.html#ac35562c36c550b3461088dd0dc9c3a56", null ]
+    [ "StaticClass", "a03267.html#aee710148885dd46cacbc06b4f7c49120", null ],
+    [ "RadiusFadeCurveNormalised", "a03267.html#abc5ec495aea1c4deea31b1869560c5b4", null ],
+    [ "UnknownData00", "a03267.html#a10e8441e9e352ff5c07755f7713e8e71", null ]
 ];

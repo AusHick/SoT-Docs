@@ -1,7 +1,6 @@
 var a35959 =
 [
-    [ "DespawnReason", "a35959.html#a7a6aaab1a20efca3de5e87d7b7b30d7c", null ],
-    [ "Location", "a35959.html#a53ef15c50671455f9d5b9c3db61f9fa1", null ],
-    [ "UnknownData00", "a35959.html#abec495226017958491ea080440c47cb0", null ],
-    [ "WatercraftId", "a35959.html#afa7445a1571d7179a832ab7a425888a8", null ]
+    [ "OnOverlapBegin", "a35959.html#a859aa80898c0a3a7e006d718d7743092", null ],
+    [ "OnOverlapEnd", "a35959.html#af4be40714713e80c57e0b3861772bed2", null ],
+    [ "StaticClass", "a35959.html#a17ba991eb440433e0fd70d7817e94b7b", null ]
 ];

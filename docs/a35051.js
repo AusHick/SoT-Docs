@@ -1,7 +1,6 @@
 var a35051 =
 [
-    [ "StaticClass", "a35051.html#ac1b57f6dccfbff02ce4c7a5ee36c7fc4", null ],
-    [ "IslandName", "a35051.html#aac83b618551aeefdaee1eed08a288d3a", null ],
-    [ "Location", "a35051.html#ae49bc0049e525060bbef76d20ee2f60b", null ],
-    [ "MapId", "a35051.html#ade348e79e96f174470728063e2c27faf", null ]
+    [ "LatentCallback", "a35051.html#a4d3a12b0dd42bc4d73e190df0b8997c0", null ],
+    [ "StaticClass", "a35051.html#adb859bbc33a316f12145b49302ae6483", null ],
+    [ "UnknownData00", "a35051.html#adf6f7b5a0d49b038d92c6515c518711d", null ]
 ];

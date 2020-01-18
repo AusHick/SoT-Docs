@@ -1,6 +1,5 @@
 var a20515 =
 [
-    [ "CompanyProgress", "a20515.html#ad7f9dbd98aeefb892f8659d231c09356", null ],
-    [ "PirateIdentity", "a20515.html#abf1b8357eeaa6e87f7e76df03b14ef9d", null ],
-    [ "RequestID", "a20515.html#a05d918c25b83f0e404721312b90cc459", null ]
+    [ "CurrentAimSensitivity", "a20515.html#ad6e4f4bb9a0285a00e5b4a8008543e27", null ],
+    [ "SettingParams", "a20515.html#a2682886d9ab95fae1267f75ca12437fc", null ]
 ];

@@ -1,6 +1,8 @@
 var a23511 =
 [
-    [ "Mast", "a23511.html#ab3ae48142d07ddb75179331dcc6eee13", null ],
-    [ "NewMastDamageState", "a23511.html#a48f43c6166a0f41e09c5c0f377977b61", null ],
-    [ "UnknownData00", "a23511.html#a35ec2704887c855f4485e87623a6c4d0", null ]
+    [ "ClamberOffTop", "a23511.html#a06bc068c24f3313b91cc3b5950622363", null ],
+    [ "ClimbOffBottom", "a23511.html#afbbedf74d67452ef3fc0e59cb2fa1488", null ],
+    [ "ClimbOffTop", "a23511.html#a913fa188d0d184bf2792dc6b41865c8d", null ],
+    [ "ClimbOnBottom", "a23511.html#a3a59f921618ce73a4ffac0a5bd2c77c9", null ],
+    [ "ClimbOnTop", "a23511.html#a4360342d92e9eff0a6adab37026e688e", null ]
 ];

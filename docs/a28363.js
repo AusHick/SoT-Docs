@@ -1,8 +1,7 @@
 var a28363 =
 [
-    [ "StaticClass", "a28363.html#a1e01d98101fe9cedcda952aa65b46f32", null ],
-    [ "BoneName", "a28363.html#a4bb6a5a3f3766c310c500917cbabc665", null ],
-    [ "bPosition", "a28363.html#af601f3abb9cd2ff25897fc44eb4eb707", null ],
-    [ "ReferenceIndex", "a28363.html#a9302d46260155c30912297cdf32217ee", null ],
-    [ "UnknownData00", "a28363.html#ab629a87320aa029c2d78f0b6ea3a0812", null ]
+    [ "StaticClass", "a28363.html#a0abfe351280e11a1de22a1feccbd6c0e", null ],
+    [ "LookupTrack", "a28363.html#acbf8d730deacb036bb4b32a3b30ed9f6", null ],
+    [ "MoveAxis", "a28363.html#a43f693feae0c936bd5028df4bf956229", null ],
+    [ "UnknownData00", "a28363.html#aae9a1f4139e4e319dbf46cba22a6b665", null ]
 ];

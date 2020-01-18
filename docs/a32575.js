@@ -1,15 +1,9 @@
 var a32575 =
 [
-    [ "ActivateMurkBP", "a32575.html#aca6aa599b1a4570498fd824d6823aa38", null ],
-    [ "DeactivateMurkBP", "a32575.html#aa8f391a47f9837bc98e72711cdc01ab2", null ],
-    [ "StaticClass", "a32575.html#a83342d0ef3e20c0f8b5e14ebd0b733aa", null ],
-    [ "InnerSheet", "a32575.html#a1c5cf3d170a181580828402946b6380a", null ],
-    [ "InnerSheetMaterialInstance", "a32575.html#aaa5fce8aa5669ddc6b43c5a414462820", null ],
-    [ "OuterSheet", "a32575.html#ad0a25feab160b244e917de0258f30074", null ],
-    [ "OuterSheetMaterialInstance", "a32575.html#a28fb3ddc294730f8126661872d8b0826", null ],
-    [ "SceneRootComponent", "a32575.html#ab09cf941780655282d0a463d89337034", null ],
-    [ "UnderwaterSheetHeightScale", "a32575.html#adbf27a0bbc7f5b98979d5502146217c6", null ],
-    [ "UnknownData00", "a32575.html#ab0019b0c51b21de9d8cc6f015dc46013", null ],
-    [ "UnknownData01", "a32575.html#a2e7a39e166a183e6e1562cda9bc4145f", null ],
-    [ "WaterModifierZone", "a32575.html#a35b2324a373c9b760f0224c3f2b06f63", null ]
+    [ "EndTask", "a32575.html#a2366e9a2d28d118f8a1a848180978f81", null ],
+    [ "GenericGameplayTaskDelegate__DelegateSignature", "a32575.html#a27e7bd17f14a333657e273d89cebce92", null ],
+    [ "ReadyForActivation", "a32575.html#ac78a71419b0d65b1ce7b9b5b174f6f27", null ],
+    [ "StaticClass", "a32575.html#a4048f748f211aabac02fbbf97a4860ee", null ],
+    [ "InstanceName", "a32575.html#a7969c128cf012c945ecb4b40e36fe2e8", null ],
+    [ "UnknownData00", "a32575.html#a6c91e1ff4b25b8a406fadcefa7e21854", null ]
 ];

@@ -1,5 +1,6 @@
 var a16199 =
 [
-    [ "FishDataAsset", "a16199.html#ae70f4d9337e3638aa878f06d99f21cfe", null ],
-    [ "SetupDataAsset", "a16199.html#a349b1f4186f1a26581e56a39756f5c39", null ]
+    [ "InnerRadius", "a16199.html#aabb9b5a19a3bcc0e229aba41db0d5c7f", null ],
+    [ "OuterRadius", "a16199.html#aed1ea36fecba6118512469eea0e5e06e", null ],
+    [ "Strength", "a16199.html#acb5cbad283f319b9acfd64e0b2fc6e05", null ]
 ];

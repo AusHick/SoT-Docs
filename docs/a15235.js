@@ -1,7 +1,7 @@
 var a15235 =
 [
-    [ "RiddleActionLocationOffset", "a15235.html#af7f7bf3823ecac12bd413c9ae6cb43b6", null ],
-    [ "RiddleLocation", "a15235.html#a6a88292c60bd416fb002141245db5e26", null ],
-    [ "UnknownData00", "a15235.html#a617177d8544b24b960f042dd99c848db", null ],
-    [ "Weight", "a15235.html#aba23f473efcc0eb3429e76c332cd9eb4", null ]
+    [ "IsSuperPremium", "a15235.html#a754e7be29ad2cd629065de8b76a82739", null ],
+    [ "LockedReason", "a15235.html#a34f0093ed1835cf944f67ebc42874cdf", null ],
+    [ "Offer", "a15235.html#ad93fff8e1c475eaf6111578dd58fef59", null ],
+    [ "UnknownData00", "a15235.html#ae38d9e7f33956c42e880c94f4f8ac0b6", null ]
 ];

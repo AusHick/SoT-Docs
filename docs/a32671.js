@@ -1,6 +1,7 @@
 var a32671 =
 [
-    [ "BehaviourType", "a32671.html#a8e129b099488747c9bc8d33e214f3860", null ],
-    [ "UnknownData00", "a32671.html#aa4d111e93900e338cebd351336058365", null ],
-    [ "Weight", "a32671.html#a32f214b632885188fac2fd7a59a5c094", null ]
+    [ "StaticClass", "a32671.html#a32797bb2087abb184fbc4efc637c0279", null ],
+    [ "CharacterInteractionComponent", "a32671.html#a4f50ef59a81b029236f6c9e083390b09", null ],
+    [ "UnknownData00", "a32671.html#a6e1fd7a0c87ee05d27c17b48596508a7", null ],
+    [ "UnknownData01", "a32671.html#abdf0e4ba057b42a3defecfd74a601956", null ]
 ];

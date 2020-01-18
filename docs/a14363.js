@@ -1,7 +1,9 @@
 var a14363 =
 [
-    [ "BaseForwardSpeed", "a14363.html#a20419a0b95fe17c20768822410627e89", null ],
-    [ "RightTriggerHeldSpdAmp", "a14363.html#ae256ea9f74653a04baa74899dfea4a54", null ],
-    [ "RightTriggerHeldYawAmp", "a14363.html#a24328c207c0da830a7c5175d21ab15d2", null ],
-    [ "YawSpeed", "a14363.html#a8c7883bdb6537dca7f0b80e78732e40a", null ]
+    [ "CutsceneFirstPersonMeshOffset", "a14363.html#a7df29af159591ceb21b496a9298790c9", null ],
+    [ "CutsceneRotation", "a14363.html#a51572b60e4ad69a9e3155db0458f725e", null ],
+    [ "FadeInDuration", "a14363.html#a414eb10f1fb629f28894a0458b963087", null ],
+    [ "FirstPersonAnimName", "a14363.html#a2931709cbecbc57c73b414534262e3a9", null ],
+    [ "FirstPersonMeshBoundsScale", "a14363.html#a62cff3d00575d41854d55ac6f1a2e33f", null ],
+    [ "TimeBeforeFadeIn", "a14363.html#aca0ff2d41dadd78116e5f02c51802293", null ]
 ];

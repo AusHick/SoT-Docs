@@ -1,6 +1,8 @@
 var a13371 =
 [
-    [ "Params", "a13371.html#a642cbfd908e4aed9ec45e0f47ba83ed0", null ],
-    [ "UnknownData00", "a13371.html#ae7cc07a6025b9452996421cc7f672aae", null ],
-    [ "Weight", "a13371.html#afefbe5f3d81ca3ade29a54557fd09774", null ]
+    [ "BufferTimeWhenChangingItems", "a13371.html#a0fe362fc70878321e76de89cd69ea4f8", null ],
+    [ "MaxMissFiringTargetInFrontOffset", "a13371.html#a0026fba872727a016c874c1cf21952d4", null ],
+    [ "MinMissFiringTargetInFrontOffset", "a13371.html#ae30ca5cd5631d0abba4a6609ee03f372", null ],
+    [ "MissFiringHeightOffset", "a13371.html#a0d9046ac4cb7922ee3b666a8dd1ebf4c", null ],
+    [ "MissFiringTargetInFrontOffset", "a13371.html#a2dfb8528780102616b400c457d4fadb5", null ]
 ];

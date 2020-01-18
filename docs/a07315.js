@@ -1,6 +1,8 @@
 var a07315 =
 [
-    [ "StaticClass", "a07315.html#a0e35b855aa5409034b4ee13dc56c2dbf", null ],
-    [ "PendingRequests", "a07315.html#ad05f092fb8cf6a213263119283775c57", null ],
-    [ "UnknownData00", "a07315.html#a7c7851a05df35b7e974c4bf59f79eb6a", null ]
+    [ "StaticClass", "a07315.html#a62d3d22cce6f739cb3257ac1e6bd9c28", null ],
+    [ "AnimationNameToPlay", "a07315.html#a87260f943e56b6ecdddfeff12fffdbd5", null ],
+    [ "DialogueData", "a07315.html#ad2ac16e0d9e1e22694c57ad4d0532e54", null ],
+    [ "LocalMusicZone", "a07315.html#a9e366aa8378fc9538e7ff392542f3c48", null ],
+    [ "SpeakingActorLocalisableName", "a07315.html#a95c9ed8aaa75b3abd3c5e13bc27570fd", null ]
 ];

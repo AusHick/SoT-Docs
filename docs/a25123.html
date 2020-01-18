@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FEventAIDebugTextUpdated Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAITypeData Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,60 @@ $(document).ready(function(){initNavTree('a25123.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a25120.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FEventAIDebugTextUpdated Struct Reference</div>  </div>
+<div class="title">SDK::FAITypeData Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEventAIDebugTextUpdated:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAITypeData:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a25121.svg" width="230" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a25121.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aaff480260b224473f146e4ed520b0ed1"><td class="memItemLeft" align="right" valign="top"><a id="aaff480260b224473f146e4ed520b0ed1"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x1]</td></tr>
-<tr class="separator:aaff480260b224473f146e4ed520b0ed1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c642da959ff1055894a69c01381a03b"><td class="memItemLeft" align="right" valign="top"><a id="a2c642da959ff1055894a69c01381a03b"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AITypeName</b></td></tr>
+<tr class="separator:a2c642da959ff1055894a69c01381a03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd5ddf0c1b19cb6c08507853d78e2a69"><td class="memItemLeft" align="right" valign="top"><a id="afd5ddf0c1b19cb6c08507853d78e2a69"></a>
+struct <a class="el" href="a26423.html">FStringClassReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AIPawnClass</b></td></tr>
+<tr class="separator:afd5ddf0c1b19cb6c08507853d78e2a69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f524e48b6b81fac3baf7de8e313f39e"><td class="memItemLeft" align="right" valign="top"><a id="a7f524e48b6b81fac3baf7de8e313f39e"></a>
+struct <a class="el" href="a26419.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultDebugSkillset</b></td></tr>
+<tr class="separator:a7f524e48b6b81fac3baf7de8e313f39e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab654db06211cddb1f59bfd6ddedef1c3"><td class="memItemLeft" align="right" valign="top"><a id="ab654db06211cddb1f59bfd6ddedef1c3"></a>
+struct <a class="el" href="a26419.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultDebugLoadout</b></td></tr>
+<tr class="separator:ab654db06211cddb1f59bfd6ddedef1c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d58253fc649f7c93d4cd305411f85f6"><td class="memItemLeft" align="right" valign="top"><a id="a9d58253fc649f7c93d4cd305411f85f6"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultDebugAIClassId</b></td></tr>
+<tr class="separator:a9d58253fc649f7c93d4cd305411f85f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a751a57a46c42a47cc36ac39e064a24b8"><td class="memItemLeft" align="right" valign="top"><a id="a751a57a46c42a47cc36ac39e064a24b8"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>RequireNavMesh</b></td></tr>
+<tr class="separator:a751a57a46c42a47cc36ac39e064a24b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69c6a519ddaa44326df891f59faaf2e4"><td class="memItemLeft" align="right" valign="top"><a id="a69c6a519ddaa44326df891f59faaf2e4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a69c6a519ddaa44326df891f59faaf2e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73bdc95fd19a6d7cd0627ccfbc72b79f"><td class="memItemLeft" align="right" valign="top"><a id="a73bdc95fd19a6d7cd0627ccfbc72b79f"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>AIRegionCostUnits</b></td></tr>
+<tr class="separator:a73bdc95fd19a6d7cd0627ccfbc72b79f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a545a4c2913ca126326073f7cfdaecf80"><td class="memItemLeft" align="right" valign="top"><a id="a545a4c2913ca126326073f7cfdaecf80"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>AIWorldCostUnits</b></td></tr>
+<tr class="separator:a545a4c2913ca126326073f7cfdaecf80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0afce89f79316b0d0c74634817d925c"><td class="memItemLeft" align="right" valign="top"><a id="ae0afce89f79316b0d0c74634817d925c"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FeatureToggle</b></td></tr>
+<tr class="separator:ae0afce89f79316b0d0c74634817d925c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf78e1f3883ad1e5b5e89c7f07fbf7bd"><td class="memItemLeft" align="right" valign="top"><a id="aaf78e1f3883ad1e5b5e89c7f07fbf7bd"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:aaf78e1f3883ad1e5b5e89c7f07fbf7bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25123.html">FEventAIDebugTextUpdated</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25123.html">FAITypeData</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,5 +1,6 @@
 var a30875 =
 [
-    [ "Amplitude", "a30875.html#aaaa8135b1506b1efc12446455659ba8d", null ],
-    [ "Frequency", "a30875.html#a60707420053af3c9f5047c483460817b", null ]
+    [ "DefaultDiffuseTexture", "a30875.html#a95917e0786f40c654ec2a9769e7a6978", null ],
+    [ "DefaultMaterialAsset", "a30875.html#a84a4bb000fcb3adb3e2380d589610532", null ],
+    [ "DefaultNormalTexture", "a30875.html#a0474ffececae22726e2f37b79ff2db90", null ]
 ];

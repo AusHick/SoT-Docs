@@ -1,15 +1,10 @@
 var a34571 =
 [
-    [ "ActiveBrush", "a34571.html#aa3ae8d14f3711961bb94a3948265f541", null ],
-    [ "CloseButtonStyle", "a34571.html#a17e34ae19032603393605269ee7b5f48", null ],
-    [ "ColorOverlayBrush", "a34571.html#a8d49bf4fffa1ce514be51d1d546d23fa", null ],
-    [ "ContentAreaBrush", "a34571.html#a5f0d66712308dc12b1652de4c1ee4a3c", null ],
-    [ "FlashColor", "a34571.html#af2afe35d51bd692f295aaaca4f0f5875", null ],
-    [ "ForegroundBrush", "a34571.html#ac7d8a271347f9e4e3c0b64ef7301b01f", null ],
-    [ "HoveredBrush", "a34571.html#a706eef050300b4960837c75fa9a2ccc6", null ],
-    [ "NormalBrush", "a34571.html#af1a52abea9dba25a5524e18f791ed6b9", null ],
-    [ "OverlapWidth", "a34571.html#a42785bcd2c40dfbbdb631e60a8c9e495", null ],
-    [ "TabPadding", "a34571.html#a16263a3e1be924cb34601ffcbbb866ca", null ],
-    [ "TabWellBrush", "a34571.html#a402d8b1e2f7402dca5a6eeb98088f120", null ],
-    [ "UnknownData00", "a34571.html#a4299d49b85a69ad2765e03939d391bb3", null ]
+    [ "MatchmakingHopper", "a34571.html#af31da00f328ef74bf7089f6b90694527", null ],
+    [ "MaxMatchmakingPlayers", "a34571.html#abff767230ac341d6ae4c3d1cfa7b2a7e", null ],
+    [ "MaxPlayers", "a34571.html#a7bde490603950a98d2546153bb1f02a4", null ],
+    [ "SessionType", "a34571.html#a3c8b7ee0f4d4796c0017a05bf59bb1d1", null ],
+    [ "ShipSize", "a34571.html#a7a55fbf374c7716dd46ad6531d532639", null ],
+    [ "TemplateName", "a34571.html#af20ee8118161973bafb499d8b82f88d1", null ],
+    [ "UnknownData00", "a34571.html#ae04ca192dac6724b7e116030b5934ccb", null ]
 ];

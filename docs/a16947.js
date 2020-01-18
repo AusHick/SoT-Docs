@@ -1,4 +1,6 @@
 var a16947 =
 [
-    [ "UnknownData00", "a16947.html#a08646a499d656a145ed1a9b7b866b08a", null ]
+    [ "BlendTime", "a16947.html#acc8e99d872c6df259f3345501ba5ccd9", null ],
+    [ "PitchAngle", "a16947.html#a256acd4308ee058ec31a9b64ed117af8", null ],
+    [ "YawAngle", "a16947.html#a3e6c255898ffc4f170fe02e796ba8cbc", null ]
 ];

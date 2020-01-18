@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAttenuationSettings Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FFOscillator Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,94 +87,39 @@ $(document).ready(function(){initNavTree('a30463.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30460.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAttenuationSettings Struct Reference</div>  </div>
+<div class="title">SDK::FFOscillator Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAttenuationSettings:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFOscillator:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30461.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a30461.svg" width="412" height="346"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a7964cb22a62dd388c527098d0f3d08c6"><td class="memItemLeft" align="right" valign="top"><a id="a7964cb22a62dd388c527098d0f3d08c6"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAttenuate</b>: 1</td></tr>
-<tr class="separator:a7964cb22a62dd388c527098d0f3d08c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9c4ef79324acbdf22dee3a83834f9891"><td class="memItemLeft" align="right" valign="top"><a id="a9c4ef79324acbdf22dee3a83834f9891"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bSpatialize</b>: 1</td></tr>
-<tr class="separator:a9c4ef79324acbdf22dee3a83834f9891"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d2126dcfc349a1a939df9a7346d111e"><td class="memItemLeft" align="right" valign="top"><a id="a3d2126dcfc349a1a939df9a7346d111e"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAttenuateWithLPF</b>: 1</td></tr>
-<tr class="separator:a3d2126dcfc349a1a939df9a7346d111e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25f09d2bfab465c20d5a7fc009e9f872"><td class="memItemLeft" align="right" valign="top"><a id="a25f09d2bfab465c20d5a7fc009e9f872"></a>
+<tr class="memitem:a5c3d71c3d0dce78ad98a0bfed47a6b61"><td class="memItemLeft" align="right" valign="top"><a id="a5c3d71c3d0dce78ad98a0bfed47a6b61"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Amplitude</b></td></tr>
+<tr class="separator:a5c3d71c3d0dce78ad98a0bfed47a6b61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a871c14b4bed4d98f60fc65b0416a97d4"><td class="memItemLeft" align="right" valign="top"><a id="a871c14b4bed4d98f60fc65b0416a97d4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Frequency</b></td></tr>
+<tr class="separator:a871c14b4bed4d98f60fc65b0416a97d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefc49b7464711da05e7053cdd873482b"><td class="memItemLeft" align="right" valign="top"><a id="aefc49b7464711da05e7053cdd873482b"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EInitialOscillatorOffset &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>InitialOffset</b></td></tr>
+<tr class="separator:aefc49b7464711da05e7053cdd873482b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f1c1b9ec965b114ff0fbe125a2e1ef3"><td class="memItemLeft" align="right" valign="top"><a id="a9f1c1b9ec965b114ff0fbe125a2e1ef3"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a25f09d2bfab465c20d5a7fc009e9f872"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59eb7d931339ad086887ee892ae243ea"><td class="memItemLeft" align="right" valign="top"><a id="a59eb7d931339ad086887ee892ae243ea"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ESoundDistanceModel &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DistanceAlgorithm</b></td></tr>
-<tr class="separator:a59eb7d931339ad086887ee892ae243ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2ce5fb732bcb1e82ca8e957f8aae043"><td class="memItemLeft" align="right" valign="top"><a id="aa2ce5fb732bcb1e82ca8e957f8aae043"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
-<tr class="separator:aa2ce5fb732bcb1e82ca8e957f8aae043"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab682c69a1d5820d3a7ea870356ecb6cf"><td class="memItemLeft" align="right" valign="top"><a id="ab682c69a1d5820d3a7ea870356ecb6cf"></a>
-struct <a class="el" href="a30283.html">FRuntimeFloatCurve</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CustomAttenuationCurve</b></td></tr>
-<tr class="separator:ab682c69a1d5820d3a7ea870356ecb6cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab919acd144f10188a365a37bc453a829"><td class="memItemLeft" align="right" valign="top"><a id="ab919acd144f10188a365a37bc453a829"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ESoundDistanceCalc &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DistanceType</b></td></tr>
-<tr class="separator:ab919acd144f10188a365a37bc453a829"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a344047389733868b8a188031cfca7ba3"><td class="memItemLeft" align="right" valign="top"><a id="a344047389733868b8a188031cfca7ba3"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EAttenuationShape &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AttenuationShape</b></td></tr>
-<tr class="separator:a344047389733868b8a188031cfca7ba3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ef7ac12ecc13ed5b8a6abcdcad34500"><td class="memItemLeft" align="right" valign="top"><a id="a1ef7ac12ecc13ed5b8a6abcdcad34500"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x2]</td></tr>
-<tr class="separator:a1ef7ac12ecc13ed5b8a6abcdcad34500"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a47fb28af8d84552f7a90afbd32f343e2"><td class="memItemLeft" align="right" valign="top"><a id="a47fb28af8d84552f7a90afbd32f343e2"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>dBAttenuationAtMax</b></td></tr>
-<tr class="separator:a47fb28af8d84552f7a90afbd32f343e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7d40bc166e015763edd5968ac94ae52b"><td class="memItemLeft" align="right" valign="top"><a id="a7d40bc166e015763edd5968ac94ae52b"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>OmniRadius</b></td></tr>
-<tr class="separator:a7d40bc166e015763edd5968ac94ae52b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac32e229c362b260cd153c1208c271ec"><td class="memItemLeft" align="right" valign="top"><a id="aac32e229c362b260cd153c1208c271ec"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ESoundSpatializationAlgorithm &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpatializationAlgorithm</b></td></tr>
-<tr class="separator:aac32e229c362b260cd153c1208c271ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad7f33637a0040d6c9eb5a8f132f29992"><td class="memItemLeft" align="right" valign="top"><a id="ad7f33637a0040d6c9eb5a8f132f29992"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b> [0x3]</td></tr>
-<tr class="separator:ad7f33637a0040d6c9eb5a8f132f29992"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7b1e8b02a85275139ab8f818f40214d"><td class="memItemLeft" align="right" valign="top"><a id="ab7b1e8b02a85275139ab8f818f40214d"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>RadiusMin</b></td></tr>
-<tr class="separator:ab7b1e8b02a85275139ab8f818f40214d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0b7c2fff6cb87b00cee8ba3e6ae13d5"><td class="memItemLeft" align="right" valign="top"><a id="ac0b7c2fff6cb87b00cee8ba3e6ae13d5"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>RadiusMax</b></td></tr>
-<tr class="separator:ac0b7c2fff6cb87b00cee8ba3e6ae13d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b72ca014124dd78edb0d9d7ec5588d6"><td class="memItemLeft" align="right" valign="top"><a id="a7b72ca014124dd78edb0d9d7ec5588d6"></a>
-struct <a class="el" href="a26075.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AttenuationShapeExtents</b></td></tr>
-<tr class="separator:a7b72ca014124dd78edb0d9d7ec5588d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6a142ad3571bf797cd1120083f6aec68"><td class="memItemLeft" align="right" valign="top"><a id="a6a142ad3571bf797cd1120083f6aec68"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ConeOffset</b></td></tr>
-<tr class="separator:a6a142ad3571bf797cd1120083f6aec68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a623b20815ab1f580a127dc26a1dd52a0"><td class="memItemLeft" align="right" valign="top"><a id="a623b20815ab1f580a127dc26a1dd52a0"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>FalloffDistance</b></td></tr>
-<tr class="separator:a623b20815ab1f580a127dc26a1dd52a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9a6d85bff30a7fa1c6bda8643b753a6"><td class="memItemLeft" align="right" valign="top"><a id="ac9a6d85bff30a7fa1c6bda8643b753a6"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>LPFRadiusMin</b></td></tr>
-<tr class="separator:ac9a6d85bff30a7fa1c6bda8643b753a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa766c62471c1e2f2e7d343b85feff49d"><td class="memItemLeft" align="right" valign="top"><a id="aa766c62471c1e2f2e7d343b85feff49d"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>LPFRadiusMax</b></td></tr>
-<tr class="separator:aa766c62471c1e2f2e7d343b85feff49d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d1127873c84149765baf70d4b9bf48b"><td class="memItemLeft" align="right" valign="top"><a id="a5d1127873c84149765baf70d4b9bf48b"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b> [0x4]</td></tr>
-<tr class="separator:a5d1127873c84149765baf70d4b9bf48b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a9f1c1b9ec965b114ff0fbe125a2e1ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30463.html">FAttenuationSettings</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30463.html">FFOscillator</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,6 +1,5 @@
 var a14715 =
 [
-    [ "ClothingLoadout", "a14715.html#aa2e516693c24c9f10fd36db50cda55ec", null ],
-    [ "ItemLoadout", "a14715.html#a7fbed9cfc8d9046cddaa53d7025df2b5", null ],
-    [ "PetLoadout", "a14715.html#ab814e2e9f07eb12313a4e266d4087f22", null ]
+    [ "FlameOfFateType", "a14715.html#adf14181daef53997037f60f264538a6e", null ],
+    [ "SkipChangeAnimation", "a14715.html#ac59ee8afe4baa397101456785d0c6316", null ]
 ];

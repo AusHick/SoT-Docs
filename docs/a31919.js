@@ -1,7 +1,7 @@
 var a31919 =
 [
-    [ "Alpha", "a31919.html#aa656ea1a383f8618e526c677da7ee76b", null ],
-    [ "Intensity", "a31919.html#a22480f9a09f10873963f858181c4342b", null ],
-    [ "Param", "a31919.html#a09bc7a8d9d8eece7389a1a84fa319964", null ],
-    [ "UnknownData00", "a31919.html#a048bc01741401b680840314b05812cd5", null ]
+    [ "SpikeDetected", "a31919.html#aefbbd0f05640faaa35f64a45f0b212c1", null ],
+    [ "TotalRPCCount", "a31919.html#a6eeed03893f4962de18fbdc3c253cbda", null ],
+    [ "UnknownData00", "a31919.html#afab9158c549c19560826f8868ad541ba", null ],
+    [ "WorstRPCs", "a31919.html#a10c653589368e69989a7794bd4c76e9a", null ]
 ];

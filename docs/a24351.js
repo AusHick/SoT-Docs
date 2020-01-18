@@ -1,7 +1,22 @@
 var a24351 =
 [
-    [ "StaticClass", "a24351.html#a8f50fe56d89b092afa2ce0fcd319ce77", null ],
-    [ "FailDistance", "a24351.html#a52b73ad5e0a11171eae7b9ab589603d5", null ],
-    [ "FailOnDistanceBeingLess", "a24351.html#a4a1133aa69ad7409534fd240beb38dc0", null ],
-    [ "UnknownData00", "a24351.html#a5992dd9b8139c1f42d0e0be28c818fb3", null ]
+    [ "StaticClass", "a24351.html#a1ba6294b57fcf2d1f9a355eed13cf8c6", null ],
+    [ "AgitationDurationVariance", "a24351.html#a5e620186249dbce9107e1dfae20a3d6a", null ],
+    [ "AlertThreshold", "a24351.html#a5cc65fb700b08b2575200f2eedcd9945", null ],
+    [ "CalmCooldownTime", "a24351.html#a340bf38f49bb74698793ff5d631975c1", null ],
+    [ "CarriedItemThreatOverrides", "a24351.html#ac5b3a644b7672980ffda17b21c5cc022", null ],
+    [ "CarrierHearingThreatSpeedThreshold", "a24351.html#af153a301e674b3c6b9584f81b6b3b6a1", null ],
+    [ "CharacterDistanceToDangerRatingCurve", "a24351.html#a5d0dea11a60e7eb397d0d3d9d121dc4e", null ],
+    [ "Courage", "a24351.html#a935060564d70116bae2598a80f8ee973", null ],
+    [ "DamageThreat", "a24351.html#a64696699df61b43254a97e012353d594", null ],
+    [ "DangerRatingToAgitationDurationCurve", "a24351.html#aa756939d2d73987df0872a3ee12965f4", null ],
+    [ "DistanceToLeaderPatrolChanceCurve", "a24351.html#aacaa47446a7bb5cf818b90f88d1ea4d9", null ],
+    [ "FleeThreshold", "a24351.html#a7dcf5236f0563a71ef7fbddadd9bc581", null ],
+    [ "KnownHearingDangers", "a24351.html#ad236c1d678cad67eadc97e787e07302c", null ],
+    [ "MaxDistanceFromLeaderForIdle", "a24351.html#a62d66d07f5ce0f96c6c542a660e4a4d6", null ],
+    [ "ThreatenedBySightOfCarrier", "a24351.html#a5123d8fb78dbe42ca27adbcfdb2fba96", null ],
+    [ "TimeToBecomeAgitatedMax", "a24351.html#a24b70ca5146af440e604850cbafe5c71", null ],
+    [ "TimeToBecomeAgitatedMin", "a24351.html#ad90f81bafab1c2d1869a1de97b2f9c6d", null ],
+    [ "TimeToBecomeCalm", "a24351.html#aed8651d6db03800f7dba93da18c21f6c", null ],
+    [ "UnknownData00", "a24351.html#aca52260d4ba2f657e0e2724621e657ab", null ]
 ];

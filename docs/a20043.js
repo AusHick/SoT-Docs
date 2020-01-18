@@ -1,4 +1,5 @@
 var a20043 =
 [
-    [ "UnknownData00", "a20043.html#a34e9d9b9e2cc6e962fe2f671d7b63349", null ]
+    [ "PirateIdentity", "a20043.html#a7b9acd49d15a83034ed95ec195c36418", null ],
+    [ "Value", "a20043.html#a75bfd49763e60964027be59ba2a141e1", null ]
 ];

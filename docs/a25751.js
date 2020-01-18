@@ -1,5 +1,6 @@
 var a25751 =
 [
-    [ "StaticClass", "a25751.html#af4727e97396f5d449789a3fd5e0cb4eb", null ],
-    [ "UnknownData00", "a25751.html#a4ce1fc8eb674921a48eca55866491646", null ]
+    [ "Mesh", "a25751.html#a5e97b80e384cda052510792756ca7f93", null ],
+    [ "Radius", "a25751.html#a4ca1f54854e5a7d39c74bb2f0fa037f7", null ],
+    [ "Scale", "a25751.html#a4f5cadccf9b67d861c80518b788b5cfa", null ]
 ];

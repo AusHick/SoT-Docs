@@ -1,5 +1,5 @@
 var a29787 =
 [
-    [ "StaticClass", "a29787.html#a890f64e9dae03c0a2f1417b71e2dec24", null ],
-    [ "WaveParameterName", "a29787.html#af63ae5e83fa126d47ac0ac0cbb247cef", null ]
+    [ "StaticClass", "a29787.html#af41cf3e0081f83625909475e191c6762", null ],
+    [ "AllDelegates", "a29787.html#ad75e585495e8d3b12422aa2e6303234b", null ]
 ];

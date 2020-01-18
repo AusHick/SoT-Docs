@@ -1,6 +1,5 @@
 var a09699 =
 [
-    [ "StaticClass", "a09699.html#a8af3c64c5ed1a8a18481df75132ae190", null ],
-    [ "ConsumableWieldable", "a09699.html#af3814aad72b234663c8a2db888ba9a83", null ],
-    [ "InventoryItem", "a09699.html#a1a30b5b82b7f9d75aa133899af807ab5", null ]
+    [ "StaticClass", "a09699.html#ad84a76bb8e205943f7bdcc7c8cc9276c", null ],
+    [ "UnknownData00", "a09699.html#af56d58ee49756e9714bd4bb5d1efcb90", null ]
 ];

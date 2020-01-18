@@ -1,7 +1,5 @@
 var a15203 =
 [
-    [ "AimData", "a15203.html#acf2608ca669a31548b4b9b3add240ca9", null ],
-    [ "IsRelativeAim", "a15203.html#a21a30d1891d53a049b976db09ad3811d", null ],
-    [ "TimeStamp", "a15203.html#aa048e36bdfc3d6db703689ca1fcce239", null ],
-    [ "UnknownData00", "a15203.html#af77f2e8a55e2a0ec31d1da8d9ab203de", null ]
+    [ "InputID", "a15203.html#ae1b53f860f1e0598b881378328b21a60", null ],
+    [ "Sequence", "a15203.html#a776c7acbd276c84e47f8a785006d2fd5", null ]
 ];

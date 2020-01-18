@@ -1,6 +1,7 @@
 var a15495 =
 [
-    [ "CastShadows", "a15495.html#a60176cdce3b60b83460372c93888ca83", null ],
-    [ "MaterialInstance", "a15495.html#a497947d39e4fab4334ce6e19ab8b2b80", null ],
-    [ "UnknownData00", "a15495.html#aa72d776fc59f3b94697b7e56743a6b58", null ]
+    [ "LeaveOneShot", "a15495.html#a5a65d3ceba4e3f3bba486a494749d9d1", null ],
+    [ "PlayLoop", "a15495.html#a171243f734aed692a106e01cc1cf6a57", null ],
+    [ "StartOneShot", "a15495.html#a8bf97569d960eba813c9219cfb5a4500", null ],
+    [ "StopLoop", "a15495.html#a6b9cf69a6899b2ae31ae7da412a4a590", null ]
 ];

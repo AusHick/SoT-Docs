@@ -1,8 +1,10 @@
 var a13559 =
 [
-    [ "Background", "a13559.html#ac9d601532d23c667fbedda9a67aaae2d", null ],
-    [ "MaxScaleModifier", "a13559.html#aa72fe35569f66ba845cda456e69591db", null ],
-    [ "MaxTextWidthForDefaultTextureScale", "a13559.html#a866b07efd6f31bca029b0f4f1d8bcdf1", null ],
-    [ "MinScaleModifier", "a13559.html#a38696f65acf83b1caf726219410fcdb0", null ],
-    [ "UnknownData00", "a13559.html#a1312b02352bee1e85b5b9b20305d1230", null ]
+    [ "Angle", "a13559.html#a58593d79d143a3bb798a7d122253db9d", null ],
+    [ "HorizontalAlignment", "a13559.html#a156254bc2d66f370d371f42c17a0149c", null ],
+    [ "Opacity", "a13559.html#a880cece953546cfd7997b143a23ab75b", null ],
+    [ "Position", "a13559.html#a6f397303c53f8bd329d3345ffd3878cd", null ],
+    [ "UnknownData00", "a13559.html#ab2d43b6b09f7941a4bbcf39bc2251054", null ],
+    [ "VerticalAlignment", "a13559.html#abd9cc3c7f43805b580701382afd7a2fb", null ],
+    [ "Width", "a13559.html#a5b3329803901692b089098175f7aa23e", null ]
 ];

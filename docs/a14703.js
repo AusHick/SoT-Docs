@@ -1,5 +1,5 @@
 var a14703 =
 [
-    [ "CanLoadItemCategory", "a14703.html#adade9a7edf22b512989f60cfabbdf69b", null ],
-    [ "FeatureToggle", "a14703.html#a37b9ea0194dea12f896ada8cef312386", null ]
+    [ "Centre", "a14703.html#a483b01e232797315c969c8b9e32f396c", null ],
+    [ "Radius", "a14703.html#a9f0e51175e5cf9e95cba88049edae9ed", null ]
 ];

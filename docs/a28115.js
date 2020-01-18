@@ -1,7 +1,6 @@
 var a28115 =
 [
-    [ "StaticClass", "a28115.html#a9c889c9cacfc419d42e83975a12f675b", null ],
-    [ "bSimulateCameraCutsOnClients", "a28115.html#a8d3294767a899630b805cd9487e26ecd", null ],
-    [ "CutTrack", "a28115.html#a46a7b95ec75672147203d8ac7dac0c13", null ],
-    [ "UnknownData00", "a28115.html#af3ddd609d2f614f719e5d4be49d70f62", null ]
+    [ "StaticClass", "a28115.html#ad0d3a7f4645ccb21207c7935af8b20ef", null ],
+    [ "bCanBeBaked", "a28115.html#a692f4669aa40e0ea6a1bcfe74f18f5c4", null ],
+    [ "UnknownData00", "a28115.html#a62a4e01e7c3ef5aa09e6d77906b25b6b", null ]
 ];

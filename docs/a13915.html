@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCompanyShopInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FPlayerMusicController Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a13915.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a13912.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCompanyShopInfo Struct Reference</div>  </div>
+<div class="title">SDK::FPlayerMusicController Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCompanyShopInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPlayerMusicController:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,29 +100,47 @@ $(document).ready(function(){initNavTree('a13915.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a8425c9c7111a56825e7e18c0c1b5ed98"><td class="memItemLeft" align="right" valign="top"><a id="a8425c9c7111a56825e7e18c0c1b5ed98"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>ShouldShowCompanyInfo</b></td></tr>
-<tr class="separator:a8425c9c7111a56825e7e18c0c1b5ed98"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70901f1beca01cb5f121a404eb7b70c3"><td class="memItemLeft" align="right" valign="top"><a id="a70901f1beca01cb5f121a404eb7b70c3"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a70901f1beca01cb5f121a404eb7b70c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8073321d6363d66cf0be0a130da55eef"><td class="memItemLeft" align="right" valign="top"><a id="a8073321d6363d66cf0be0a130da55eef"></a>
-struct <a class="el" href="a26207.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InfoSkin</b></td></tr>
-<tr class="separator:a8073321d6363d66cf0be0a130da55eef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa58667cae9f4dff1b5e994702fc20503"><td class="memItemLeft" align="right" valign="top"><a id="aa58667cae9f4dff1b5e994702fc20503"></a>
-struct <a class="el" href="a25647.html">FText</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InfoTitle</b></td></tr>
-<tr class="separator:aa58667cae9f4dff1b5e994702fc20503"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c924a64d2ed15cbc02740abe32dbb7c"><td class="memItemLeft" align="right" valign="top"><a id="a7c924a64d2ed15cbc02740abe32dbb7c"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a25647.html">FText</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>InfoTips</b></td></tr>
-<tr class="separator:a7c924a64d2ed15cbc02740abe32dbb7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64e131fac8757096219bc8160a0ac5a6"><td class="memItemLeft" align="right" valign="top"><a id="a64e131fac8757096219bc8160a0ac5a6"></a>
+class <a class="el" href="a07255.html">UPlayerMusicControllerParams</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>PlayerMusicParams</b></td></tr>
+<tr class="separator:a64e131fac8757096219bc8160a0ac5a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7fe3a867e93a06371521dace3eb917c"><td class="memItemLeft" align="right" valign="top"><a id="ad7fe3a867e93a06371521dace3eb917c"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x18]</td></tr>
+<tr class="separator:ad7fe3a867e93a06371521dace3eb917c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b13241e30915d94395a1e76cacb641f"><td class="memItemLeft" align="right" valign="top"><a id="a4b13241e30915d94395a1e76cacb641f"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>LocalPlayerActor</b></td></tr>
+<tr class="separator:a4b13241e30915d94395a1e76cacb641f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75cff21a0ad2bbdc543b8903886a367a"><td class="memItemLeft" align="right" valign="top"><a id="a75cff21a0ad2bbdc543b8903886a367a"></a>
+class <a class="el" href="a07271.html">UPlayerOceanAudioComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>PlayerOceanAudioComponent</b></td></tr>
+<tr class="separator:a75cff21a0ad2bbdc543b8903886a367a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f9559bc9bf6b7eac3eedb269e960608"><td class="memItemLeft" align="right" valign="top"><a id="a0f9559bc9bf6b7eac3eedb269e960608"></a>
+class <a class="el" href="a07191.html">UPlayerAtmosphericsAudioComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AtmosphericsAudioComponent</b></td></tr>
+<tr class="separator:a0f9559bc9bf6b7eac3eedb269e960608"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abfed2f5fbd34523828a879ba82842ba5"><td class="memItemLeft" align="right" valign="top"><a id="abfed2f5fbd34523828a879ba82842ba5"></a>
+class <a class="el" href="a02339.html">AAthenaPlayerCharacter</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AthenaPlayerCharacter</b></td></tr>
+<tr class="separator:abfed2f5fbd34523828a879ba82842ba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb4e5ac93e62012cc5168759e6b4d341"><td class="memItemLeft" align="right" valign="top"><a id="acb4e5ac93e62012cc5168759e6b4d341"></a>
+class <a class="el" href="a03083.html">AAthenaWorldSettings</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AthenaWorldSettings</b></td></tr>
+<tr class="separator:acb4e5ac93e62012cc5168759e6b4d341"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d9ac29b9cc7a2cf81cf0e532b814b31"><td class="memItemLeft" align="right" valign="top"><a id="a9d9ac29b9cc7a2cf81cf0e532b814b31"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x120]</td></tr>
+<tr class="separator:a9d9ac29b9cc7a2cf81cf0e532b814b31"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41c53a292480d404cacfe84df1ba2e89"><td class="memItemLeft" align="right" valign="top"><a id="a41c53a292480d404cacfe84df1ba2e89"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a26555.html">AActor</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>RelevantAIShips</b></td></tr>
+<tr class="separator:a41c53a292480d404cacfe84df1ba2e89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae351c1c063df5ba841042e54de331b23"><td class="memItemLeft" align="right" valign="top"><a id="ae351c1c063df5ba841042e54de331b23"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a13911.html">FAIShipsSpotted</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AIShipsSpottedRecently</b></td></tr>
+<tr class="separator:ae351c1c063df5ba841042e54de331b23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e158951c5065cd89b6db3f791b9b4ef"><td class="memItemLeft" align="right" valign="top"><a id="a0e158951c5065cd89b6db3f791b9b4ef"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x8]</td></tr>
+<tr class="separator:a0e158951c5065cd89b6db3f791b9b4ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13915.html">FCompanyShopInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13915.html">FPlayerMusicController</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:44 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

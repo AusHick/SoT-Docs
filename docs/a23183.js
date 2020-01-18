@@ -1,6 +1,5 @@
 var a23183 =
 [
-    [ "Container", "a23183.html#a48af1f8e5204b92f448190962d80d68c", null ],
-    [ "ItemDescToStow", "a23183.html#a15ca0653bc3d013aa88de06aeed7d638", null ],
-    [ "UnknownData00", "a23183.html#a592e58ff6a8969442328534a4512a30d", null ]
+    [ "AllianceIcon", "a23183.html#a8c2dd170b503cdeafc414965056fdced", null ],
+    [ "RewardId", "a23183.html#aaeff5eb3b0b7b6f9cce2e85d97ec9b3f", null ]
 ];

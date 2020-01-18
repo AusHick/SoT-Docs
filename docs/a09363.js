@@ -1,6 +1,15 @@
 var a09363 =
 [
-    [ "OnClimbLadder", "a09363.html#a61058b8cc84133528d7f41b6b05da1c4", null ],
-    [ "StaticClass", "a09363.html#a4f5901af076df50b6486e14a340a0c10", null ],
-    [ "UnknownData00", "a09363.html#ac1a555ff470003234eb4764e19439a63", null ]
+    [ "ApplyVenomToTarget", "a09363.html#a3b71634713086674962c434e1eddfdcd", null ],
+    [ "SprayVenomAtClosestTarget", "a09363.html#acf5e32dd705ef3876669184a0a835464", null ],
+    [ "SprayVenomInDirection", "a09363.html#abca2b0be09619ed8dbe618273dcaee28", null ],
+    [ "StaticClass", "a09363.html#aa683f4fdcc38a55a77ae7d7c4084503f", null ],
+    [ "CollisionChannel", "a09363.html#a20ed595b4603bea3f755d17a22e26f90", null ],
+    [ "DamageOverTime", "a09363.html#aebf589775520aae67823b1a20de6319c", null ],
+    [ "DamageOverTimeDuration", "a09363.html#ab77852cbd60cc3960392485e8e2f7767", null ],
+    [ "InitialDamage", "a09363.html#a998f4144a0f7a7dce2609aa27fe239e0", null ],
+    [ "RangeAngle", "a09363.html#a71c436c52f8b0cdbb525ec2e91f9a056", null ],
+    [ "RangeDistance", "a09363.html#acd137b996b4f366de37b5a0b233d734e", null ],
+    [ "UnknownData00", "a09363.html#a8ea1fa89027986ffb6c1ef0897aa5840", null ],
+    [ "VenomSource", "a09363.html#a09b07888b33ea72e1eeff5c8cf10152c", null ]
 ];

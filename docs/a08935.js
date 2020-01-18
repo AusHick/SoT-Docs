@@ -1,4 +1,5 @@
 var a08935 =
 [
-    [ "StaticClass", "a08935.html#a4f80a90f831bebf4526a494acb518d99", null ]
+    [ "StaticClass", "a08935.html#a4a90db9b8360284f179febf8be9c6210", null ],
+    [ "BarrelMeshComponent", "a08935.html#a33fa92615c9d0a2c8505043f195480e3", null ]
 ];

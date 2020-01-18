@@ -1,5 +1,6 @@
 var a05215 =
 [
-    [ "StaticClass", "a05215.html#a42e308f0fc13b9daa5277a9028d86d17", null ],
-    [ "Pages", "a05215.html#a7649c3c13ed261abcdfa3040c943ec7a", null ]
+    [ "EnableActorsOnGhostShip", "a05215.html#a064843c53460fd7905321472d3ac1cbc", null ],
+    [ "StaticClass", "a05215.html#a6bea752d813ebb55eecc9cf0b8b3936b", null ],
+    [ "GhostShipActors", "a05215.html#a7160ba0c056e23989aea6dba329033ca", null ]
 ];

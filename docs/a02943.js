@@ -1,7 +1,7 @@
 var a02943 =
 [
-    [ "OnReplicate_PartDesc", "a02943.html#ae1aa5baf2305912a6cce3ed7cf75b2ab", null ],
-    [ "StaticClass", "a02943.html#a22f3c713b7ffb7769c486711440cd903", null ],
-    [ "PartDesc", "a02943.html#af7e44839b0eb36886693964e24f3d9b1", null ],
-    [ "UnknownData00", "a02943.html#a653447022dca41bfbff32daf6fa9c23e", null ]
+    [ "StaticClass", "a02943.html#a31b453009754d5aa583755b75d682d65", null ],
+    [ "IsVoyageLocationBound", "a02943.html#a5b202c1c54a7672670f8f7afca29101c", null ],
+    [ "Recipe", "a02943.html#a8aa35abae42d6311cd10679580fef587", null ],
+    [ "UnknownData00", "a02943.html#adaf0af4e17585ed76cce6c971618a977", null ]
 ];

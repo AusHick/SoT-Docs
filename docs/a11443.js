@@ -1,6 +1,6 @@
 var a11443 =
 [
-    [ "StaticClass", "a11443.html#a9bb6d37018c73d025b8e621b350d7bb8", null ],
-    [ "ItemId", "a11443.html#a3189b7f21a4d182dec981493cc552f24", null ],
-    [ "UnknownData00", "a11443.html#afcc52490349b1b367dbb7892ba862300", null ]
+    [ "StaticClass", "a11443.html#ab80bae1e245488a747108c1e3bc8b2d5", null ],
+    [ "DeathItemSpawnDistributionOverrides", "a11443.html#a80a48fd7d20661d49fd60d4d56f4055d", null ],
+    [ "UnknownData00", "a11443.html#a8b9c9abb2bd544343a1f198cb3a341bb", null ]
 ];

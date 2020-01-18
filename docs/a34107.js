@@ -1,4 +1,5 @@
 var a34107 =
 [
-    [ "Id", "a34107.html#a5a5eae50b07335843b6e193c1510d99a", null ]
+    [ "StaticClass", "a34107.html#a719c28cff196b131721cd7c5fbf38658", null ],
+    [ "Entries", "a34107.html#a2ffb21ae49b960c2add43e4b254ab36d", null ]
 ];

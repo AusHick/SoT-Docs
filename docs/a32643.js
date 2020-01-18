@@ -1,8 +1,10 @@
 var a32643 =
 [
-    [ "Duration", "a32643.html#afce7908c2beb839ce193f0bcf0948376", null ],
-    [ "EndFrame", "a32643.html#af4b6e71aeb9e661a1657a23beb012e29", null ],
-    [ "StartFrame", "a32643.html#a419c50bee5a32db04b5b4607f76b5024", null ],
-    [ "UnknownData00", "a32643.html#a3880e5da3e2cd94ae5999a47380b5b68", null ],
-    [ "Visible", "a32643.html#a8bc3f5e9e2b05f74ca34dc505d272a96", null ]
+    [ "ClearAllPolicies", "a32643.html#a4ad5310f88ade3f4b580c4b173d0fe21", null ],
+    [ "GetOptimalFocusObject", "a32643.html#ae673abbdfe9e8404f7b2b7a4be1c9ba7", null ],
+    [ "InvalidateOptimalObject", "a32643.html#acbe866c6a1865bb08c3b228b6cd23166", null ],
+    [ "IsInteractionValid", "a32643.html#a6f967d0ede304569bbb06efec5c75b36", null ],
+    [ "StaticClass", "a32643.html#a89537f90a25f5af341dd05b6065a3d55", null ],
+    [ "CurrentOptimalInteractable", "a32643.html#ad8616d76e15726a59c56bda4fa33c433", null ],
+    [ "UnknownData00", "a32643.html#afbd1e04596f3c9e458856d396b45aea9", null ]
 ];

@@ -1,5 +1,4 @@
 var a19415 =
 [
-    [ "TimeCompleted", "a19415.html#a160b88506677fbc4df30ccaeb6eeb5c8", null ],
-    [ "UnknownData00", "a19415.html#a6737fe3d33b73cd4d56cddea36881143", null ]
+    [ "Result", "a19415.html#a033b6611ff5c5b9776f775a90d1da755", null ]
 ];

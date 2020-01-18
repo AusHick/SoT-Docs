@@ -1,7 +1,8 @@
 var a10527 =
 [
-    [ "GetValidWaterHeightAtomic", "a10527.html#aff5eb7708be94acc3688251fc4146bc4", null ],
-    [ "GetWaterHeight", "a10527.html#a741fa993885493ec9e772cd0747c457b", null ],
-    [ "HasValidWaterHeight", "a10527.html#a305793996bfcb07ae4f4258e130590ae", null ],
-    [ "StaticClass", "a10527.html#ab18424b6477a4cf5db45e575ff60b765", null ]
+    [ "GetCategoryFilter", "a10527.html#a8e76853d95caceede31d9b1601806cb8", null ],
+    [ "GetPromptText", "a10527.html#a392707888e1850e882c84a4de28a93d3", null ],
+    [ "OnAuxiliaryItemSelected", "a10527.html#a1f430efbf773bc279dc0052410b51a37", null ],
+    [ "ShouldDisplayItem", "a10527.html#ad2c8a977836bb60e02edba742c2109df", null ],
+    [ "StaticClass", "a10527.html#aeb0a6bb579012c1f7a7f26a5598b50a0", null ]
 ];

@@ -1,5 +1,7 @@
 var a32983 =
 [
-    [ "HandInOnTimeRewardId", "a32983.html#ae0196690194fc1c0e428b63128ade850", null ],
-    [ "ItemDesc", "a32983.html#a847dfc6610882a36179495d524c13f97", null ]
+    [ "BaselineTorque", "a32983.html#a03c98a75612f91108d339231f10df3c1", null ],
+    [ "Events", "a32983.html#a1d3acb7203a0f2aeceb5ba5edad01bd5", null ],
+    [ "TorqueCurve", "a32983.html#afb88c7cd3ab41b2f5e275674d15288d6", null ],
+    [ "UnknownData00", "a32983.html#af818ca3aeb3e527c827797a4694317b0", null ]
 ];

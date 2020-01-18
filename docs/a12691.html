@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FSpawnInstance Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCloudTypeDefinition Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,54 @@ $(document).ready(function(){initNavTree('a12691.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a12688.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FSpawnInstance Struct Reference</div>  </div>
+<div class="title">SDK::FCloudTypeDefinition Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FSpawnInstance:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCloudTypeDefinition:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a12689.svg" width="486" height="398"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a12689.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af4eb37a4767ca9892a0259810f8cb269"><td class="memItemLeft" align="right" valign="top"><a id="af4eb37a4767ca9892a0259810f8cb269"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x30]</td></tr>
-<tr class="separator:af4eb37a4767ca9892a0259810f8cb269"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c06cf1bf47b4e022ecff272e2e6eba8"><td class="memItemLeft" align="right" valign="top"><a id="a8c06cf1bf47b4e022ecff272e2e6eba8"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
-<tr class="separator:a8c06cf1bf47b4e022ecff272e2e6eba8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abbdee98ab8df03366962bc758ca7cb12"><td class="memItemLeft" align="right" valign="top"><a id="abbdee98ab8df03366962bc758ca7cb12"></a>
-class <a class="el" href="a00623.html">UItemSpawnData</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ItemDescSpawnData</b></td></tr>
-<tr class="separator:abbdee98ab8df03366962bc758ca7cb12"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a769ac4b0485029c0652632beb8c4029c"><td class="memItemLeft" align="right" valign="top"><a id="a769ac4b0485029c0652632beb8c4029c"></a>
+class <a class="el" href="a27599.html">UStaticMesh</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CloudMesh</b></td></tr>
+<tr class="separator:a769ac4b0485029c0652632beb8c4029c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7740abf94427f5d2fb52e973b4799201"><td class="memItemLeft" align="right" valign="top"><a id="a7740abf94427f5d2fb52e973b4799201"></a>
+class <a class="el" href="a27599.html">UStaticMesh</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CloudFluffyMesh</b></td></tr>
+<tr class="separator:a7740abf94427f5d2fb52e973b4799201"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a604cc9e5f9b15725ccd97c29f3bd3617"><td class="memItemLeft" align="right" valign="top"><a id="a604cc9e5f9b15725ccd97c29f3bd3617"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ScaleRange</b></td></tr>
+<tr class="separator:a604cc9e5f9b15725ccd97c29f3bd3617"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfd9c2f758170efe9cd3f93abca4d155"><td class="memItemLeft" align="right" valign="top"><a id="adfd9c2f758170efe9cd3f93abca4d155"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StorminessRange</b></td></tr>
+<tr class="separator:adfd9c2f758170efe9cd3f93abca4d155"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53c1b4b0dce5890da44932954241cf8b"><td class="memItemLeft" align="right" valign="top"><a id="a53c1b4b0dce5890da44932954241cf8b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ProbabilityWeight</b></td></tr>
+<tr class="separator:a53c1b4b0dce5890da44932954241cf8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ca9ebf410691a182e4e03d10a1f88d8"><td class="memItemLeft" align="right" valign="top"><a id="a2ca9ebf410691a182e4e03d10a1f88d8"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>OverlapTolerance</b></td></tr>
+<tr class="separator:a2ca9ebf410691a182e4e03d10a1f88d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0ede0cbe37443ec9f4dd6c72ce41abc"><td class="memItemLeft" align="right" valign="top"><a id="ad0ede0cbe37443ec9f4dd6c72ce41abc"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsStreetCloud</b></td></tr>
+<tr class="separator:ad0ede0cbe37443ec9f4dd6c72ce41abc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72500e80165181ae5598d3da2a578531"><td class="memItemLeft" align="right" valign="top"><a id="a72500e80165181ae5598d3da2a578531"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>CastsShadow</b></td></tr>
+<tr class="separator:a72500e80165181ae5598d3da2a578531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af054290a8c3697469ac0fa22624abfef"><td class="memItemLeft" align="right" valign="top"><a id="af054290a8c3697469ac0fa22624abfef"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x6]</td></tr>
+<tr class="separator:af054290a8c3697469ac0fa22624abfef"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12691.html">FSpawnInstance</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:30 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12691.html">FCloudTypeDefinition</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

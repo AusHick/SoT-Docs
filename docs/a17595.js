@@ -1,4 +1,4 @@
 var a17595 =
 [
-    [ "ObjectID", "a17595.html#ac59f5334d96559d564fd0f298af8e0a5", null ]
+    [ "HitResponseData", "a17595.html#a4dc36985c7b8d7127ec20ff7c17c25b0", null ]
 ];

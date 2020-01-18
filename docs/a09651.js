@@ -1,6 +1,7 @@
 var a09651 =
 [
-    [ "IsFirstPersonMeshComponentTickEnabled", "a09651.html#a58457fbc671cbddf8d7b67db6c80f481", null ],
-    [ "IsThirdPersonMeshComponentTickEnabled", "a09651.html#a25df2b50ab918f7eff86d6fcce5bba83", null ],
-    [ "StaticClass", "a09651.html#adb399b3874293fd3b4fe80098e13631b", null ]
+    [ "StaticClass", "a09651.html#a919545005ff673d3ff3075d26efd2dcc", null ],
+    [ "InventoryItem", "a09651.html#a8cd073ac9c74b741d046b37a82592cb2", null ],
+    [ "UnknownData00", "a09651.html#a128cb0fa52b6b837c6d1948d64b7ac3f", null ],
+    [ "UnknownData01", "a09651.html#a18c9a172e61c6d8aadc0e368b72140bf", null ]
 ];

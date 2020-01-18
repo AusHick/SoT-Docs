@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FClientMarkerRepresentation Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FGameEventSettings Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,34 +87,57 @@ $(document).ready(function(){initNavTree('a16267.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a16264.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FClientMarkerRepresentation Struct Reference</div>  </div>
+<div class="title">SDK::FGameEventSettings Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FClientMarkerRepresentation:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FGameEventSettings:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a16265.svg" width="382" height="522"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe>
-</div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a16265.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6c2ae8b9af07930bb7de0d7e9262465f"><td class="memItemLeft" align="right" valign="top"><a id="a6c2ae8b9af07930bb7de0d7e9262465f"></a>
-struct <a class="el" href="a26071.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MarkerId</b></td></tr>
-<tr class="separator:a6c2ae8b9af07930bb7de0d7e9262465f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af043974dc2ad4c889facfa495ba54863"><td class="memItemLeft" align="right" valign="top"><a id="af043974dc2ad4c889facfa495ba54863"></a>
-class <a class="el" href="a26543.html">UParticleSystemComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ParticleSystemComponent</b></td></tr>
-<tr class="separator:af043974dc2ad4c889facfa495ba54863"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a57f0eeab326e7d4bdb03f9edaf58dce8"><td class="memItemLeft" align="right" valign="top"><a id="a57f0eeab326e7d4bdb03f9edaf58dce8"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GameEventType</b></td></tr>
+<tr class="separator:a57f0eeab326e7d4bdb03f9edaf58dce8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a559329bf29bc7780a1c3d30d49c3e2f3"><td class="memItemLeft" align="right" valign="top"><a id="a559329bf29bc7780a1c3d30d49c3e2f3"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RepeatQueryTime</b></td></tr>
+<tr class="separator:a559329bf29bc7780a1c3d30d49c3e2f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ba00924a11fcbaa9d841ca9163e9a74"><td class="memItemLeft" align="right" valign="top"><a id="a3ba00924a11fcbaa9d841ca9163e9a74"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>InertQueryTime</b></td></tr>
+<tr class="separator:a3ba00924a11fcbaa9d841ca9163e9a74"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafc4f6ec0c3405102d43c8d489d02d66"><td class="memItemLeft" align="right" valign="top"><a id="aafc4f6ec0c3405102d43c8d489d02d66"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>InertCancelTime</b></td></tr>
+<tr class="separator:aafc4f6ec0c3405102d43c8d489d02d66"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d0a6b6a6ac3f43602662b0e8a9db1ed"><td class="memItemLeft" align="right" valign="top"><a id="a6d0a6b6a6ac3f43602662b0e8a9db1ed"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a6d0a6b6a6ac3f43602662b0e8a9db1ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a91697d1177c37c5053eb7790ec9c711d"><td class="memItemLeft" align="right" valign="top"><a id="a91697d1177c37c5053eb7790ec9c711d"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FirstRegenInterval</b></td></tr>
+<tr class="separator:a91697d1177c37c5053eb7790ec9c711d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19d0f1b200dbe1656461fdc6959478e7"><td class="memItemLeft" align="right" valign="top"><a id="a19d0f1b200dbe1656461fdc6959478e7"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RegenInterval</b></td></tr>
+<tr class="separator:a19d0f1b200dbe1656461fdc6959478e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9c1705ddafe0ba443399e27038ad66ac"><td class="memItemLeft" align="right" valign="top"><a id="a9c1705ddafe0ba443399e27038ad66ac"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnTime</b></td></tr>
+<tr class="separator:a9c1705ddafe0ba443399e27038ad66ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3cac7012cdfaa8c9ebff4da504930894"><td class="memItemLeft" align="right" valign="top"><a id="a3cac7012cdfaa8c9ebff4da504930894"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>Required</b></td></tr>
+<tr class="separator:a3cac7012cdfaa8c9ebff4da504930894"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbfeace60794218f5575120718e1be8a"><td class="memItemLeft" align="right" valign="top"><a id="abbfeace60794218f5575120718e1be8a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x7]</td></tr>
+<tr class="separator:abbfeace60794218f5575120718e1be8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16267.html">FClientMarkerRepresentation</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16267.html">FGameEventSettings</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

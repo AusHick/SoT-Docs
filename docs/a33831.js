@@ -1,8 +1,5 @@
 var a33831 =
 [
-    [ "AreMeshesEquivalentByMeshPatchCriteria", "a33831.html#ace4d12f91d79b230a4efa21ac938de8f", null ],
-    [ "BakeCharacterMeshFromClassDefault", "a33831.html#a5b8389f92dbac47af2bc35e6f4649033", null ],
-    [ "BlendMeshWithMeshPatchAssets", "a33831.html#ad6f5fe082725ab611fb62352d6f95b5c", null ],
-    [ "MakeCharacterMeshSpecification", "a33831.html#ac6c962f2e76c501cd5a3138ad92ff0e4", null ],
-    [ "StaticClass", "a33831.html#af59c42a2e2d24cc1aef26d0dc6c81ea5", null ]
+    [ "PetName", "a33831.html#a771cd23d58accb47f1ba908692c6dd22", null ],
+    [ "PetPartId", "a33831.html#a8848402320a0e8debde5252074e46cf3", null ]
 ];

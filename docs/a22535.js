@@ -1,6 +1,12 @@
 var a22535 =
 [
-    [ "Interactable", "a22535.html#a3fb94f65263b0e11ee08a98e80bf7280", null ],
-    [ "NotificationInputId", "a22535.html#a4b1be0c135e442b3fe199f52fee9677a", null ],
-    [ "UnknownData00", "a22535.html#a0bec92fbfd44983e174b7f0f5f058bc0", null ]
+    [ "DirectInstigator", "a22535.html#a51fa226dc55d9f997ff3bd88b369be5a", null ],
+    [ "DirectInstigatorLocation", "a22535.html#a42374c129cb7c8c074717242482b7535", null ],
+    [ "From", "a22535.html#af0e8aaa91c5c8b5b070d432298edbe46", null ],
+    [ "IncidentId", "a22535.html#a79d2382ed5298ead2396ff9f067f19d2", null ],
+    [ "Reason", "a22535.html#ab355477a0c4866891e4fe9b40bcb0ff5", null ],
+    [ "RootInstigator", "a22535.html#a829741a16e0a6045e60edf2dc027c763", null ],
+    [ "To", "a22535.html#a06803538c66d593928d7f9bf5d1b5d19", null ],
+    [ "UnknownData00", "a22535.html#ad0031be36247e2551bc910cfb65dc3e4", null ],
+    [ "UnknownData01", "a22535.html#a87304c6cd2b99a64bc9d1d9dac73ad94", null ]
 ];

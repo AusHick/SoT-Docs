@@ -1,11 +1,11 @@
 var a32371 =
 [
-    [ "BeginSpawningActor", "a32371.html#a88627b0d10cc21bdad23efc167395208", null ],
-    [ "FinishSpawningActor", "a32371.html#a2dc761b37b6de46cbae5e1372f1e586a", null ],
-    [ "SpawnActor", "a32371.html#ae5d6755ef9a8eeaeeaec688148d3d145", null ],
-    [ "StaticClass", "a32371.html#a7db5a759e0423457764b3561717bf167", null ],
-    [ "ClassToSpawn", "a32371.html#a2f2360a59aa8df2ec2bf58c0d5d64b88", null ],
-    [ "DidNotSpawn", "a32371.html#ae5dc6108c61adaff57f1e695da52abd2", null ],
-    [ "Success", "a32371.html#a439aecd033b42384d19015c2b6043c3e", null ],
-    [ "UnknownData00", "a32371.html#add4e04b8b53b2ef704758ae21fb03606", null ]
+    [ "DousePool", "a32371.html#a755d32c91a633e8cfed4dab2b62a5847", null ],
+    [ "EmitterPool", "a32371.html#a2c4ccfec0bf4ed49213a2cb387e91b30", null ],
+    [ "FireDouse", "a32371.html#a097756862f434694086f289436038193", null ],
+    [ "FirePlay", "a32371.html#a4baee4bfb3835179a4b788598cd61246", null ],
+    [ "FireStop", "a32371.html#adb0ab83d793c1160a8773c83f603d5c0", null ],
+    [ "FireSwitchBurning", "a32371.html#adb5027957a369510cbc57a74cdb0fe6f", null ],
+    [ "FireSwitchGroup", "a32371.html#ad608d1c16e2f05e23222f5878a1e5e0f", null ],
+    [ "FireSwitchKindled", "a32371.html#a5e7d9899922fa67e93a8e55a4950a803", null ]
 ];

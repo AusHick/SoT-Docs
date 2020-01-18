@@ -1,10 +1,11 @@
 var a01123 =
 [
-    [ "StaticClass", "a01123.html#a8d7c45d816df605d3f09e7506351ec18", null ],
-    [ "ConeDirection", "a01123.html#a70ccd174b838d0f46e65bdf0e93dc448", null ],
-    [ "ConeHalfAngle", "a01123.html#a2fac384bdbf8bae7d01a0767e26e1c1d", null ],
-    [ "ConeOrigin", "a01123.html#a59ba1b8ea051c4aa892f12f6b8cfb521", null ],
-    [ "Observed", "a01123.html#ac5884906f496f5655f68beddea91e8df", null ],
-    [ "UnknownData00", "a01123.html#ad83ce541f3fb02cf5e842222227f2ab3", null ],
-    [ "UnknownData01", "a01123.html#a727067818c9aa32af939c1644846f1d2", null ]
+    [ "StaticClass", "a01123.html#a12d11c4b0459201b72867bf32f0d5192", null ],
+    [ "CachedDescription", "a01123.html#a9a2f35b2a5072bf731b3ea31e0e7bc43", null ],
+    [ "FloatValue", "a01123.html#a1a6032bcfa133256b6df27343fa0daa9", null ],
+    [ "IntValue", "a01123.html#aa6672b5684b4391c7a962356bd04f50d", null ],
+    [ "NotifyObserver", "a01123.html#ac092f5c8f9c0eaf4d434ac538a110890", null ],
+    [ "OperationType", "a01123.html#ac0215f947335fba66ae154db7faa0fdf", null ],
+    [ "StringValue", "a01123.html#afd4873a76b948bee1f8e6f8b0ac59c76", null ],
+    [ "UnknownData00", "a01123.html#ac8e1889b71b08f63fbdc49030ae89b4f", null ]
 ];

@@ -1,6 +1,7 @@
 var a16167 =
 [
-    [ "Size", "a16167.html#a34ebd1099a00cc2734db4b44663d20ae", null ],
-    [ "Type", "a16167.html#a0c38512d97d10e36d2a2e4383865da7a", null ],
-    [ "UnknownData00", "a16167.html#a63d3dfa22e941a21960e4fa5da1d9add", null ]
+    [ "ActivateOnStart", "a16167.html#a1a3586b9202bb88f3d2e3794d64bb519", null ],
+    [ "Status", "a16167.html#a7b528c8d8e8f6e633a8ef4a8d71f8684", null ],
+    [ "SurfaceMaterial", "a16167.html#a17418e04ed84e3b16063ad1b3a184e4a", null ],
+    [ "UnknownData00", "a16167.html#a8b95601a9631bb01f6e9bd380ea06ea8", null ]
 ];

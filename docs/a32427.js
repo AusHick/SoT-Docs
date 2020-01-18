@@ -1,8 +1,8 @@
 var a32427 =
 [
-    [ "FKey", "a32427.html#ac8394a80a0803f751eb4726bd24350e8", null ],
-    [ "FKey", "a32427.html#a46826928f04ff42e3e2cd84ca3571387", null ],
-    [ "FKey", "a32427.html#a9e1a24e1bfa22541aece6b2ce404be3f", null ],
-    [ "KeyName", "a32427.html#a93b7a4ca2693e25c168c451486efddff", null ],
-    [ "UnknownData00", "a32427.html#af7d57cfbea767aa5f1c0a7697aa3be30", null ]
+    [ "AreaLight", "a32427.html#ae8d1c6b61c6353cd449f1935eb71ca12", null ],
+    [ "AreaLightMaterial", "a32427.html#abe753a0abf0328265429470b13e21bc8", null ],
+    [ "Desc", "a32427.html#a6939f7e2125b478d61b3bc098b61fc10", null ],
+    [ "PointLight", "a32427.html#a18f2f9c9b4d68fbac2daa870683ed63c", null ],
+    [ "UnknownData00", "a32427.html#a29537be46a9b1ec64d74f98f0a2f7604", null ]
 ];

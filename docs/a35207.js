@@ -1,5 +1,5 @@
 var a35207 =
 [
-    [ "SyncTime", "a35207.html#a4942650c1a05bdd07a834d715308d721", null ],
-    [ "WorldTime", "a35207.html#a17b9eb932e57cc8f46c9198e48dff479", null ]
+    [ "StaticClass", "a35207.html#afb9bce9684b0b3f1fc5d33ec8c5fe356", null ],
+    [ "Desc", "a35207.html#a1447806862e45fe3f0fd55768ffbf674", null ]
 ];

@@ -1,6 +1,5 @@
 var a17715 =
 [
-    [ "EndedScreen", "a17715.html#a7101b96611fc005f9634d1f92d5fbac4", null ],
-    [ "ScreenDuration", "a17715.html#a8e6dce24055592233537fbb03759fb61", null ],
-    [ "UnknownData00", "a17715.html#a852d09e6084eaa947724c93d8902a2d4", null ]
+    [ "ActionName", "a17715.html#ae3fb40ffaa206b750dcdf5dfa0bbd039", null ],
+    [ "ObjectID", "a17715.html#a773fff7fa181e3fa2879edf128d5e0a8", null ]
 ];

@@ -1,16 +1,8 @@
 var a14103 =
 [
-    [ "HoleDecalComponentTransform", "a14103.html#afb62a22fcdfb6f8c3bb06ac8cf489ae1", null ],
-    [ "HoleDecalMaterial", "a14103.html#a5b7a066a55ddd23c3fd0641f398a739f", null ],
-    [ "InternalWaterSamplePositionBottomOffset", "a14103.html#af2ebd52db12b2a2a5663c2c4d6144652", null ],
-    [ "InternalWaterSamplePositionTopOffset", "a14103.html#a063f2197b8238c1095f42268955c2f77", null ],
-    [ "LeakAmount", "a14103.html#a85cf840cce07181b0afca12acd2e0d0e", null ],
-    [ "ParticleSystem_RepairLeakAboveWater", "a14103.html#a97f58db605a8d7e3134b841faaea526c", null ],
-    [ "ParticleSystem_RepairLeakBelowWater", "a14103.html#a37479804c723c257cc7c8a05a0864d3e", null ],
-    [ "ParticleSystem_SplashOnInternalWaterSurface", "a14103.html#ac342b12db8716658c522116ebf4964bf", null ],
-    [ "ParticleSystem_WaterLeakAboveWater", "a14103.html#a76f5d2a066b15f98ea69dabde792392a", null ],
-    [ "ParticleSystem_WaterLeakBelowWater", "a14103.html#a4e7bc62941dcffca4544430c0bb14b52", null ],
-    [ "ParticleSystemComponentLocation", "a14103.html#a2c6caf90233a2eb385529c0f12ca7a36", null ],
-    [ "RepairTime", "a14103.html#ae094ae08c7b18e7ec0ebe0b8bb061ecd", null ],
-    [ "UnknownData00", "a14103.html#a4f81d8f5fd75ebdd95fbb8db99d6a64a", null ]
+    [ "CrewShipSunkScore", "a14103.html#ac9ff062b59d59573ffd243a33638f8ed", null ],
+    [ "DigUpChestScore", "a14103.html#a3a7e442530b9a261eea3452643712286", null ],
+    [ "KillingPlayerScore", "a14103.html#a7ef1e2c860cd2f374d8eead7b0d3cee2", null ],
+    [ "ShipPartScores", "a14103.html#a0288bf9c1407bb2863f712d61a94927a", null ],
+    [ "WieldableItemScores", "a14103.html#ad05ab8ec7d22d98e60e1d6bc0f6c5ca4", null ]
 ];

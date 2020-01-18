@@ -1,5 +1,5 @@
 var a22463 =
 [
-    [ "KeyName", "a22463.html#ad658e0ffeba098680e1521d60499b1ac", null ],
-    [ "Value", "a22463.html#a3baa68119ca86d3a69cc2366e702a60c", null ]
+    [ "AudioSurfaceType", "a22463.html#a3633a301375a2b04ef73425226389e86", null ],
+    [ "VFXSurfaceType", "a22463.html#acc69401b12be00e64e6d802b1a2d43ac", null ]
 ];

@@ -1,5 +1,6 @@
 var a31163 =
 [
-    [ "Context", "a31163.html#a076b38ae9331e31598e2a07fcc3ce6e9", null ],
-    [ "DialogueWave", "a31163.html#ad9a9dd6199fb61612463a19972e857c2", null ]
+    [ "Time", "a31163.html#aa7988fc2276ccd5ca1eb8fcd7fda1fca", null ],
+    [ "ToggleAction", "a31163.html#aefa0aede7f7c188cedc8364ad1851b72", null ],
+    [ "UnknownData00", "a31163.html#af6ba7bbb24cd5649d164bbab17fb2a6e", null ]
 ];

@@ -1,4 +1,5 @@
 var a20767 =
 [
-    [ "UnknownData00", "a20767.html#aa7e2528e64590e417e16f113bd7680cd", null ]
+    [ "RequestID", "a20767.html#a41fa9fc05afed8fd40d1d50ab49eaa02", null ],
+    [ "UserId", "a20767.html#a285a1c6d48d60097190e380e90e95cd9", null ]
 ];

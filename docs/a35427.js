@@ -1,31 +1,4 @@
 var a35427 =
 [
-    [ "GetCheckedState", "a35427.html#a429f6178a1ca947cb5ed90ee8bc03bd1", null ],
-    [ "IsChecked", "a35427.html#aa5e665e24cf1b982dc4c8d789634916c", null ],
-    [ "IsPressed", "a35427.html#a1d8f6a356313541355d8e43418d6a2a4", null ],
-    [ "SetCheckedState", "a35427.html#a1d69587db73ea833f1cad4755f941361", null ],
-    [ "SetIsChecked", "a35427.html#a96cdc95242915347460799ea98890858", null ],
-    [ "StaticClass", "a35427.html#a19f793294d2c85aca9071a0c31b0f06b", null ],
-    [ "BorderBackgroundColor", "a35427.html#ae721055be15c9a76ed81473c6089bf9e", null ],
-    [ "CheckedHoveredImage", "a35427.html#aa85fc2392918c2db0112a367b735bd8b", null ],
-    [ "CheckedImage", "a35427.html#af38ddea6bb1b590d9bca241dfd840a39", null ],
-    [ "CheckedPressedImage", "a35427.html#a6afa9ccd217b95912d9f6373bedd4981", null ],
-    [ "CheckedState", "a35427.html#aab176d1418bf2439fc68735a44a87c80", null ],
-    [ "CheckedStateDelegate", "a35427.html#a89964ff6f7aa715ae93a1df3aadcfbe4", null ],
-    [ "HorizontalAlignment", "a35427.html#ab2b3ed65a3fd4b4f1f5cf5a2c18578d9", null ],
-    [ "OnCheckStateChanged", "a35427.html#aa8b9739cb51688aae49c24ea1843a10e", null ],
-    [ "Padding", "a35427.html#a1363afd845551ad8dff5d20f125cab2b", null ],
-    [ "Style", "a35427.html#a8c0a88c2ed9b5bc7ec1e6974c757a220", null ],
-    [ "UncheckedHoveredImage", "a35427.html#afb21bab20ed679669b10d3921210801d", null ],
-    [ "UncheckedImage", "a35427.html#a8b1b15224f5d74a26ec26b24e2a71888", null ],
-    [ "UncheckedPressedImage", "a35427.html#a45353514359dbdb8c4b87745f842333e", null ],
-    [ "UndeterminedHoveredImage", "a35427.html#a5d2015e1a3acd83ea03196bfb328dbf3", null ],
-    [ "UndeterminedImage", "a35427.html#a167fba21765b7455e05e934f10c0a9ed", null ],
-    [ "UndeterminedPressedImage", "a35427.html#a65f22d53763929f3715da1510f9df4ea", null ],
-    [ "UnknownData00", "a35427.html#aa7ef3e0d43e0680af3317908dda72bd1", null ],
-    [ "UnknownData01", "a35427.html#a12c542dfb32c14562db203a0fc705e5f", null ],
-    [ "UnknownData02", "a35427.html#a07b190c4d0d1d148083a44c2074f627e", null ],
-    [ "UnknownData03", "a35427.html#a29882a4903b4b3ab00b468a27b1fa54f", null ],
-    [ "UnknownData04", "a35427.html#aaa0f8bc4ab3f44d718ecdb1f60432bb7", null ],
-    [ "WidgetStyle", "a35427.html#a538ba552af6c537ae6a55e7bda71c9f4", null ]
+    [ "Ticks", "a35427.html#a973db8838b8a497a1fe0fba49641ba50", null ]
 ];

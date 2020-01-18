@@ -1,4 +1,4 @@
 var a21691 =
 [
-    [ "ProposalDesc", "a21691.html#ae274ec53599fc98d00e46eb4d149e37a", null ]
+    [ "CampaignDetail", "a21691.html#a02f37b15af3f32b149a3f3d9e720198b", null ]
 ];

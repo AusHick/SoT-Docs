@@ -1,19 +1,17 @@
 var a13739 =
 [
-    [ "BoatVelocityMaxRtpcValue", "a13739.html#a26f33a7bd73f0bfdc4fc317a02d7957a", null ],
-    [ "BoatVelocityMinRtpcValue", "a13739.html#a1031d3e5c6500cdca1ba8716cc7963e2", null ],
-    [ "BoatVelocityRtpc", "a13739.html#af441092a84a14b281ddb03ccc6602202", null ],
-    [ "CapstanDamagedStart", "a13739.html#a61b65f62b6330aec616c7624d0e707d2", null ],
-    [ "CapstanDamagedStop", "a13739.html#a222fe6536655ab2731c1d1ebeffae356", null ],
-    [ "CapstanDamageRtpc", "a13739.html#a034bdffec1f1a3ccc53e404b0d391a3a", null ],
-    [ "CapstanDamageRtpcMaxValue", "a13739.html#af2cb37dc539bea9cb2aba03c73c390c2", null ],
-    [ "CapstanEmitterPool", "a13739.html#a85104d557a188712b26c15c73948b100", null ],
-    [ "CapstanStart", "a13739.html#a7de5c2b3183c7210542b54c8f700cccc", null ],
-    [ "CapstanStop", "a13739.html#a1bd2f24d9c00fbae6bbbb0389b7c580a", null ],
-    [ "CapstanStopFullyLowered", "a13739.html#aea944cd5a5635c29ac0321e743cfa576", null ],
-    [ "CapstanStopFullyRaised", "a13739.html#ae706f60279a281861c7179b078664fc9", null ],
-    [ "CapstanTurnMaxRtpcValue", "a13739.html#ab93dd39938550ea0217b417239280818", null ],
-    [ "CapstanTurnMinRtpcValue", "a13739.html#a57bfaa66131f7d5320e6f42d627d5edf", null ],
-    [ "CapstanTurnRateRtpc", "a13739.html#a2f61e028f236347e6ab2837ee3963c00", null ],
-    [ "EmpiricalMaxShipVelocity", "a13739.html#adcfd4fb84bacb81e8e2da63559c53a37", null ]
+    [ "AngularDragDuringSinkingSequence", "a13739.html#a7dd016caa4d843ae2f07f297c0e10777", null ],
+    [ "DragWhenGrindingToHalt", "a13739.html#a36ca1499b882793dd052e6bc1c9ed83b", null ],
+    [ "FinalSinkingBuoyancy", "a13739.html#ad37cd0e9cdcf00e0540ff85ff4df8147", null ],
+    [ "KeeledOverTime", "a13739.html#abca67772503db95c5665165fc91c107a", null ],
+    [ "LowerIntoWaterTime", "a13739.html#ad2b964c08cf258aad610c6594cd96980", null ],
+    [ "MinPctSamplesRequiredSubmergedToBeAbleToSink", "a13739.html#a8565722e4a100a57fe634e8198e8f787", null ],
+    [ "MinSampleSubmersionToConsiderInWater", "a13739.html#a11b03ea7e4b4e73dbc503d451c0bbf79", null ],
+    [ "MinSpdToStopToBeforeLowering", "a13739.html#a7ede2ee95b65738a46b81858a9e0d89e", null ],
+    [ "ReduceWaterOcclusionZoneTime", "a13739.html#a0b7708022309b7f6e70a9aff66a4a1c9", null ],
+    [ "ReduceWaterOcclusionZoneTimeHurryUp", "a13739.html#ac59c3b82a1cd1fd592aa00b0589e69ab", null ],
+    [ "SinkingTimeUntilDestroy", "a13739.html#ac3271ecdb1f122c144db7fbd0e0f5952", null ],
+    [ "TimeIntoKeelingOverToTeleportPlayer", "a13739.html#aefbb7c620bf381595529094ada65706e", null ],
+    [ "TimeIntoLoweringToStartOcclusionZoneShrinkage", "a13739.html#a9660e434cad326c48dcd0b2f558e1de4", null ],
+    [ "TurnOffBuoyancyTime", "a13739.html#a0a89827c2f9daff21e93a35c7998f835", null ]
 ];

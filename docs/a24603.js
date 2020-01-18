@@ -1,4 +1,5 @@
 var a24603 =
 [
-    [ "StaticClass", "a24603.html#a08ee9c0d610b0e97d4fb99f212dc7324", null ]
+    [ "StaticClass", "a24603.html#a1e62caf3a6404c2662a6b9b200165741", null ],
+    [ "AIAbilityType", "a24603.html#a3fdea0af1650438aa4f7eba5b8bf4cbd", null ]
 ];

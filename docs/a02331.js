@@ -1,8 +1,9 @@
 var a02331 =
 [
-    [ "StaticClass", "a02331.html#a5000ce2cfc1619488439acbc78771a0e", null ],
-    [ "NumShotsToDestroyShip", "a02331.html#ab06ea86c85c30de314bfc4bc10c2dbd1", null ],
-    [ "Speed", "a02331.html#a76b8d298cef266cce32e1a36b61e4933", null ],
-    [ "TargetSelection", "a02331.html#a243c20d61078650ca8e977a8b2056cff", null ],
-    [ "TimeBetweenShots", "a02331.html#adee0a59b9dda9c3e1ff4e1ae07ebb8fe", null ]
+    [ "GetActualCloudDome", "a02331.html#a2936604bf84585376325128d813e0a6b", null ],
+    [ "GetCloudDome", "a02331.html#a2f4373a82dcac28d1efcffb0e1dd9ca4", null ],
+    [ "GetNumberOfCloudDomes", "a02331.html#a68bc872be744c167a6ab437f9d8fd994", null ],
+    [ "RegisterCloudDomeWithService", "a02331.html#a67cbc3b69b892ac2ec9d70fb6903b62f", null ],
+    [ "StaticClass", "a02331.html#a017b18d97db92fb3fe01647ba57f8a46", null ],
+    [ "UnregisterCloudDomeFromService", "a02331.html#a90e3e43238a5771efcfc4b4be6563e3c", null ]
 ];

@@ -1,7 +1,5 @@
 var a12707 =
 [
-    [ "AllianceJoinStatus", "a12707.html#ab07b2a2508ebdd0a13b032fd565629ff", null ],
-    [ "CrewId", "a12707.html#a3f9a85703fd2e94bb9073f35a8969e18", null ],
-    [ "LastAllianceJoinStatus", "a12707.html#a41a5bc0a912af160c52206fcae12c265", null ],
-    [ "UnknownData00", "a12707.html#ac5f3d66e0cd47c9ee83e62e4ff334562", null ]
+    [ "WalkSpeedMultiplier", "a12707.html#ab3ddb5ac83c46e755c8c58d0965eb16e", null ],
+    [ "WalkStopThreshold", "a12707.html#a9d9601e564f7b91ce4328e642e14c683", null ]
 ];

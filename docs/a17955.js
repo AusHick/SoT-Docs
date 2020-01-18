@@ -1,7 +1,8 @@
 var a17955 =
 [
-    [ "UnknownData00", "a17955.html#af1ec0b39489c436f490a58dbb24a918a", null ],
-    [ "Voted", "a17955.html#aefca03b89bc5f560c790d3edf6a4d2c6", null ],
-    [ "VotesCast", "a17955.html#a5c01a377e2d98039aeabd4aaf80d4a28", null ],
-    [ "VotesRequired", "a17955.html#a8fc61f8d406fb72af764cadcc6c56a27", null ]
+    [ "Desc", "a17955.html#a7bc4c87064ae59c9096bac497d304666", null ],
+    [ "Flags", "a17955.html#abd8d879318caebe9606370c36856a4df", null ],
+    [ "Operation", "a17955.html#aaa671e1a44f93beb514146d617e090cf", null ],
+    [ "OperationId", "a17955.html#a91c7c1a51b9797957de6701862d31180", null ],
+    [ "UnknownData00", "a17955.html#a85c2a2b3b8334607813dc822c466afdc", null ]
 ];

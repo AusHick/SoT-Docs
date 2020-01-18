@@ -1,8 +1,6 @@
 var a28347 =
 [
-    [ "StaticClass", "a28347.html#a79087e76170fdf2965b9d51779ce4f23", null ],
-    [ "A", "a28347.html#a1f18b34aed906265d5c0b0776b690d80", null ],
-    [ "B", "a28347.html#a41e40df1329630b0c46819bdda51e61b", null ],
-    [ "ConstA", "a28347.html#ad07c5f57540786346384a39e7664a4bd", null ],
-    [ "ConstB", "a28347.html#a9be98a68893d74c15994c78f346d0dba", null ]
+    [ "StaticClass", "a28347.html#a70fdc3f4598694ae9393d632dcc6a8bf", null ],
+    [ "ParamName", "a28347.html#ab5b37f13fd52afc32490ae891d64e61c", null ],
+    [ "TargetMaterials", "a28347.html#acc3d075d9013d8a491e9602e530378de", null ]
 ];

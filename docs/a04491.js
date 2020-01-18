@@ -1,12 +1,20 @@
 var a04491 =
 [
-    [ "IsWaterLeakRepairSfxPlaying", "a04491.html#a4b2748d54baa84a44c0142dea9d48951", null ],
-    [ "IsWaterLeakSfxPlaying", "a04491.html#a0c7917bd975a20bc340950ad882ed47f", null ],
-    [ "StaticClass", "a04491.html#a0c1eb4358c823b683fb48341fae9f9a5", null ],
-    [ "TestPlayWaterLeakRepairingSfx", "a04491.html#a98dbb1edddf4a896814fd37844915ba6", null ],
-    [ "TestPlayWaterLeakSfx", "a04491.html#aaa34e45f70dc8d78655636dab439d4d0", null ],
-    [ "TestSetRepairableState", "a04491.html#aa43aa07fcba48215c36a553e6dc5bca9", null ],
-    [ "TestStopWaterLeakRepairingSfx", "a04491.html#ac174773f2b7f9c86f708da45f682a576", null ],
-    [ "TestStopWaterLeakSfx", "a04491.html#a5a70c02649264082d58f51dc931d9adb", null ],
-    [ "UnknownData00", "a04491.html#a9be9feac534344ddcf69edc01aa25a1c", null ]
+    [ "GetCategory", "a04491.html#a401aa7b82e4f3cd4d6369dea4b554687", null ],
+    [ "GetShipCustomizationInfo", "a04491.html#acd79a4a695f1ca1931d83ee0aa7e0906", null ],
+    [ "SetCategory", "a04491.html#aa547fdc1bddb0367fd273affc3afa4e3", null ],
+    [ "SetLiveryCustomiser", "a04491.html#ae3197b8c3f29c2b61535a7657f9ed66d", null ],
+    [ "SetShipCustomizationInfo", "a04491.html#a93fe1b797b8adf6e3e77c988bed91b91", null ],
+    [ "StaticClass", "a04491.html#ae30f24c2b2eea1467ac968c777d1646b", null ],
+    [ "UpdateVisuals", "a04491.html#af763297180605f1cf92983dbd52d89d6", null ],
+    [ "CannonChildActorComponent", "a04491.html#a4b8abf3b9e9f65309d990dc4359eeb94", null ],
+    [ "CapstanChildActorComponent", "a04491.html#a900030038362da8c907a2ee13fd8c934", null ],
+    [ "Category", "a04491.html#a651a288e3977b88cd9a9bd776991a2aa", null ],
+    [ "HullLiveryCustomizationComponent", "a04491.html#adf262fa7c8d6ec7e82fa157c326236d5", null ],
+    [ "LiveryComponent", "a04491.html#aa053d2a1784577dcae11ccd3cf571946", null ],
+    [ "MastChildActorComponent", "a04491.html#a6b5b9d691774452992debc78b574061a", null ],
+    [ "Root", "a04491.html#a018197b2cc6121feed6cf7b4294ae091", null ],
+    [ "SailsLiveryCustomizationComponent", "a04491.html#a9982040af07a3e8c5526c46bb8e92c40", null ],
+    [ "ShipCustomizationInfo", "a04491.html#a545aaae7c28a977cfc72ebdb4b327ada", null ],
+    [ "WheelChildActorComponent", "a04491.html#a982068e6342fe733d4a4c5e633363aae", null ]
 ];

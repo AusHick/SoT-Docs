@@ -1,28 +1,4 @@
 var a09599 =
 [
-    [ "OnWaterSplashEnterWaterDelegate__DelegateSignature", "a09599.html#aa68d03c057f79942ec1648d688ab1dba", null ],
-    [ "OnWaterSplashExitWaterDelegate__DelegateSignature", "a09599.html#adcbaa37c9f4bb1eeecc7d80f50428c5f", null ],
-    [ "OnWaterSplashReachedDeepWaterDelegate__DelegateSignature", "a09599.html#a61f179ef3c6791c08736347ecd69a339", null ],
-    [ "StaticClass", "a09599.html#a65763f942f93a8abdab48306189a54b1", null ],
-    [ "AllowRepeatedEntryTriggers", "a09599.html#a62af064b52940a5c9cd7ecf1be261c7a", null ],
-    [ "AllowRepeatedExitTriggers", "a09599.html#a84c937ad1eeba5955eedc57550107a6f", null ],
-    [ "DeepWaterThreshold", "a09599.html#a7bba6621ec12c26e15edf8c3f5411a8c", null ],
-    [ "EnterWaterParticleSystem", "a09599.html#ad93fc6f914d89d511972074107c423c1", null ],
-    [ "EnterWaterSfx", "a09599.html#a6a9c37ebe7d2ab637e071d9453529b7d", null ],
-    [ "EnterWaterSfxWisePoolToUse", "a09599.html#a58450cbef99dc804cf32db32cef5be2e", null ],
-    [ "ExitWaterParticleSystem", "a09599.html#a2f17170676cc93afa87aaec9f5db207b", null ],
-    [ "ExitWaterSfx", "a09599.html#a2aa5c9f1c1f782c4db0d461825998a50", null ],
-    [ "ExitWaterSfxWisePoolToUse", "a09599.html#ad05810a45942538cd3884bd589f55dcc", null ],
-    [ "OnEnteredWater", "a09599.html#a6b3c138dbee6ef1d464f9ea0c9973927", null ],
-    [ "OnExitedWater", "a09599.html#abbe52756f9e68c3aea67e9791c524e87", null ],
-    [ "OnReachedDeepWater", "a09599.html#aa5f95a9d2d210c854d6b86329f98b036", null ],
-    [ "ParticleSystemAttachLocation", "a09599.html#a1728716dbe9931ab1a895df1b1e43134", null ],
-    [ "SpawnParticleSystemsAlignedVertically", "a09599.html#a99599f0667961f3fd45cc3a9e7cab830", null ],
-    [ "SpawnParticleSystemsAttached", "a09599.html#a8535a152cfe49baffa429eca7d86ffd6", null ],
-    [ "TriggerOnEntry", "a09599.html#a624d00a559e4c8e88b2a0e96615cf61c", null ],
-    [ "TriggerOnExit", "a09599.html#a408fcd18ab200afe005528582f923aa2", null ],
-    [ "UnknownData00", "a09599.html#a5c3fad5c680d79d1cbe0596bd4bb4889", null ],
-    [ "UnknownData01", "a09599.html#a1db2404c46e25dfed835ab0a8a51beb2", null ],
-    [ "UnknownData02", "a09599.html#ae30b7601a1e345e349fc2939d6f1f687", null ],
-    [ "UseComplexWaterHeightDetection", "a09599.html#a89418f76ba83f11204203de270c3382d", null ]
+    [ "StaticClass", "a09599.html#a255bfaa3954c99beda5e4d8e7b3dba76", null ]
 ];

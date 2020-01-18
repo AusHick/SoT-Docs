@@ -1,6 +1,6 @@
 var a25175 =
 [
-    [ "DeathType", "a25175.html#ab28b54dc73b69fb9fb57406236fa5fe0", null ],
-    [ "Instigator", "a25175.html#a60a408f78c1413221ad97672ce2fa0d7", null ],
-    [ "UnknownData00", "a25175.html#a078b9d51f7d044bd816b6367a1ffd512", null ]
+    [ "ItemDesc", "a25175.html#a508701335cc6ab373e97fe6693c9537c", null ],
+    [ "Threat", "a25175.html#a4810132996ecb4b6519cb3705839672a", null ],
+    [ "UnknownData00", "a25175.html#ae2c36656b170cec0fb08630fa0d39248", null ]
 ];

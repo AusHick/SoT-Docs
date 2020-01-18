@@ -1,5 +1,4 @@
 var a16911 =
 [
-    [ "PickUpItem", "a16911.html#a3355736b635b0d6a3fde68846b425fba", null ],
-    [ "UnknownData00", "a16911.html#a49970ffc4652af53eb9d8d757007d021", null ]
+    [ "UnknownData00", "a16911.html#a5d7c78d35e575c8caf628e55d5b0100f", null ]
 ];

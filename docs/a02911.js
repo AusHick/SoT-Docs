@@ -1,5 +1,5 @@
 var a02911 =
 [
-    [ "StaticClass", "a02911.html#a40288ed7af8ff0e85f5736265d69ec4c", null ],
-    [ "ContestVoyageRecipe", "a02911.html#a79e897892618f8820bbe86f42a89cdf1", null ]
+    [ "StaticClass", "a02911.html#a8a953da229bf524b1baaa7076b0747e6", null ],
+    [ "UnknownData00", "a02911.html#a926ed6d04c018a1d3c13b21122d55c83", null ]
 ];

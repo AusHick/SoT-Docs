@@ -1,6 +1,6 @@
 var a33111 =
 [
-    [ "StaticClass", "a33111.html#afe5d9d0c501b6c589b4fe2bc61a184dd", null ],
-    [ "ScalarParameterNamesAndCurves", "a33111.html#a064b94fa894ef963ef60bb7769c8686f", null ],
-    [ "VectorParameterNamesAndCurves", "a33111.html#a4520f5534a6f111ca0a222f9936af8c4", null ]
+    [ "RotatorToQuat", "a33111.html#a93846e4d9a6fa9574c4c059c44dabd3b", null ],
+    [ "StaticClass", "a33111.html#a05194c1359ca5ccf2a03730243c68ed8", null ],
+    [ "TransformAroundArbitraryPivot", "a33111.html#ab4afe9947eb12837b84f47ea0e431259", null ]
 ];

@@ -1,7 +1,6 @@
 var a27747 =
 [
-    [ "StaticClass", "a27747.html#a59124884abfc00b1695956b3a6b363b3", null ],
-    [ "Location", "a27747.html#a1fe6f5663470d4c11effbf42ea7ed511", null ],
-    [ "UnknownData00", "a27747.html#a6e66a395c8079a4f5f8e7e8297cf326c", null ],
-    [ "Zoom2D", "a27747.html#ae43d74194fd62a557f493c3b5e538d8f", null ]
+    [ "StaticClass", "a27747.html#a0a0f0f74f6309bba2e3bc7d8c2b1e7b1", null ],
+    [ "bScaleAnimation", "a27747.html#a4d071247667f637329542f92eb8a9511", null ],
+    [ "UnknownData00", "a27747.html#a20056dfc9785cf60c65a652b3286e765", null ]
 ];

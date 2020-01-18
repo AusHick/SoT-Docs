@@ -1,14 +1,12 @@
 var a08287 =
 [
-    [ "StaticClass", "a08287.html#a79ca425729542d30c84332158530f001", null ],
-    [ "Actor", "a08287.html#a3db602a623d42c81f183e9176b1585c4", null ],
-    [ "ActorVar", "a08287.html#ac2737a7fd3d932fb5701c9d4d6f1bdc0", null ],
-    [ "bAttachToSocket", "a08287.html#a7893c98db4b6d73092261bc144ea4fbc", null ],
-    [ "CriticalActorLostMessage", "a08287.html#a2fe74a8e7dbd8f1b8e9b662615dd9269", null ],
-    [ "LocatorVar", "a08287.html#aa816d9f415947119ca33d5accd9e0d64", null ],
-    [ "MarkAsCritical", "a08287.html#ab51457b4eb5e2e9345de0e1c6d21ea22", null ],
-    [ "SocketName", "a08287.html#addd3952cd0d1753d7eebd1a66b537eaa", null ],
-    [ "TrackActor", "a08287.html#aa99e12883d0a11bbd080d832c80ab279", null ],
-    [ "UnknownData00", "a08287.html#a2b937bff1be22c9f2c81381d8c5dbebe", null ],
-    [ "UnknownData01", "a08287.html#aafb835c54b3668ea0ca07b1bc83bc685", null ]
+    [ "StaticClass", "a08287.html#ae9f9249e85a8457a0dc6139726a4d5dd", null ],
+    [ "ActorVar", "a08287.html#a5fce216e00c8dfd8b5175549379ad87c", null ],
+    [ "CriticalActorLostMessage", "a08287.html#ad4712537c8f34f3b027cf04218ea5ea5", null ],
+    [ "Item", "a08287.html#acf301f994c8b209aa6528bc185688ba6", null ],
+    [ "LocatorVar", "a08287.html#a5cf3ec4bef79464d0b4d39ac4c07369d", null ],
+    [ "MarkItemAsCritical", "a08287.html#ac8336f7f658bfc6aa0de946c2428bd0d", null ],
+    [ "SocketName", "a08287.html#a41d62decbb65404971aa9725d7b05373", null ],
+    [ "TrackItem", "a08287.html#ab822627115a0ec94a74c24ad7c4fcd11", null ],
+    [ "UnknownData00", "a08287.html#ad2ec987278006cf4fe411c70b4d69d7b", null ]
 ];

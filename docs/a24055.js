@@ -1,6 +1,5 @@
 var a24055 =
 [
-    [ "StaticClass", "a24055.html#a7e18bdd5b6a8d377d45a1c0e779e1431", null ],
-    [ "SpawnedWave", "a24055.html#a425b663c6e76b1f4a670b5af388972c7", null ],
-    [ "UnknownData00", "a24055.html#ac0ca2c616beec099fbdcf189ca2a78ba", null ]
+    [ "StaticClass", "a24055.html#aadfe38622a98516a0872833c0fb3ebc9", null ],
+    [ "AllSkillsets", "a24055.html#acdfc6e13dc83323c7d6f6afdac2d5b51", null ]
 ];

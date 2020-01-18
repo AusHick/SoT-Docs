@@ -1,4 +1,5 @@
 var a32975 =
 [
-    [ "StaticClass", "a32975.html#a2385b8f89974cc7222c7719b7108b5c3", null ]
+    [ "Far", "a32975.html#a05a40289387b8ac377bd6496fe14e56c", null ],
+    [ "Near", "a32975.html#a548c85a2ccfe5656c4ed6f29f569b695", null ]
 ];

@@ -1,6 +1,6 @@
 var a18147 =
 [
-    [ "Children", "a18147.html#a90119166064822d124c13cb2871be8e2", null ],
-    [ "DisplayName", "a18147.html#a0e8e2057b8383b99251c0bbc00071148", null ],
-    [ "Id", "a18147.html#af9990981a56222dd0a03d1a53490389f", null ]
+    [ "ProductId", "a18147.html#ac5dac603d9d402b3b0ba6e982f7d70d8", null ],
+    [ "Success", "a18147.html#ad9ee79bd01101271ea01387edefa422c", null ],
+    [ "UnknownData00", "a18147.html#af182f3be390318132e0c6c68a6f91135", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBlueprintDebugData Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FHierarchicalSimplification Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,54 @@ $(document).ready(function(){initNavTree('a31667.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31664.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBlueprintDebugData Struct Reference</div>  </div>
+<div class="title">SDK::FHierarchicalSimplification Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBlueprintDebugData:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FHierarchicalSimplification:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31665.svg" width="208" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31665.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a68fcf9bed61f4dfe08d98a45182bf37e"><td class="memItemLeft" align="right" valign="top"><a id="a68fcf9bed61f4dfe08d98a45182bf37e"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x1]</td></tr>
-<tr class="separator:a68fcf9bed61f4dfe08d98a45182bf37e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67656bcdaae9b20a6469c4d42f85f76f"><td class="memItemLeft" align="right" valign="top"><a id="a67656bcdaae9b20a6469c4d42f85f76f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bSimplifyMesh</b></td></tr>
+<tr class="separator:a67656bcdaae9b20a6469c4d42f85f76f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93c920ab9346edc8daedd1b33644fad5"><td class="memItemLeft" align="right" valign="top"><a id="a93c920ab9346edc8daedd1b33644fad5"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a93c920ab9346edc8daedd1b33644fad5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add1df4bbb8216b08b0acee4f68befc2b"><td class="memItemLeft" align="right" valign="top"><a id="add1df4bbb8216b08b0acee4f68befc2b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DrawDistance</b></td></tr>
+<tr class="separator:add1df4bbb8216b08b0acee4f68befc2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78a0a9024d44e3dc999fe11f3245620d"><td class="memItemLeft" align="right" valign="top"><a id="a78a0a9024d44e3dc999fe11f3245620d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DesiredBoundRadius</b></td></tr>
+<tr class="separator:a78a0a9024d44e3dc999fe11f3245620d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae412809c156335ece79a8cd7e89765d4"><td class="memItemLeft" align="right" valign="top"><a id="ae412809c156335ece79a8cd7e89765d4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DesiredFillingPercentage</b></td></tr>
+<tr class="separator:ae412809c156335ece79a8cd7e89765d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d9fdf588ff8e887468f23b5b43a415b"><td class="memItemLeft" align="right" valign="top"><a id="a8d9fdf588ff8e887468f23b5b43a415b"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MinNumberOfActorsToBuild</b></td></tr>
+<tr class="separator:a8d9fdf588ff8e887468f23b5b43a415b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1d8e5368cc48cb3c8790548c2d5280a"><td class="memItemLeft" align="right" valign="top"><a id="ac1d8e5368cc48cb3c8790548c2d5280a"></a>
+struct <a class="el" href="a31531.html">FMeshProxySettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ProxySetting</b></td></tr>
+<tr class="separator:ac1d8e5368cc48cb3c8790548c2d5280a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac22cd84788e965d7e6f6e17e90df733f"><td class="memItemLeft" align="right" valign="top"><a id="ac22cd84788e965d7e6f6e17e90df733f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:ac22cd84788e965d7e6f6e17e90df733f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a766c79e06e08cf3bf296049504311055"><td class="memItemLeft" align="right" valign="top"><a id="a766c79e06e08cf3bf296049504311055"></a>
+struct <a class="el" href="a31523.html">FMeshMergingSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MergeSetting</b></td></tr>
+<tr class="separator:a766c79e06e08cf3bf296049504311055"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31667.html">FBlueprintDebugData</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31667.html">FHierarchicalSimplification</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:40 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

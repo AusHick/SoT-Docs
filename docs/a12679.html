@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FItemSpawnWeightedType Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCloudVisualParameters Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a12679.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a12676.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FItemSpawnWeightedType Struct Reference</div>  </div>
+<div class="title">SDK::FCloudVisualParameters Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FItemSpawnWeightedType:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCloudVisualParameters:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,29 +100,68 @@ $(document).ready(function(){initNavTree('a12679.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6198390029cc782b27af223ebd679d1d"><td class="memItemLeft" align="right" valign="top"><a id="a6198390029cc782b27af223ebd679d1d"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
-<tr class="separator:a6198390029cc782b27af223ebd679d1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc03f54801085f52b7c6edd3edfa6cfc"><td class="memItemLeft" align="right" valign="top"><a id="afc03f54801085f52b7c6edd3edfa6cfc"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Feature</b></td></tr>
-<tr class="separator:afc03f54801085f52b7c6edd3edfa6cfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ec414f1e7b25a288a6eaf88e9f66594"><td class="memItemLeft" align="right" valign="top"><a id="a6ec414f1e7b25a288a6eaf88e9f66594"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>Weight</b></td></tr>
-<tr class="separator:a6ec414f1e7b25a288a6eaf88e9f66594"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7fa0924a5a5f7f23aae096428876ac43"><td class="memItemLeft" align="right" valign="top"><a id="a7fa0924a5a5f7f23aae096428876ac43"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a7fa0924a5a5f7f23aae096428876ac43"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0383b76c90c207ac61c900c123af2bfc"><td class="memItemLeft" align="right" valign="top"><a id="a0383b76c90c207ac61c900c123af2bfc"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a06407.html">USpawnRequirement</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Requirements</b></td></tr>
-<tr class="separator:a0383b76c90c207ac61c900c123af2bfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af758b56ec21049f35bbe6add31357c4c"><td class="memItemLeft" align="right" valign="top"><a id="af758b56ec21049f35bbe6add31357c4c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>RenderInMainPass</b></td></tr>
+<tr class="separator:af758b56ec21049f35bbe6add31357c4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77ca2f90d312b9d532c9d64b09f76b57"><td class="memItemLeft" align="right" valign="top"><a id="a77ca2f90d312b9d532c9d64b09f76b57"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a77ca2f90d312b9d532c9d64b09f76b57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08bedb1e0f93768348549c9b07566839"><td class="memItemLeft" align="right" valign="top"><a id="a08bedb1e0f93768348549c9b07566839"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ScalingVector</b></td></tr>
+<tr class="separator:a08bedb1e0f93768348549c9b07566839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0e154229319ecf645d01d60e9356309"><td class="memItemLeft" align="right" valign="top"><a id="ad0e154229319ecf645d01d60e9356309"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardScale</b></td></tr>
+<tr class="separator:ad0e154229319ecf645d01d60e9356309"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3083d9c5d8da1b3fa64e486efd59f8cc"><td class="memItemLeft" align="right" valign="top"><a id="a3083d9c5d8da1b3fa64e486efd59f8cc"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardRandomScale</b></td></tr>
+<tr class="separator:a3083d9c5d8da1b3fa64e486efd59f8cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a612101305c58cab1a60a424738e23762"><td class="memItemLeft" align="right" valign="top"><a id="a612101305c58cab1a60a424738e23762"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardRearCutOff</b></td></tr>
+<tr class="separator:a612101305c58cab1a60a424738e23762"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c5ff6708b1072c3f10a80f14a56dca7"><td class="memItemLeft" align="right" valign="top"><a id="a4c5ff6708b1072c3f10a80f14a56dca7"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardForeCutOff</b></td></tr>
+<tr class="separator:a4c5ff6708b1072c3f10a80f14a56dca7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac25c4375e2b90c4d6fcde6f8ab9cd5a8"><td class="memItemLeft" align="right" valign="top"><a id="ac25c4375e2b90c4d6fcde6f8ab9cd5a8"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardSink</b></td></tr>
+<tr class="separator:ac25c4375e2b90c4d6fcde6f8ab9cd5a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6543f7530cc45e6afe5084fc8f9fc299"><td class="memItemLeft" align="right" valign="top"><a id="a6543f7530cc45e6afe5084fc8f9fc299"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardScaleAlphaDependence</b></td></tr>
+<tr class="separator:a6543f7530cc45e6afe5084fc8f9fc299"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0db7ea22f22527c727342001454090f"><td class="memItemLeft" align="right" valign="top"><a id="aa0db7ea22f22527c727342001454090f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BillboardRotationRate</b></td></tr>
+<tr class="separator:aa0db7ea22f22527c727342001454090f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d75a1b24f68e6c70ddb4b743633ba7a"><td class="memItemLeft" align="right" valign="top"><a id="a6d75a1b24f68e6c70ddb4b743633ba7a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DistanceFadeExponent</b></td></tr>
+<tr class="separator:a6d75a1b24f68e6c70ddb4b743633ba7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0cf869291acd03ef1c6a360900c083e9"><td class="memItemLeft" align="right" valign="top"><a id="a0cf869291acd03ef1c6a360900c083e9"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceScale</b></td></tr>
+<tr class="separator:a0cf869291acd03ef1c6a360900c083e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36e5ea876de01c48e0d63fe4c9117cde"><td class="memItemLeft" align="right" valign="top"><a id="a36e5ea876de01c48e0d63fe4c9117cde"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TurbulenceStrength</b></td></tr>
+<tr class="separator:a36e5ea876de01c48e0d63fe4c9117cde"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6e4504bba2fe98af4aa1008ac51b6ac"><td class="memItemLeft" align="right" valign="top"><a id="ae6e4504bba2fe98af4aa1008ac51b6ac"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FluffCullDistance</b></td></tr>
+<tr class="separator:ae6e4504bba2fe98af4aa1008ac51b6ac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb119eb583f135e8e535e4ce2c2c00c9"><td class="memItemLeft" align="right" valign="top"><a id="adb119eb583f135e8e535e4ce2c2c00c9"></a>
+class <a class="el" href="a26739.html">UMaterialInterface</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MaterialTemplatePointCloudSolid</b></td></tr>
+<tr class="separator:adb119eb583f135e8e535e4ce2c2c00c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6608f23e7bef8abece5b558786c8dd8"><td class="memItemLeft" align="right" valign="top"><a id="ae6608f23e7bef8abece5b558786c8dd8"></a>
+class <a class="el" href="a26739.html">UMaterialInterface</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MaterialTemplatePointCloudFluffy</b></td></tr>
+<tr class="separator:ae6608f23e7bef8abece5b558786c8dd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cecd98b373dfce672930710aaba552f"><td class="memItemLeft" align="right" valign="top"><a id="a6cecd98b373dfce672930710aaba552f"></a>
+class <a class="el" href="a26739.html">UMaterialInterface</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MaterialTemplateStreetCloudSolid</b></td></tr>
+<tr class="separator:a6cecd98b373dfce672930710aaba552f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a499ded62763c36644e3bab6f9ff7bae6"><td class="memItemLeft" align="right" valign="top"><a id="a499ded62763c36644e3bab6f9ff7bae6"></a>
+class <a class="el" href="a26739.html">UMaterialInterface</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MaterialTemplateStreetCloudFluffy</b></td></tr>
+<tr class="separator:a499ded62763c36644e3bab6f9ff7bae6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12679.html">FItemSpawnWeightedType</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a12679.html">FCloudVisualParameters</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

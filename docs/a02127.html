@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FWeightedAnimationTimeout Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FTransformBlendCurve Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,66 @@ $(document).ready(function(){initNavTree('a02127.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a02124.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FWeightedAnimationTimeout Struct Reference</div>  </div>
+<div class="title">SDK::FTransformBlendCurve Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeightedAnimationTimeout:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FTransformBlendCurve:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a02125.svg" width="254" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a02125.svg" width="642" height="412"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a04a18682e098dd2c7a47b7ad6822eb92"><td class="memItemLeft" align="right" valign="top"><a id="a04a18682e098dd2c7a47b7ad6822eb92"></a>
-struct <a class="el" href="a26223.html">FFloatRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TimeoutRange</b></td></tr>
-<tr class="separator:a04a18682e098dd2c7a47b7ad6822eb92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fc1f1b71eb8c226da704740c6a35108"><td class="memItemLeft" align="right" valign="top"><a id="a2fc1f1b71eb8c226da704740c6a35108"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>Weighting</b></td></tr>
-<tr class="separator:a2fc1f1b71eb8c226da704740c6a35108"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef65885e59e605ca633396dbebde4dc0"><td class="memItemLeft" align="right" valign="top"><a id="aef65885e59e605ca633396dbebde4dc0"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>UseLocationCurve</b></td></tr>
+<tr class="separator:aef65885e59e605ca633396dbebde4dc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf3c0f25da76090c99b3dd48d74c2234"><td class="memItemLeft" align="right" valign="top"><a id="aaf3c0f25da76090c99b3dd48d74c2234"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:aaf3c0f25da76090c99b3dd48d74c2234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a852c2d0d1a8c755e55c12d2fed728d75"><td class="memItemLeft" align="right" valign="top"><a id="a852c2d0d1a8c755e55c12d2fed728d75"></a>
+struct <a class="el" href="a31443.html">FRuntimeVectorCurve</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LocationCurve</b></td></tr>
+<tr class="separator:a852c2d0d1a8c755e55c12d2fed728d75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f1897d952c12ecb3b734a8d75c4f20c"><td class="memItemLeft" align="right" valign="top"><a id="a9f1897d952c12ecb3b734a8d75c4f20c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>UseRotationCurve</b></td></tr>
+<tr class="separator:a9f1897d952c12ecb3b734a8d75c4f20c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd40a634796919d7a470d878688e31e1"><td class="memItemLeft" align="right" valign="top"><a id="acd40a634796919d7a470d878688e31e1"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x7]</td></tr>
+<tr class="separator:acd40a634796919d7a470d878688e31e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5f84075931dfc32d643cd96e68204b0"><td class="memItemLeft" align="right" valign="top"><a id="ae5f84075931dfc32d643cd96e68204b0"></a>
+struct <a class="el" href="a31443.html">FRuntimeVectorCurve</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RotationCurve</b></td></tr>
+<tr class="separator:ae5f84075931dfc32d643cd96e68204b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3a5bad91c50d99e2ddcccf319dbb707"><td class="memItemLeft" align="right" valign="top"><a id="af3a5bad91c50d99e2ddcccf319dbb707"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>UseScaleCurve</b></td></tr>
+<tr class="separator:af3a5bad91c50d99e2ddcccf319dbb707"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4534e1c0febb6c307d72679a9c5c6fe"><td class="memItemLeft" align="right" valign="top"><a id="ab4534e1c0febb6c307d72679a9c5c6fe"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x7]</td></tr>
+<tr class="separator:ab4534e1c0febb6c307d72679a9c5c6fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19f453b4cdca347edc6e011ab7d5da38"><td class="memItemLeft" align="right" valign="top"><a id="a19f453b4cdca347edc6e011ab7d5da38"></a>
+struct <a class="el" href="a31443.html">FRuntimeVectorCurve</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ScaleCurve</b></td></tr>
+<tr class="separator:a19f453b4cdca347edc6e011ab7d5da38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4dd1011585047395cb34e5663d77a201"><td class="memItemLeft" align="right" valign="top"><a id="a4dd1011585047395cb34e5663d77a201"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b> [0x8]</td></tr>
+<tr class="separator:a4dd1011585047395cb34e5663d77a201"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a556c87a4bd7c9afedd6a6a28f6a9e348"><td class="memItemLeft" align="right" valign="top"><a id="a556c87a4bd7c9afedd6a6a28f6a9e348"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SourceTransform</b></td></tr>
+<tr class="separator:a556c87a4bd7c9afedd6a6a28f6a9e348"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a168d5fad1e89c0968280c6aa803b738e"><td class="memItemLeft" align="right" valign="top"><a id="a168d5fad1e89c0968280c6aa803b738e"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TargetTransform</b></td></tr>
+<tr class="separator:a168d5fad1e89c0968280c6aa803b738e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1a935762091777cde9ec18e018d3538"><td class="memItemLeft" align="right" valign="top"><a id="ac1a935762091777cde9ec18e018d3538"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b> [0x30]</td></tr>
+<tr class="separator:ac1a935762091777cde9ec18e018d3538"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a02127.html">FWeightedAnimationTimeout</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:31 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a02127.html">FTransformBlendCurve</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

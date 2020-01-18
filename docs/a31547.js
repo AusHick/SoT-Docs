@@ -1,7 +1,6 @@
 var a31547 =
 [
-    [ "RuleToExecute", "a31547.html#aa3001fe0c0e58bd900706b36d7aa200c", null ],
-    [ "TransitionIndex", "a31547.html#acedab13773967391b5207eef855af47b", null ],
-    [ "TransitionReturnVal", "a31547.html#a0e5e2ce6bde10955c3611189a92ea49f", null ],
-    [ "UnknownData00", "a31547.html#ae3c648dbdbd8c210af7119a8bccd1cd2", null ]
+    [ "FOV", "a31547.html#aac81eca4c03fdd044f818fd29de494f1", null ],
+    [ "Location", "a31547.html#a3c64b00ec63eb6aa8af685478922b9ee", null ],
+    [ "Rotation", "a31547.html#a7d12894bd7d709a76bb0a1b3681dbd75", null ]
 ];

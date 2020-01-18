@@ -1,6 +1,7 @@
 var a32867 =
 [
-    [ "Area", "a32867.html#a360814c48d43d4e28cb605ab3a5e3757", null ],
-    [ "ConvertAngleToCircleSectorIndex", "a32867.html#ad38cf64d8c3520198ef582b4fd70b33f", null ],
-    [ "StaticClass", "a32867.html#a39a0d9fb2bdd557262c46ca561a7201d", null ]
+    [ "EndTime", "a32867.html#a811077e989aaef815de62cf60ab3eab8", null ],
+    [ "EpochId", "a32867.html#a30785a73e348b8de0324857ad3aa625d", null ],
+    [ "State", "a32867.html#a9c62eef80fcba20c774f5bf0744c48fc", null ],
+    [ "UnknownData00", "a32867.html#a52ec88dd08c44be76c18d36157813839", null ]
 ];

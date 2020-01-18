@@ -1,4 +1,5 @@
 var a21911 =
 [
-    [ "PageListsToUpdate", "a21911.html#a5a257c3c871071e6b4a3f9932ca2d74d", null ]
+    [ "IslandName", "a21911.html#aa694018007b7f32a229d044a3c2f3522", null ],
+    [ "LandmarkName", "a21911.html#a410f53d149e449306214c0fa31772d4f", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FKrakenDespawnTelemetryEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FKrakenShipWrappingTentacleAnimationStateParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,42 @@ $(document).ready(function(){initNavTree('a32851.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a32848.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FKrakenDespawnTelemetryEvent Struct Reference</div>  </div>
+<div class="title">SDK::FKrakenShipWrappingTentacleAnimationStateParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FKrakenDespawnTelemetryEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FKrakenShipWrappingTentacleAnimationStateParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a32849.svg" width="446" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a32849.svg" width="400" height="258"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aa07328f712ef294af7e866bf488e5e31"><td class="memItemLeft" align="right" valign="top"><a id="aa07328f712ef294af7e866bf488e5e31"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>KrakenId</b></td></tr>
-<tr class="separator:aa07328f712ef294af7e866bf488e5e31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4f3657d6eda5b227a2888676512561c"><td class="memItemLeft" align="right" valign="top"><a id="af4f3657d6eda5b227a2888676512561c"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EKrakenDespawnReason &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>KrakenDespawnReason</b></td></tr>
-<tr class="separator:af4f3657d6eda5b227a2888676512561c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a950a7e2394b5d854c2ef4bbfe449127d"><td class="memItemLeft" align="right" valign="top"><a id="a950a7e2394b5d854c2ef4bbfe449127d"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a950a7e2394b5d854c2ef4bbfe449127d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bc3f5e9e2b05f74ca34dc505d272a96"><td class="memItemLeft" align="right" valign="top"><a id="a8bc3f5e9e2b05f74ca34dc505d272a96"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>Visible</b></td></tr>
+<tr class="separator:a8bc3f5e9e2b05f74ca34dc505d272a96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3880e5da3e2cd94ae5999a47380b5b68"><td class="memItemLeft" align="right" valign="top"><a id="a3880e5da3e2cd94ae5999a47380b5b68"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a3880e5da3e2cd94ae5999a47380b5b68"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a419c50bee5a32db04b5b4607f76b5024"><td class="memItemLeft" align="right" valign="top"><a id="a419c50bee5a32db04b5b4607f76b5024"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>StartFrame</b></td></tr>
+<tr class="separator:a419c50bee5a32db04b5b4607f76b5024"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4b6e71aeb9e661a1657a23beb012e29"><td class="memItemLeft" align="right" valign="top"><a id="af4b6e71aeb9e661a1657a23beb012e29"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>EndFrame</b></td></tr>
+<tr class="separator:af4b6e71aeb9e661a1657a23beb012e29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afce7908c2beb839ce193f0bcf0948376"><td class="memItemLeft" align="right" valign="top"><a id="afce7908c2beb839ce193f0bcf0948376"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Duration</b></td></tr>
+<tr class="separator:afce7908c2beb839ce193f0bcf0948376"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32851.html">FKrakenDespawnTelemetryEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32851.html">FKrakenShipWrappingTentacleAnimationStateParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

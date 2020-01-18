@@ -1,7 +1,6 @@
 var a25371 =
 [
-    [ "CrewMax", "a25371.html#a51ba29134bcf932f7a3730b37822b14d", null ],
-    [ "CrewMin", "a25371.html#ac41dc639ec900decce261680b24ec571", null ],
-    [ "States", "a25371.html#a1495adddcdb37c9e87f25a6bf022fb93", null ],
-    [ "Tags", "a25371.html#aff51cf6b29bf3c05d8c7ef9b5ceb302f", null ]
+    [ "AIPawn", "a25371.html#aa765d194cca7ae7bfb6ffb0ecdfd9433", null ],
+    [ "DeathType", "a25371.html#a8164122bfabb54e6a75ccda37a7a83f6", null ],
+    [ "UnknownData00", "a25371.html#a2ca351d88215a3fd44a53ef5c87cf9f9", null ]
 ];

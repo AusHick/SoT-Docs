@@ -1,8 +1,5 @@
 var a13303 =
 [
-    [ "AllAtOnce", "a13303.html#a4117c01716bd4851ebde4c27a146b4cc", null ],
-    [ "FixedChapters", "a13303.html#a16327b917c97060d1b8efbbc54f115a2", null ],
-    [ "Method", "a13303.html#add95e7d3c955ca4ec31c48788383b732", null ],
-    [ "PerChapter", "a13303.html#a2d9b8540f0b2a9c93ffaf68ae4412cba", null ],
-    [ "UnknownData00", "a13303.html#a2a2a817f1160a22ec4663b862efc6d8a", null ]
+    [ "Feature", "a13303.html#a4d3633f60deb5a70d9afe1e4c10d84c5", null ],
+    [ "Levels", "a13303.html#adfaa44114e8d9284ae1c318849ccd092", null ]
 ];

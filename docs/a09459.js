@@ -1,12 +1,10 @@
 var a09459 =
 [
-    [ "GetNumChapters", "a09459.html#aa55a5cbcf6b6013d15e883c0d58419ef", null ],
-    [ "GetNumQuests", "a09459.html#ae8ac87e76934f2c154610a0f3a84336c", null ],
-    [ "GetTitle", "a09459.html#a8118c2eef5432eea5d97ac183bf913e4", null ],
-    [ "StaticClass", "a09459.html#af72ed3c56cc6744ec29e1e08b50a7041", null ],
-    [ "Visit", "a09459.html#a68220b5ed8ed9c65d42d98151547c764", null ],
-    [ "VisitChapter", "a09459.html#a9bbf78af0287d15013ff373060cc232b", null ],
-    [ "StartingLocation", "a09459.html#ae4f1b91e932ccb4897308def80dd9d66", null ],
-    [ "UnknownData00", "a09459.html#a7b45f11533125dd278d5c5b8ddee5b3e", null ],
-    [ "UnknownData01", "a09459.html#aaf029fd2aeb2f15626756842a2480818", null ]
+    [ "StaticClass", "a09459.html#ae3d5b648632668c3f040d82f1185d6c6", null ],
+    [ "AssetNames", "a09459.html#ad676cb4963b6d9cb682ac1814ed11b87", null ],
+    [ "DescAssets", "a09459.html#a1d0bca56ba913357565d96c130a02a5d", null ],
+    [ "Proposals", "a09459.html#a06d8d249f1b0f2eb8f3e570f5aa3b6ef", null ],
+    [ "Recipes", "a09459.html#a0648eaa750b511617b990a20d23fd751", null ],
+    [ "Regenerate", "a09459.html#a04a70365f5f233a3b9a8d04d2dec8328", null ],
+    [ "UnknownData00", "a09459.html#a1976d0a6ceca217f4058a7b38dcb78db", null ]
 ];

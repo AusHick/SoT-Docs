@@ -1,5 +1,6 @@
 var a03987 =
 [
-    [ "StaticClass", "a03987.html#a39e33fba68767acd0ccf01c132d5114b", null ],
-    [ "UnknownData00", "a03987.html#aeb6eb67014ed77e9cd810ae04729c7a8", null ]
+    [ "StaticClass", "a03987.html#af676da9b32d84a22027fbddec3ca5c34", null ],
+    [ "EmoteData", "a03987.html#a09b8e66871705018eefbccc3ae678bc4", null ],
+    [ "RadialIconPath", "a03987.html#afe87a1e1d8406dc151465278a75b443a", null ]
 ];

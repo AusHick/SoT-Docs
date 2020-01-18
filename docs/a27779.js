@@ -1,6 +1,29 @@
 var a27779 =
 [
-    [ "StaticClass", "a27779.html#a8f19781acada1785a624b69f3b1140c9", null ],
-    [ "Connection", "a27779.html#a8c7e69e1f37223c9eb1cde312a3ee3c3", null ],
-    [ "UnknownData00", "a27779.html#ac148e6c316a7e55004930975955f82d3", null ]
+    [ "StaticClass", "a27779.html#a82a0d37dc7b831481c82cbf5e056bc4f", null ],
+    [ "AllowedRotationFormats", "a27779.html#aab4d0ad0c275c6cd653fccd2aa59c5cf", null ],
+    [ "AllowedScaleFormats", "a27779.html#af489bfcd1f01feef73ae0c1214df0ed8", null ],
+    [ "AllowedTranslationFormats", "a27779.html#a49f35edb91885cbe808c59b144b95c1c", null ],
+    [ "bResampleAnimation", "a27779.html#a4d23dacded7f0e76ceab9a79b73bafdf", null ],
+    [ "bUseAdaptiveError", "a27779.html#aa038f7ad5077af32cc104303df14671b", null ],
+    [ "bUseAdaptiveError2", "a27779.html#a10106fe5e139b01ab609de30d2a85488", null ],
+    [ "bUseOverrideForEndEffectors", "a27779.html#a81693533e53e63a9397a0dd7cbdb14f3", null ],
+    [ "MaxAngleDiffBitwise", "a27779.html#a30cb2fb363fa43c62a04716e687dc16b", null ],
+    [ "MaxErrorPerTrackRatio", "a27779.html#af291f1ba8d84aae1c073e87bd6e6970d", null ],
+    [ "MaxPosDiffBitwise", "a27779.html#ad3402081f42010131b2fba0d0d75c549", null ],
+    [ "MaxScaleDiffBitwise", "a27779.html#a197d754f26eda26fefcb5b50ed9c9a04", null ],
+    [ "MaxZeroingThreshold", "a27779.html#a2122cf3773b081ddbdd0467e7abd74dd", null ],
+    [ "MinKeysForResampling", "a27779.html#ab7fa3f18c61c4675afaa8d0ac3852a41", null ],
+    [ "ParentingDivisor", "a27779.html#a0fd2628e4820edf973d569430b5ffa41", null ],
+    [ "ParentingDivisorExponent", "a27779.html#ae80eb37f7cb30b7195beb6579b520a96", null ],
+    [ "PerturbationProbeSize", "a27779.html#abb02fe5fc7a8b6bc2c0c7875ca239057", null ],
+    [ "ResampledFramerate", "a27779.html#aea740dbac9236564019546a9f8a269fb", null ],
+    [ "RotationErrorSourceRatio", "a27779.html#a8623bd72039fc565d5ebdf6570df5553", null ],
+    [ "ScaleErrorSourceRatio", "a27779.html#ace09975a4d091befb4bc38cc7f26d29e", null ],
+    [ "TrackHeightBias", "a27779.html#a4c899b5f4ab52754d7163fa69bdd67fa", null ],
+    [ "TranslationErrorSourceRatio", "a27779.html#aacc5584e2ea9bb02255ebd232ba0bd1e", null ],
+    [ "UnknownData00", "a27779.html#a1ad22c07a7800bb54125fe21f5e3d207", null ],
+    [ "UnknownData01", "a27779.html#a86d01a459355c91c168124efbfd5f05b", null ],
+    [ "UnknownData02", "a27779.html#a9a7e09ed3d9bcd3af8adba469b705242", null ],
+    [ "UnknownData03", "a27779.html#a8a2e04423a6b8a8ba673d8b4c0a471cd", null ]
 ];

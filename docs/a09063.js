@@ -1,5 +1,6 @@
 var a09063 =
 [
-    [ "StaticClass", "a09063.html#ad087f50501b45c8cccd5700951dbab82", null ],
-    [ "UnknownData00", "a09063.html#a2cce5dcf2f5919be1636d15e914af702", null ]
+    [ "FireTestEventToClient", "a09063.html#a6cf4734af7f0b823c92eb7f083d367f8", null ],
+    [ "FireTestEventToServer", "a09063.html#afb89524162b2a4943bf6cc14db58156d", null ],
+    [ "StaticClass", "a09063.html#a5dfaad64c0d458cdfbfd3f3be0ac5f56", null ]
 ];

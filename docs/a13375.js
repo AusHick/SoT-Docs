@@ -1,4 +1,5 @@
 var a13375 =
 [
-    [ "Name", "a13375.html#ae159ca0e1383677b267a01ab1520d1fd", null ]
+    [ "PirateId", "a13375.html#a490bf40d6a47279ca929eaab54b09445", null ],
+    [ "UserId", "a13375.html#ac8b8929646ab5e0693ce916c39ff53b4", null ]
 ];

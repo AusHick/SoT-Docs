@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPlayerStatOption Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FPlayerAttackTelemetryEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a14971.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14968.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPlayerStatOption Struct Reference</div>  </div>
+<div class="title">SDK::FPlayerAttackTelemetryEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPlayerStatOption:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPlayerAttackTelemetryEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14969.svg" width="414" height="368"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a14969.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:afb85c28705aad2150887dff7a7f7f426"><td class="memItemLeft" align="right" valign="top"><a id="afb85c28705aad2150887dff7a7f7f426"></a>
-struct <a class="el" href="a00567.html">FPlayerStat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StatToFire</b></td></tr>
-<tr class="separator:afb85c28705aad2150887dff7a7f7f426"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a418e779c118d6c755fb5133b76006426"><td class="memItemLeft" align="right" valign="top"><a id="a418e779c118d6c755fb5133b76006426"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>FireForWholeCrew</b></td></tr>
-<tr class="separator:a418e779c118d6c755fb5133b76006426"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac85d251117846de28de41a6bd85225be"><td class="memItemLeft" align="right" valign="top"><a id="ac85d251117846de28de41a6bd85225be"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:ac85d251117846de28de41a6bd85225be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78111da20a28279233b53b1941bd1738"><td class="memItemLeft" align="right" valign="top"><a id="a78111da20a28279233b53b1941bd1738"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AttackId</b></td></tr>
+<tr class="separator:a78111da20a28279233b53b1941bd1738"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a386a2153635af915549068904eab27bb"><td class="memItemLeft" align="right" valign="top"><a id="a386a2153635af915549068904eab27bb"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DamageType</b></td></tr>
+<tr class="separator:a386a2153635af915549068904eab27bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad49b9d6ee47cf190bbaadd16b7939e18"><td class="memItemLeft" align="right" valign="top"><a id="ad49b9d6ee47cf190bbaadd16b7939e18"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WeaponType</b></td></tr>
+<tr class="separator:ad49b9d6ee47cf190bbaadd16b7939e18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e844d03d8f36d9f4261c3e39468154e"><td class="memItemLeft" align="right" valign="top"><a id="a1e844d03d8f36d9f4261c3e39468154e"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TargetPos</b></td></tr>
+<tr class="separator:a1e844d03d8f36d9f4261c3e39468154e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3238d57ecb3c36ffb21ef82339806f23"><td class="memItemLeft" align="right" valign="top"><a id="a3238d57ecb3c36ffb21ef82339806f23"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DamageDealt</b></td></tr>
+<tr class="separator:a3238d57ecb3c36ffb21ef82339806f23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac7a596adc69c449c9a96eb9252fcbdb5"><td class="memItemLeft" align="right" valign="top"><a id="ac7a596adc69c449c9a96eb9252fcbdb5"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>Success</b></td></tr>
+<tr class="separator:ac7a596adc69c449c9a96eb9252fcbdb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0decfd9a6ca750210b80d5d851e1c0dd"><td class="memItemLeft" align="right" valign="top"><a id="a0decfd9a6ca750210b80d5d851e1c0dd"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a0decfd9a6ca750210b80d5d851e1c0dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14971.html">FPlayerStatOption</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14971.html">FPlayerAttackTelemetryEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:43 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

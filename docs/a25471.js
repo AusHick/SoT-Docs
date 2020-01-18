@@ -1,5 +1,5 @@
 var a25471 =
 [
-    [ "InputHandler", "a25471.html#a243fedfc212bdbcf37812dfb27ca8ccf", null ],
-    [ "UnknownData00", "a25471.html#ae4b8650c2fb8ab22bb52848f5383328c", null ]
+    [ "AIEncounterSpecification", "a25471.html#abd61ef5748aadb9d6469eb1abe9e1ff3", null ],
+    [ "AIPawn", "a25471.html#aaa14fc053ff742f2d896ce260f0d9483", null ]
 ];

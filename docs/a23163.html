@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FEventReceiveStorageContainerComponentState Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FTreasureDroppedTelemetryEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,42 @@ $(document).ready(function(){initNavTree('a23163.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a23160.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FEventReceiveStorageContainerComponentState Struct Reference</div>  </div>
+<div class="title">SDK::FTreasureDroppedTelemetryEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEventReceiveStorageContainerComponentState:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FTreasureDroppedTelemetryEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a23161.svg" width="243" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a23161.svg" width="523" height="346"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a63da7edf9a6882f961e8f0d9c5805fe0"><td class="memItemLeft" align="right" valign="top"><a id="a63da7edf9a6882f961e8f0d9c5805fe0"></a>
-class <a class="el" href="a11175.html">UStorageContainerComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Source</b></td></tr>
-<tr class="separator:a63da7edf9a6882f961e8f0d9c5805fe0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00611c25c31d407663d1f212bd09e88e"><td class="memItemLeft" align="right" valign="top"><a id="a00611c25c31d407663d1f212bd09e88e"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BootyId</b></td></tr>
+<tr class="separator:a00611c25c31d407663d1f212bd09e88e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13dc499312968e344aac23a050a66bf0"><td class="memItemLeft" align="right" valign="top"><a id="a13dc499312968e344aac23a050a66bf0"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EBootyTypes &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BootyType</b></td></tr>
+<tr class="separator:a13dc499312968e344aac23a050a66bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a400c0443853e2554a50c2d3fe5d10567"><td class="memItemLeft" align="right" valign="top"><a id="a400c0443853e2554a50c2d3fe5d10567"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a400c0443853e2554a50c2d3fe5d10567"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a035151f38f21c660da1d5741c2f49ab7"><td class="memItemLeft" align="right" valign="top"><a id="a035151f38f21c660da1d5741c2f49ab7"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Rarity</b></td></tr>
+<tr class="separator:a035151f38f21c660da1d5741c2f49ab7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe993eda9d54c1bbbca00fc284860ff0"><td class="memItemLeft" align="right" valign="top"><a id="abe993eda9d54c1bbbca00fc284860ff0"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LocationOnShip</b></td></tr>
+<tr class="separator:abe993eda9d54c1bbbca00fc284860ff0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a23163.html">FEventReceiveStorageContainerComponentState</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a23163.html">FTreasureDroppedTelemetryEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

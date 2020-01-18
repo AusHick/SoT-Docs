@@ -1,6 +1,5 @@
 var a34119 =
 [
-    [ "Prompt", "a34119.html#a12d2c5ff4744a14c2bbec2baf3654c63", null ],
-    [ "PromptType", "a34119.html#ab79a27df5878da687c077cc10bf7f662", null ],
-    [ "UnknownData00", "a34119.html#a5eb9913be71fac449721b3367f19a7c6", null ]
+    [ "StaticClass", "a34119.html#a2b9f45c98e671c167b632d924685f65a", null ],
+    [ "ExcludeItems", "a34119.html#aeff5bb64544b610212e494a5f2df1b18", null ]
 ];

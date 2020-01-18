@@ -1,4 +1,5 @@
 var a13263 =
 [
-    [ "Rewards", "a13263.html#aae26407caf6a93d7203098a14f41acf4", null ]
+    [ "ShowIntroBanners", "a13263.html#a6d79f47bc3a8d3ba71dd5f9c4a707385", null ],
+    [ "ShowOutroBanners", "a13263.html#a08686c414655b5e1a8aede8bccdefac9", null ]
 ];

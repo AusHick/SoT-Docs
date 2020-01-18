@@ -1,7 +1,8 @@
 var a28235 =
 [
-    [ "StaticClass", "a28235.html#aad70744f1839b3a501fe5ead4b66bf77", null ],
-    [ "AnimScriptInstance", "a28235.html#a7745a82f57cd1f8f6a8b79e07b734398", null ],
-    [ "ResetFloat", "a28235.html#a657ba190db8e3f180a0fbb35bdd89981", null ],
-    [ "UnknownData00", "a28235.html#aedbe217886fe0e9f0c1834dd5fc1f4c6", null ]
+    [ "StaticClass", "a28235.html#a4138c753525de895d52731ed1dfb36c2", null ],
+    [ "BaseMeshDetail", "a28235.html#a0703aa7940db9c3ba73d63f9f0b6f038", null ],
+    [ "FFTWaterFoamTextureName", "a28235.html#aee402b341bb3b05e45b0c8fdd99f9086", null ],
+    [ "FFTWaterMaterialName", "a28235.html#a11426bf0b6d7c4100089009f1a96014e", null ],
+    [ "UnknownData00", "a28235.html#a7eb802c7c93002c02893b324cdc6493b", null ]
 ];

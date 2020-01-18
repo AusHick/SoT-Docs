@@ -1,4 +1,5 @@
 var a01775 =
 [
-    [ "ShipSizes", "a01775.html#a6cb566674a33258841a6fdc74dac688d", null ]
+    [ "AIClassId", "a01775.html#a27a84b7f3e29aa847e71233eb90275ba", null ],
+    [ "Name", "a01775.html#a4e61aee2d0352e831862e4b462c41c4e", null ]
 ];

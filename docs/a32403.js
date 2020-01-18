@@ -1,7 +1,6 @@
 var a32403 =
 [
-    [ "GetService", "a32403.html#a3136d798cbe53563a1af9f4ba857b5a0", null ],
-    [ "RegisterService", "a32403.html#a8791792ca96fecf20bb46f8393efb15f", null ],
-    [ "StaticClass", "a32403.html#ac6060d4b210a2192639725aa8990390a", null ],
-    [ "UnregisterService", "a32403.html#a5219e7078d71f0b05f85350596a749ff", null ]
+    [ "MaximumLODDistance", "a32403.html#ae0a8dbead06a1a055c5003bba4d2029f", null ],
+    [ "SpawnInterval", "a32403.html#a047b80cc57645d44881325d45de85701", null ],
+    [ "UnknownData00", "a32403.html#a5843d586af54f3b5fba0330cc225d0c2", null ]
 ];

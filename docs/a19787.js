@@ -1,4 +1,5 @@
 var a19787 =
 [
-    [ "UnknownData00", "a19787.html#a2eb2bd567f09fd38302162f69a9876e0", null ]
+    [ "PopUpAudioOverrides", "a19787.html#a96f110becbc10388b4d865f9935e88a1", null ],
+    [ "PopUpDesc", "a19787.html#a03af8a5069837ecd9cc28ea2acbc276f", null ]
 ];

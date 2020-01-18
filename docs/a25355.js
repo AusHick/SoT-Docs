@@ -1,4 +1,4 @@
 var a25355 =
 [
-    [ "StaticClass", "a25355.html#a3ccf0ec14427a3294cd75b26f9ec7565", null ]
+    [ "NewAIStrategy", "a25355.html#ad7147bcbcdaf012020ac66172dcb80c0", null ]
 ];

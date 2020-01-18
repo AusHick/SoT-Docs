@@ -1,5 +1,6 @@
 var a15987 =
 [
-    [ "Location", "a15987.html#ae5db5ed801d4380cf946a204cee5fe11", null ],
-    [ "RainZoneParameters", "a15987.html#a14ed7b36061804bb7c5c8ccc45326910", null ]
+    [ "CurrentPoolAmount", "a15987.html#a03e6e8bab7b75e7cdc8e819369738104", null ],
+    [ "State", "a15987.html#ab4cb972b711e4087a539ea31596915b3", null ],
+    [ "UnknownData00", "a15987.html#a0edd7c0328858e878a00e71ba14a592e", null ]
 ];

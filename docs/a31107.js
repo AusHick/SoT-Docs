@@ -1,12 +1,8 @@
 var a31107 =
 [
-    [ "bCustomImpactResistance", "a31107.html#acc75aeca839ddface2e035369ac407ed", null ],
-    [ "bEnableImpactDamage", "a31107.html#adc9182d03a319ed610aa0f21d9e6a942", null ],
-    [ "DamageSpread", "a31107.html#abb8f23012a4c899d02770a8b15b9cd98", null ],
-    [ "DamageThreshold", "a31107.html#ac0b2f030779217f33d4b39f11849bab3", null ],
-    [ "DefaultImpactDamageDepth", "a31107.html#ad66514666407b9cc1d14a9d95424fd1a", null ],
-    [ "ImpactDamage", "a31107.html#a9fb8b741af248f4c055d93e22c0200b9", null ],
-    [ "ImpactResistance", "a31107.html#a70c59fc78c2665b539da49e7e660cdce", null ],
-    [ "UnknownData00", "a31107.html#a2d3e7b3a268643d772abdbc3ee1db501", null ],
-    [ "UnknownData01", "a31107.html#af271c1436423d32c734572baa4c06e28", null ]
+    [ "bInvert", "a31107.html#aae9f246ed4780ff8d4da3ca236120b61", null ],
+    [ "DeadZone", "a31107.html#ab959e4c6bae3b17bb1b2ef4f52361c04", null ],
+    [ "Exponent", "a31107.html#a1df967bfd3e525ceb8b61cebafedabf2", null ],
+    [ "Sensitivity", "a31107.html#a39f788f42ece12f4a5199b1f56151169", null ],
+    [ "UnknownData00", "a31107.html#a76c01060c8da0dfacae9d6457e62b27a", null ]
 ];

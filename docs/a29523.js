@@ -1,8 +1,13 @@
 var a29523 =
 [
-    [ "StaticClass", "a29523.html#a803d5169bf1424f6c990e595d9a974a6", null ],
-    [ "CustomParentScale", "a29523.html#a94849edca89860626696c14b3d62f831", null ],
-    [ "Scale", "a29523.html#ad53d9a44b689602764c5d15ef78ba84c", null ],
-    [ "SpeedCap", "a29523.html#adb70186c11a402fa0b43eb296142e303", null ],
-    [ "UnknownData00", "a29523.html#a035f82629e935914b68a7e6b53796ccb", null ]
+    [ "StaticClass", "a29523.html#ac76086643dce288ee359a9f39f7932d4", null ],
+    [ "AlphaThreshold", "a29523.html#a506f048a9903555aa15dcd3515d90c22", null ],
+    [ "BoundingMode", "a29523.html#a8f483c0838730aaf112f0b531b9fe22d", null ],
+    [ "OpacitySourceMode", "a29523.html#a57db223761fb7728724e170df3c057f9", null ],
+    [ "SafeMarginSize", "a29523.html#a9bd1dc2acc90e2130fb2627bd0c6353e", null ],
+    [ "SubImages_Horizontal", "a29523.html#a26713e2793fa2aa89479e54ae241fbb8", null ],
+    [ "SubImages_Vertical", "a29523.html#a318caa4e88156cbaecb647085ff7125c", null ],
+    [ "SubUVTexture", "a29523.html#adf8f66b830eb8eee7881bffabf0586a3", null ],
+    [ "UnknownData00", "a29523.html#a8da5a7b60b7e84594f3c3de629fdebed", null ],
+    [ "UnknownData01", "a29523.html#ad21753b2b2c2bcfbf297edd1a9c066ca", null ]
 ];

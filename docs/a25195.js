@@ -1,4 +1,5 @@
 var a25195 =
 [
-    [ "UnknownData00", "a25195.html#a5626fc76f69ca3c5b32067b523904bde", null ]
+    [ "PreventedHealthChanges", "a25195.html#a5bf014fe8269e3152a7c8e12331eefe9", null ],
+    [ "Strategy", "a25195.html#a1887bc044e4ca169067d46834c8e83ab", null ]
 ];

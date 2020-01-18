@@ -1,7 +1,6 @@
 var a13963 =
 [
-    [ "CrewId", "a13963.html#a6fb8cdf94fe082d34ea8f4218c1de07e", null ],
-    [ "Score", "a13963.html#aa253ac222915f8467e74436369e9ad37", null ],
-    [ "ScoreId", "a13963.html#abcc1859f64679e898f94c713150daa40", null ],
-    [ "UnknownData00", "a13963.html#abe5f8e18def5a74577f5c0f77118f63b", null ]
+    [ "HasBeenSet", "a13963.html#af684352e111045f420330039cdc29a5c", null ],
+    [ "Loadout", "a13963.html#a20092d563b48d2113ee50c2741c915b9", null ],
+    [ "UnknownData00", "a13963.html#a278fa6e7da302f72ff737c283b1b3f81", null ]
 ];

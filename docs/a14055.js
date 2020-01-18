@@ -1,5 +1,9 @@
 var a14055 =
 [
-    [ "OwningCrewID", "a14055.html#af65069c758defa7776e6648e49e7a91e", null ],
-    [ "ShipLiveryTeamSet", "a14055.html#ac3b47f806cfc883202833fd6c688183a", null ]
+    [ "AudioEvents", "a14055.html#a143d21ac62df0c5168d1b44bd1408fe4", null ],
+    [ "NPCMessageToAllPlayers", "a14055.html#a0bf98ce9a3e166ef04589b45603d15e6", null ],
+    [ "NPCName", "a14055.html#a6aee294ae75afbc8b822d640714510ff", null ],
+    [ "SpecialEvents", "a14055.html#a8b8e9da40ebcaa092560d2d621d51d70", null ],
+    [ "TimeToEvent", "a14055.html#a2b5f1ea71e7de3ef3008a17492547ac7", null ],
+    [ "UnknownData00", "a14055.html#ae77204dd4f9757c921d32fe58ee2993d", null ]
 ];

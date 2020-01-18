@@ -1,6 +1,5 @@
 var a26111 =
 [
-    [ "X", "a26111.html#af5439b2810eab17512799dc7cf9f51bf", null ],
-    [ "Y", "a26111.html#a7d81126dca464115bf759c02893936d6", null ],
-    [ "Z", "a26111.html#ab7b7ed865bf80b813872ffb5e45d1f47", null ]
+    [ "StaticClass", "a26111.html#ab205d0a0dbb22022333ed3b44a402ed3", null ],
+    [ "Next", "a26111.html#ab590d7949327a742759fef88f90a124f", null ]
 ];

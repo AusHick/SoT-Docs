@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FRigTransformConstraint Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FHIKBoneTransform Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,42 @@ $(document).ready(function(){initNavTree('a31087.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31084.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FRigTransformConstraint Struct Reference</div>  </div>
+<div class="title">SDK::FHIKBoneTransform Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRigTransformConstraint:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FHIKBoneTransform:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31085.svg" width="554" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a31085.svg" width="442" height="360"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1c9b5b93f2c113e032915ddce96b6a75"><td class="memItemLeft" align="right" valign="top"><a id="a1c9b5b93f2c113e032915ddce96b6a75"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EConstraintTransform &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>TranformType</b></td></tr>
-<tr class="separator:a1c9b5b93f2c113e032915ddce96b6a75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60ef3ae0706c1b01d0a1a098bf9e93fd"><td class="memItemLeft" align="right" valign="top"><a id="a60ef3ae0706c1b01d0a1a098bf9e93fd"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a60ef3ae0706c1b01d0a1a098bf9e93fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc1efdd20172a2a4d9778907b7391f9d"><td class="memItemLeft" align="right" valign="top"><a id="adc1efdd20172a2a4d9778907b7391f9d"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ParentSpace</b></td></tr>
-<tr class="separator:adc1efdd20172a2a4d9778907b7391f9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae99b0097a52ce1f31835e4c392e96e99"><td class="memItemLeft" align="right" valign="top"><a id="ae99b0097a52ce1f31835e4c392e96e99"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>Weight</b></td></tr>
-<tr class="separator:ae99b0097a52ce1f31835e4c392e96e99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa74bcd1bd2bc1434f6783e15a222cfea"><td class="memItemLeft" align="right" valign="top"><a id="aa74bcd1bd2bc1434f6783e15a222cfea"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>BoneID</b></td></tr>
+<tr class="separator:aa74bcd1bd2bc1434f6783e15a222cfea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae45ea32118b4625c161f6cf05e21be1d"><td class="memItemLeft" align="right" valign="top"><a id="ae45ea32118b4625c161f6cf05e21be1d"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Translation</b></td></tr>
+<tr class="separator:ae45ea32118b4625c161f6cf05e21be1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01a77b4cb97c9bf3a64d02b7f16981d6"><td class="memItemLeft" align="right" valign="top"><a id="a01a77b4cb97c9bf3a64d02b7f16981d6"></a>
+struct <a class="el" href="a26311.html">FQuat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Orientation</b></td></tr>
+<tr class="separator:a01a77b4cb97c9bf3a64d02b7f16981d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf678a43e42faa5a5bf487ed76bd392e"><td class="memItemLeft" align="right" valign="top"><a id="abf678a43e42faa5a5bf487ed76bd392e"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Scale</b></td></tr>
+<tr class="separator:abf678a43e42faa5a5bf487ed76bd392e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43f5ffb861d5c1df18e2aa0ac8ac2aa4"><td class="memItemLeft" align="right" valign="top"><a id="a43f5ffb861d5c1df18e2aa0ac8ac2aa4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a43f5ffb861d5c1df18e2aa0ac8ac2aa4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31087.html">FRigTransformConstraint</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31087.html">FHIKBoneTransform</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:40 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

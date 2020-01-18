@@ -1,19 +1,13 @@
 var a30367 =
 [
-    [ "AxisIndex", "a30367.html#a5c7c7eb5c0f424c8bace9d6553e4189a", null ],
-    [ "bActive", "a30367.html#a789065c49e6c6db05db36afe56ccd408", null ],
-    [ "bPlaneNegativeHalfspace", "a30367.html#ad01c79f2d43ccd13395081c5fdc33d7d", null ],
-    [ "bRecalculateNormals", "a30367.html#af7f2b7ec9785049b39466262190fb1c7", null ],
-    [ "bUseAggregateLOD", "a30367.html#a071c0c8de0310fbc6403d615c32040d0", null ],
-    [ "bUseClippingPlane", "a30367.html#a4e630a0d45a481f185760ee9e7d681b9", null ],
-    [ "bUseMassiveLOD", "a30367.html#afe59df627c34b4de77d77dd195ae67b0", null ],
-    [ "ClippingLevel", "a30367.html#a8be9f76e43ad782eb3bcfe0c40112798", null ],
-    [ "HardAngleThreshold", "a30367.html#aaa1d3b6ab8c5e7ed037860e705fbc72a", null ],
-    [ "MaterialLODSettings", "a30367.html#aa2a9fc3728e5c84a7f55fe0eab0bcc4a", null ],
-    [ "MergeDistance", "a30367.html#a7aadba63ae36ebfabbadf162fbfd3b55", null ],
-    [ "ScreenSize", "a30367.html#a0d307a487a3a5ddc145a26e39155754f", null ],
-    [ "UnknownData00", "a30367.html#ad98af9def625d95bbd83220d8620fdc7", null ],
-    [ "UnknownData01", "a30367.html#a22125ab067b57a472be94213f44c2058", null ],
-    [ "UnknownData02", "a30367.html#abd11c730f1ea4e676f93a2016f9cf5a1", null ],
-    [ "UnknownData03", "a30367.html#a193c0062d18db38371e60acab700cfde", null ]
+    [ "Expression", "a30367.html#a848fc55dc9f586515c6d15903986b0de", null ],
+    [ "GCC64_Padding", "a30367.html#af25655f53d3ee192d6005462fa613a95", null ],
+    [ "InputName", "a30367.html#a47f1d3995ab38d836e0e72cdb9cb95fa", null ],
+    [ "Mask", "a30367.html#a06555797433965881a333c7da4a7f311", null ],
+    [ "MaskA", "a30367.html#a6dbd947bb3bab252f9c91e23abc40b88", null ],
+    [ "MaskB", "a30367.html#ac696fc9f959837862f344405e3f3d260", null ],
+    [ "MaskG", "a30367.html#a6df85ae7d4d007e1a1a8eb08b9b2c802", null ],
+    [ "MaskR", "a30367.html#aa84ef4732751e66c04e31d87473ae6d3", null ],
+    [ "OutputIndex", "a30367.html#a1145b1f0945899b637fb4bab5479edd9", null ],
+    [ "UnknownData00", "a30367.html#a8ddf582e96548f924975303b70e01a24", null ]
 ];

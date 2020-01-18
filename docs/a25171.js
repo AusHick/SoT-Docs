@@ -1,4 +1,5 @@
 var a25171 =
 [
-    [ "DeathType", "a25171.html#aac2e7461dd627f66833efa7661f5f979", null ]
+    [ "ClassIds", "a25171.html#a0634c82d558cdc36b6e3b3dd74e4433e", null ],
+    [ "Names", "a25171.html#a2bff6f1d83e66466794e2f0c18e59f55", null ]
 ];

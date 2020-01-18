@@ -1,4 +1,4 @@
 var a23827 =
 [
-    [ "StaticClass", "a23827.html#a5e52e17c00543fa873d7bd8c8e532978", null ]
+    [ "PickupActor", "a23827.html#a5be552885d9c4b72c14f4abc3739b455", null ]
 ];

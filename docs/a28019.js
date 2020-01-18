@@ -1,7 +1,11 @@
 var a28019 =
 [
-    [ "StaticClass", "a28019.html#a22e24e15ab35bc0cd14413d8c1ee9758", null ],
-    [ "bSendAnonymousUsageDataToEpic", "a28019.html#a78e1a3cef5bdf0c423b6ef4f6692ad0b", null ],
-    [ "UnknownData00", "a28019.html#a69b24ecf3e3ba5799ce541629f3695df", null ],
-    [ "UnknownData01", "a28019.html#a83c1a84b32ea853a56d50fe7a9b6e1d8", null ]
+    [ "StaticClass", "a28019.html#a87c0f48a7150bc53ac01697dee814b9b", null ],
+    [ "ConsoleTargetPlayer", "a28019.html#ae812cdb51a432a23659133455ca790d5", null ],
+    [ "DefaultTexture_Black", "a28019.html#ab18ff9ee968cfee868b60b1172a9a5a6", null ],
+    [ "DefaultTexture_White", "a28019.html#a5b7ec7e243a9e69c7cbd4a043cba2e34", null ],
+    [ "HistoryBuffer", "a28019.html#a2e5561425f87be50b39198ebd05bb4d6", null ],
+    [ "UnknownData00", "a28019.html#a319e833244b894ee26902bbef9636ebc", null ],
+    [ "UnknownData01", "a28019.html#afff09a0468ff64ddb013925aa69c41e5", null ],
+    [ "UnknownData02", "a28019.html#a46379709a3d844cb2654aa91077365c6", null ]
 ];

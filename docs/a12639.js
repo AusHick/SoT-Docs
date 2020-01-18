@@ -1,6 +1,6 @@
 var a12639 =
 [
-    [ "Target", "a12639.html#a325bb3daaf61e8c2b922dcc9175475c3", null ],
-    [ "UnknownData00", "a12639.html#ae5b48aaae7190fcc22c197fc7c71fc9a", null ],
-    [ "Weight", "a12639.html#a77b3ed16a368d6267957fae99bfa7144", null ]
+    [ "FlameType", "a12639.html#a5b9c48e4689c4379ad69097f1a50e651", null ],
+    [ "TextureAsset", "a12639.html#ac3868f772ea2b40cca66c7157f8defe3", null ],
+    [ "UnknownData00", "a12639.html#aa15d2ce4f1e2044911af44bc9ee94175", null ]
 ];

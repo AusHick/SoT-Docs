@@ -1,4 +1,14 @@
 var a05387 =
 [
-    [ "StaticClass", "a05387.html#ae0c28a0ca656a63272990a3915f6f7fd", null ]
+    [ "OnRep_State", "a05387.html#ac630e5ff06347859ce6b061e5fbd8b80", null ],
+    [ "OnStateChanged", "a05387.html#a410ed8fd2ab06adbfe5464fb3c5b9159", null ],
+    [ "StaticClass", "a05387.html#aa499ba3995f1ab57539a2b733293778f", null ],
+    [ "BoundsScaleFactor", "a05387.html#aebd4789c35c84bdf54abe0be0ca872c2", null ],
+    [ "ChanceOfSpawningAnItem", "a05387.html#aa1703d14ab573b80f66ba4d3be3ec18f", null ],
+    [ "DestroyTimeSpan", "a05387.html#a328daaa45db82ce99826d2036dc8e26e", null ],
+    [ "ItemsToSpawn", "a05387.html#a62739f33716ba5f6e476a4b759813b32", null ],
+    [ "LifeTimeSpan", "a05387.html#a70bfdc2e57dc424cd3380b7601aa1b6d", null ],
+    [ "State", "a05387.html#a37cfcad642af80cadc0217c422be2d8d", null ],
+    [ "UnknownData00", "a05387.html#a5d2a8548b891e01caa7a71b311399a53", null ],
+    [ "UnknownData01", "a05387.html#ae7515a211bbbd60a72aa3e44aa0a258e", null ]
 ];

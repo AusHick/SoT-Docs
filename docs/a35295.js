@@ -1,7 +1,6 @@
 var a35295 =
 [
-    [ "StaticClass", "a35295.html#ac3bf9196c6b937e738f8797919b567a4", null ],
-    [ "Animation", "a35295.html#ae17555f48809cc7863003f2f6709e9ff", null ],
-    [ "UnknownData00", "a35295.html#a824e83ac37ec3aae1d2b6c6d5a3ba1fc", null ],
-    [ "UnknownData01", "a35295.html#a65c2529487e6a200657cfc77e2c2c404", null ]
+    [ "StaticClass", "a35295.html#aa2f933f6fa1e818d369b8f824e621425", null ],
+    [ "Location", "a35295.html#a33736b9b8fd479920c48e86046247022", null ],
+    [ "MapId", "a35295.html#ae36737b598bd3b5851e58f42c74bd67f", null ]
 ];

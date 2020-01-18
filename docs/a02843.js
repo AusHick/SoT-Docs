@@ -1,7 +1,5 @@
 var a02843 =
 [
-    [ "StaticClass", "a02843.html#a47b4081a6b9e5795175c403a978c98d9", null ],
-    [ "CurrentAIStrategyId", "a02843.html#a79ea6bf533fed09a0474bd75c44adb45", null ],
-    [ "CurrentServerActionStates", "a02843.html#ad8ff9bd5c3f8f4a1d07443ebe50fb9cd", null ],
-    [ "UnknownData00", "a02843.html#ad0ae070edbb4c8b2afc9fa1b9166fb31", null ]
+    [ "StaticClass", "a02843.html#afb067665aaf07e98e8b7b8194eb546d3", null ],
+    [ "UnknownData00", "a02843.html#a671796e216fbf741c149793c5207c79e", null ]
 ];

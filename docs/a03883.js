@@ -1,7 +1,9 @@
 var a03883 =
 [
-    [ "StaticClass", "a03883.html#af37cc3d562c76432d46d34269c12b74b", null ],
-    [ "IslandName", "a03883.html#af98deb3cd6d8f4dac852d687286b1278", null ],
-    [ "LocationParams", "a03883.html#a7e638982778211f594e639427943f62e", null ],
-    [ "SourceLocation", "a03883.html#aeff4ffb3bca7ff7fd0af8d641c996011", null ]
+    [ "StaticClass", "a03883.html#a2cd789ea9a72f0bc3c9603c037f03dd4", null ],
+    [ "WindVFX_CanProcessWind", "a03883.html#afef6cfe9bb51ce15db2d6fc600e9e04d", null ],
+    [ "WindVFX_SetEnabled", "a03883.html#a6675b8d7ffc40ede9533c9bf49d21c40", null ],
+    [ "OwnerCharacter", "a03883.html#aa1ed3320d909f8efdcad962e5f625105", null ],
+    [ "UnknownData00", "a03883.html#a96987389a52b53145778e384baf59e33", null ],
+    [ "WindVFX", "a03883.html#a24f8297274a96e3d5c43566a149d53c9", null ]
 ];

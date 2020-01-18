@@ -1,4 +1,5 @@
 var a21167 =
 [
-    [ "UnknownData00", "a21167.html#af062f3336efc60e4c1f8d6ec72701a46", null ]
+    [ "Device", "a21167.html#a7850dcc262aa09ac025549487c53358d", null ],
+    [ "IsInPartyChat", "a21167.html#aefc859cfadbc2668d630eefaaf9f4d4c", null ]
 ];

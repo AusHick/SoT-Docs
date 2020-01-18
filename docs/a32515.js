@@ -1,4 +1,5 @@
 var a32515 =
 [
-    [ "NestedObject", "a32515.html#a24d9c4d261738ec388f7b03995eb9296", null ]
+    [ "StaticClass", "a32515.html#a5aa5fd8f16b4aa014b4bfec10d4054fe", null ],
+    [ "Tags", "a32515.html#a73f529d9c2756b7223069583b975ab73", null ]
 ];

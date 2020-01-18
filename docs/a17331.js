@@ -1,5 +1,5 @@
 var a17331 =
 [
-    [ "Player", "a17331.html#a6e62d49bbfabf59fd63d7a6bbdb3dae4", null ],
-    [ "UnknownData00", "a17331.html#a63478800bffe6aa017129268b90a5594", null ]
+    [ "UniqueId", "a17331.html#a571bc5a81354ca1d778a49e6db3f78ed", null ],
+    [ "UnknownData00", "a17331.html#a6169b0e28c6c15701f8a816660eaf8d3", null ]
 ];

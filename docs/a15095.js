@@ -1,8 +1,8 @@
 var a15095 =
 [
-    [ "PlayerController", "a15095.html#a1d41ac042ba6a1ac042232ea6ad92bd9", null ],
-    [ "RequestState", "a15095.html#a4298e11a2e05e07ec060f2e9d60a35f8", null ],
-    [ "TimeRemaining", "a15095.html#a2c119380ef8212337cee2257f1fa847b", null ],
-    [ "UnknownData00", "a15095.html#aa045b57b026d280cde66ec9b08b77e0b", null ],
-    [ "UnknownData01", "a15095.html#a702f0bd3fef99c3ef092bb35da334afa", null ]
+    [ "Anim", "a15095.html#a622ec242122add2e2dba86388461fdce", null ],
+    [ "CameraName", "a15095.html#abd2db766b7520487e39498f5e72d9160", null ],
+    [ "LookAtBoneName", "a15095.html#a5d1fdfefdc79aecb8554a7eaade35216", null ],
+    [ "ShouldSpin", "a15095.html#a6f80c1578c7796d6ec5077546ee2238c", null ],
+    [ "UnknownData00", "a15095.html#ae9454da08822c2940cbc82cba0d07041", null ]
 ];

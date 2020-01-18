@@ -1,7 +1,9 @@
 var a32171 =
 [
-    [ "DistanceToFireToActivatePostProcessSq", "a32171.html#aab5494f4729fe7321ccef83a49867a57", null ],
-    [ "FadeOutTime", "a32171.html#a9a474a202b789e1930485f10c619e79f", null ],
-    [ "FirePostprocessComponentName", "a32171.html#abd791d1a91d605268f6d0c5ac7746eab", null ],
-    [ "PostProcessSpringAcceleration", "a32171.html#a956731c2097be7fbdbe5ef81f47172b6", null ]
+    [ "CurrentState", "a32171.html#abeec0802ed9a5ffd3285587caaa93e99", null ],
+    [ "ElapsedTime", "a32171.html#a8869e91cc30793c201e13b33344c6714", null ],
+    [ "MaxTransitionsPerFrame", "a32171.html#ae9f7be5c0b6ab26242d73186ec119864", null ],
+    [ "StateMachineIndexInClass", "a32171.html#a2c51a3a92d96d4f067db1d1c462f85bd", null ],
+    [ "UnknownData00", "a32171.html#ad56780e9118e02d54294b28efbf87b99", null ],
+    [ "UnknownData01", "a32171.html#ae6c685bee9a541b0567b9459d0473a5e", null ]
 ];

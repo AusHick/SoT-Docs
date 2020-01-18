@@ -1,6 +1,7 @@
 var a31139 =
 [
-    [ "Text", "a31139.html#aa1375e39b3567f98bd64db740f8853cb", null ],
-    [ "Time", "a31139.html#a8883cbecb30a176ff5c1cc8cfca3941e", null ],
-    [ "UnknownData00", "a31139.html#acb0a8877e32551006edb425b6631ceda", null ]
+    [ "ShotNumber", "a31139.html#a81cfdc9da2e56a6c684cf82f8f0633b4", null ],
+    [ "TargetCamGroup", "a31139.html#a67136f8f25bddceeb3876f18632edee0", null ],
+    [ "Time", "a31139.html#a2920d1b92dcb8f5cf0d4c20623961e83", null ],
+    [ "TransitionTime", "a31139.html#adddb828c2313e8cb2e5fda779437fc40", null ]
 ];

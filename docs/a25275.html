@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIActorTimeout Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIBountySpawnerParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a25275.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a25272.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIActorTimeout Struct Reference</div>  </div>
+<div class="title">SDK::FAIBountySpawnerParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIActorTimeout:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIBountySpawnerParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,23 +100,53 @@ $(document).ready(function(){initNavTree('a25275.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a4389407a7ad873d68151affaa94ba896"><td class="memItemLeft" align="right" valign="top"><a id="a4389407a7ad873d68151affaa94ba896"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AIActor</b></td></tr>
-<tr class="separator:a4389407a7ad873d68151affaa94ba896"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae6d87cec5a84bd081f83afa5fbe4694"><td class="memItemLeft" align="right" valign="top"><a id="aae6d87cec5a84bd081f83afa5fbe4694"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>Timer</b></td></tr>
-<tr class="separator:aae6d87cec5a84bd081f83afa5fbe4694"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a978e5170793737422318332fa7651473"><td class="memItemLeft" align="right" valign="top"><a id="a978e5170793737422318332fa7651473"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a978e5170793737422318332fa7651473"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af845ddc5e8d94030aeed0582d0c0ce36"><td class="memItemLeft" align="right" valign="top"><a id="af845ddc5e8d94030aeed0582d0c0ce36"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a25271.html">FAIEncounterWave</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AISpawnerCreationDesc</b></td></tr>
+<tr class="separator:af845ddc5e8d94030aeed0582d0c0ce36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a944b04535a18d769447d41bf3b45ec5a"><td class="memItemLeft" align="right" valign="top"><a id="a944b04535a18d769447d41bf3b45ec5a"></a>
+struct <a class="el" href="a26419.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TeamColor</b></td></tr>
+<tr class="separator:a944b04535a18d769447d41bf3b45ec5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebf30cfe6ded1d110e7b7a9c46833a05"><td class="memItemLeft" align="right" valign="top"><a id="aebf30cfe6ded1d110e7b7a9c46833a05"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>NumTargetsInWave</b></td></tr>
+<tr class="separator:aebf30cfe6ded1d110e7b7a9c46833a05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56c373ef12d06c270d50e2e27dbb041c"><td class="memItemLeft" align="right" valign="top"><a id="a56c373ef12d06c270d50e2e27dbb041c"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>NumCaptainsInWave</b></td></tr>
+<tr class="separator:a56c373ef12d06c270d50e2e27dbb041c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9742505c9824efe7a301d3b935522339"><td class="memItemLeft" align="right" valign="top"><a id="a9742505c9824efe7a301d3b935522339"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinTimeBetweenSpawns</b></td></tr>
+<tr class="separator:a9742505c9824efe7a301d3b935522339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b1f0bdfb2746263e8c6fb3828ff6f29"><td class="memItemLeft" align="right" valign="top"><a id="a3b1f0bdfb2746263e8c6fb3828ff6f29"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTimeBetweenSpawns</b></td></tr>
+<tr class="separator:a3b1f0bdfb2746263e8c6fb3828ff6f29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa311dd5571ea06bb8d07f4e4c3750663"><td class="memItemLeft" align="right" valign="top"><a id="aa311dd5571ea06bb8d07f4e4c3750663"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinTimeBetweenWaves</b></td></tr>
+<tr class="separator:aa311dd5571ea06bb8d07f4e4c3750663"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0c6c64d653979433592492421496cbb"><td class="memItemLeft" align="right" valign="top"><a id="aa0c6c64d653979433592492421496cbb"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTimeBetweenWaves</b></td></tr>
+<tr class="separator:aa0c6c64d653979433592492421496cbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a622bdf6901e32c3c67356b7386f0dbb5"><td class="memItemLeft" align="right" valign="top"><a id="a622bdf6901e32c3c67356b7386f0dbb5"></a>
+struct <a class="el" href="a33147.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WavesPerRelocate</b></td></tr>
+<tr class="separator:a622bdf6901e32c3c67356b7386f0dbb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af24e7e3021ccae58b3f40786059e9701"><td class="memItemLeft" align="right" valign="top"><a id="af24e7e3021ccae58b3f40786059e9701"></a>
+struct <a class="el" href="a33147.html">FWeightedProbabilityRange</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaveSplitChance</b></td></tr>
+<tr class="separator:af24e7e3021ccae58b3f40786059e9701"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7b7860ef803af5c8b04b219d8c6a2a9"><td class="memItemLeft" align="right" valign="top"><a id="aa7b7860ef803af5c8b04b219d8c6a2a9"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>WaveSuicideTime</b></td></tr>
+<tr class="separator:aa7b7860ef803af5c8b04b219d8c6a2a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad43e3a2e0ee2f27fad64c12cb747b713"><td class="memItemLeft" align="right" valign="top"><a id="ad43e3a2e0ee2f27fad64c12cb747b713"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>WaveSuicideMinDist</b></td></tr>
+<tr class="separator:ad43e3a2e0ee2f27fad64c12cb747b713"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a297513e51f40bcdc270fdecbe384481e"><td class="memItemLeft" align="right" valign="top"><a id="a297513e51f40bcdc270fdecbe384481e"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>NumAdditionalWaves</b></td></tr>
+<tr class="separator:a297513e51f40bcdc270fdecbe384481e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25275.html">FAIActorTimeout</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25275.html">FAIBountySpawnerParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:29 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

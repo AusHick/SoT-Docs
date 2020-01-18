@@ -1,5 +1,5 @@
 var a13539 =
 [
-    [ "ItemInfo", "a13539.html#a4eed919c3c905bd35222f6f0e2b47fae", null ],
-    [ "Toggle", "a13539.html#a7e53e713448511d36f20f38c92cbadc6", null ]
+    [ "Category", "a13539.html#a85a4576fe03287ea0eb777938edb5aa1", null ],
+    [ "Customisation", "a13539.html#a9bdd482766378336ffa38dd60bc5d64e", null ]
 ];

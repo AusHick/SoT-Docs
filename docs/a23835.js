@@ -1,7 +1,4 @@
 var a23835 =
 [
-    [ "StaticClass", "a23835.html#af2b064163370c269a020940548105191", null ],
-    [ "NumberOfRanks", "a23835.html#aab3c2d6dd1e11e3dbcb802bbd5a97954", null ],
-    [ "RankMappings", "a23835.html#a053d057204c0706a3520fc8de0189224", null ],
-    [ "UnknownData00", "a23835.html#a537d4eb084e27b778a988c0e5a6f1f9f", null ]
+    [ "UnknownData00", "a23835.html#a3e68fe33ad88b132c3a97a5a710173d8", null ]
 ];

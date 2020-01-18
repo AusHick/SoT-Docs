@@ -1,7 +1,9 @@
 var a31351 =
 [
-    [ "bDistributionEnabled", "a31351.html#a3ab42daf3178af65e5f73e3e714f32db", null ],
-    [ "bForceContentExport", "a31351.html#acaf9725459af140e03f89af6034d32e1", null ],
-    [ "bInitialized", "a31351.html#a1b6745091119d50305d046f4fecff41d", null ],
-    [ "UnknownData00", "a31351.html#a8ba587451fc7edc9887b9a7a127d51d3", null ]
+    [ "bManualWordWrap", "a31351.html#a0e80996046db128ee40771b554e5afad", null ],
+    [ "bMature", "a31351.html#ab076887e42f2ae3114242ba3139d9328", null ],
+    [ "bSingleLine", "a31351.html#ad9f93b02cc0365da8b13dbf339f41010", null ],
+    [ "LanguageExt", "a31351.html#ab911cd2c5bf28a41e99f8fe62a38e653", null ],
+    [ "Subtitles", "a31351.html#a0e7a4462f1a7a37bd8aabc7a68436e9a", null ],
+    [ "UnknownData00", "a31351.html#a468081edca7115de7c1e33eec18d41bb", null ]
 ];

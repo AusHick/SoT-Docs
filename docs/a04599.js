@@ -1,5 +1,4 @@
 var a04599 =
 [
-    [ "StaticClass", "a04599.html#a6879ac7c9748e11fc89a39b8d68f88df", null ],
-    [ "LocatorVar", "a04599.html#acb2f933c9cc3c02465d1a357a9224c70", null ]
+    [ "StaticClass", "a04599.html#ad8c2f5a44ab4765b260dd0d5406404fa", null ]
 ];

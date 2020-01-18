@@ -1,10 +1,17 @@
 var a18123 =
 [
-    [ "BottomBannerUrl", "a18123.html#a34d061a612ab1736982be994251512ae", null ],
-    [ "Bundle", "a18123.html#a7e93a6fb06cbacd03f6719adc385c006", null ],
-    [ "Id", "a18123.html#a9f33b69c3e8e5e275fc64772a0bdb139", null ],
-    [ "Items", "a18123.html#a52958192619ebf3495d1b702ab884735", null ],
-    [ "PageIcon", "a18123.html#af6b31bd05691faf2934a0bdfb76e26c8", null ],
-    [ "PageTitle", "a18123.html#adb0ae7965281ea839b9c92cb29b9eb48", null ],
-    [ "TopBannerUrl", "a18123.html#a695e57193322493aadcdae23feb64f58", null ]
+    [ "Action", "a18123.html#a0382075e0a59739f19332476ccd9cf91", null ],
+    [ "Category", "a18123.html#a968d3b8561b807b160c6a481146ed0d2", null ],
+    [ "Description", "a18123.html#afff7f1ab4d6dcf2e31474b5db827b4f1", null ],
+    [ "DoesPlayerOwnEntitlement", "a18123.html#ab70c4a8eb44a76bbdc9f2c95081adf5b", null ],
+    [ "EmoteBackgroundImageUrl", "a18123.html#a49508ec6fedada3800ef96931fed4b5d", null ],
+    [ "EmoteIconImageUrl", "a18123.html#a43562550770d4bd8c393036c34a0cb85", null ],
+    [ "ItemDesc", "a18123.html#a3ed3a03548ff5390a5474b75486cfe41", null ],
+    [ "Name", "a18123.html#ac712c31ba2369b80de3ec7060df18115", null ],
+    [ "PreviewImageUrl", "a18123.html#ae2b8009a981a8d700fda8118afe8e1a6", null ],
+    [ "SlotId", "a18123.html#a50b4b4662ebfb4932574405121d6af98", null ],
+    [ "ThumbnailImageUrl", "a18123.html#a66741f98448f8ad96afa67bfd8f53b5f", null ],
+    [ "UnknownData00", "a18123.html#a886f41d226d06b4be28f3194a8aa34a1", null ],
+    [ "UnknownData01", "a18123.html#aad21ef9d7c87f81d177dc7602cae49ff", null ],
+    [ "UnknownData02", "a18123.html#acb8c82e49b5c97c68e4a6a9fea78272b", null ]
 ];

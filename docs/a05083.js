@@ -1,17 +1,16 @@
 var a05083 =
 [
-    [ "ArenaTutorialAnimationFinished", "a05083.html#a59b5f2c66b271d57d8a3c99efd159489", null ],
-    [ "MapTableAnimationFinished", "a05083.html#a00eab55ef38f4acf59c54361631d149b", null ],
-    [ "SetMapTablePlaybackRate", "a05083.html#a68e9f2e400e6d12082c57139e5b51bd1", null ],
-    [ "StaticClass", "a05083.html#a529004891f1d674d7817e0baa6de41aa", null ],
-    [ "EnteredEngageState", "a05083.html#a973c2ba5921e8b0e8bee6f7847e488e6", null ],
-    [ "EnteredShipSelectState", "a05083.html#a6bccf044a0f520523cce091393373e71", null ],
-    [ "GoToPirateSelectCamera", "a05083.html#a8c9337510743f4fc9c206f341fdc7562", null ],
-    [ "OnArenaTutorialAnimationEnd", "a05083.html#a9260bcefe8e8cdbe375759f976bc797b", null ],
-    [ "OnArenaTutorialAnimationStart", "a05083.html#a4e10e087bc25f6980d9414303407a0dd", null ],
-    [ "SetMapTableAnimationPlaybackRate", "a05083.html#a101e210279298229d4326b43b90a9b54", null ],
-    [ "SkipArenaTutorialAnimation", "a05083.html#a6bc86d755a5916e53356a535c69fb2d0", null ],
-    [ "SkipMapTableAnimation", "a05083.html#a3d9d43ec5351204f17f1126b115c71c2", null ],
-    [ "StartMapTableAnimation", "a05083.html#a01357a5dcaaf7ca8b253d6e568ad1c3b", null ],
-    [ "UnknownData00", "a05083.html#aa3e937c083dc19b84bac414a91725296", null ]
+    [ "StaticClass", "a05083.html#a267ac2323b1953b47b0d851bf653315c", null ],
+    [ "ActivateEventHandle", "a05083.html#a6377329509bc509c037a39bec9fb188b", null ],
+    [ "ActivationSfx", "a05083.html#ab36d276080db788dbde63cda384294d1", null ],
+    [ "DeactivateEventHandle", "a05083.html#ae564766bc26b6bf79f2909ac202c56bb", null ],
+    [ "DeactivationSfx", "a05083.html#a995514cbce6b9d22774874dad4dd1b79", null ],
+    [ "EventDispatcher", "a05083.html#a8ef4033b59f41903b3d4cf1c5b31dd9a", null ],
+    [ "FullyActivatedSfx", "a05083.html#a83f4d4b49f1e8f2434194e91415e39cf", null ],
+    [ "FullyDeactivatedSfx", "a05083.html#a049d39ab834998d839f391fcd9910a30", null ],
+    [ "IsActivated", "a05083.html#aa65c79f2b52440e18f4348a43c5706f8", null ],
+    [ "RegisteredController", "a05083.html#a97fa83923f402b32978eaa6269813fca", null ],
+    [ "UnknownData00", "a05083.html#a43d74bf52fab76ece503906a9527e833", null ],
+    [ "UnknownData01", "a05083.html#a93ce4e120a5e11c13558e66dfe4ac1ae", null ],
+    [ "UnknownData02", "a05083.html#ad330a1d601febfaef1dfc1d1e5f61381", null ]
 ];

@@ -1,7 +1,11 @@
 var a28123 =
 [
-    [ "StaticClass", "a28123.html#a302c7e22fdbdf59657ae81b872e57f2f", null ],
-    [ "CurveTension", "a28123.html#a1048eddb39d52301795ef9301c41239d", null ],
-    [ "FloatTrack", "a28123.html#ae22a1fb371adad46a88aaeaefa7b4dde", null ],
-    [ "UnknownData00", "a28123.html#adc54c9a766ca746efcda68a92d71a328", null ]
+    [ "StaticClass", "a28123.html#acd5677d7dca7a15e6d02ada13b23cf23", null ],
+    [ "MaxInput", "a28123.html#a427f0096f9670f9b2323e3deec7d1b25", null ],
+    [ "MaxOutput", "a28123.html#a6915c01b749705ecfd3b0368898975aa", null ],
+    [ "MinInput", "a28123.html#a58f7e75287c56f017b2e035e34b70f2b", null ],
+    [ "MinOutput", "a28123.html#ad97ab6e3f27a9debe5b6ab13753cca18", null ],
+    [ "ParameterName", "a28123.html#a07846d5d11a23c8802a85c9e1788b304", null ],
+    [ "ParamMode", "a28123.html#a11de14e12b184bd0403a7e1ed637eee7", null ],
+    [ "UnknownData00", "a28123.html#abcc4f6f4fd05ff7f68f3b87d1bfc9c80", null ]
 ];

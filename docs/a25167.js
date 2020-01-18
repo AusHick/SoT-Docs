@@ -1,4 +1,5 @@
 var a25167 =
 [
-    [ "UnknownData00", "a25167.html#a32a91b2ff38a1639fb8df8e623d40a7b", null ]
+    [ "AIClassId", "a25167.html#a02f59799cd5cb0d5082bfd448b37d8e3", null ],
+    [ "Title", "a25167.html#a5ce737a82addd5bcb3ea52c4d5723419", null ]
 ];

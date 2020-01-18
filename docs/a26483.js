@@ -1,25 +1,9 @@
 var a26483 =
 [
-    [ "StaticClass", "a26483.html#a81864a1dfeca4f133c4fe875f51aa678", null ],
-    [ "bAsyncResourceReleaseHasBeenStarted", "a26483.html#ab746b46a55550a94c0eaedb799ababfa", null ],
-    [ "bNoTiling", "a26483.html#ab95faf792de109bc3f525ff73fe77802", null ],
-    [ "bUAV", "a26483.html#ad446a4603e1faf367a0dc991480f4251", null ],
-    [ "bUseCinematicMipLevels", "a26483.html#a70557636ee374cd9b84fab783a4cff31", null ],
-    [ "CachedCombinedLODBias", "a26483.html#ab5d872dcde85c0eb8a6549af5765e925", null ],
-    [ "CompressionNone", "a26483.html#abb1b921f7ede57c753105491c66f31a3", null ],
-    [ "CompressionSettings", "a26483.html#adaed2a1c4c1078e7944c5ba7afba57d1", null ],
-    [ "ExternalMips", "a26483.html#aa70473f6e340d5932e682866b5667e18", null ],
-    [ "Filter", "a26483.html#a3fd4de8920583f34b06c078e8bc8a24f", null ],
-    [ "LODBias", "a26483.html#a9a64c3308f121ba63898b01851511121", null ],
-    [ "LODGroup", "a26483.html#a06dda8734a2793d60ac890a3fa27a8be", null ],
-    [ "MaxQualityReduction", "a26483.html#a85ff37b0572dfb091b090d88ac99314a", null ],
-    [ "NeverStream", "a26483.html#a212925d4074b31f09e2d6730a903255a", null ],
-    [ "NumCinematicMipLevels", "a26483.html#a298b21e4373a052d270e40fc1fdbb917", null ],
-    [ "SRGB", "a26483.html#a9b61742a4887515d1a2b6d5651b6c87c", null ],
-    [ "StreamingPriorityBoost", "a26483.html#ae5435ddac8c5598ad592da0d2a63377e", null ],
-    [ "UnknownData00", "a26483.html#a5b4f236fbe21776a03c70325291776d8", null ],
-    [ "UnknownData01", "a26483.html#a0847807ca086f3d793da2159929cfb0f", null ],
-    [ "UnknownData02", "a26483.html#a90b17ae34c8ddf9012e97a60756a0313", null ],
-    [ "UnknownData03", "a26483.html#a06093090def75bc85d39e7b3e27ef6c9", null ],
-    [ "UnknownData04", "a26483.html#ae01ae45190194ba40aff9b39b02794da", null ]
+    [ "AvailableInShippingBuilds", "a26483.html#adde2a3911d54be2991a8c9e0b3dad7ce", null ],
+    [ "Buttons", "a26483.html#ae3c3a958862e7472fd83ff8eb134435d", null ],
+    [ "ConsoleCommand", "a26483.html#a0f4fd50f7a6460a0ddfb2a181e0262f0", null ],
+    [ "DisplayName", "a26483.html#ac833bf681d89404d50bddb94dfa75c87", null ],
+    [ "RequiredHoldTime", "a26483.html#ad3bb756f3f6c51c3d9d5a8c5b75f75b7", null ],
+    [ "UnknownData00", "a26483.html#acd2483f0431ce31894ceb8c859f67dc8", null ]
 ];

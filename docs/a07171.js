@@ -1,5 +1,26 @@
 var a07171 =
 [
-    [ "BakeFromDescriptionAsync", "a07171.html#a4d7468e7bfe206bcdd46b193e0496283", null ],
-    [ "StaticClass", "a07171.html#aaf1e660bc218690ecfefcf87c7cd6733", null ]
+    [ "CanPiratesSpawn", "a07171.html#af62ff3eee2cb8a888bea2b8b5ef6bb04", null ],
+    [ "ConfirmAndSavePirate", "a07171.html#ad8abb4f0f9a948a31369be296a0b4d7b", null ],
+    [ "EndCelebration", "a07171.html#aa1e3e36e52529aee7a91a3c09caa3490", null ],
+    [ "GetSelectedPirateDescription", "a07171.html#a4fc4e53ee3589d2cb3bcf06f0756d5c5", null ],
+    [ "GetSelectedPirateOutfit", "a07171.html#a66c671c4985b18fd0e8e5de6b4096cb8", null ],
+    [ "IsInPirateSelectionState", "a07171.html#a71053a4543a166853ad84a7130754ec7", null ],
+    [ "IsSelectedPirateSet", "a07171.html#ad1f41721b06f3220c6e7bb8d0c571325", null ],
+    [ "OnPirateGenerateRequested", "a07171.html#a7b2ecb42d0315064a1510465bbee5482", null ],
+    [ "QuitGame", "a07171.html#aafc20689a86c5b61abc819941be4ed9e", null ],
+    [ "RequestOpenAccountPicker", "a07171.html#aa0b603f468ece4d3404a10abb24d7294", null ],
+    [ "StaticClass", "a07171.html#a39d381bd7a18144684a6414ac6becfab", null ],
+    [ "BeginCelebration", "a07171.html#a85ec25763463ac5442e74148f65b0c41", null ],
+    [ "EndGeneratingPirates", "a07171.html#ac33335be6d61b52e4b4e61bf7face139", null ],
+    [ "FavoritePirateButtonPressed", "a07171.html#ac701153c76ac391adec99e8488bc2142", null ],
+    [ "GenerateShipSelectionPirate", "a07171.html#a1ea28ba008f70796f1a844af158506b1", null ],
+    [ "LeavingPirateSelectionState", "a07171.html#a93647b02789b44fc0b3bfc7c7b1ddd39", null ],
+    [ "QueuedPiratesToSpawn", "a07171.html#a2dc1a8874300f839a6181f3e574349ea", null ],
+    [ "RefreshPiratesButtonPressed", "a07171.html#abd527a57b54e8a44185211e4a4f078f2", null ],
+    [ "SelectionCancelled", "a07171.html#a9c7274fdce9b56afe9f5d8e19872fbbb", null ],
+    [ "SelectionConfirmed", "a07171.html#a063129a1d7a48c2db219bf2b6e0ea7ef", null ],
+    [ "SelectPirateButtonPressed", "a07171.html#a7d797115cafd87ce772af94fb4489cc9", null ],
+    [ "StartGeneratingPirates", "a07171.html#ab3312253b2a9a56e62c1b18050308dd7", null ],
+    [ "UnknownData00", "a07171.html#a1c4189fd505ce88a7d3d6cf393b25b90", null ]
 ];

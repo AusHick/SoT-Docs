@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FActiveHapticFeedbackEffect Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAlphaBlend Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,63 @@ $(document).ready(function(){initNavTree('a31751.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31748.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FActiveHapticFeedbackEffect Struct Reference</div>  </div>
+<div class="title">SDK::FAlphaBlend Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FActiveHapticFeedbackEffect:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAlphaBlend:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31749.svg" width="278" height="243"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a31749.svg" width="591" height="559"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a60e6ee4b15760dc01eba7b2b12163d0b"><td class="memItemLeft" align="right" valign="top"><a id="a60e6ee4b15760dc01eba7b2b12163d0b"></a>
-class <a class="el" href="a28039.html">UHapticFeedbackEffect</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>HapticEffect</b></td></tr>
-<tr class="separator:a60e6ee4b15760dc01eba7b2b12163d0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3cb52daa7c55f0abcd1796f91980560"><td class="memItemLeft" align="right" valign="top"><a id="aa3cb52daa7c55f0abcd1796f91980560"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:aa3cb52daa7c55f0abcd1796f91980560"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae10c39be6af360747123e7052b95e176"><td class="memItemLeft" align="right" valign="top"><a id="ae10c39be6af360747123e7052b95e176"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAlphaBlendOption &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BlendOption</b></td></tr>
+<tr class="separator:ae10c39be6af360747123e7052b95e176"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a917f4debd5aeb25505341d9e7b8831f8"><td class="memItemLeft" align="right" valign="top"><a id="a917f4debd5aeb25505341d9e7b8831f8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a917f4debd5aeb25505341d9e7b8831f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1114d97c3d1662b4b54ed3818cb6e010"><td class="memItemLeft" align="right" valign="top"><a id="a1114d97c3d1662b4b54ed3818cb6e010"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BeginValue</b></td></tr>
+<tr class="separator:a1114d97c3d1662b4b54ed3818cb6e010"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa94ff4a14e7b7bb2c1e779a59893b76f"><td class="memItemLeft" align="right" valign="top"><a id="aa94ff4a14e7b7bb2c1e779a59893b76f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>DesiredValue</b></td></tr>
+<tr class="separator:aa94ff4a14e7b7bb2c1e779a59893b76f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f8effe86e0902ee39cb64261f5012f7"><td class="memItemLeft" align="right" valign="top"><a id="a4f8effe86e0902ee39cb64261f5012f7"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendTime</b></td></tr>
+<tr class="separator:a4f8effe86e0902ee39cb64261f5012f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98472559c66d5da21b5b3ba7738d2a54"><td class="memItemLeft" align="right" valign="top"><a id="a98472559c66d5da21b5b3ba7738d2a54"></a>
+class <a class="el" href="a27039.html">UCurveFloat</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CustomCurve</b></td></tr>
+<tr class="separator:a98472559c66d5da21b5b3ba7738d2a54"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9131064ff848250a2c7c4b6ed4a35b80"><td class="memItemLeft" align="right" valign="top"><a id="a9131064ff848250a2c7c4b6ed4a35b80"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AlphaLerp</b></td></tr>
+<tr class="separator:a9131064ff848250a2c7c4b6ed4a35b80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bd998fb4f05c232dac5188e851f5fa6"><td class="memItemLeft" align="right" valign="top"><a id="a8bd998fb4f05c232dac5188e851f5fa6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AlphaBlend</b></td></tr>
+<tr class="separator:a8bd998fb4f05c232dac5188e851f5fa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0159164f31b6bdd3c4852cd99d2815cc"><td class="memItemLeft" align="right" valign="top"><a id="a0159164f31b6bdd3c4852cd99d2815cc"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AlphaTarget</b></td></tr>
+<tr class="separator:a0159164f31b6bdd3c4852cd99d2815cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79761b052e5b26e8d1ac5ee280c6b042"><td class="memItemLeft" align="right" valign="top"><a id="a79761b052e5b26e8d1ac5ee280c6b042"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendTimeRemaining</b></td></tr>
+<tr class="separator:a79761b052e5b26e8d1ac5ee280c6b042"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6899698a621aa5fc371f571fe6b8d26f"><td class="memItemLeft" align="right" valign="top"><a id="a6899698a621aa5fc371f571fe6b8d26f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>BlendedValue</b></td></tr>
+<tr class="separator:a6899698a621aa5fc371f571fe6b8d26f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92dfd0482d92050dbc355e77e74db194"><td class="memItemLeft" align="right" valign="top"><a id="a92dfd0482d92050dbc355e77e74db194"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a92dfd0482d92050dbc355e77e74db194"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31751.html">FActiveHapticFeedbackEffect</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31751.html">FAlphaBlend</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

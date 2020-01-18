@@ -1,5 +1,6 @@
 var a14151 =
 [
-    [ "InstrumentActor", "a14151.html#aeef4f97a40b297ddc58e018a65102639", null ],
-    [ "UnknownData00", "a14151.html#a894a0ea00104d1bf31a12b06c6fc3a8e", null ]
+    [ "CrewId", "a14151.html#a97b4195cf61c96808446c7c8495c8383", null ],
+    [ "CrewVisibilityState", "a14151.html#a7ed4cbd221d7937f7e14e52990aa8fff", null ],
+    [ "UnknownData00", "a14151.html#a93bce87f59ed1fc7cdd30f888be7d57a", null ]
 ];

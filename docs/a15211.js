@@ -1,8 +1,8 @@
 var a15211 =
 [
-    [ "ButtonActivationAnimation", "a15211.html#afe6400a068b3bc31d970ac3384e2956e", null ],
-    [ "ButtonMesh", "a15211.html#ab9f6a37d2b2c840d146fe48be496b7fd", null ],
-    [ "ButtonPressAnimation", "a15211.html#a241a0d4e46aaaa331c4e2d780a4f99a1", null ],
-    [ "UnknownData00", "a15211.html#a7b4852de28529cf00ab532acc4e5ca5b", null ],
-    [ "UnknownData01", "a15211.html#a432f4b1d0250e735695c71ecd2200c55", null ]
+    [ "AnimVariant", "a15211.html#a4c9546b3eceb9ce23831331502ddfeb7", null ],
+    [ "BlockActions", "a15211.html#a2ed8b1275b6f40d97479deceb84dd480", null ],
+    [ "HideItem", "a15211.html#a4b478bde561a8ab4f9da5dc227d5ceee", null ],
+    [ "IsAlternate", "a15211.html#ad9c412e804c0276d1cea7a09760637af", null ],
+    [ "UnknownData00", "a15211.html#ab05c81ce64320dc3ac06f5a41652b9e4", null ]
 ];

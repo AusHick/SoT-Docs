@@ -1,11 +1,12 @@
 var a07227 =
 [
-    [ "GetIsWindAudioPlaying", "a07227.html#a3ad4e6000b84bac7e6f746f855bc56c1", null ],
-    [ "GetPoolDensityAveragePosition", "a07227.html#afe2cde2e011dae02062da258ff3d7219", null ],
-    [ "GetPoolDensityFactor", "a07227.html#ade7ec6c06dd2bba800d855e2626881b6", null ],
-    [ "StaticClass", "a07227.html#a9c96b2a68f34ff939910b205df98204c", null ],
-    [ "AthenaPlayerCharacter", "a07227.html#ac87e1f04af0fb9519ced70fb88678648", null ],
-    [ "NoiseMakerController", "a07227.html#abbb3200512337e9ca2077059db25d7d0", null ],
-    [ "UnknownData00", "a07227.html#aaa761d846508ec032589da3120bd50d5", null ],
-    [ "UnknownData01", "a07227.html#adc0e1d56d3787d3a5c8b0c112214c1a1", null ]
+    [ "OnRep_Entitlements", "a07227.html#a41fedb1405153ecce1470e213395f21a", null ],
+    [ "ServerRequestEntitlements", "a07227.html#a5c8e57d19f4a009018880bd413fe5d86", null ],
+    [ "StaticClass", "a07227.html#a7e8d46c1b94d57ba9e1cc933e9cae072", null ],
+    [ "Entitlements", "a07227.html#ab87c812e850748068238ab9822067e50", null ],
+    [ "ReplicatedEntitlementIds", "a07227.html#af2528392d147f6eba29c2b2efb37d4f4", null ],
+    [ "ReplicatedEntitlements", "a07227.html#abca2e1900b0ff2c63ecd76bb702371ae", null ],
+    [ "UnknownData00", "a07227.html#aaed2620cbf035a311b0704b9e31aa5e3", null ],
+    [ "UnknownData01", "a07227.html#ace18b906774e04be43ccbb98d081c7f9", null ],
+    [ "UnknownData02", "a07227.html#a3241e4c3c18c0d1f6df51132ac2d723a", null ]
 ];

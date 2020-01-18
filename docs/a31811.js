@@ -1,5 +1,7 @@
 var a31811 =
 [
-    [ "TargetName", "a31811.html#ab88b01a7d65c5590e9c742af57bd8df3", null ],
-    [ "TargetPercentage", "a31811.html#a37da86c06392ca2411fb2dee7ebcb21b", null ]
+    [ "bCastShadow", "a31811.html#a079cd2ab466cb39a2da5c96ec65be236", null ],
+    [ "bEnableCollision", "a31811.html#ae4f69396462f7a5bc3b8f3233efbe98e", null ],
+    [ "MaterialIndex", "a31811.html#a8b9757f8c1a49eb0c88f0a3952fdcbbe", null ],
+    [ "UnknownData00", "a31811.html#aeda728aada5a73b66d7d97d16158b0b7", null ]
 ];

@@ -1,6 +1,6 @@
 var a34699 =
 [
-    [ "StaticClass", "a34699.html#aa8c0cd71d9a411bf6ed8ed17101a53ba", null ],
-    [ "Responses", "a34699.html#a75c5dd3735b470b91f058cf168e2fbbe", null ],
-    [ "TriggerStatus", "a34699.html#a1c3c2f08fd4228f01e62e4ff3c5a8a23", null ]
+    [ "ColorUseRule", "a34699.html#ab0e3548f39e0f31f6b8ce1e92f9c5df4", null ],
+    [ "SpecifiedColor", "a34699.html#a2b67f6d47a33bb25bb3a6f686e392ced", null ],
+    [ "UnknownData00", "a34699.html#aa73dafa6762443a6b6f522843cdc5ac2", null ]
 ];

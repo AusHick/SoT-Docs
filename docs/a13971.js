@@ -1,7 +1,9 @@
 var a13971 =
 [
-    [ "CrewId", "a13971.html#a45f24b7978ebcb0bc0c332d2b1517a2e", null ],
-    [ "Score", "a13971.html#a2bf5d71f36cea286f44c106f17cc2aca", null ],
-    [ "ShipName", "a13971.html#a5e828faa6c68cab5df994edcff9780b0", null ],
-    [ "UnknownData00", "a13971.html#a42fcc444978d8de8ec09020ff56bf1f9", null ]
+    [ "Meshes", "a13971.html#a0f8a77137bcc02c3ebfe07c7e6cbb302", null ],
+    [ "MeshScaleMultiplier", "a13971.html#a6e3fc816ad469feb8a623899b5f012e2", null ],
+    [ "Samples", "a13971.html#a45cd9fb5778baa6279cba5d282f4e430", null ],
+    [ "Seed", "a13971.html#a4f90762be667beaa85e6b0caf972cfd6", null ],
+    [ "ShouldCloudTileBeGenerated", "a13971.html#a277892f9b2bb2fdd940b0e86b1863dc8", null ],
+    [ "UnknownData00", "a13971.html#aaf3149f67de1541c0a0f801c2d379d0d", null ]
 ];

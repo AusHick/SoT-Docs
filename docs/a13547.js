@@ -1,6 +1,9 @@
 var a13547 =
 [
-    [ "BellMesh", "a13547.html#acc27a87043b2937d7c7fc7e7a7fad002", null ],
-    [ "BellRingSFX", "a13547.html#a3005dfba5b0d8db21ba822b4b18ad410", null ],
-    [ "BellRingTurbulenceSFX", "a13547.html#ab5ad73990700321a5cfe68b8ad7b7102", null ]
+    [ "Controller", "a13547.html#acfb48b4f8a59b5ea57b6aa50ef8a7ecf", null ],
+    [ "DamagerTypesToIgnore", "a13547.html#aa1595d05e32ee5f596c08b758cc214db", null ],
+    [ "Duration", "a13547.html#acdbccc862dbbabeef6b91a6ac3b7b3e1", null ],
+    [ "UnknownData00", "a13547.html#aff61cc242327e1a1add1f477904e61fc", null ],
+    [ "UnknownData01", "a13547.html#ae37d10405ed2b53d0ffdd274466fa5f1", null ],
+    [ "UnknownData02", "a13547.html#a18140e294ef43f5d63fed97971ed0bdc", null ]
 ];

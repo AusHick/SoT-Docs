@@ -1,8 +1,7 @@
 var a21551 =
 [
-    [ "Commendations", "a21551.html#a0a79dc4a477d145e424cbc242b54d9e5", null ],
-    [ "CompanyData", "a21551.html#ac96bd9782ff227447a9deaaf801c8f7d", null ],
-    [ "Items", "a21551.html#aaeb800b35315011c15850460fb1c74e3", null ],
-    [ "Promotions", "a21551.html#ad07f3a578d2e1ee7298d536f99b26789", null ],
-    [ "Titles", "a21551.html#af60c1229e78817aba0d0a7dca2950434", null ]
+    [ "InfoTips", "a21551.html#a6cd03ecd00014f064c9b8a29fcd9134d", null ],
+    [ "InfoTitle", "a21551.html#a28553bfeea4e38dafc5a76bbf66f3880", null ],
+    [ "ShouldShowCompanyInfo", "a21551.html#a03c2c35dc9409c46c71dcb47e10abea5", null ],
+    [ "UnknownData00", "a21551.html#ad52848bf3dd37e50d329123b9aa13b2b", null ]
 ];

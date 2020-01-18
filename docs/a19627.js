@@ -1,4 +1,6 @@
 var a19627 =
 [
-    [ "UnknownData00", "a19627.html#a02fbd7a1d9cde5b9e18ab1370c1660c0", null ]
+    [ "BiteLocation", "a19627.html#aa06b427c42cdc6c2d1887cadc381bd4a", null ],
+    [ "Ship", "a19627.html#a29728717fc57219ffc34ccbcd337d56e", null ],
+    [ "UnknownData00", "a19627.html#a93bc361509bbf106611679013a0159ad", null ]
 ];

@@ -1,4 +1,5 @@
 var a30619 =
 [
-    [ "UnknownData00", "a30619.html#aafd858265d8cd9cb28ad29eecabed7e5", null ]
+    [ "GroupName", "a30619.html#a8a6b1fded89387800e54a0b3134c1a6f", null ],
+    [ "SlotNames", "a30619.html#af46cabf0ce85866478d9a28390f5ab3d", null ]
 ];

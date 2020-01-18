@@ -1,8 +1,8 @@
 var a26403 =
 [
-    [ "StaticClass", "a26403.html#abff94b083aae2a82cb5e6691264cdeff", null ],
-    [ "GameInstance", "a26403.html#ad3856d02560619c0221b52425bfc7d31", null ],
-    [ "MaxDeltaTime", "a26403.html#ae069f8a1414250bc56dc4d0c5beeb4d9", null ],
-    [ "ServerFlushLogInterval", "a26403.html#ac9984e86f32d95fc7f44bf0ab58edbe7", null ],
-    [ "UnknownData00", "a26403.html#abda33a69e33cddeacfe3553bd7af7e0f", null ]
+    [ "Rotation", "a26403.html#a831fcae984d11169ef0f83fbea2fe61b", null ],
+    [ "Scale3D", "a26403.html#ace82695d8e440790bc075ffb1abbbbfd", null ],
+    [ "Translation", "a26403.html#aa98227ee8afbbcd432018bc58adeccbe", null ],
+    [ "UnknownData00", "a26403.html#a8059d52a2e4f9969afaea2bff2608659", null ],
+    [ "UnknownData01", "a26403.html#af34b04134c197fab2b95f4e45c326548", null ]
 ];

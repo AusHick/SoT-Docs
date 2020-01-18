@@ -1,5 +1,24 @@
 var a35627 =
 [
-    [ "StaticClass", "a35627.html#a1a35138f458e3e9d3389cc16fd838488", null ],
-    [ "WaterInfo", "a35627.html#a9c8f2baa28290a88edd2c5cc03fa3abd", null ]
+    [ "GetText", "a35627.html#a837b2c1993d76be70c5cca97809457ea", null ],
+    [ "OnMultiLineEditableTextBoxChangedEvent__DelegateSignature", "a35627.html#a664acc4fa61f7e9b4ec8f73d56bd4ed3", null ],
+    [ "OnMultiLineEditableTextBoxCommittedEvent__DelegateSignature", "a35627.html#abb6de5aaf4c87fd897705138856dd279", null ],
+    [ "SetError", "a35627.html#ac283578883f8023733b15661eb2418b5", null ],
+    [ "SetText", "a35627.html#ad4a012978b05c04567c07dc6f8c6616c", null ],
+    [ "StaticClass", "a35627.html#aaa747ffc7913893e81930c1590a76fc8", null ],
+    [ "BackgroundColor", "a35627.html#a1dee6f48680bd7a7f55b8e0603ce1470", null ],
+    [ "bAutoWrapText", "a35627.html#a839094fafa86badfea67a3143e5cc3a5", null ],
+    [ "Font", "a35627.html#ad1c65f70c737ef78eef6b4793fd6de1a", null ],
+    [ "ForegroundColor", "a35627.html#a3d8b73561517ccf03794ea37825e4437", null ],
+    [ "Justification", "a35627.html#a93a1546e85a01f5e998110f7f0b5d85a", null ],
+    [ "OnTextChanged", "a35627.html#ae3ae04ed59b0418a30da47dc5c38be67", null ],
+    [ "OnTextCommitted", "a35627.html#a69dd6c2c9d7ccace911e2f20ec31c61b", null ],
+    [ "ReadOnlyForegroundColor", "a35627.html#a9842c0dc7a447bf25759d08668869823", null ],
+    [ "Style", "a35627.html#aafeab94449f830abaccf1aa5e7653538", null ],
+    [ "Text", "a35627.html#a30c6b0c5ab7dd2a6b0401e598af95a49", null ],
+    [ "TextStyle", "a35627.html#a4996af6486a43340fd72b6c07e86f3ae", null ],
+    [ "UnknownData00", "a35627.html#a0c9b0acc406dbd10acd5bb9854c43fc6", null ],
+    [ "UnknownData01", "a35627.html#ab91d640f179eb56fd6bc5c252942b6a7", null ],
+    [ "WidgetStyle", "a35627.html#a6f64f23537bf73aed1870a668b96caff", null ],
+    [ "WrapTextAt", "a35627.html#a2cf36a535d33eb0e4046294ee7b02db6", null ]
 ];

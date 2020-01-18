@@ -1,6 +1,6 @@
 var a13463 =
 [
-    [ "FeatureToggle", "a13463.html#a7b8928c32b0ad275b8564f37ad02622a", null ],
-    [ "Locations", "a13463.html#ac4d7956eb8c373a23a6f776b608dfcbd", null ],
-    [ "Texture", "a13463.html#ab09b0716dc66217504081d6bda9cc85c", null ]
+    [ "NumberOfRequiredItems", "a13463.html#acc91da886806f64c3faf7dfc56549927", null ],
+    [ "RequiredItemsDataAsset", "a13463.html#ac5722f341a65cc18180f3dbf8192dac8", null ],
+    [ "TimeLimitInMinutes", "a13463.html#ab84988ecc05bcf9cbd2bbc580ef68116", null ]
 ];

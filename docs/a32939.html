@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FWeightedProbabilityRange Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FKrakenPlayerGrabbingBehaviourParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,46 +87,113 @@ $(document).ready(function(){initNavTree('a32939.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a32936.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FWeightedProbabilityRange Struct Reference</div>  </div>
+<div class="title">SDK::FKrakenPlayerGrabbingBehaviourParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FWeightedProbabilityRange:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FKrakenPlayerGrabbingBehaviourParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a32938.svg" width="192" height="287"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a32938.svg" width="230" height="507"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeightedProbabilityRange:</div>
+  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FKrakenPlayerGrabbingBehaviourParams:</div>
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a32937.svg" width="335" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a32937.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab4fc1145d38f97ab946f3aa9654e41bb"><td class="memItemLeft" align="right" valign="top"><a id="ab4fc1145d38f97ab946f3aa9654e41bb"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:ab4fc1145d38f97ab946f3aa9654e41bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15aa3e07f8b6316ac329d914099e60c9"><td class="memItemLeft" align="right" valign="top"><a id="a15aa3e07f8b6316ac329d914099e60c9"></a>
-uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>Min</b></td></tr>
-<tr class="separator:a15aa3e07f8b6316ac329d914099e60c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c15687c40a2c91cad964bdd2959c34"><td class="memItemLeft" align="right" valign="top"><a id="a80c15687c40a2c91cad964bdd2959c34"></a>
-uint32_t&#160;</td><td class="memItemRight" valign="bottom"><b>Max</b></td></tr>
-<tr class="separator:a80c15687c40a2c91cad964bdd2959c34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a91470a42d5e9ca9d80eaac10baf1205e"><td class="memItemLeft" align="right" valign="top"><a id="a91470a42d5e9ca9d80eaac10baf1205e"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Weights</b></td></tr>
-<tr class="separator:a91470a42d5e9ca9d80eaac10baf1205e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e62671279a3d3233db1914c08cc1550"><td class="memItemLeft" align="right" valign="top"><a id="a3e62671279a3d3233db1914c08cc1550"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinUnsuccessfulTargetTimeout</b></td></tr>
+<tr class="separator:a3e62671279a3d3233db1914c08cc1550"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a87208f86c1c04b45ef711152cb389d24"><td class="memItemLeft" align="right" valign="top"><a id="a87208f86c1c04b45ef711152cb389d24"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxUnsuccessfulTargetTimeout</b></td></tr>
+<tr class="separator:a87208f86c1c04b45ef711152cb389d24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafd2260665c0b8bb26f33383dc9487df"><td class="memItemLeft" align="right" valign="top"><a id="aafd2260665c0b8bb26f33383dc9487df"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a32935.html">FKrakenPlayerGrabbingHoldingStateTransitionChance</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>HoldingTransitionChances</b></td></tr>
+<tr class="separator:aafd2260665c0b8bb26f33383dc9487df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e28bcf0bcb9ef3991b5ee52f0d4e370"><td class="memItemLeft" align="right" valign="top"><a id="a3e28bcf0bcb9ef3991b5ee52f0d4e370"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinTargetHoldingTime</b></td></tr>
+<tr class="separator:a3e28bcf0bcb9ef3991b5ee52f0d4e370"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a265811889f562359733b886176e44685"><td class="memItemLeft" align="right" valign="top"><a id="a265811889f562359733b886176e44685"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTargetHoldingTime</b></td></tr>
+<tr class="separator:a265811889f562359733b886176e44685"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a310551f3146518c87b4f8669b5886990"><td class="memItemLeft" align="right" valign="top"><a id="a310551f3146518c87b4f8669b5886990"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TargetThrowingSpeed</b></td></tr>
+<tr class="separator:a310551f3146518c87b4f8669b5886990"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7aa7bc1ad3516c5d5596511be2d22d77"><td class="memItemLeft" align="right" valign="top"><a id="a7aa7bc1ad3516c5d5596511be2d22d77"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a7aa7bc1ad3516c5d5596511be2d22d77"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a32927"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a32927')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a32927.html">SDK::FKrakenTentacleBehaviourParams</a></td></tr>
+<tr class="memitem:a4c7852067e68db001dadb3a0742297ae inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a4c7852067e68db001dadb3a0742297ae"></a>
+class <a class="el" href="a01287.html">UEnvQuery</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>InactiveSpawnQueryTemplate</b></td></tr>
+<tr class="separator:a4c7852067e68db001dadb3a0742297ae inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a357c18cb0e9ac4cc3cf23f9ec5f12be1 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a357c18cb0e9ac4cc3cf23f9ec5f12be1"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ChanceOfCannonSideSpawn</b></td></tr>
+<tr class="separator:a357c18cb0e9ac4cc3cf23f9ec5f12be1 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a816d9204dc605bbf174499ed16350dce inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a816d9204dc605bbf174499ed16350dce"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a816d9204dc605bbf174499ed16350dce inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ead58a3eafad22ba4662b1035a49b7a inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a8ead58a3eafad22ba4662b1035a49b7a"></a>
+class <a class="el" href="a01287.html">UEnvQuery</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ActiveCannonSideSpawnQueryTemplate</b></td></tr>
+<tr class="separator:a8ead58a3eafad22ba4662b1035a49b7a inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad81e430009468489e5b1ff66badf3c33 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="ad81e430009468489e5b1ff66badf3c33"></a>
+class <a class="el" href="a01287.html">UEnvQuery</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ActiveNonCannonSideSpawnQueryTemplate</b></td></tr>
+<tr class="separator:ad81e430009468489e5b1ff66badf3c33 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a918c101baef0709250d6b9d4ea653b78 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a918c101baef0709250d6b9d4ea653b78"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TentacleClass</b></td></tr>
+<tr class="separator:a918c101baef0709250d6b9d4ea653b78 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8560e944f57db14c2d33a204349306b6 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a8560e944f57db14c2d33a204349306b6"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinScale</b></td></tr>
+<tr class="separator:a8560e944f57db14c2d33a204349306b6 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a408c6716f355ef595a4bf74549ce59df inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a408c6716f355ef595a4bf74549ce59df"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxScale</b></td></tr>
+<tr class="separator:a408c6716f355ef595a4bf74549ce59df inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab33d65c81c74651c23b01e1e4eb71ce7 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="ab33d65c81c74651c23b01e1e4eb71ce7"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinPlayRateScale</b></td></tr>
+<tr class="separator:ab33d65c81c74651c23b01e1e4eb71ce7 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2722a9c454be73ca750d2cfa6273a751 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a2722a9c454be73ca750d2cfa6273a751"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxPlayRateScale</b></td></tr>
+<tr class="separator:a2722a9c454be73ca750d2cfa6273a751 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a957588e4bfbd38237810eb6936467557 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a957588e4bfbd38237810eb6936467557"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PanicDespawnShipRangeRadius</b></td></tr>
+<tr class="separator:a957588e4bfbd38237810eb6936467557 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6cfd6c8c7cccd85b3b21f7d62a9c41f5 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a6cfd6c8c7cccd85b3b21f7d62a9c41f5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PanicDespawnWatercraftRangeRadius</b></td></tr>
+<tr class="separator:a6cfd6c8c7cccd85b3b21f7d62a9c41f5 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af435de891a134958257b3abe52583c67 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="af435de891a134958257b3abe52583c67"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PanicDespawnTentacleRadius</b></td></tr>
+<tr class="separator:af435de891a134958257b3abe52583c67 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae7ef16836655bcfa22102f2f808af29 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="aae7ef16836655bcfa22102f2f808af29"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PanicDespawnAnimationPlayRateScale</b></td></tr>
+<tr class="separator:aae7ef16836655bcfa22102f2f808af29 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33923da09c413cb2fe15c64720549f99 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a33923da09c413cb2fe15c64720549f99"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PreDeathAnimationPlayRateScale</b></td></tr>
+<tr class="separator:a33923da09c413cb2fe15c64720549f99 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e30552ae923fba1880530ced726b549 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a4e30552ae923fba1880530ced726b549"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a4e30552ae923fba1880530ced726b549 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e32725272228a4452d940466dc73413 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a4e32725272228a4452d940466dc73413"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a32923.html">FKrakenTentacleBehaviourActionChances</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>OnDamageActionChances</b></td></tr>
+<tr class="separator:a4e32725272228a4452d940466dc73413 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab701957d69c9136318a0a675c86203e4 inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="ab701957d69c9136318a0a675c86203e4"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TimeToSpendInInactiveState</b></td></tr>
+<tr class="separator:ab701957d69c9136318a0a675c86203e4 inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2992e5839403c24c7e171a790cec5c6c inherit pub_attribs_a32927"><td class="memItemLeft" align="right" valign="top"><a id="a2992e5839403c24c7e171a790cec5c6c"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TimeToSpendInActiveState</b></td></tr>
+<tr class="separator:a2992e5839403c24c7e171a790cec5c6c inherit pub_attribs_a32927"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32939.html">FWeightedProbabilityRange</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:31 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a32939.html">FKrakenPlayerGrabbingBehaviourParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

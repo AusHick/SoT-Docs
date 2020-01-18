@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FDioramaCategoryEntries Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FSwimAttackTargetShipImpulseData Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,54 @@ $(document).ready(function(){initNavTree('a25003.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a25000.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FDioramaCategoryEntries Struct Reference</div>  </div>
+<div class="title">SDK::FSwimAttackTargetShipImpulseData Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDioramaCategoryEntries:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FSwimAttackTargetShipImpulseData:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a25001.svg" width="252" height="258"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a25001.svg" width="550" height="544"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae71dd5c98841367af6729d48966e4d61"><td class="memItemLeft" align="right" valign="top"><a id="ae71dd5c98841367af6729d48966e4d61"></a>
-<a class="el" href="a25659.html">TMap</a>&lt; struct <a class="el" href="a25627.html">FName</a>, struct <a class="el" href="a24999.html">FIslandDioramas</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EntriesByIslandName</b></td></tr>
-<tr class="separator:ae71dd5c98841367af6729d48966e4d61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4e174855b301e63a2b307d8934874ed"><td class="memItemLeft" align="right" valign="top"><a id="af4e174855b301e63a2b307d8934874ed"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ShipSize</b></td></tr>
+<tr class="separator:af4e174855b301e63a2b307d8934874ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39de34f01f5ab23509e37e8432ed240e"><td class="memItemLeft" align="right" valign="top"><a id="a39de34f01f5ab23509e37e8432ed240e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PushImpulseForce</b></td></tr>
+<tr class="separator:a39de34f01f5ab23509e37e8432ed240e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24e700c6b8735dc4e28e02f11c9b2065"><td class="memItemLeft" align="right" valign="top"><a id="a24e700c6b8735dc4e28e02f11c9b2065"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PushImpulseLocation</b></td></tr>
+<tr class="separator:a24e700c6b8735dc4e28e02f11c9b2065"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adaf6c116a2d6bd92b64e8a70b1aefbc7"><td class="memItemLeft" align="right" valign="top"><a id="adaf6c116a2d6bd92b64e8a70b1aefbc7"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PushForceScalingFactorForeAndAftOfShipLowerBound</b></td></tr>
+<tr class="separator:adaf6c116a2d6bd92b64e8a70b1aefbc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff7acb1590d1356d0781158d93111ddd"><td class="memItemLeft" align="right" valign="top"><a id="aff7acb1590d1356d0781158d93111ddd"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PushForceScalingFactorForeAndAftOfShipUpperBound</b></td></tr>
+<tr class="separator:aff7acb1590d1356d0781158d93111ddd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c11df63a657668916b434173f4e9749"><td class="memItemLeft" align="right" valign="top"><a id="a8c11df63a657668916b434173f4e9749"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RollImpulseForce</b></td></tr>
+<tr class="separator:a8c11df63a657668916b434173f4e9749"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9d0ce5ebc3da6736103374e0547d280"><td class="memItemLeft" align="right" valign="top"><a id="ab9d0ce5ebc3da6736103374e0547d280"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RollImpulseLocation</b></td></tr>
+<tr class="separator:ab9d0ce5ebc3da6736103374e0547d280"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcd0923756663bf440c65041227c317b"><td class="memItemLeft" align="right" valign="top"><a id="afcd0923756663bf440c65041227c317b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RollForceScalingFactorForeAndAftOfShipLowerBound</b></td></tr>
+<tr class="separator:afcd0923756663bf440c65041227c317b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9940c9151c22a3c8642047e2352ee954"><td class="memItemLeft" align="right" valign="top"><a id="a9940c9151c22a3c8642047e2352ee954"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RollForceScalingFactorForeAndAftOfShipUpperBound</b></td></tr>
+<tr class="separator:a9940c9151c22a3c8642047e2352ee954"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25003.html">FDioramaCategoryEntries</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25003.html">FSwimAttackTargetShipImpulseData</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

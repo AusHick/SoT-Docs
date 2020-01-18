@@ -1,5 +1,5 @@
 var a14671 =
 [
-    [ "IslandDangerSpringAcceleration", "a14671.html#adfd7c7a43e466530af6316a4ad67c11a", null ],
-    [ "MaxDangerValue", "a14671.html#ae56d0f9f1f526dd37a318af3f10a0257", null ]
+    [ "Slots", "a14671.html#a55b3d1d6df7259cb8999b1e80ab70c87", null ],
+    [ "WeaponSlots", "a14671.html#a67232fa356b463df306c94149dc817a9", null ]
 ];

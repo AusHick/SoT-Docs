@@ -1,6 +1,6 @@
 var a03727 =
 [
-    [ "ClearPickUp", "a03727.html#aa606206a177a502be1a5e161d0a8c062", null ],
-    [ "SetPickUpPointForCargo", "a03727.html#ac5d1bc164b3a22cccbf593a9bd198c3d", null ],
-    [ "StaticClass", "a03727.html#a4a359dfc00cba99e9c02998c1bac372c", null ]
+    [ "PopCharacterOutOfCapturedByKrakenActionState", "a03727.html#a2be8cf37cb8bf29bcf512ed4b2e58de1", null ],
+    [ "PushCharacterIntoCapturedByKrakenActionState", "a03727.html#a8d0be8a9a6af7c587b13563d2b3e3958", null ],
+    [ "StaticClass", "a03727.html#a91b7093f3c1d1e28d62844482902ef08", null ]
 ];

@@ -1,5 +1,5 @@
 var a35095 =
 [
-    [ "Icon", "a35095.html#a44f142f875b25755455a4c168b75aa27", null ],
-    [ "Name", "a35095.html#a81d514e1008f40262e86a03f069483b5", null ]
+    [ "FolderMeshLimits", "a35095.html#aea837f78d7b68f92ac1a48cf9e8f93fd", null ],
+    [ "SubstringQueries", "a35095.html#ad48952abf93e73e812a3212b85ca6304", null ]
 ];

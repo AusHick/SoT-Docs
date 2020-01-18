@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FFeatureToggledStringAssetReferenceEntry Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FRepRootMotionMontage Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,57 @@ $(document).ready(function(){initNavTree('a30143.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30140.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FFeatureToggledStringAssetReferenceEntry Struct Reference</div>  </div>
+<div class="title">SDK::FRepRootMotionMontage Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFeatureToggledStringAssetReferenceEntry:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRepRootMotionMontage:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30141.svg" width="368" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30141.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5f42b83b08913e34f9746c25c6f80a8b"><td class="memItemLeft" align="right" valign="top"><a id="a5f42b83b08913e34f9746c25c6f80a8b"></a>
-struct <a class="el" href="a26207.html">FStringAssetReference</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Asset</b></td></tr>
-<tr class="separator:a5f42b83b08913e34f9746c25c6f80a8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77327efbff38a9c17178900dda3e540d"><td class="memItemLeft" align="right" valign="top"><a id="a77327efbff38a9c17178900dda3e540d"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Feature</b></td></tr>
-<tr class="separator:a77327efbff38a9c17178900dda3e540d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae5446f2ed08f519454c96fe9c23cdfa"><td class="memItemLeft" align="right" valign="top"><a id="aae5446f2ed08f519454c96fe9c23cdfa"></a>
+class <a class="el" href="a27415.html">UAnimMontage</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AnimMontage</b></td></tr>
+<tr class="separator:aae5446f2ed08f519454c96fe9c23cdfa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96bf2f5b2ab30af07e916c920905539b"><td class="memItemLeft" align="right" valign="top"><a id="a96bf2f5b2ab30af07e916c920905539b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Position</b></td></tr>
+<tr class="separator:a96bf2f5b2ab30af07e916c920905539b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cce210dbee61fc8cc52a5d0525d8f62"><td class="memItemLeft" align="right" valign="top"><a id="a1cce210dbee61fc8cc52a5d0525d8f62"></a>
+struct <a class="el" href="a30139.html">FVector_NetQuantize10</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Location</b></td></tr>
+<tr class="separator:a1cce210dbee61fc8cc52a5d0525d8f62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f06ac6314105476f6cb8ef3546be9b6"><td class="memItemLeft" align="right" valign="top"><a id="a3f06ac6314105476f6cb8ef3546be9b6"></a>
+struct <a class="el" href="a26307.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Rotation</b></td></tr>
+<tr class="separator:a3f06ac6314105476f6cb8ef3546be9b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e3873a867a72071d1289bc8e1f55a66"><td class="memItemLeft" align="right" valign="top"><a id="a0e3873a867a72071d1289bc8e1f55a66"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a0e3873a867a72071d1289bc8e1f55a66"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed1111c4f60786b0d889f27a08df1f37"><td class="memItemLeft" align="right" valign="top"><a id="aed1111c4f60786b0d889f27a08df1f37"></a>
+class <a class="el" href="a26631.html">UPrimitiveComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MovementBase</b></td></tr>
+<tr class="separator:aed1111c4f60786b0d889f27a08df1f37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a885bf83b965c8d4b338e03185137f054"><td class="memItemLeft" align="right" valign="top"><a id="a885bf83b965c8d4b338e03185137f054"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MovementBaseBoneName</b></td></tr>
+<tr class="separator:a885bf83b965c8d4b338e03185137f054"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa193810c86d3216e1503b6bc1495eaab"><td class="memItemLeft" align="right" valign="top"><a id="aa193810c86d3216e1503b6bc1495eaab"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bRelativePosition</b></td></tr>
+<tr class="separator:aa193810c86d3216e1503b6bc1495eaab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03aa2db2fb791d34002fa0d5d115cc3b"><td class="memItemLeft" align="right" valign="top"><a id="a03aa2db2fb791d34002fa0d5d115cc3b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bRelativeRotation</b></td></tr>
+<tr class="separator:a03aa2db2fb791d34002fa0d5d115cc3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1b165e13a6e79beea539d56fed9acf3"><td class="memItemLeft" align="right" valign="top"><a id="ac1b165e13a6e79beea539d56fed9acf3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x6]</td></tr>
+<tr class="separator:ac1b165e13a6e79beea539d56fed9acf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30143.html">FFeatureToggledStringAssetReferenceEntry</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30143.html">FRepRootMotionMontage</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:45 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

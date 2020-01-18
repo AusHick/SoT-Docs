@@ -1,10 +1,8 @@
 var a32191 =
 [
-    [ "CellIndicesToSpawnFor", "a32191.html#af0d386e13fba0b367102271c2f9caa12", null ],
-    [ "Deck", "a32191.html#a9152843e7d4f93dad2dfa15a9f7a7b02", null ],
-    [ "GridLocation", "a32191.html#a33492a0033998b2c7a1c54bb78d6cd85", null ],
-    [ "Location", "a32191.html#aa1640007da9ec66d61db457f45f0cb73", null ],
-    [ "MinNumCellsToActivate", "a32191.html#afe8eb07e42d496dffcd759ec9baebbbf", null ],
-    [ "NumCellRowsToSpawnFor", "a32191.html#ae23ef8b563ebcf41eeb8d4d7bc95513e", null ],
-    [ "UnknownData00", "a32191.html#adbc95d4b95f69816da3232ef8066fac9", null ]
+    [ "A", "a32191.html#a4fc68ccdc9d11a57eac7c6f9c00d7ead", null ],
+    [ "Alpha", "a32191.html#acb1cbba94d9f5d16dbaf483a2d73912a", null ],
+    [ "AlphaScaleBias", "a32191.html#a0cb02e479d2c47666f648e7d22241e63", null ],
+    [ "B", "a32191.html#acf34fc7bd18f587ac09a6cc369059248", null ],
+    [ "UnknownData00", "a32191.html#a04f2cc483ddcbbb98dc31913b4d5ecec", null ]
 ];

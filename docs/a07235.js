@@ -1,4 +1,8 @@
 var a07235 =
 [
-    [ "StaticClass", "a07235.html#a06e804bfd6ee7148d9609d7faa35e282", null ]
+    [ "OnRep_RuntimeHeroStats", "a07235.html#a9f95c97e9989a0f879c001415b1d19af", null ],
+    [ "StaticClass", "a07235.html#a4ff654e784465aa7efa47eaf2eb591d1", null ],
+    [ "HeroStats", "a07235.html#a9db632534361994b52a25198127d9733", null ],
+    [ "ServerData", "a07235.html#a066f4632c80c1ac3ad717478fabe5b2f", null ],
+    [ "UnknownData00", "a07235.html#adb3b3ba07ebdf3ea04410d55da5510ad", null ]
 ];

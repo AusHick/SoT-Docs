@@ -1,8 +1,7 @@
 var a08043 =
 [
-    [ "Customize", "a08043.html#a9ad344d4bebb7a0a9582f02c2654e987", null ],
-    [ "MakeAsyncShipPartCustomization", "a08043.html#a76607098c266c9b052187899994fb9cf", null ],
-    [ "MakeSyncShipPartCustomization", "a08043.html#a9e2bc68ce6bd183574633cebafa3766c", null ],
-    [ "StaticClass", "a08043.html#aa3ea64460708f0c02f1d092aa51266fc", null ],
-    [ "UnknownData00", "a08043.html#a0a56c041d37ebe9ab1b112338ac9e270", null ]
+    [ "GetShipIdForWebServices", "a08043.html#a37ec61c0c855e2d6fd52a829e4d14d23", null ],
+    [ "SetShipHeartbeatInterval", "a08043.html#a91579ae673bf63ee49c300e65e7fe8bb", null ],
+    [ "StaticClass", "a08043.html#aa61959adb18bf16b1aba7c2286cab7cd", null ],
+    [ "UnknownData00", "a08043.html#addcd9b7bf996b66f979580e43b2d456f", null ]
 ];

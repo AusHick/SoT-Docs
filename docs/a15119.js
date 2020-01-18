@@ -1,5 +1,6 @@
 var a15119 =
 [
-    [ "InputID", "a15119.html#ae1b53f860f1e0598b881378328b21a60", null ],
-    [ "Sequence", "a15119.html#a776c7acbd276c84e47f8a785006d2fd5", null ]
+    [ "CompanyProgressStatus", "a15119.html#a56ae6b357dca63715b3af5efc9186d61", null ],
+    [ "ProgressInfoByCompany", "a15119.html#a2e1cef3d387335fd9b167b4049b9adc9", null ],
+    [ "UnknownData00", "a15119.html#af574203be6ba99a59eaf92a77e71310a", null ]
 ];

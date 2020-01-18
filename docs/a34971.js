@@ -1,5 +1,6 @@
 var a34971 =
 [
-    [ "StaticClass", "a34971.html#a0ec03b0aac9aa6f9bb40671dd66f91e9", null ],
-    [ "Desc", "a34971.html#a0d30368bb1d7f973b62421f30b00f60d", null ]
+    [ "Descriptor", "a34971.html#a9294f56943aa6e7cc7b801be0abf4bb0", null ],
+    [ "Type", "a34971.html#a1a85c38070edfca464487b3755bec5ce", null ],
+    [ "UnknownData00", "a34971.html#aa4141737186f8c77995d48f4e81aa051", null ]
 ];

@@ -1,10 +1,17 @@
 var a31975 =
 [
-    [ "CacheFramesRemaining", "a31975.html#abd9a82707a2a3bd008c4486f4181ec61", null ],
-    [ "DataSource", "a31975.html#a8e3eba26939ea357352e24fbf7a4a9f6", null ],
-    [ "EvaluatorMode", "a31975.html#a74ef532c8ee375c862028587de12efe0", null ],
-    [ "FramesToCachePose", "a31975.html#a3b2537a0b2a96f96f47829a592b9d84a", null ],
-    [ "UnknownData00", "a31975.html#abc96aba02c210bd54b285881664106ca", null ],
-    [ "UnknownData01", "a31975.html#af177d25056997d055a5fd04cf145c087", null ],
-    [ "UnknownData02", "a31975.html#ad4308d0475c03626db46127f8dd99270", null ]
+    [ "ActiveNetDrivers", "a31975.html#a0383b4ce14ae77aa5ca8b77fb95e5b3f", null ],
+    [ "GameViewport", "a31975.html#a1328cf75a6ac8a680b70e2d8d32cd917", null ],
+    [ "LastRemoteURL", "a31975.html#aa8aef5b35f3d8386cf5ddbbaea28dd70", null ],
+    [ "LastURL", "a31975.html#af7780a6295b0ee42d3eaf3f58685f2a4", null ],
+    [ "LoadedLevelsForPendingMapChange", "a31975.html#abebb0eff8c01e108337db2bbd3597dac", null ],
+    [ "ObjectReferencers", "a31975.html#a0254162ae220a1204660d7cab5b8f3b9", null ],
+    [ "OwningGameInstance", "a31975.html#a10db959101b6876928effc887c931a59", null ],
+    [ "PackagesToFullyLoad", "a31975.html#a44a2bfc99c6e809e570bdde280bc2115", null ],
+    [ "PendingLevelStreamingStatusUpdates", "a31975.html#a9135471992c0befee3a45013b08e6ee5", null ],
+    [ "PendingNetGame", "a31975.html#abedce274a97b7f7f68ba9cd19c79df4b", null ],
+    [ "UnknownData00", "a31975.html#a941afb4ae89506b833d237426eca1d45", null ],
+    [ "UnknownData01", "a31975.html#a96abfc8a13986ffa478e8ac9973886b0", null ],
+    [ "UnknownData02", "a31975.html#af7d24d2041733a14e5679a4a4ad657f8", null ],
+    [ "UnknownData03", "a31975.html#a2fd6779a3430f540d2072a2f08a1a9fd", null ]
 ];

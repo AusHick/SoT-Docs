@@ -1,4 +1,8 @@
 var a18395 =
 [
-    [ "Source", "a18395.html#a812b7520ce709844f6a96747143d112e", null ]
+    [ "ContendedResources", "a18395.html#adcf7e8408dea53152549691c925a2e14", null ],
+    [ "CrewId", "a18395.html#a95f292eb65b190ac444a041e0a136075", null ],
+    [ "Locations", "a18395.html#a12a54e576f2dc343525a789acc217b7d", null ],
+    [ "SessionType", "a18395.html#a269c147631b4a90af6a8f6d0085cf0c1", null ],
+    [ "UnknownData00", "a18395.html#a4559fac5bb5d882053d4b9b2efbbd8d4", null ]
 ];

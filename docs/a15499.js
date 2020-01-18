@@ -1,6 +1,5 @@
 var a15499 =
 [
-    [ "CriticalActor", "a15499.html#aa3741d8b16f8fa42bfe658bfa2ed1926", null ],
-    [ "FailureMessage", "a15499.html#ababd6b320e058dd7807e6cb7aaf36300", null ],
-    [ "UnknownData00", "a15499.html#afe05bdcf49cd9dc3f5058d187ce8f628", null ]
+    [ "Events", "a15499.html#a7c02fda4128dfa787e66ad9c5442f512", null ],
+    [ "ItemCategories", "a15499.html#a5662ef64e81e62e92f36ef4d2daf0ece", null ]
 ];

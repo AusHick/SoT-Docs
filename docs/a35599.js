@@ -1,6 +1,7 @@
 var a35599 =
 [
-    [ "AnimationGuid", "a35599.html#a4e06970fbd490c2f658ccbc93cfaaa88", null ],
-    [ "SlotWidgetName", "a35599.html#ae31e0cd144ec7f523449818d9be6a7ee", null ],
-    [ "WidgetName", "a35599.html#a9809ecab061140b0b5b36230772668ab", null ]
+    [ "StaticClass", "a35599.html#a13b033043fbb655511f26355c954bff0", null ],
+    [ "Items", "a35599.html#a427855ff58e0838ceca114d2c4781794", null ],
+    [ "OnGenerateWidgetEvent", "a35599.html#aa409aaa60d2855771c5a77b6f9d1640a", null ],
+    [ "UnknownData00", "a35599.html#af5a621b6517d648b4465f473782eeba1", null ]
 ];

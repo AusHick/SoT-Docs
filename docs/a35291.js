@@ -1,10 +1,7 @@
 var a35291 =
 [
-    [ "AbsoluteToLocal", "a35291.html#a70d9555910abaca8ad15156dbc4e0af4", null ],
-    [ "AbsoluteToViewport", "a35291.html#ac222c5f5cdc9ea2a62b33546dd902597", null ],
-    [ "GetLocalSize", "a35291.html#a912aa8107160ed545d0efa4459f09ab1", null ],
-    [ "IsUnderLocation", "a35291.html#a3eaed740b7dea37d05645171fda2b8e4", null ],
-    [ "LocalToAbsolute", "a35291.html#a6f9340d1251f9b441639fba3b93fd6c1", null ],
-    [ "LocalToViewport", "a35291.html#a6bb6fcab2b43e72866b3c8bf7156ab76", null ],
-    [ "StaticClass", "a35291.html#a5fa2c72609c16448cd1de308665ccccc", null ]
+    [ "StaticClass", "a35291.html#aa72ae4b50a442d2e6edb978b1b774c3b", null ],
+    [ "Prompt", "a35291.html#aa9a44e749745071a0e773193fbee50a9", null ],
+    [ "StartOrStop", "a35291.html#a9dbcb5ceab37a25662d637149ec6b1e2", null ],
+    [ "UnknownData00", "a35291.html#ac29ed12d070fc752738f3634abbc2e3e", null ]
 ];

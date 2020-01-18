@@ -1,7 +1,7 @@
 var a26927 =
 [
-    [ "SetInnerConeAngle", "a26927.html#a18cffd28f48c1deb62da8eb5d43646e0", null ],
-    [ "SetOuterConeAngle", "a26927.html#a6b7c613f38782f653b07e8942c11cdd4", null ],
-    [ "StaticClass", "a26927.html#adf1c5559a9cf657ea5194ac85f5c337f", null ],
-    [ "SpotLightComponent", "a26927.html#a6c1c8a8fec338578f134e5cb434db36f", null ]
+    [ "StaticClass", "a26927.html#a16a1e09e1d7c448408ca4841fbb7d2e7", null ],
+    [ "bEnabled", "a26927.html#a097fe0839cec2ca1d956dddfd0f6e40e", null ],
+    [ "CullDistances", "a26927.html#ac25b47314e64fc4f8f222f1f03c2ad22", null ],
+    [ "UnknownData00", "a26927.html#afa1dbb0d93b7cacdf0e9c1687e343c7f", null ]
 ];

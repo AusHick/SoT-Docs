@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FInterpLookupTrack Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAnimationTransitionBetweenStates Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,71 @@ $(document).ready(function(){initNavTree('a30947.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30944.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FInterpLookupTrack Struct Reference</div>  </div>
+<div class="title">SDK::FAnimationTransitionBetweenStates Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FInterpLookupTrack:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FAnimationTransitionBetweenStates:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30945.svg" width="196" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a30946.svg" width="195" height="375"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+</div>
+<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
+  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAnimationTransitionBetweenStates:</div>
+<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
+</div>
+<div id="dynsection-1-content" class="dyncontent" style="display:none;">
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30945.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9caddc6313362aeca9c632fec570a74b"><td class="memItemLeft" align="right" valign="top"><a id="a9caddc6313362aeca9c632fec570a74b"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a30943.html">FInterpLookupPoint</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Points</b></td></tr>
-<tr class="separator:a9caddc6313362aeca9c632fec570a74b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e77fc79da0a7d603a4f73007032f4ed"><td class="memItemLeft" align="right" valign="top"><a id="a2e77fc79da0a7d603a4f73007032f4ed"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>PreviousState</b></td></tr>
+<tr class="separator:a2e77fc79da0a7d603a4f73007032f4ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3994b176a1f4cb986583438a57d550c"><td class="memItemLeft" align="right" valign="top"><a id="ac3994b176a1f4cb986583438a57d550c"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>NextState</b></td></tr>
+<tr class="separator:ac3994b176a1f4cb986583438a57d550c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47f46e25f01f55f622af78b2bf2e0bd3"><td class="memItemLeft" align="right" valign="top"><a id="a47f46e25f01f55f622af78b2bf2e0bd3"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CrossfadeDuration</b></td></tr>
+<tr class="separator:a47f46e25f01f55f622af78b2bf2e0bd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e6d5b69bb66e317193266ceb0603502"><td class="memItemLeft" align="right" valign="top"><a id="a9e6d5b69bb66e317193266ceb0603502"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>StartNotify</b></td></tr>
+<tr class="separator:a9e6d5b69bb66e317193266ceb0603502"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a104a86ebba9e149bdf783218f3f0ee85"><td class="memItemLeft" align="right" valign="top"><a id="a104a86ebba9e149bdf783218f3f0ee85"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>EndNotify</b></td></tr>
+<tr class="separator:a104a86ebba9e149bdf783218f3f0ee85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40585bc2562582f326c3697319ea52de"><td class="memItemLeft" align="right" valign="top"><a id="a40585bc2562582f326c3697319ea52de"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>InterruptNotify</b></td></tr>
+<tr class="separator:a40585bc2562582f326c3697319ea52de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a510a1f34578c9796acf492e39268b04f"><td class="memItemLeft" align="right" valign="top"><a id="a510a1f34578c9796acf492e39268b04f"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAlphaBlendOption &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BlendMode</b></td></tr>
+<tr class="separator:a510a1f34578c9796acf492e39268b04f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac26f3e9926a53ee2b185d9c9cd0fb895"><td class="memItemLeft" align="right" valign="top"><a id="ac26f3e9926a53ee2b185d9c9cd0fb895"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:ac26f3e9926a53ee2b185d9c9cd0fb895"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfc17286e110e8ce5b9d4d4dc5e8d3cc"><td class="memItemLeft" align="right" valign="top"><a id="adfc17286e110e8ce5b9d4d4dc5e8d3cc"></a>
+class <a class="el" href="a27039.html">UCurveFloat</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CustomCurve</b></td></tr>
+<tr class="separator:adfc17286e110e8ce5b9d4d4dc5e8d3cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3552be8896000e675c3baae0480b7f4"><td class="memItemLeft" align="right" valign="top"><a id="ab3552be8896000e675c3baae0480b7f4"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ETransitionLogicType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>LogicType</b></td></tr>
+<tr class="separator:ab3552be8896000e675c3baae0480b7f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3942ecc83a0c050ce1f696443a3a3e4"><td class="memItemLeft" align="right" valign="top"><a id="ac3942ecc83a0c050ce1f696443a3a3e4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x7]</td></tr>
+<tr class="separator:ac3942ecc83a0c050ce1f696443a3a3e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a30943"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a30943')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a30943.html">SDK::FAnimationStateBase</a></td></tr>
+<tr class="memitem:aecab5fa6f77e7f01fdec837f6c91f4fd inherit pub_attribs_a30943"><td class="memItemLeft" align="right" valign="top"><a id="aecab5fa6f77e7f01fdec837f6c91f4fd"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StateName</b></td></tr>
+<tr class="separator:aecab5fa6f77e7f01fdec837f6c91f4fd inherit pub_attribs_a30943"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30947.html">FInterpLookupTrack</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30947.html">FAnimationTransitionBetweenStates</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

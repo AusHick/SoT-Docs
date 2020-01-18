@@ -1,8 +1,12 @@
 var a14955 =
 [
-    [ "ContinouousIn", "a14955.html#aa43fd40928bf0f8a22546525c22ea8e8", null ],
-    [ "ContinouousLoop_A", "a14955.html#a7d6fbf63a2eea18093b1f15255066c0d", null ],
-    [ "ContinouousLoop_B", "a14955.html#aa05e542d259cdfd9f071cc927f3f136a", null ],
-    [ "ContinouousOut", "a14955.html#aced9e6fba7f26b88ee392a24fd95f162", null ],
-    [ "OneShot", "a14955.html#a4a9e7072713b95b5f8889b870dd106ef", null ]
+    [ "AttackId", "a14955.html#a6b68874740cf5bb569b72abe3c7edbd9", null ],
+    [ "CurrentHealth", "a14955.html#a54868fc6ddb792332e64ea67c33070e6", null ],
+    [ "HealthDelta", "a14955.html#a077b1d7521a0bc8d7a8f23d220050e82", null ],
+    [ "PossessCount", "a14955.html#ad74f76f5b8be9229dd2515ac04e0a44d", null ],
+    [ "PreviousHealth", "a14955.html#a7e1d188c6192aa1e0240a490f21783ed", null ],
+    [ "Reason", "a14955.html#ae603443bcf7ce49a5dfb559b8744d140", null ],
+    [ "SecondsSinceSpawned", "a14955.html#a867bb13a36ad97aae41817f7f53c5d2b", null ],
+    [ "UnknownData00", "a14955.html#a777c0a2f252c54fd9bc2defb3b6aee8b", null ],
+    [ "UnknownData01", "a14955.html#a5a4a538b7ceb1205f1f200cab1c8703d", null ]
 ];

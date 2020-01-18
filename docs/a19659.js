@@ -1,5 +1,5 @@
 var a19659 =
 [
-    [ "PopUpAudioOverrides", "a19659.html#a96f110becbc10388b4d865f9935e88a1", null ],
-    [ "PopUpDesc", "a19659.html#a03af8a5069837ecd9cc28ea2acbc276f", null ]
+    [ "LoopAnimation", "a19659.html#ab91e49522096ccdc8125b7d2b8fcfbf0", null ],
+    [ "UnknownData00", "a19659.html#a10c87dd39c1eee2ad1b61c5539ca3b4b", null ]
 ];

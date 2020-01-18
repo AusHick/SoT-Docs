@@ -1,8 +1,17 @@
 var a01239 =
 [
-    [ "StaticClass", "a01239.html#a451199b439cadc09622fffc1a1ea169a", null ],
-    [ "bAddToExistingDuration", "a01239.html#a27f0ed2e7d97e184104df4afde4fc580", null ],
-    [ "CoolDownDuration", "a01239.html#a8c57d19ccc779666adc268df137c4719", null ],
-    [ "CooldownTag", "a01239.html#a03880bb2aea604981f85e78ef6922ead", null ],
-    [ "UnknownData00", "a01239.html#aaf1e71b138cec13928c4579ed098775e", null ]
+    [ "CreateActionInstance", "a01239.html#a78e59910664e1d7373a3d4addf0aa014", null ],
+    [ "Finish", "a01239.html#a372027abf428120e2d01f9173b382846", null ],
+    [ "GetActionPriority", "a01239.html#a2cfa474b46fc005d8df08bdc43c1f89f", null ],
+    [ "StaticClass", "a01239.html#a5356a07e15a6e55db05aa56f836fc812", null ],
+    [ "bAllowNewSameClassInstance", "a01239.html#adc17d02d97a03bc1ec70c286c941bef9", null ],
+    [ "BrainComp", "a01239.html#a2e4151717fbcb1b8b1d4990bc631bd91", null ],
+    [ "bReplaceActiveSameClassInstance", "a01239.html#a7fb7877b737b5ad31ed52bbf073db43c", null ],
+    [ "bShouldPauseMovement", "a01239.html#a4545535d64346ce73f5caf37f67cb77d", null ],
+    [ "ChildAction", "a01239.html#a792dde429b30217b945e7759b6e7537e", null ],
+    [ "Instigator", "a01239.html#a1f490c7a0027c506c3a854a22de63317", null ],
+    [ "OwnerComponent", "a01239.html#a16ec8f78d4b353bcdfddf85b6d1c39e2", null ],
+    [ "ParentAction", "a01239.html#ae1d58f1b79ad7958acefc4e04c4ff35b", null ],
+    [ "UnknownData00", "a01239.html#abca493622b660203b44aae594f8d43ba", null ],
+    [ "UnknownData01", "a01239.html#a241b4fb666ab882e1a172d639d811cb4", null ]
 ];

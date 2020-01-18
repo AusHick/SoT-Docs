@@ -1,8 +1,7 @@
 var a01635 =
 [
-    [ "StaticClass", "a01635.html#a737d6757ec11aa2c1f28eacf5701e580", null ],
-    [ "BattleEncounters", "a01635.html#afa76e1ff68faf0390cb5dddedc7e2817", null ],
-    [ "Params", "a01635.html#a253875749d5ec67e5136177034791c0d", null ],
-    [ "UnknownData00", "a01635.html#a1db4b01a9628c99dc485bfd4243cf44c", null ],
-    [ "UnknownData01", "a01635.html#aaf8948592be185ff1aef8d060f4d33e2", null ]
+    [ "StaticClass", "a01635.html#ae063422dd664a1a79e82d18c7c164cf2", null ],
+    [ "Ship", "a01635.html#a2ec8695dccbd73cf0525b16e389b1ede", null ],
+    [ "SpawnTargetShip", "a01635.html#a929f59e6281b7b54c40348923342595f", null ],
+    [ "UnknownData00", "a01635.html#a1579e3c9bf6b48bc63f3019650b27b41", null ]
 ];

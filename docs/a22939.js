@@ -1,8 +1,8 @@
 var a22939 =
 [
-    [ "JumpCycle", "a22939.html#a89c6e8c831f5e70bda7037aeb4d6bd69", null ],
-    [ "JumpStart", "a22939.html#a844a50169246caa7c13656a6667f73d2", null ],
-    [ "LandHeavy", "a22939.html#a78b9793a312d1f26e054ad0bd7d9adb4", null ],
-    [ "LandLight", "a22939.html#a08de9e7b5aaa6fd998dbff74c2cb5497", null ],
-    [ "PreImpact", "a22939.html#a51bfe2a201c9e0d4b50a86779a593e89", null ]
+    [ "EncounterActor", "a22939.html#a11a3f93e67242e123f9bc6e6bf51fd32", null ],
+    [ "EncounterId", "a22939.html#a69b71963a9796cf4b8474ae40e1ec1ee", null ],
+    [ "EncounterRadiusSquared", "a22939.html#a3e0c5d5fbcff3266a549a5dd8c6c48d9", null ],
+    [ "EncounterType", "a22939.html#acff3acf12d3f00de85ea622ae17c1195", null ],
+    [ "UnknownData00", "a22939.html#a471ca893f19392b480570246501700da", null ]
 ];

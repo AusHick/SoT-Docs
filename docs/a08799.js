@@ -1,5 +1,5 @@
 var a08799 =
 [
-    [ "StaticClass", "a08799.html#afde19a264fdac7ae3333687670b66b17", null ],
-    [ "VaultHandleVar", "a08799.html#a83440c11bc18ad7c27ace470ada522f3", null ]
+    [ "StaticClass", "a08799.html#a91c5f01008cbfb717e6c3047e87f7133", null ],
+    [ "Desc", "a08799.html#ae624b653253cf51dd84ac551992868c8", null ]
 ];

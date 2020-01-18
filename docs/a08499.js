@@ -1,7 +1,6 @@
 var a08499 =
 [
-    [ "StaticClass", "a08499.html#a1773477cb0a93876ffe1a0f7034b1a47", null ],
-    [ "AnimType", "a08499.html#a68c28a97bc0acdfe7863ea62e482be9e", null ],
-    [ "IsItemWieldingAllowed", "a08499.html#a35cb61691883526d99a6c0f315a75fe9", null ],
-    [ "UnknownData00", "a08499.html#a5c0a2a3a86f01599179dda73f5511929", null ]
+    [ "StaticClass", "a08499.html#a1ebbc0945fde61a390ed2c4c7304f675", null ],
+    [ "VenomDamage", "a08499.html#ad5950d2d867178af180ee2e30a9e1460", null ],
+    [ "VenomSource", "a08499.html#a8363214f8e7e1c50a5962752631fb1da", null ]
 ];

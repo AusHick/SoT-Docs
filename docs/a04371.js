@@ -1,12 +1,6 @@
 var a04371 =
 [
-    [ "StaticClass", "a04371.html#af00ee12158e7dbe8efea5d2d4118bc45", null ],
-    [ "ActorThatRequestedStateChange", "a04371.html#a0dc04fffe6058905081dde32ae398a70", null ],
-    [ "CanBeControlledByActorValue", "a04371.html#a5c3722c953ed409057bdc1c71d6a06f0", null ],
-    [ "ControlObjectActionRuleParams", "a04371.html#ae68d1f2f02db5a1f35781a9b62957d2b", null ],
-    [ "HasAController", "a04371.html#a6f2a7e10266643f90aae12a38433582d", null ],
-    [ "ObjectDisplayName", "a04371.html#aabb8c59b6932c8a70e5e4c0ca2b2f1c3", null ],
-    [ "Role", "a04371.html#ab736ead3f3b7b755e4cc517da8752049", null ],
-    [ "UnknownData00", "a04371.html#a13e6b48e68ea3876c5342b5cc49ab23c", null ],
-    [ "UnknownData01", "a04371.html#a30493a6c329000d9f9f0763ff90f80b9", null ]
+    [ "StaticClass", "a04371.html#ac2aeab4eca5c5eaeaab1a304a26c0d32", null ],
+    [ "Contests", "a04371.html#a5ba903a97c90ce698c271828de5e27d2", null ],
+    [ "UnknownData00", "a04371.html#aebe81935fff32c49128255087b1e8cce", null ]
 ];

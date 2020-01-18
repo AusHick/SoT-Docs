@@ -1,6 +1,8 @@
 var a16991 =
 [
-    [ "StickDurationMs", "a16991.html#acbfa78cd2965b954888517626b5ac6d1", null ],
-    [ "Type", "a16991.html#abe4036008d028f7ffa29124e8607f4a8", null ],
-    [ "UnknownData00", "a16991.html#a229a4c3565a8728c1a34efa81c7760f3", null ]
+    [ "Islands", "a16991.html#aba29f59f651c8d7df0097d80a2e7fa43", null ],
+    [ "MaxX", "a16991.html#a30b93334cbe984f1107fedd536e82ef5", null ],
+    [ "MaxY", "a16991.html#a2371a0d85ec415ec9daa223819c1da07", null ],
+    [ "MinX", "a16991.html#ab0c48a30e73e405dbed25c362093f46b", null ],
+    [ "MinY", "a16991.html#a23cb1f704b60e91d568c258e044f6a9e", null ]
 ];

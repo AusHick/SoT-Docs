@@ -1,4 +1,5 @@
 var a23447 =
 [
-    [ "State", "a23447.html#afe0badf53c8fddad96c1a89d7c894a31", null ]
+    [ "PersonaAnimations", "a23447.html#aeddf6160321f16cfe9e67f0e12f19765", null ],
+    [ "PersonaName", "a23447.html#a9ae92e71d96f50d188a02f67e4531cfc", null ]
 ];

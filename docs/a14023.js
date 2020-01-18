@@ -1,5 +1,8 @@
 var a14023 =
 [
-    [ "PlayerState", "a14023.html#aa19b07be8759f77c2696542ac93f1141", null ],
-    [ "UnknownData00", "a14023.html#a6d30c9b0faf594c7b21e75c953e8c7f5", null ]
+    [ "InfoSkin", "a14023.html#a8073321d6363d66cf0be0a130da55eef", null ],
+    [ "InfoTips", "a14023.html#a7c924a64d2ed15cbc02740abe32dbb7c", null ],
+    [ "InfoTitle", "a14023.html#aa58667cae9f4dff1b5e994702fc20503", null ],
+    [ "ShouldShowCompanyInfo", "a14023.html#a8425c9c7111a56825e7e18c0c1b5ed98", null ],
+    [ "UnknownData00", "a14023.html#a70901f1beca01cb5f121a404eb7b70c3", null ]
 ];

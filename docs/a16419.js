@@ -1,7 +1,9 @@
 var a16419 =
 [
-    [ "FormationSize", "a16419.html#a8201b1c057ef62629437636675e8205b", null ],
-    [ "FormationSizeIndex", "a16419.html#a4a21d2e82e678687e4e21a84fa10c857", null ],
-    [ "UnknownData00", "a16419.html#a8ece5f38401e64c724306d7b8ebeac2c", null ],
-    [ "UseLastShipAsFormationLead", "a16419.html#a6242d3c0b3136f9dfe51d073579ea1dc", null ]
+    [ "LimitMaxSpawnedItems", "a16419.html#a6b1755daa4452209e1271ace0e6bb887", null ],
+    [ "MaxTimesCanBeSelected", "a16419.html#ad299b56b20cde4fc5d2666a46c4ba65e", null ],
+    [ "UnknownData00", "a16419.html#a57015fda3b8f07c7199be772d55107d7", null ],
+    [ "UnknownData01", "a16419.html#afdcaa2272ce24b6726aa217d708d5313", null ],
+    [ "Weight", "a16419.html#a2162ecd102f3fcb770c572d2ebb66450", null ],
+    [ "WeightedItemSpawnDataAsset", "a16419.html#a7f7f39646cfd99d62833ab6284e6a695", null ]
 ];

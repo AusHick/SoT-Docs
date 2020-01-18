@@ -1,5 +1,6 @@
 var a33071 =
 [
-    [ "StaticClass", "a33071.html#ad654c8156401158ccdcce55a928f5d05", null ],
-    [ "AudioSections", "a33071.html#a6de6f2ef959b82953705106f8fd3f637", null ]
+    [ "CalcBlendedProbeCurveBuoyancy", "a33071.html#a921d5c9214b1fe19967b8eb326711661", null ],
+    [ "CalculateMagnitude", "a33071.html#a91452084aabe4d0a93adeb74b1b27074", null ],
+    [ "StaticClass", "a33071.html#a5746d2281d9a373fd1fef791504471dd", null ]
 ];

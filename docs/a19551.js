@@ -1,7 +1,10 @@
 var a19551 =
 [
-    [ "FlameOfFateType", "a19551.html#aa23c6cea91c94360868777d072af0bbb", null ],
-    [ "PlayerCharacter", "a19551.html#a9a4472fecc48529c93f0e08fffd56d8f", null ],
-    [ "Source", "a19551.html#a0026677095b6af77a3fb43a29f50084c", null ],
-    [ "UnknownData00", "a19551.html#ac60017cdfee7e2440b325ced5a700b32", null ]
+    [ "ApplyStunAnim", "a19551.html#a55c30e3a91276ea14089de1f60f3e0e0", null ],
+    [ "Duration", "a19551.html#ae66175d628519cf8a32abdc7368942d9", null ],
+    [ "InterruptMeleeAttacks", "a19551.html#afffb22c9c2ec8b1a6fad0468ba1c6f55", null ],
+    [ "StunAnimType", "a19551.html#aba7f003ee196aa67565abdccff55b7cb", null ],
+    [ "Stunned", "a19551.html#a504aff31394e8068fc705d0741762360", null ],
+    [ "TriggerStunnedVFX", "a19551.html#add9c77ea067709335bd3bd7c4327e6e9", null ],
+    [ "UnknownData00", "a19551.html#af5222f02780a5857c252dfee22e3d204", null ]
 ];

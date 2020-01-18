@@ -1,7 +1,6 @@
 var a01763 =
 [
-    [ "ShipDesc", "a01763.html#a40f072fa865257f436bc0be5c8238e74", null ],
-    [ "ShipGenerationParams", "a01763.html#af5ded91a9360f0a4b1263af9034293d2", null ],
-    [ "ShipSize", "a01763.html#a6e78205d9a2b73e43f8535dddecb3834", null ],
-    [ "SpawnerTemplates", "a01763.html#a4b99c700bd9ad39f6318e884be99bd43", null ]
+    [ "MinEngagedDistanceFromPlayers", "a01763.html#ac67f6c0aacc6bd6ab1d013948c6b2d53", null ],
+    [ "ShipTypeParams", "a01763.html#a632efc04c4e6fad089530becc517d4d2", null ],
+    [ "UnknownData00", "a01763.html#a98fc6f8f8b7a54639e24ecc21a774632", null ]
 ];

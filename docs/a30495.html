@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FFFTWaterComponentParticleParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FForceFeedbackChannelDetails Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,51 @@ $(document).ready(function(){initNavTree('a30495.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30492.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FFFTWaterComponentParticleParams Struct Reference</div>  </div>
+<div class="title">SDK::FForceFeedbackChannelDetails Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFFTWaterComponentParticleParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FForceFeedbackChannelDetails:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30493.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a30493.svg" width="279" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9ccad26e198c123e345197d5ce606704"><td class="memItemLeft" align="right" valign="top"><a id="a9ccad26e198c123e345197d5ce606704"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxParticlesPerFrame</b></td></tr>
-<tr class="separator:a9ccad26e198c123e345197d5ce606704"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4e23a489e4dce6bbddab12a09c1a2cb"><td class="memItemLeft" align="right" valign="top"><a id="af4e23a489e4dce6bbddab12a09c1a2cb"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:af4e23a489e4dce6bbddab12a09c1a2cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8e89f7f0b212db00b114d5cfefb771b"><td class="memItemLeft" align="right" valign="top"><a id="aa8e89f7f0b212db00b114d5cfefb771b"></a>
-struct <a class="el" href="a30487.html">FFFTWaterComponentWaveParticleType</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WaveParticles</b> [0x4]</td></tr>
-<tr class="separator:aa8e89f7f0b212db00b114d5cfefb771b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b48b36b6b88ed14fc1a6de4c4f9bc20"><td class="memItemLeft" align="right" valign="top"><a id="a6b48b36b6b88ed14fc1a6de4c4f9bc20"></a>
-struct <a class="el" href="a30491.html">FFFTWaterComponentIntersectParticleType</a>&#160;</td><td class="memItemRight" valign="bottom"><b>IntersectionParticles</b> [0x4]</td></tr>
-<tr class="separator:a6b48b36b6b88ed14fc1a6de4c4f9bc20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98e659cabe9feb2c595863b59fd710af"><td class="memItemLeft" align="right" valign="top"><a id="a98e659cabe9feb2c595863b59fd710af"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsLeftLarge</b>: 1</td></tr>
+<tr class="separator:a98e659cabe9feb2c595863b59fd710af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a41cb791a2771d1ce3fdaed190476d308"><td class="memItemLeft" align="right" valign="top"><a id="a41cb791a2771d1ce3fdaed190476d308"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsLeftSmall</b>: 1</td></tr>
+<tr class="separator:a41cb791a2771d1ce3fdaed190476d308"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c467ad3e9e4af154f4c379181bf451c"><td class="memItemLeft" align="right" valign="top"><a id="a3c467ad3e9e4af154f4c379181bf451c"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsRightLarge</b>: 1</td></tr>
+<tr class="separator:a3c467ad3e9e4af154f4c379181bf451c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96d746d4a26872f3028989440eb2e3fa"><td class="memItemLeft" align="right" valign="top"><a id="a96d746d4a26872f3028989440eb2e3fa"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsRightSmall</b>: 1</td></tr>
+<tr class="separator:a96d746d4a26872f3028989440eb2e3fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa8532d0cec94d9e9b32dc2c74201e24"><td class="memItemLeft" align="right" valign="top"><a id="aaa8532d0cec94d9e9b32dc2c74201e24"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsLeftTrigger</b>: 1</td></tr>
+<tr class="separator:aaa8532d0cec94d9e9b32dc2c74201e24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a037946f95d69f91a01e7874fe0405733"><td class="memItemLeft" align="right" valign="top"><a id="a037946f95d69f91a01e7874fe0405733"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAffectsRightTrigger</b>: 1</td></tr>
+<tr class="separator:a037946f95d69f91a01e7874fe0405733"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78f1f7da5e397243062768774392ace7"><td class="memItemLeft" align="right" valign="top"><a id="a78f1f7da5e397243062768774392ace7"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a78f1f7da5e397243062768774392ace7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae733125421b1be56eb5464d2a5e4ebcb"><td class="memItemLeft" align="right" valign="top"><a id="ae733125421b1be56eb5464d2a5e4ebcb"></a>
+struct <a class="el" href="a30491.html">FRuntimeFloatCurve</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Curve</b></td></tr>
+<tr class="separator:ae733125421b1be56eb5464d2a5e4ebcb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30495.html">FFFTWaterComponentParticleParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30495.html">FForceFeedbackChannelDetails</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

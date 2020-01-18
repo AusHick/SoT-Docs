@@ -1,9 +1,9 @@
 var a25635 =
 [
-    [ "TEnumAsByte", "a25635.html#ac737b94e49d3eb9ca30932017cdaa37f", null ],
-    [ "TEnumAsByte", "a25635.html#ad7ce8300bd096b36bacb9776a89cb39f", null ],
-    [ "TEnumAsByte", "a25635.html#aac24c7909ccd1cbdc4d98f15d0386b42", null ],
-    [ "TEnumAsByte", "a25635.html#aa153a65b42cc45c62e3b96fd8e3448b3", null ],
-    [ "GetValue", "a25635.html#a223c8b2cafeef84fdbca328fa0eb4c7d", null ],
-    [ "operator TEnum", "a25635.html#a24f5048f8277d81fcb1dda1180873c0a", null ]
+    [ "OnFirstHandler", "a25635.html#ad5e7621cc5d872536c68dd254e54ebea", null ],
+    [ "OnFirstNotificationHandler", "a25635.html#a654b5ad61a2d09c43df24d49f62ede52", null ],
+    [ "OnSecondHandler", "a25635.html#aee6b3268ea5742147c02aac76d31dee0", null ],
+    [ "OnSecondNotificationHandler", "a25635.html#aa30cb289ac5d8d98669f784f44b312a3", null ],
+    [ "StaticClass", "a25635.html#a876607a71e3c00283517e15c556f3293", null ],
+    [ "UnknownData00", "a25635.html#ac9301155a33d02b7aff26c9770074753", null ]
 ];

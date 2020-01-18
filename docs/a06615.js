@@ -1,9 +1,11 @@
 var a06615 =
 [
-    [ "Server_ShipCustomizationChestEquipItem", "a06615.html#a13fbaf16f9212c43da5227dbf62760dc", null ],
-    [ "Server_ShipCustomizationChestUnequipItem", "a06615.html#a6bc5711d094a68d684c4de78dd56f877", null ],
-    [ "StaticClass", "a06615.html#a624d281804059f8b436484a090efd8a4", null ],
-    [ "AllTab", "a06615.html#a124d3c652858b326fa81a09d7ccf0824", null ],
-    [ "Categories", "a06615.html#a0d7698d08b4268fac0a7126290f4f1eb", null ],
-    [ "UnknownData00", "a06615.html#a2a7c0f4fa05222a05dc0df9e14282756", null ]
+    [ "StaticClass", "a06615.html#a5dc6d630f3135ea42e7b4250a0e57b3c", null ],
+    [ "CrewMembersInteracting", "a06615.html#a78b1b2dbfc40abfd4f8f612f95a9e76e", null ],
+    [ "DisableShipCheckRestrictions", "a06615.html#a238894e210e53dcb8673dd9be4fe29ef", null ],
+    [ "MaxShipSpeedXY", "a06615.html#a68a8f5febb12d0ad8f1324398c53bfed", null ],
+    [ "ShipInteractionRadius", "a06615.html#abec062f175685a22e67b6da9a7ad37f2", null ],
+    [ "UnknownData00", "a06615.html#aedff0ed333b8cd1af8918429e064a473", null ],
+    [ "UnknownData01", "a06615.html#a896995e8fb06e3e115fc92e69d4a8780", null ],
+    [ "UnknownData02", "a06615.html#aba333ebe6fb8f2cb4512e80b30d0460c", null ]
 ];

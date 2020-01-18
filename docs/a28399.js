@@ -1,7 +1,11 @@
 var a28399 =
 [
-    [ "StaticClass", "a28399.html#abcfd68aa1c549a5d89b2617fc114f255", null ],
-    [ "Collection", "a28399.html#adfad94f289dcbab88754b3a9af84f027", null ],
-    [ "ParameterId", "a28399.html#aadd606114a0ff8817f6c9fae05804cf6", null ],
-    [ "ParameterName", "a28399.html#a3e8ca9492add95e2c8d2b159130bc330", null ]
+    [ "StaticClass", "a28399.html#a5ead9a7e07ddaa0b3b76a00919c89afc", null ],
+    [ "bAttach", "a28399.html#a5b3aba1c777c36b072681d83a726e64f", null ],
+    [ "bContinueSoundOnMatineeEnd", "a28399.html#ab9d9f1f0575b204afa6145a39795adf8", null ],
+    [ "bPlayOnReverse", "a28399.html#a5cc46c664b2cb261620fc890c4d10d9d", null ],
+    [ "bSuppressSubtitles", "a28399.html#a38d13b1de50055fcc5a82f662e08e024", null ],
+    [ "bTreatAsDialogue", "a28399.html#a22112e1be321331e91d830c52ab7cd13", null ],
+    [ "Sounds", "a28399.html#afc30d0566164f792746e2b51f3b81688", null ],
+    [ "UnknownData00", "a28399.html#a347c4135e8cad9ac0dcf2aced4779f7f", null ]
 ];

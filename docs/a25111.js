@@ -1,5 +1,5 @@
 var a25111 =
 [
-    [ "CurrentWaveIndex", "a25111.html#a03a6659bf42f8e85f3e03a9fa9714483", null ],
-    [ "UnknownData00", "a25111.html#a55c4ef7a8f5f549423059a587be199f0", null ]
+    [ "Skillset", "a25111.html#ac36f9a036c3ae331debae4b1f4ade22b", null ],
+    [ "Weights", "a25111.html#af657e75cac344c8e7ac8bd716711f818", null ]
 ];

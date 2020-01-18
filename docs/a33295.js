@@ -1,5 +1,8 @@
 var a33295 =
 [
-    [ "ForceFeedbackOptions", "a33295.html#ac785bc9422522aca9fd856eb21164421", null ],
-    [ "TimeBetweenRumbles", "a33295.html#aa138763c2e96b80ef2f66da312c73822", null ]
+    [ "StaticClass", "a33295.html#a8a72c8cc1b3de16d3308d238066f199a", null ],
+    [ "AlphaCurve", "a33295.html#a5a7c63cc3bf3b6160c5c591cca170c15", null ],
+    [ "BlueCurve", "a33295.html#a379a9ef1bc746e9541c76e7c1f4f521a", null ],
+    [ "GreenCurve", "a33295.html#a25c38ccb19abd20e054dec99930a2134", null ],
+    [ "RedCurve", "a33295.html#a4bbee6ebf643aa37e8019ada2f932db3", null ]
 ];

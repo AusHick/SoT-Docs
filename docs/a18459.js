@@ -1,4 +1,4 @@
 var a18459 =
 [
-    [ "ProfileUsers", "a18459.html#a4133269127edab8c889979a5c544955e", null ]
+    [ "ShopDefinition", "a18459.html#af7c99a9bb9ae21d003e5f6934ed2e64e", null ]
 ];

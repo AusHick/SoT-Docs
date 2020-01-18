@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FGeomSelection Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FRepAttachment Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a30111.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30108.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FGeomSelection Struct Reference</div>  </div>
+<div class="title">SDK::FRepAttachment Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FGeomSelection:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRepAttachment:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30109.svg" width="182" height="258"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30109.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af74b9f51c15dc6d0fc81fd827ef633b8"><td class="memItemLeft" align="right" valign="top"><a id="af74b9f51c15dc6d0fc81fd827ef633b8"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
-<tr class="separator:af74b9f51c15dc6d0fc81fd827ef633b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a83e36cd951b317e470ebd192e73b8ec5"><td class="memItemLeft" align="right" valign="top"><a id="a83e36cd951b317e470ebd192e73b8ec5"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>Index</b></td></tr>
-<tr class="separator:a83e36cd951b317e470ebd192e73b8ec5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2edeb97313c3d2e01d30842a9643c411"><td class="memItemLeft" align="right" valign="top"><a id="a2edeb97313c3d2e01d30842a9643c411"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>SelectionIndex</b></td></tr>
-<tr class="separator:a2edeb97313c3d2e01d30842a9643c411"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0209871927ada66ce924260fa337410c"><td class="memItemLeft" align="right" valign="top"><a id="a0209871927ada66ce924260fa337410c"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AttachParent</b></td></tr>
+<tr class="separator:a0209871927ada66ce924260fa337410c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a20a9fdadc60e549b4d76ebfafb068859"><td class="memItemLeft" align="right" valign="top"><a id="a20a9fdadc60e549b4d76ebfafb068859"></a>
+struct <a class="el" href="a30107.html">FVector_NetQuantize100</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LocationOffset</b></td></tr>
+<tr class="separator:a20a9fdadc60e549b4d76ebfafb068859"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe25cb163555faee61a2ec2863236de6"><td class="memItemLeft" align="right" valign="top"><a id="afe25cb163555faee61a2ec2863236de6"></a>
+struct <a class="el" href="a30107.html">FVector_NetQuantize100</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RelativeScale3D</b></td></tr>
+<tr class="separator:afe25cb163555faee61a2ec2863236de6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab4be351dc38cc9f39ef50b8ae63aa523"><td class="memItemLeft" align="right" valign="top"><a id="ab4be351dc38cc9f39ef50b8ae63aa523"></a>
+struct <a class="el" href="a26307.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RotationOffset</b></td></tr>
+<tr class="separator:ab4be351dc38cc9f39ef50b8ae63aa523"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8663d3fc919022802cd978bb60c40638"><td class="memItemLeft" align="right" valign="top"><a id="a8663d3fc919022802cd978bb60c40638"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AttachSocket</b></td></tr>
+<tr class="separator:a8663d3fc919022802cd978bb60c40638"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3081eb7ddd0ca62f8c58fc2f370a339"><td class="memItemLeft" align="right" valign="top"><a id="ac3081eb7ddd0ca62f8c58fc2f370a339"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:ac3081eb7ddd0ca62f8c58fc2f370a339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76ec4faae900459dacaceb4dcf840aec"><td class="memItemLeft" align="right" valign="top"><a id="a76ec4faae900459dacaceb4dcf840aec"></a>
+class <a class="el" href="a26575.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AttachComponent</b></td></tr>
+<tr class="separator:a76ec4faae900459dacaceb4dcf840aec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30111.html">FGeomSelection</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30111.html">FRepAttachment</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:45 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

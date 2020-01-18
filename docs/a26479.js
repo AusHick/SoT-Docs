@@ -1,12 +1,10 @@
 var a26479 =
 [
-    [ "AddOrUpdateBlendable", "a26479.html#a7820c60aabe6847c7c7f99f528edee7e", null ],
-    [ "StaticClass", "a26479.html#a71897e777ebc0b05bd3d825b91628e6f", null ],
-    [ "bEnabled", "a26479.html#af21db8ad2cc5cde6c174e88e44e0ed2a", null ],
-    [ "BlendRadius", "a26479.html#ae490586e7fec323dddf3ea2414ba2558", null ],
-    [ "BlendWeight", "a26479.html#a57caac03b905116a907779a16aa570ba", null ],
-    [ "bUnbound", "a26479.html#a9e1405fd468e83a41abd85334679b82e", null ],
-    [ "Priority", "a26479.html#a662e246fa858add9ebe1555f855fce5b", null ],
-    [ "Settings", "a26479.html#aae13c9add8e7bc5d3f26cb1e19606bad", null ],
-    [ "UnknownData00", "a26479.html#a5fa136448ef22fe3f72be31fb3a7bc44", null ]
+    [ "AddToCommonlyUsedMenu", "a26479.html#a604f13420b66c2c274c3503fa5bd452b", null ],
+    [ "AvailableInShippingBuilds", "a26479.html#a61af3f66f6b7b8b0da479576f722bc62", null ],
+    [ "CloseMenuWhenExecuted", "a26479.html#a0f0c44d955b61847b41551594bcd8d0d", null ],
+    [ "ConsoleCommand", "a26479.html#abccfdbf6640edfbefc386c862191b63a", null ],
+    [ "DisplayName", "a26479.html#ae26840df4bec1a93d841e2787fbdbc22", null ],
+    [ "MenuPath", "a26479.html#ade71707d2cb90b3387bf3c11992b09c5", null ],
+    [ "UnknownData00", "a26479.html#a83dfd75f51cf342556814bd8cdf23087", null ]
 ];

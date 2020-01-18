@@ -1,11 +1,7 @@
 var a05347 =
 [
-    [ "Multicast_ProcessHitReaction", "a05347.html#ae4dc819d7341c64ee7d6894fc0830fa3", null ],
-    [ "OnHitReactionImpact", "a05347.html#aaf61b03acc0729bd8195e19bd3f100e5", null ],
-    [ "StaticClass", "a05347.html#ad5b761f26d8603bd6513fa93f64d8312", null ],
-    [ "OnClientProcessHitReaction", "a05347.html#a0138d3071f9515f59926f34c2deab8ca", null ],
-    [ "OnServerProcessHitReaction", "a05347.html#af75e4845976008f591897c826ea3fead", null ],
-    [ "ServerAuthoritiveReactions", "a05347.html#ad6844c6214d1e886df2b680173ef9509", null ],
-    [ "UnknownData00", "a05347.html#a8eea792afbad3ea5a6eb16acd579e2e2", null ],
-    [ "UnknownData01", "a05347.html#ae92c60b710160c0d332b7471a7c9fdac", null ]
+    [ "OnBeginOverlap", "a05347.html#a2036c8bcf1bc72a45482c5caf746d2a7", null ],
+    [ "StaticClass", "a05347.html#a780a048390f8ba22b7318e076efb7022", null ],
+    [ "TriggerZoneComponent", "a05347.html#aa07e0adcc09c2247316e51214effc801", null ],
+    [ "UnknownData00", "a05347.html#ad02e0c6c18d5df9b87bef6500e199cad", null ]
 ];

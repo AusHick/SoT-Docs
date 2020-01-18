@@ -1,7 +1,17 @@
 var a20335 =
 [
-    [ "Duration", "a20335.html#ab6a1184dd840f8c0eeb10055ca3a36bf", null ],
-    [ "NotificationId", "a20335.html#a233903ac7211f6079681a308a5e87fa1", null ],
-    [ "NotificationText", "a20335.html#a35a26fbe416d2527c3e13483895ec8e7", null ],
-    [ "UnknownData00", "a20335.html#aa0d0865a57d0d1852f85dfc400a817a2", null ]
+    [ "AimPositionCorrection", "a20335.html#a6d2fb9d24506d5e5418ed92137fa1c60", null ],
+    [ "AimPositionDifference", "a20335.html#af15ad22f51cf5d1cc62fcbe163ac321b", null ],
+    [ "AttackId", "a20335.html#a274842622dae9c2be0aed90d381a78e7", null ],
+    [ "ClientBlockingHits", "a20335.html#a904dcd5aa6dd8b7f1b87f9852c3b260d", null ],
+    [ "DamagingProjectileCount", "a20335.html#a0ece50b7b6a6f0aae12925b02beeedc1", null ],
+    [ "ExactMatchingDamagingHits", "a20335.html#aa9bda03d50739fe416da6bbf20956893", null ],
+    [ "ExactMatchingHits", "a20335.html#a2ef916cc993108e6127e0ac7ae1fc7b2", null ],
+    [ "LatencyMs", "a20335.html#acfb899b9fd195a58e664e499d7ebc049", null ],
+    [ "LooseMatchingDamagingHits", "a20335.html#a03dda0e8a6fdc0c2a58a86e4e65bca3c", null ],
+    [ "LooseMatchingHits", "a20335.html#a2395571354f9dfdab4311b4c174f1354", null ],
+    [ "ProjectileCount", "a20335.html#ae6181f9b765cb85dfdcf4540bb487327", null ],
+    [ "ServerBlockingHits", "a20335.html#a4b415d891cd59e3194a3dddb3013c3b8", null ],
+    [ "UnknownData00", "a20335.html#ac14b874565b8058f532363d54fc1de75", null ],
+    [ "WeaponType", "a20335.html#a5d18e1f4ad126812340848d0d6956f68", null ]
 ];

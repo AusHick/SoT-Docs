@@ -1,10 +1,5 @@
 var a14607 =
 [
-    [ "AboveWaterVFX", "a14607.html#a0eb97b68f3f7328af1d06f9a111e50a3", null ],
-    [ "BelowWaterVFX", "a14607.html#ada63be00bb9b6dc90c6acadb11d104c9", null ],
-    [ "FirstPersonTargetVFX", "a14607.html#abfd9f8734bb3bc6333e1919e5538d841", null ],
-    [ "State", "a14607.html#ae4b97cf2c19fef7ae1e5db588470a808", null ],
-    [ "ThirdPersonTargetVFX", "a14607.html#a681b8c9e1b0f30ede2e99eebce8494c5", null ],
-    [ "UnknownData00", "a14607.html#a4c93efc81e808fd8476aba01c784d59e", null ],
-    [ "WaterHeightOffset", "a14607.html#a3566190c8bbfaf1d863bbb3a2e8e2f00", null ]
+    [ "ProjectileId", "a14607.html#a38df50dc40740e0a8a98c18d690b734e", null ],
+    [ "SurfaceList", "a14607.html#a88fca813dfd543741988d65d60eec75a", null ]
 ];

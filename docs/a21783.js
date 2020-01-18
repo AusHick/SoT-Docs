@@ -1,8 +1,7 @@
 var a21783 =
 [
-    [ "ContractList", "a21783.html#ad442fea08641a7ce54fa7249d8586cc8", null ],
-    [ "DeliveryLocationIslandName", "a21783.html#a6973d3f604db3849274d585e16cefc77", null ],
-    [ "DeliveryTimeLimitInMinutes", "a21783.html#af96b43afb03a09131961e3d1608f46f2", null ],
-    [ "PickupLocationIslandName", "a21783.html#af4a38635f5e09a2db683ae4531cb7beb", null ],
-    [ "UnknownData00", "a21783.html#a9bb09bb4caf4e1dc69656d1176a5ffff", null ]
+    [ "CompanyId", "a21783.html#a46cee5784b89e02b7562174c7ad15183", null ],
+    [ "UnknownData00", "a21783.html#a7db4406dc3b15da162c940084510655b", null ],
+    [ "VoyageRank", "a21783.html#a0fc12f86dfeb15dee5f76178e6ee30cb", null ],
+    [ "VoyageRecipeAsset", "a21783.html#a5ed10270f604ec2709a7f973e98045e4", null ]
 ];

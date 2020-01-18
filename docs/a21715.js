@@ -1,4 +1,4 @@
 var a21715 =
 [
-    [ "Entries", "a21715.html#af5038c39e636fe48ca222568740aa0bd", null ]
+    [ "ReputationData", "a21715.html#a534a1adf08f05b7216d3599e0e22b6eb", null ]
 ];

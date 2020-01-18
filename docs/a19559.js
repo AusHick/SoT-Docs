@@ -1,6 +1,5 @@
 var a19559 =
 [
-    [ "FlameOfFateType", "a19559.html#ab0b36c714525ba315d23fac76802905a", null ],
-    [ "Source", "a19559.html#a9ecffad3abc665c7f192f4bcd56974d1", null ],
-    [ "UnknownData00", "a19559.html#a2ff918dcf146ebe1b7a4a3293e29cc5a", null ]
+    [ "Tentacle", "a19559.html#aec9faf5cb9485fb79d8b80452da98b6e", null ],
+    [ "UnknownData00", "a19559.html#a6b2aa746226af93399a6dd30c5a6dd2a", null ]
 ];

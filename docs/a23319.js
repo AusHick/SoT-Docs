@@ -1,6 +1,6 @@
 var a23319 =
 [
-    [ "UnknownData00", "a23319.html#a0e279ff39610801be5cf726e8d8081dc", null ],
-    [ "UnlockPopUp", "a23319.html#ab055a9095d3967993517d8dd4433f216", null ],
-    [ "UnlockPopUpAudioOverrides", "a23319.html#a172017184acc5fb8edf4728a9aa7c675", null ]
+    [ "NumberOfLocationsRequested", "a23319.html#a2a8ac14b3d937f7efbb410b779c98ad0", null ],
+    [ "SalvageItemSpawnComponent", "a23319.html#a23a5c60a5849b2e7b517ba0023516ef0", null ],
+    [ "UnknownData00", "a23319.html#a618ebd372ddd10c3afbdafc7f68f5578", null ]
 ];

@@ -1,5 +1,6 @@
 var a01435 =
 [
-    [ "DefaultValue", "a01435.html#a3bddf7769b43c3096b073f2cc0793b38", null ],
-    [ "UnknownData00", "a01435.html#a1457c3c9c89b16c0a6cdbe4182366a28", null ]
+    [ "StaticClass", "a01435.html#a51366ee176aeeb7dd488f7bb9f6e484d", null ],
+    [ "TimeToWait", "a01435.html#ae6588aec68d175748c7620ba1d5985cc", null ],
+    [ "UnknownData00", "a01435.html#a7450fb575f85a7a14e12a8088146024d", null ]
 ];

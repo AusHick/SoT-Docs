@@ -1,4 +1,5 @@
 var a22803 =
 [
-    [ "ControllableObject", "a22803.html#a75f9a8181fe392b610e74bb9d7d0cd6b", null ]
+    [ "Target", "a22803.html#a2e59f52c39e089fbc5719b050d89974e", null ],
+    [ "TargetActor", "a22803.html#a80973ed26a57bd15908a57043b408e48", null ]
 ];

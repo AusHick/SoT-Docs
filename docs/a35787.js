@@ -1,6 +1,6 @@
 var a35787 =
 [
-    [ "Probes", "a35787.html#acfb2cb32d98c4aec2eb56b88f64f7b5d", null ],
-    [ "ProbeSamplingTime", "a35787.html#a902cdde63f178a7066440074807b82a7", null ],
-    [ "UnknownData00", "a35787.html#ae9d2b6af5248c3734def20c9759bdf5f", null ]
+    [ "StaticClass", "a35787.html#a2f3a4aa48075688415635c484f7d1670", null ],
+    [ "AllWidgets", "a35787.html#a78c0b78efb41362f40cb9de76061f6dd", null ],
+    [ "RootWidget", "a35787.html#a9e5016fe740f7e549e15f4d75df4210e", null ]
 ];

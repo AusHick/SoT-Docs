@@ -1,13 +1,17 @@
 var a34503 =
 [
-    [ "Disabled", "a34503.html#ae8c2f264ad5df9afae923121da0f57d0", null ],
-    [ "Hovered", "a34503.html#ac910ebc6cc2c796169b4cac18ca01c2d", null ],
-    [ "HoveredSlateSound", "a34503.html#a66d5a4944d6258ae21a08bd5ce46971e", null ],
-    [ "HoveredSound", "a34503.html#a65d705773de631d928a838c772a1ccee", null ],
-    [ "Normal", "a34503.html#a8a0e72998f3b4742d5244aa3eb5d8774", null ],
-    [ "NormalPadding", "a34503.html#a02c1104ce6fb4f35f95b17b5c4f00898", null ],
-    [ "Pressed", "a34503.html#a48c3a320fe433fef459539a1af093ef0", null ],
-    [ "PressedPadding", "a34503.html#acca8fc0d3f9a6073890362fd246a3661", null ],
-    [ "PressedSlateSound", "a34503.html#aecc795296a0c3e55cdd7517674ed2a4f", null ],
-    [ "PressedSound", "a34503.html#ab49688e857bb1d0624780dbad5a1f1a0", null ]
+    [ "CategoryClasses", "a34503.html#ac23abd2ab2dfe6bf186d893c08f6c1a2", null ],
+    [ "CategoryName", "a34503.html#ada6bbe2c9618a2ba3c2079e0b9cf0784", null ],
+    [ "CategoryStats", "a34503.html#abde311108c6796205b7dd72185351170", null ],
+    [ "CollectOnServer", "a34503.html#a3272ba0b9ec0021f1325d2c69bc10546", null ],
+    [ "MemoryUsageMB", "a34503.html#a939a56642e7bfc3d7992d1521cf95de2", null ],
+    [ "PCHighSpecBudgetMB", "a34503.html#aa4d2b48591a3dbff46c51f8ba7d29df8", null ],
+    [ "PCLowSpecBudgetMB", "a34503.html#ae9eeb845a9de507fdbc201ce222fe398", null ],
+    [ "PCMidSpecBudgetMB", "a34503.html#abd08d3836b03935e965f4e571588af53", null ],
+    [ "PCUltraSpecBudgetMB", "a34503.html#a196afe21c9c3699515a7d6c5bcef7c7e", null ],
+    [ "UnknownData00", "a34503.html#a87b4d3943f1c7a5989576fed49fac2e4", null ],
+    [ "UnknownData01", "a34503.html#a9dbbd5b6c1e147de1645529fe5739097", null ],
+    [ "XboxOneBudgetMB", "a34503.html#ac7bed19f365fa56e429e6dbc9366e33a", null ],
+    [ "XboxOneSBudgetMB", "a34503.html#a63238eda91dc827decc5a89fef9a266c", null ],
+    [ "XboxOneXBudgetMB", "a34503.html#a242e07ab8864029f2ea8a6ec87c75024", null ]
 ];

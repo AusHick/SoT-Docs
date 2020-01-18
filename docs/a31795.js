@@ -1,9 +1,9 @@
 var a31795 =
 [
-    [ "AccumulatedPayloadInKB", "a31795.html#a07bd51893fd8c65107b24906092d8c36", null ],
-    [ "RPCCount", "a31795.html#ad07d2352a83cd3fff63ee92b04df48ce", null ],
-    [ "TimeIntervalInSec", "a31795.html#a19caf4a13b3e41426c95134f99e60f5d", null ],
-    [ "UnknownData00", "a31795.html#ad07b13d15fbdfe46c5163bfbcdabbfe1", null ],
-    [ "UnknownData01", "a31795.html#a50b34171869cf6aa4a7d17ba05640365", null ],
-    [ "WorstSpike", "a31795.html#a934e4a13f3d98e5f6ff962021603e9f3", null ]
+    [ "Color", "a31795.html#a293ab39b4aa65742c23bc467daef916e", null ],
+    [ "DepthPriority", "a31795.html#aa90a0829bb3b91e2df2a5132f0d3cca0", null ],
+    [ "PointSize", "a31795.html#ac00a92ea20ceb4e4b1b9fd48124f34f1", null ],
+    [ "Position", "a31795.html#a1e95050b4c78fd6993426ed1fb27cc8d", null ],
+    [ "RemainingLifeTime", "a31795.html#a4be988f368d7505cf83dff514b8c060a", null ],
+    [ "UnknownData00", "a31795.html#abc89156047db0c485eee9f53099fe920", null ]
 ];

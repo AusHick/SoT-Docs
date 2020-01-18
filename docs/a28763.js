@@ -1,7 +1,6 @@
 var a28763 =
 [
-    [ "StaticClass", "a28763.html#acb07e170551de19ac4d89bb752749c5f", null ],
-    [ "Input", "a28763.html#ae5ee503b5e923803c172f60150d697f5", null ],
-    [ "Period", "a28763.html#ae7dfa2cc7240d0373285b1829df81333", null ],
-    [ "UnknownData00", "a28763.html#aff6131d433dafa572b17db59609c4ed9", null ]
+    [ "StaticClass", "a28763.html#a5ec0227d9ba5b29287f917f171e08a85", null ],
+    [ "NotShadow", "a28763.html#a64926c07c2cfc73c4ba954feabcb5bd7", null ],
+    [ "Shadow", "a28763.html#a3e1a2c1042c8e3b51e6f4a649e8c8785", null ]
 ];

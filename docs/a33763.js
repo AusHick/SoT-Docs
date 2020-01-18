@@ -1,6 +1,10 @@
 var a33763 =
 [
-    [ "FeedingInteractionId", "a33763.html#a36e09ffc28021de9ce1476e5fb8e694f", null ],
-    [ "FeedingReaction", "a33763.html#ad91bba7a42409a2ec32096463108d523", null ],
-    [ "UnknownData00", "a33763.html#a9479ebf069ed989a169e61924ff086ba", null ]
+    [ "StaticClass", "a33763.html#a70a54ba335ad8b0ec66e79019d0f5289", null ],
+    [ "ExcludedStatesForRoamingAssetGeneration", "a33763.html#a74ad313b441afd23739c6048db3cfcab", null ],
+    [ "PetHangoutSpotsDataAsset", "a33763.html#a08d46fc06a3a438804b9063d54b1a5b3", null ],
+    [ "PetListingDataAsset", "a33763.html#a9c5b45022f2335639b5aabb9889ff30c", null ],
+    [ "PetPartIdListingDataAsset", "a33763.html#a8d999c77e9551384d2c8bd7052c8c6bd", null ],
+    [ "PetSpawnDefinitionsDataAsset", "a33763.html#abbdeeb4c66d609d25843f635cce44ad5", null ],
+    [ "PetsServiceParamsDataAsset", "a33763.html#a78468cb75744f302dad3c2418640190e", null ]
 ];

@@ -1,5 +1,6 @@
 var a24015 =
 [
-    [ "StaticClass", "a24015.html#a014ae8c618d957a9fc85d4cec58beef6", null ],
-    [ "UnknownData00", "a24015.html#aab96d201f4a94e5fca9b39321453a058", null ]
+    [ "StaticClass", "a24015.html#a706c27d452e9cb1fe37a23f30c4325eb", null ],
+    [ "FeatureBasedRecipeLists", "a24015.html#acc9c22b5f4ec83bc7d38163070b5aed4", null ],
+    [ "Recipes", "a24015.html#a2889ce1b643c9da06eaab7357e39e524", null ]
 ];

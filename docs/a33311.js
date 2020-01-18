@@ -1,5 +1,7 @@
 var a33311 =
 [
-    [ "Target", "a33311.html#a88c1d083501930ee7010d83a6d7dc2de", null ],
-    [ "UnknownData00", "a33311.html#add4c6ba24b359eb8488edb1220a8b17c", null ]
+    [ "StaticClass", "a33311.html#adb58b8040bd74d71283231e410ea827c", null ],
+    [ "bFadeAudio", "a33311.html#a17895a444626574a007ca3f4bbbb938d", null ],
+    [ "FadeColor", "a33311.html#a71e34d76ea3f18ef0aaa1aa054c52fc6", null ],
+    [ "UnknownData00", "a33311.html#a9eadbcf7d845d0d6f157378402bba3bf", null ]
 ];

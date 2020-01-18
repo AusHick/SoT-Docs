@@ -1,6 +1,9 @@
 var a28411 =
 [
-    [ "StaticClass", "a28411.html#a576ec5127a74c2aa0705419ed2980404", null ],
-    [ "R", "a28411.html#a6c556d256f389cc4932902547f72bd29", null ],
-    [ "UnknownData00", "a28411.html#a0d804b6da61dd9d1899d4aa037d79622", null ]
+    [ "StaticClass", "a28411.html#ac89979f950626957d324258c6ba516cd", null ],
+    [ "bFireEventsWhenBackwards", "a28411.html#a16d8216c31fd1ebd0f9315f6dd19ce2d", null ],
+    [ "bFireEventsWhenForwards", "a28411.html#a0bb446b174b6b4928c7536e22023a23c", null ],
+    [ "bFireEventsWhenJumpingForwards", "a28411.html#a97c115f714aaa0e624b15c369dc4bbc2", null ],
+    [ "UnknownData00", "a28411.html#a379bc40e26bb484f5bb7366c0c02e6f6", null ],
+    [ "VisibilityTrack", "a28411.html#ad1d26aaa18892a45bd110ff1648be161", null ]
 ];

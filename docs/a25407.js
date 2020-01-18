@@ -1,10 +1,4 @@
 var a25407 =
 [
-    [ "IgnoreNonSpoofedInput", "a25407.html#a067b1a2068eb91d8990e7aabf6af2c89", null ],
-    [ "IsContinuousActionActive", "a25407.html#afa920c5fd7063ce4d305ffbab1d5d037", null ],
-    [ "SpoofAnalogInput", "a25407.html#a971f759fb721d0e1389abcb1ebeb5569", null ],
-    [ "SpoofNotificationInput", "a25407.html#ad66a22f3362983b40ac7837b700c1125", null ],
-    [ "StaticClass", "a25407.html#af0a8e41a5e57e98715762f2bb5c5ad5e", null ],
-    [ "InputComponent", "a25407.html#a857f736bd5cff8a2e33d31113cb37c22", null ],
-    [ "UnknownData00", "a25407.html#afe9fd057a05d73ad251714cae0a09f0e", null ]
+    [ "UnknownData00", "a25407.html#a5626fc76f69ca3c5b32067b523904bde", null ]
 ];

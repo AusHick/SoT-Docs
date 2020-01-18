@@ -1,8 +1,8 @@
 var a25875 =
 [
-    [ "CookId", "a25875.html#ad1a62169d9da58bb0876787c0435c5d8", null ],
-    [ "CookState", "a25875.html#ac6858e33284d2e0c7292f1dfecc5db23", null ],
-    [ "ItemName", "a25875.html#ab589f8996f2383073df57aa4a5b13495", null ],
-    [ "Location", "a25875.html#a946d92ce0b82d82591e7997a9c1157b2", null ],
-    [ "UnknownData00", "a25875.html#a9d46ac540eb72f0b6727ecc2fd78c255", null ]
+    [ "Get", "a25875.html#aaefb49577835f05adf61f1289508bacc", null ],
+    [ "IsValid", "a25875.html#a874f4830655acd72fbd9269a69fdf061", null ],
+    [ "SerialNumbersMatch", "a25875.html#a4aaaf6e312c18f65e69bc8bab78adb3b", null ],
+    [ "ObjectIndex", "a25875.html#a911d0ac4fff5bd04f21004b7ce775e07", null ],
+    [ "ObjectSerialNumber", "a25875.html#a475fa9e0061fa6835fbc558755dfc031", null ]
 ];

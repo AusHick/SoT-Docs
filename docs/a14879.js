@@ -1,6 +1,6 @@
 var a14879 =
 [
-    [ "IsMigration", "a14879.html#a89e80dd36f0dbc271d375e7dfef3c6da", null ],
-    [ "TitleSession", "a14879.html#a4949e96459f239356d2fb6007fdb74bb", null ],
-    [ "UnknownData00", "a14879.html#a9756521d71f9d27e651fd9f670119242", null ]
+    [ "NumRequiredItems", "a14879.html#a16a775ddcb71cf07d8c5cf15168e35f0", null ],
+    [ "RequiredItemsGroups", "a14879.html#a380839d677eaba7913eca6f83f47e5e8", null ],
+    [ "UnknownData00", "a14879.html#af564bdada6bab08b73f1b8c15db28a3b", null ]
 ];

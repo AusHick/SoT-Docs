@@ -1,4 +1,4 @@
 var a21695 =
 [
-    [ "ProposalDesc", "a21695.html#af9526473d5c84083a9e3730451fbdd3e", null ]
+    [ "CampaignId", "a21695.html#a551789cb07608bd1db40905087d014b2", null ]
 ];

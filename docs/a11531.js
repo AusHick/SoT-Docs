@@ -1,6 +1,6 @@
 var a11531 =
 [
-    [ "GetPitch", "a11531.html#a80a6b756091b44f19982b72a133b9c1e", null ],
-    [ "GetYaw", "a11531.html#a215599c429cd8bf9e40a1aabf1b1ce7e", null ],
-    [ "StaticClass", "a11531.html#a8385d738d083557016f696a98c587879", null ]
+    [ "GetAllIslandNames", "a11531.html#a41dbaf49c09be6ee27bb0c345dce87df", null ],
+    [ "OnCrewSpawningOnIsland", "a11531.html#aa9f7bb8dbc67234e030a0614323cab7e", null ],
+    [ "StaticClass", "a11531.html#ad0012d4ce6948b9980d8441b9f463e3d", null ]
 ];

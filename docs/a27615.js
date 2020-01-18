@@ -1,7 +1,9 @@
 var a27615 =
 [
-    [ "StaticClass", "a27615.html#aa7d89095b650d22f83a1541451601714", null ],
-    [ "Groups", "a27615.html#a9f08ea952b2ff62d8c6d6aa830f0d7d4", null ],
-    [ "SkeletonSlotNames", "a27615.html#ab956766f221a2bcd5d94d65092624726", null ],
-    [ "TargetSkeleton", "a27615.html#acf0c213c52a085d4e09931d6b165726f", null ]
+    [ "GetBoneTransformByName", "a27615.html#a674bde1737e620440e785e716a4a5e85", null ],
+    [ "SetBoneTransformByIndex", "a27615.html#a0a0ba9e161e7abf657c8223a6680c18b", null ],
+    [ "SetBoneTransformByName", "a27615.html#a419a2d1c3958a54ad4547b7952f6ab06", null ],
+    [ "StaticClass", "a27615.html#a5ab27b88afacd42e3f6b8a2470f397dc", null ],
+    [ "SwitchPoseMode", "a27615.html#a15780c6837f93efa80e3213412317d1d", null ],
+    [ "UnknownData00", "a27615.html#aa5149927e44456f046c9f039d34248c8", null ]
 ];

@@ -1,4 +1,5 @@
 var a15671 =
 [
-    [ "UnknownData00", "a15671.html#afc9768307536dc9d17376631d968e86f", null ]
+    [ "Name", "a15671.html#a2759d55e6dd1017df29664182fdeca5c", null ],
+    [ "Substitution", "a15671.html#a3e56c3672670de9c9444bb3a818aec20", null ]
 ];

@@ -1,5 +1,6 @@
 var a04159 =
 [
-    [ "StaticClass", "a04159.html#adfa1e765b2b89f8cce7791f7828d755c", null ],
-    [ "ConstellationAudioEventsMap", "a04159.html#ac042ba7080fcc8ced0a0f6694a416703", null ]
+    [ "StaticClass", "a04159.html#a7ccaac67389a691c6d4ce73fcce5603d", null ],
+    [ "UnknownData00", "a04159.html#a6511b4f9d19125ce44303d2de0d76979", null ],
+    [ "WorldRegionRadius", "a04159.html#a6d3d815bcc5286f18d75b255d921aef7", null ]
 ];

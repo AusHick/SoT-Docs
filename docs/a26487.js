@@ -1,6 +1,5 @@
 var a26487 =
 [
-    [ "StaticClass", "a26487.html#a32e3ec3ce1b23b2d0e3a9521dac35eb0", null ],
-    [ "TargetGamma", "a26487.html#a04b6d816133190610e62c8dd4091bc4b", null ],
-    [ "UnknownData00", "a26487.html#a2a8f38aaf8b194b04bd466fc3f8f1059", null ]
+    [ "Command", "a26487.html#a7a0020c11b93ea25231a20e4280fd787", null ],
+    [ "path", "a26487.html#a623fbce11e2922c4aa5c8e94e2a3e0bb", null ]
 ];

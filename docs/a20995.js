@@ -1,6 +1,5 @@
 var a20995 =
 [
-    [ "AvgInBytesPerSecond", "a20995.html#ad979bc7d3546868c361fda676e1cab0a", null ],
-    [ "AvgOutBytesPerSecond", "a20995.html#accdbafd6c6de22e7ee3d220cfe9dc941", null ],
-    [ "AvgRttMilliseconds", "a20995.html#ae4604d898eee2425d4384e40431c597e", null ]
+    [ "CrewId", "a20995.html#a051aaf91e7080a85ed0c62c532efe49a", null ],
+    [ "UnknownData00", "a20995.html#aef936cb7777924e77be0486549b39cb6", null ]
 ];

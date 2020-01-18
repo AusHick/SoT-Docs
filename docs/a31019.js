@@ -1,6 +1,7 @@
 var a31019 =
 [
-    [ "Distribution", "a31019.html#a5dc39a8cbf18677991dafd01d0fb8a68", null ],
-    [ "MaxValue", "a31019.html#ad2b7ce4042fc20186aa315865bd80985", null ],
-    [ "MinValue", "a31019.html#a3e39e7d8a31e8287b59e1459e7e84e43", null ]
+    [ "bDoNotCrumble", "a31019.html#a33efcb21eaa1e9290a451e80e0c7a2bc", null ],
+    [ "bDoNotDamage", "a31019.html#ad354a40a7b711ca5fbca7bf85c9e9ed7", null ],
+    [ "bDoNotFracture", "a31019.html#ab30a730226fd14e7754ce0912bdb62ba", null ],
+    [ "bIsSupportChunk", "a31019.html#a5abcbc52ee81a990534c4a48854bb329", null ]
 ];

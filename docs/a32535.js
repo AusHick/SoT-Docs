@@ -1,4 +1,8 @@
 var a32535 =
 [
-    [ "StringMap", "a32535.html#ad1cade8895d22a44465f5895abaa2040", null ]
+    [ "GetOwnedGameplayTags", "a32535.html#a0af15ade71305f76e036bb720456b45f", null ],
+    [ "HasAllMatchingGameplayTags", "a32535.html#a1203545863d9442ca05fbac626cd6219", null ],
+    [ "HasAnyMatchingGameplayTags", "a32535.html#a6b74df45b9f8f7e09ce73872bc7ab180", null ],
+    [ "HasMatchingGameplayTag", "a32535.html#a2a391521faf16ec361a4c448f30253a3", null ],
+    [ "StaticClass", "a32535.html#a5456e12603ac9fb78955b3a2a6450b4b", null ]
 ];

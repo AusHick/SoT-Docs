@@ -1,9 +1,12 @@
 var a30103 =
 [
-    [ "BlendExp", "a30103.html#a872ba49b7eda7c9c40e69acbed15d02f", null ],
-    [ "BlendFunction", "a30103.html#a9b166d054e4a7637a404b50877ff2ecc", null ],
-    [ "BlendTime", "a30103.html#ab6409a0ffce62d8715a448039c4a050a", null ],
-    [ "bLockOutgoing", "a30103.html#a227e58d2eb75e24ce01a5ac9834c04e3", null ],
-    [ "UnknownData00", "a30103.html#a27ec90a73dc4be3004c138c68c59c271", null ],
-    [ "UnknownData01", "a30103.html#afd825a02d37c89e76f5c5f697aecc747", null ]
+    [ "AngularVelocity", "a30103.html#a49f851ccbc6cb27eb683b6407c89f0bd", null ],
+    [ "bRepPhysics", "a30103.html#a73947636611ed047574cdcdb06c1ff64", null ],
+    [ "bSimulatedPhysicSleep", "a30103.html#abc32cf92696d4b5433f59e0eb4ce1a6d", null ],
+    [ "LinearVelocity", "a30103.html#a58f43530117331cc486d645ebaa955df", null ],
+    [ "Location", "a30103.html#a2089096bbe381a17cd8e30fab3318c2a", null ],
+    [ "LocationQuantizationLevel", "a30103.html#aac4afa7b6e4ac5bdf43d85857063ad2d", null ],
+    [ "Rotation", "a30103.html#abe7662f1ab7fc42ab129847815f5928b", null ],
+    [ "RotationQuantizationLevel", "a30103.html#a6855b2433362df478cd51797b555714b", null ],
+    [ "VelocityQuantizationLevel", "a30103.html#af6932d97b47671da75aa271a732b5506", null ]
 ];

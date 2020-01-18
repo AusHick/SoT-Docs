@@ -1,6 +1,6 @@
 var a30263 =
 [
-    [ "X", "a30263.html#a480f05362cef926db6cfef2b7872392a", null ],
-    [ "Y", "a30263.html#afe11e96a3234d0111c0fa3cac64ec14d", null ],
-    [ "Z", "a30263.html#a83690a5e5c15dde39df69b19f1cd20f7", null ]
+    [ "Channel", "a30263.html#afc673b87bc008f819dd52c341f1441fb", null ],
+    [ "Response", "a30263.html#accc1d752518d82182950d869a5764262", null ],
+    [ "UnknownData00", "a30263.html#a5610426faed40db3b60729336f82b2ce", null ]
 ];

@@ -1,8 +1,7 @@
 var a30823 =
 [
-    [ "FirstDominanceValue", "a30823.html#a74a727716d4b49efd621bccec0d4ef05", null ],
-    [ "FirstGroupId", "a30823.html#ad0fd7ce7682c42b1b2e06c280c6e8319", null ],
-    [ "SecondDominanceValue", "a30823.html#a8b525c17e21639aa02dd529eb41d1c9d", null ],
-    [ "SecondGroupId", "a30823.html#a780e91661e4c647712819933b4c85517", null ],
-    [ "UnknownData00", "a30823.html#a03e3b985d05934c8489beb0f4bce3631", null ]
+    [ "SampleDataIndex", "a30823.html#ab21bfdd4e8cd75f8327ae8e4d2296283", null ],
+    [ "Time", "a30823.html#a26e16d927972e4943557e1f608305575", null ],
+    [ "TotalWeight", "a30823.html#ad376116c3df81af01e087636c831128e", null ],
+    [ "UnknownData00", "a30823.html#a3f5719880a7ffa36a51c3f7d421a9f21", null ]
 ];

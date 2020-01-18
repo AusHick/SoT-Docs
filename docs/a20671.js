@@ -1,7 +1,8 @@
 var a20671 =
 [
-    [ "BindingName", "a20671.html#a378973b41873add43ad01e3db0da3608", null ],
-    [ "ControllerType", "a20671.html#a0c9c4272eb3ab8acc3508207516bb728", null ],
-    [ "KeyName", "a20671.html#a536f9ce2b8259895f6bb58ec3ad7d2dd", null ],
-    [ "UnknownData00", "a20671.html#ac7b9ddcc5d944caab8a929f4a6097ed7", null ]
+    [ "IsCompleted", "a20671.html#ae2a61e1ec217cd801f8b2a0aaab73ff3", null ],
+    [ "StatName", "a20671.html#a21b57c5c883d050454cf9888f3c263d2", null ],
+    [ "Threshold", "a20671.html#a6e5332969376f330c025fb7c3b1aa7e8", null ],
+    [ "UnknownData00", "a20671.html#ac95296df5a6614de69efbeacded30341", null ],
+    [ "Value", "a20671.html#a83b1771d40d27164283c6e04fb911605", null ]
 ];

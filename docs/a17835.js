@@ -1,4 +1,4 @@
 var a17835 =
 [
-    [ "HasReward", "a17835.html#a21dc6c6edf98dd02745e686df204fb90", null ]
+    [ "PirateId", "a17835.html#ab2b5b6c9e558fc21464faaa97e2b8fe6", null ]
 ];

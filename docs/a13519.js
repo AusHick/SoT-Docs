@@ -1,4 +1,5 @@
 var a13519 =
 [
-    [ "Entitlements", "a13519.html#a84a1ecdec62499d58d90470d5cebc08b", null ]
+    [ "ContestZoneName", "a13519.html#af2aef1864ac0faaf4cc78edceff4a3f6", null ],
+    [ "Weight", "a13519.html#a4f7971ec770e77c489142e23b614d11c", null ]
 ];

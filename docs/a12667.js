@@ -1,6 +1,7 @@
 var a12667 =
 [
-    [ "FormationDescs", "a12667.html#a6a7c0e8740e4906e25995e9182890211", null ],
-    [ "NumShipsInFormation", "a12667.html#aa5d7c9fab450c15a2b01beba75431d58", null ],
-    [ "UnknownData00", "a12667.html#af5615b49b5800d267d069c2d7e026fdd", null ]
+    [ "Operator", "a12667.html#a397fdded89d07224ccd2261cf69b0430", null ],
+    [ "PlayerStat", "a12667.html#a2a35a4df73c8e283f4a18935e1c4df3a", null ],
+    [ "Threshold", "a12667.html#ab4a724d10cbad245590572fc77d6f670", null ],
+    [ "UnknownData00", "a12667.html#a9383424f632396ea8f689f1c88fecc73", null ]
 ];

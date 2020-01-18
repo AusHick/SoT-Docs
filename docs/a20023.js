@@ -1,5 +1,4 @@
 var a20023 =
 [
-    [ "Interaction", "a20023.html#a9f648fc85c5ae4ff7c96791aab0d81af", null ],
-    [ "OpenPossessionsChestEvent", "a20023.html#af47aeb7a0bf32590050fd462077a89a8", null ]
+    [ "UnknownData00", "a20023.html#a32285c168900ca0bb211fba0e9a1d525", null ]
 ];

@@ -1,6 +1,7 @@
 var a11527 =
 [
-    [ "GetInheritedLaunchVelocity", "a11527.html#ad667f96eb8986033af70b74f59747fcb", null ],
-    [ "GetProjectileIgnoreActors", "a11527.html#a84ca2b5cc436b9776d97bd50878d012e", null ],
-    [ "StaticClass", "a11527.html#a7ea85c3dc52d0c4300a51b405ae25e48", null ]
+    [ "StaticClass", "a11527.html#a801a0b46d2432798b27a2f139706693d", null ],
+    [ "IslandEntries", "a11527.html#acab353293c6b3f22ab60133a286e00b6", null ],
+    [ "WorldMapMax", "a11527.html#aed56419b09ac370fff4df96bf1d56bfc", null ],
+    [ "WorldMapMin", "a11527.html#a142167667ab4fd1cc312ac0ef9e92d9c", null ]
 ];

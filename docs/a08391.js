@@ -1,6 +1,6 @@
 var a08391 =
 [
-    [ "StaticClass", "a08391.html#a6ff8e50bb09a6ce17d9fb79fcd48a907", null ],
-    [ "ClampedMaxTurnAngle", "a08391.html#abd5bd53f4733f608371dbb53c772b970", null ],
-    [ "UnknownData00", "a08391.html#a2b143adc7d0d2760165cb3fddba59dc0", null ]
+    [ "StaticClass", "a08391.html#a7039d78d802882a33ecfac631417ca76", null ],
+    [ "Duration", "a08391.html#a93d528b6d6ab72eb9d63caf92f3587cb", null ],
+    [ "UnknownData00", "a08391.html#a46868bc1c5f85b6d347188f8766e130a", null ]
 ];

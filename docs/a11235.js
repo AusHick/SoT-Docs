@@ -1,5 +1,4 @@
 var a11235 =
 [
-    [ "StaticClass", "a11235.html#a85aaea509054079e8f98309e6afcfd49", null ],
-    [ "ConsumptionStatuses", "a11235.html#a7ce2be91ab2f3fd949b3371f72a541eb", null ]
+    [ "StaticClass", "a11235.html#a0586f765426f0d63fb0a77aee94e2cd1", null ]
 ];

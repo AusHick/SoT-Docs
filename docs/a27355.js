@@ -1,8 +1,4 @@
 var a27355 =
 [
-    [ "SetMurkyRegion", "a27355.html#a258281de4bbcaf8b3101ee076cb13dc8", null ],
-    [ "StaticClass", "a27355.html#a25637c19567f3de578c4b901ddd80b0c", null ],
-    [ "Material", "a27355.html#a7d2690f9436b9c56ec9d27f727939747", null ],
-    [ "UnknownData00", "a27355.html#a328dfafc3a456b8419d4d5ba7c51180d", null ],
-    [ "WaterParams", "a27355.html#ac0638e6f40fcd8b6dbe6e370ad669d6c", null ]
+    [ "StaticClass", "a27355.html#a96ebfdc6d7686dddc88c8d5dddbe4de1", null ]
 ];

@@ -1,7 +1,5 @@
 var a34047 =
 [
-    [ "Name", "a34047.html#a257986123269e216af339073d6972155", null ],
-    [ "Tags", "a34047.html#a949ac36f28a5828084e7281fb598a0bf", null ],
-    [ "Type", "a34047.html#a2fbf6010c1a44144587c42e22f27e281", null ],
-    [ "UnknownData00", "a34047.html#a5a90abd1379031be11e9ee4f03a061cc", null ]
+    [ "StaticClass", "a34047.html#a72f0e5c15d84666443ba477d8b8291f6", null ],
+    [ "UnknownData00", "a34047.html#abb9d740bf9acb02225b469a0a2a646e0", null ]
 ];

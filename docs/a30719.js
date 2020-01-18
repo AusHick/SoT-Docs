@@ -1,9 +1,12 @@
 var a30719 =
 [
-    [ "bAutoAdjustMinMax", "a30719.html#adbf11d8ab776b7bb045937799e0a0d9e", null ],
-    [ "MaxSamples", "a30719.html#a33a06e0ce69eb5943b896c5548b44c3d", null ],
-    [ "MaxValue", "a30719.html#a4173b7dfa522f8fea6575984eb5e99da", null ],
-    [ "MinValue", "a30719.html#ac252d8ec57fd3bfadf576cefd676bf14", null ],
-    [ "Samples", "a30719.html#ab8630ff78ed461a0a4a24f506615a06d", null ],
-    [ "UnknownData00", "a30719.html#ace97403864683646f7b0608481461dde", null ]
+    [ "bCanModify", "a30719.html#a1e4c57d5f52f9349f3078f3e63801f54", null ],
+    [ "CollisionEnabled", "a30719.html#a4983a2d3a51bbe15be06ad120149d192", null ],
+    [ "CustomResponses", "a30719.html#a6815d8e68856633b1f26cbe6e7625526", null ],
+    [ "HelpMessage", "a30719.html#aeeb102347f41ea4d06c46aa44c1c2120", null ],
+    [ "Name", "a30719.html#aec48405fae7c3ea186cd01641d324c5d", null ],
+    [ "ObjectTypeName", "a30719.html#aa669b13f24202049d44fbd2a4e91b3e1", null ],
+    [ "UnknownData00", "a30719.html#af957d8facac9bb966d31a0aff85062d6", null ],
+    [ "UnknownData01", "a30719.html#ad520636901c26047b47ed3116dded5a9", null ],
+    [ "UnknownData02", "a30719.html#a4ac069a99e1c0af1656a51b3c30b8bbe", null ]
 ];

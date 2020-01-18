@@ -1,7 +1,14 @@
 var a14343 =
 [
-    [ "SFXEmitter", "a14343.html#a6b2f7f6511545e439345c8dbac2b3dae", null ],
-    [ "UnknownData00", "a14343.html#a05594388b6a0e0a666c09dc8f78c7847", null ],
-    [ "UnknownData01", "a14343.html#a0852185630f72015f5b3cd6b0c11c4e4", null ],
-    [ "WaterLeakParticleSystem", "a14343.html#a36932f76500af75e6840411fe62c08b2", null ]
+    [ "Death", "a14343.html#a51e0b156ebd1494db2ade29ab2a6f4bb", null ],
+    [ "DyingLoop", "a14343.html#a2a27c7aecf5636978c5c8441b8698d66", null ],
+    [ "Eating", "a14343.html#abfc9fbc0dea443ec04e1d555bfa40632", null ],
+    [ "Idle", "a14343.html#acd1ccb18c2231ad7b250d04b8b348459", null ],
+    [ "Impact", "a14343.html#aec26a080165e71f65e73380df82dc2ae", null ],
+    [ "Locomotion", "a14343.html#a691c0de54c41f80d978fca33a29222c2", null ],
+    [ "PigStarving", "a14343.html#a9774e362ea028895863af91fa8bbdec1", null ],
+    [ "SnakeAttack", "a14343.html#a6c00b75663e4338ae03e02f5101c7b55", null ],
+    [ "Special", "a14343.html#ae7b7b034ccd264382604de1af1f876ee", null ],
+    [ "Startled", "a14343.html#a7ed821aa13f87bab6b14625f32a9e782", null ],
+    [ "Turning", "a14343.html#a762dc7087e9135899d823acdd1d6fd9e", null ]
 ];

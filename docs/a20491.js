@@ -1,4 +1,6 @@
 var a20491 =
 [
-    [ "PirateIdentity", "a20491.html#a82046b7b0051f2a99b4c7ef4ddba95c9", null ]
+    [ "EncounteredObjectId", "a20491.html#aab37ef5487f5701e8a14adc2e0473b2e", null ],
+    [ "FortWaveIndex", "a20491.html#a0bb239f714d3efd240ebca9271263e44", null ],
+    [ "TotalFortWaves", "a20491.html#a26569f7d52e5738c94b51451bf053fe8", null ]
 ];

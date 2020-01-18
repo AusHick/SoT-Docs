@@ -1,4 +1,5 @@
 var a02247 =
 [
-    [ "StaticClass", "a02247.html#a57af69709b59a7c0f905f957124a7b93", null ]
+    [ "StaticClass", "a02247.html#a4f2377f7954230071a85df727ec361b0", null ],
+    [ "Desc", "a02247.html#af93b57ec24582cb8bfbdca81e9ec0215", null ]
 ];

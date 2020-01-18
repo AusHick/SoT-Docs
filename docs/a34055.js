@@ -1,7 +1,8 @@
 var a34055 =
 [
-    [ "FreeSlots", "a34055.html#a824c5e683a9b5cd9bebc2b8a108e8f65", null ],
-    [ "MaterialReferences", "a34055.html#a7f10ae21d5d3ece91bb7169120ef87f4", null ],
-    [ "PartNames", "a34055.html#ac8a2badb9cbdf42ffa798aff5320a2d2", null ],
-    [ "ScalarParameters", "a34055.html#a5301b485bfca5e012cb63774b15244a9", null ]
+    [ "AreMeshesEquivalentByMeshPatchCriteria", "a34055.html#ace4d12f91d79b230a4efa21ac938de8f", null ],
+    [ "BakeCharacterMeshFromClassDefault", "a34055.html#a5b8389f92dbac47af2bc35e6f4649033", null ],
+    [ "BlendMeshWithMeshPatchAssets", "a34055.html#ad6f5fe082725ab611fb62352d6f95b5c", null ],
+    [ "MakeCharacterMeshSpecification", "a34055.html#ac6c962f2e76c501cd5a3138ad92ff0e4", null ],
+    [ "StaticClass", "a34055.html#af59c42a2e2d24cc1aef26d0dc6c81ea5", null ]
 ];

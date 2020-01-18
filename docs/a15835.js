@@ -1,5 +1,9 @@
 var a15835 =
 [
-    [ "EntitlementDesc", "a15835.html#ac7428df7851f21b0ed38eb80b02047c8", null ],
-    [ "Identifier", "a15835.html#aba9b1800aa0942b83e713c5baa817263", null ]
+    [ "FractureEastScale", "a15835.html#a9f04c354ae104713f84b6fe6b4526a16", null ],
+    [ "FractureSouthScale", "a15835.html#a21683a2fd4b8eaf5a31784f55ae77432", null ],
+    [ "FractureWestScale", "a15835.html#a56c507b4175a142f5f94afa49c30865c", null ],
+    [ "PlankEastScale", "a15835.html#a04afef4d8658af2e1ffa231bbf8952c6", null ],
+    [ "PlankSouthScale", "a15835.html#af28498e78caa1698c19a6df486959b88", null ],
+    [ "PlankWestScale", "a15835.html#a8b6a7643bb1db1a0cb446bc784fbdb7d", null ]
 ];

@@ -1,9 +1,7 @@
 var a26127 =
 [
-    [ "FBox2D", "a26127.html#a8ac4be9e056e8e15b38f74f299b005fb", null ],
-    [ "FBox2D", "a26127.html#a59cbcff44a943c6462987769ae77dd96", null ],
-    [ "IsValid", "a26127.html#a539ee038308170e6e84f542ddf07403c", null ],
-    [ "Max", "a26127.html#a85a898b13ce52ac2adecf72aa787922d", null ],
-    [ "Min", "a26127.html#a96ca62bb5b059969227210841b4577e6", null ],
-    [ "UnknownData00", "a26127.html#a45641f24b14111e6b927c0444a992348", null ]
+    [ "CreateDefaultObject", "a26127.html#a4fce025b9e574944d93fb67d9ecb2ac0", null ],
+    [ "CreateDefaultObject", "a26127.html#a107b416cefba49d74514e89114229e69", null ],
+    [ "StaticClass", "a26127.html#af3c4e16d1aaf178e9faeeb6c6cf7fa63", null ],
+    [ "UnknownData00", "a26127.html#aca6340b7eef51ffa02060b39f3974bfc", null ]
 ];

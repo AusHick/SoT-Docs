@@ -1,19 +1,9 @@
 var a31307 =
 [
-    [ "BaseColorMapSize", "a31307.html#a929d4589605ff999da2abc79eca9e83d", null ],
-    [ "bMetallicMap", "a31307.html#aaea6c6e718cc442fd6c93762fcad6f40", null ],
-    [ "bNormalMap", "a31307.html#a9f7c741f6b54989b0df55ac0ed0dcd9b", null ],
-    [ "bRoughnessMap", "a31307.html#aa49a7165888444d6700a50518e5926bb", null ],
-    [ "bSpecularMap", "a31307.html#a9faaacee9b2b3444dbe2002c3f5e2c4a", null ],
-    [ "MetallicConstant", "a31307.html#a95168b8f95c977ac36264c8a36d07442", null ],
-    [ "MetallicMapSize", "a31307.html#af01216f41c092ff2e6cd018960d471a8", null ],
-    [ "NormalMapSize", "a31307.html#a82afd7ededb528dbcb49edef81ceb15d", null ],
-    [ "RoughnessConstant", "a31307.html#a00a0e438403281ab150de84c380304bf", null ],
-    [ "RoughnessMapSize", "a31307.html#a6ca3ba5dcb5bda60f9cd0a526ea5b043", null ],
-    [ "SpecularConstant", "a31307.html#ad910a7b74e7e06904c77b01095f62908", null ],
-    [ "SpecularMapSize", "a31307.html#a8e6aac7d57752d6c3c198892ee78c529", null ],
-    [ "UnknownData00", "a31307.html#ad2d3eff6f989348eed0ce312463759ee", null ],
-    [ "UnknownData01", "a31307.html#aea0ce85dc04bbddfa4c30349c786b173", null ],
-    [ "UnknownData02", "a31307.html#a11653db37e11f6de7aa5665b13c3d751", null ],
-    [ "UnknownData03", "a31307.html#ad4305689edb860953f29db77163d6fda", null ]
+    [ "bAdvanced", "a31307.html#ade3f7d24d91054b72099092d544c1d87", null ],
+    [ "DisplayName", "a31307.html#aa3f393e6c6588b2c62e311f82d123fc9", null ],
+    [ "Name", "a31307.html#ac8d3953f1ef10edebe3e2d8d3c8eadd4", null ],
+    [ "ParentName", "a31307.html#a14937cdd3a5dc3fb779b550f1b228912", null ],
+    [ "Transform", "a31307.html#aa5450d49435f755a46c6e445513fd7c1", null ],
+    [ "UnknownData00", "a31307.html#a5aef86dac1988e1faa94524a08dd9796", null ]
 ];

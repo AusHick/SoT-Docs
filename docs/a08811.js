@@ -1,6 +1,6 @@
 var a08811 =
 [
-    [ "StaticClass", "a08811.html#aafca826f0bb35830727ec56304f4c29b", null ],
-    [ "SelectedSpawnerAsset", "a08811.html#a813e84974580d96e3a9a6634c2331496", null ],
-    [ "SelectFromSpawnerArray", "a08811.html#aa199a546a9328f1c6e259a792ddd7d64", null ]
+    [ "StaticClass", "a08811.html#a3a0f056f35645e351d9912870be1da42", null ],
+    [ "Header", "a08811.html#ab52969be55e0a4b76f2513a58ee2351c", null ],
+    [ "Tag", "a08811.html#a3424ce92efd52d68bddcd2367797bc74", null ]
 ];

@@ -1,4 +1,5 @@
 var a23599 =
 [
-    [ "UnknownData00", "a23599.html#abb8e7d73624637952154e0e96b63f393", null ]
+    [ "ConfigId", "a23599.html#a1633c4b47f6440e67e3fa9a71c05529e", null ],
+    [ "Events", "a23599.html#a5af52938603aca2f514faed612c2055a", null ]
 ];

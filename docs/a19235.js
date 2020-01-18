@@ -1,5 +1,7 @@
 var a19235 =
 [
-    [ "Curses", "a19235.html#af8e57abd18202ed1860fd25533e3a5cd", null ],
-    [ "Instigator", "a19235.html#a546239485dfdbae1b567ec8d97193471", null ]
+    [ "Message", "a19235.html#a22f095aa376e625164ce29d1f33cb715", null ],
+    [ "NewCrewId", "a19235.html#ad9b5f85b8ecacd9bef23cc5b25a98a44", null ],
+    [ "ResultCode", "a19235.html#a84097664f5512a0d169e703c681c29dc", null ],
+    [ "UnknownData00", "a19235.html#a743808e2182e40ab3fb19c88aa0a6b4d", null ]
 ];

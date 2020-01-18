@@ -1,7 +1,10 @@
 var a05339 =
 [
-    [ "StaticClass", "a05339.html#ab9bbac507cfc05a9fcdf33994baf42bb", null ],
-    [ "MaxTimedSweepWaitTime", "a05339.html#a64099b46ee4d57ac27c76df200d980eb", null ],
-    [ "UnknownData00", "a05339.html#a3c20c87bb4d795bb4a5132cab0b6f406", null ],
-    [ "UnknownData01", "a05339.html#afd7e4733e7b1fd838feec3bb0e695f86", null ]
+    [ "OnPlayerInViewOfHideout", "a05339.html#a05a6f14c8a13b66ef392bca8cccdc05b", null ],
+    [ "StaticClass", "a05339.html#a58724699e2e54df0282f57d24b3c3d3a", null ],
+    [ "AssociatedSpawnLocations", "a05339.html#acf5c67198b7b77e0cecbee4472e93828", null ],
+    [ "HideoutName", "a05339.html#a8ab9ac4f1f62c2f5045c74abaee7e54e", null ],
+    [ "Players", "a05339.html#a7764ec9277dcc1d84cd8dc8792fead80", null ],
+    [ "RevealTriggerVolume", "a05339.html#a94d5d78391acf091ad667169a220a46a", null ],
+    [ "UnknownData00", "a05339.html#ad31a4812e5d8de87cbe60ab903084cf8", null ]
 ];

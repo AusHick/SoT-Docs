@@ -1,4 +1,4 @@
 var a20143 =
 [
-    [ "TutorialEventControlledObject", "a20143.html#aee7e96193ccffc4e332d5d80f18d4b68", null ]
+    [ "ClosePossessionsChestEvent", "a20143.html#a1f9d77a315896d2b1299b9e570e24308", null ]
 ];

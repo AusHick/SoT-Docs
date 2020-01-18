@@ -1,8 +1,9 @@
 var a27655 =
 [
-    [ "StaticClass", "a27655.html#a9830278aecd1c702fe9fd356535665f7", null ],
-    [ "TestGPUSortForSize", "a27655.html#adebdfdb60aeb856e876c536de1744118", null ],
-    [ "TestGPUTransposeForSize", "a27655.html#a464a350e503dd5993bcd1019f604f56c", null ],
-    [ "ValidateGPUSortForSize", "a27655.html#a925ccbfa4a8a95fb11ee29ceaf95b852", null ],
-    [ "ValidateGPUTransposeForSize", "a27655.html#ac791702a739d882e1f33553e1688e8fa", null ]
+    [ "GetScaledBoxExtent", "a27655.html#a168cc9935e289c395f452fcae6f35264", null ],
+    [ "GetUnscaledBoxExtent", "a27655.html#af5ccdbc730eec3785530a84daba84c7b", null ],
+    [ "SetBoxExtent", "a27655.html#a697f3ea7e5161197710a001989bc6d78", null ],
+    [ "StaticClass", "a27655.html#a82fbf60d8bb6520fdc7b4edfb7054a6d", null ],
+    [ "BoxExtent", "a27655.html#a590fb746323d24867c133c491d8bc921", null ],
+    [ "UnknownData00", "a27655.html#a0581d969eeeb1e7a339b24c81fbd4d98", null ]
 ];

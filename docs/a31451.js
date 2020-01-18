@@ -1,4 +1,5 @@
 var a31451 =
 [
-    [ "Keys", "a31451.html#a586fd02c066a5040a493b065da6e2dc1", null ]
+    [ "BytesDiscarded", "a31451.html#a8c35fef2f21f9d36944b938cf06336e9", null ],
+    [ "DiscardCounts", "a31451.html#ad7376d5615c90ce87bee8470442c8b1c", null ]
 ];

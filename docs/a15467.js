@@ -1,28 +1,6 @@
 var a15467 =
 [
-    [ "CollisionChannel", "a15467.html#a3afa09895247e6573505178212e93dc8", null ],
-    [ "HighPriorityLightningBaseDamage", "a15467.html#a9ac0a21e3fcb0587ceca35f4c61e60af", null ],
-    [ "InactiveTimePerTest", "a15467.html#acedac143177c8026780da4535d023a28", null ],
-    [ "LightningMaterial", "a15467.html#a73d9ba67ab5ae6681570d4965273d532", null ],
-    [ "LightningSourcePosParam", "a15467.html#a2214d2d23e0768db36901f25c6d58051", null ],
-    [ "LightningStrikeEvent", "a15467.html#a3a5fb37a9e306f8b8659834d90c37a24", null ],
-    [ "LightningStrikeFrequency", "a15467.html#abf83828c5b1ef7c04910b68ebe95198f", null ],
-    [ "LightningStrikePool", "a15467.html#ac1b362568d7b32fd32460d655abf6889", null ],
-    [ "LightningTag", "a15467.html#a74f636c2d1472ccf1b3ac2e500e82a0a", null ],
-    [ "LightningTimingParam", "a15467.html#a387c8ad037eb3edbd5abff6cf908cb5e", null ],
-    [ "NearPlayerMaxRadius", "a15467.html#aa011119d5b1f91ae695183e38d9faa70", null ],
-    [ "NearPlayerMinRadius", "a15467.html#aecd96c2bc8a1bb913b4f92ac117826ab", null ],
-    [ "RadiusPercentage", "a15467.html#a0bce4bb77812ec449776d8f976b58183", null ],
-    [ "ShipNearMissMaxX", "a15467.html#a8e6861e1e84079768e1c9cd63505b8e5", null ],
-    [ "ShipNearMissMaxY", "a15467.html#a21da7d4864f14a2c3be5af1a3c402f7e", null ],
-    [ "StandardLightningBaseDamage", "a15467.html#aec48a7b7f70cd3b0318faed975f6ce14", null ],
-    [ "StormHeight", "a15467.html#af549ab51f44e33df8c312d004b5e87e1", null ],
-    [ "StrikeCompleteTime", "a15467.html#a24c86e3ae8a526a4a2375e562611ca8e", null ],
-    [ "StrikeHitTime", "a15467.html#a9059f7d807917ecea21f7f04e470cd1a", null ],
-    [ "StrikeWaterEvent", "a15467.html#ad02d0441a258dab7a17b6be38bf8bda9", null ],
-    [ "StrikeWaterParticleSystem", "a15467.html#ac8760df28dca443f73a78630f20e76d1", null ],
-    [ "StrikeWaterPool", "a15467.html#a73c80b02a1010c23ead27b3f7fcb48c9", null ],
-    [ "TargetSelector", "a15467.html#a45de438ab933a04a89076900bd519efd", null ],
-    [ "UnknownData00", "a15467.html#a6d4aecc1b2438d540e5e8168315e3de2", null ],
-    [ "UnknownData01", "a15467.html#ac57e35b6d4b06ec905d238cc8e7f9f50", null ]
+    [ "Customisation", "a15467.html#a017948e49e66c4f8f438a53fa1da4d7c", null ],
+    [ "MetaData", "a15467.html#a14374663f5e83a935cfc9ef33fa62313", null ],
+    [ "Template", "a15467.html#abd8356e7e7fcc027b88c3c4f94b53f71", null ]
 ];

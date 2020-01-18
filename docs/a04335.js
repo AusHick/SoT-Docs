@@ -1,6 +1,7 @@
 var a04335 =
 [
-    [ "StaticClass", "a04335.html#ac2aeab4eca5c5eaeaab1a304a26c0d32", null ],
-    [ "Contests", "a04335.html#a5ba903a97c90ce698c271828de5e27d2", null ],
-    [ "UnknownData00", "a04335.html#aebe81935fff32c49128255087b1e8cce", null ]
+    [ "StaticClass", "a04335.html#a41cfbf47f23890d610638d837ca70d2e", null ],
+    [ "MerchantSpawnDataArray", "a04335.html#a4d9894e78bf700aaab2b688554ecb848", null ],
+    [ "SpawnedMerchantsArray", "a04335.html#a7554278787056ce632c3ddebc9a9d845", null ],
+    [ "UnknownData00", "a04335.html#a01f7cf1571f53710bcd9f59fba424ba1", null ]
 ];

@@ -1,4 +1,4 @@
 var a23795 =
 [
-    [ "StaticClass", "a23795.html#a755d0d5677a4d7914922fd9193b3afa1", null ]
+    [ "TeleportLocation", "a23795.html#ad3f22322b236d32cec04a1e54f1a6d0c", null ]
 ];

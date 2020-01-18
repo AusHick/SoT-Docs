@@ -1,4 +1,9 @@
 var a00923 =
 [
-    [ "StaticClass", "a00923.html#aa79085af1bbef8090246c7647d45c39c", null ]
+    [ "StaticClass", "a00923.html#ad5e439d07dfd4ea3e84c0c8f99740932", null ],
+    [ "BoolValue", "a00923.html#a8f1389e66d7a78b8a1bb1043c05b1c92", null ],
+    [ "FloatValue", "a00923.html#a5f7da51366db92686a0ef0a3797c1d16", null ],
+    [ "IntValue", "a00923.html#aa25dab4c39cd3afdfc426054f3383e89", null ],
+    [ "ParamName", "a00923.html#ac6778091a63f97bb734684ac9105a9f5", null ],
+    [ "UnknownData00", "a00923.html#a54df729cd6676bd80d744ba8c02826bb", null ]
 ];

@@ -1,7 +1,7 @@
 var a08479 =
 [
-    [ "StaticClass", "a08479.html#a37356b073ea7bd2bbdf2efe099e5b027", null ],
-    [ "AnchorOffsetFromShip", "a08479.html#ab4f86137f81614d01ef9bf9807701293", null ],
-    [ "Params", "a08479.html#ae8902edddd3a59472ed5be5b039b69ca", null ],
-    [ "UnknownData00", "a08479.html#aaaa220c339cd36a42d8bcab094b4eb4a", null ]
+    [ "StaticClass", "a08479.html#a1773477cb0a93876ffe1a0f7034b1a47", null ],
+    [ "AnimType", "a08479.html#a68c28a97bc0acdfe7863ea62e482be9e", null ],
+    [ "IsItemWieldingAllowed", "a08479.html#a35cb61691883526d99a6c0f315a75fe9", null ],
+    [ "UnknownData00", "a08479.html#a5c0a2a3a86f01599179dda73f5511929", null ]
 ];

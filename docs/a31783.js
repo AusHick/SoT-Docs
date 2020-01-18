@@ -1,11 +1,16 @@
 var a31783 =
 [
-    [ "LocalPC", "a31783.html#a993a54d1dbb3e6458fd137ce3db22c49", null ],
-    [ "MessageIndex", "a31783.html#a2daa21952c8b1fc93fe03ab4a511c8ea", null ],
-    [ "MessageString", "a31783.html#af7023720d0dfed567e203a925cd48e8a", null ],
-    [ "MessageType", "a31783.html#a469673d00ea6e6cf8f7c59ee7a4cc05f", null ],
-    [ "OptionalObject", "a31783.html#ab1e2623f017e8a2e7762a91c246fc857", null ],
-    [ "RelatedPlayerState_2", "a31783.html#a2f5df70e4919b96b42205c5afa1c0d24", null ],
-    [ "RelatedPlayerState_3", "a31783.html#a0c12c6db7ce830699b74335e0d862ff6", null ],
-    [ "UnknownData00", "a31783.html#ae5e7639d25cf4ca4eea2ce4df3e7a501", null ]
+    [ "ActiveStateBranchingPoints", "a31783.html#a0bacf2080d0a2803e149fe21c3f44c96", null ],
+    [ "BlendTime", "a31783.html#a27a0bef5e2f74f3cbf9f025993e0acb4", null ],
+    [ "bPlaying", "a31783.html#a270841a2f0e74bba865ef1c53c26a4a6", null ],
+    [ "DefaultBlendTimeMultiplier", "a31783.html#a6c482dc284ade66e614ab07727cefc8b", null ],
+    [ "DesiredWeight", "a31783.html#aeae67e30cddd35192de422742f13c470", null ],
+    [ "Montage", "a31783.html#a9efbf9a8e57af162414988af28f5a095", null ],
+    [ "NextSections", "a31783.html#ad80813ae47f7814ccab0abcd679205a0", null ],
+    [ "PlayRate", "a31783.html#a68dac491bac7173d2b8c95cc80f9ac99", null ],
+    [ "Position", "a31783.html#a43ca344bff1cee5ac411fa8535f5eee6", null ],
+    [ "PrevSections", "a31783.html#a4422b6226fc002eb752362b3eacce840", null ],
+    [ "UnknownData00", "a31783.html#a81e975831db90e4b4c824b5e412a1ccc", null ],
+    [ "UnknownData01", "a31783.html#a81afba839cdd27f30be60544b7168492", null ],
+    [ "Weight", "a31783.html#a2c2a890af87815da398eb42817170209", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FFontRenderInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FGPUSpriteEmitterInfo Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,153 @@ $(document).ready(function(){initNavTree('a31275.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31272.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FFontRenderInfo Struct Reference</div>  </div>
+<div class="title">SDK::FGPUSpriteEmitterInfo Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFontRenderInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FGPUSpriteEmitterInfo:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31273.svg" width="368" height="383"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31273.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a8928b109ab580b13e57d45d1912dcfb1"><td class="memItemLeft" align="right" valign="top"><a id="a8928b109ab580b13e57d45d1912dcfb1"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bClipText</b>: 1</td></tr>
-<tr class="separator:a8928b109ab580b13e57d45d1912dcfb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ae97c491cb884fa89c7effd3e2bbf1b"><td class="memItemLeft" align="right" valign="top"><a id="a4ae97c491cb884fa89c7effd3e2bbf1b"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableShadow</b>: 1</td></tr>
-<tr class="separator:a4ae97c491cb884fa89c7effd3e2bbf1b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a02e9f1e1e9f004a9ca957e47b4e3e3c6"><td class="memItemLeft" align="right" valign="top"><a id="a02e9f1e1e9f004a9ca957e47b4e3e3c6"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a02e9f1e1e9f004a9ca957e47b4e3e3c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a41daf00648b3848519a48dca67254d46"><td class="memItemLeft" align="right" valign="top"><a id="a41daf00648b3848519a48dca67254d46"></a>
-struct <a class="el" href="a31271.html">FDepthFieldGlowInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GlowInfo</b></td></tr>
-<tr class="separator:a41daf00648b3848519a48dca67254d46"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a99deefdaeaa054c8aa0bc836acb85d83"><td class="memItemLeft" align="right" valign="top"><a id="a99deefdaeaa054c8aa0bc836acb85d83"></a>
+class <a class="el" href="a29527.html">UParticleModuleRequired</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>RequiredModule</b></td></tr>
+<tr class="separator:a99deefdaeaa054c8aa0bc836acb85d83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:accac90a99dcee17bd5d43e0098c28635"><td class="memItemLeft" align="right" valign="top"><a id="accac90a99dcee17bd5d43e0098c28635"></a>
+class <a class="el" href="a29623.html">UParticleModuleSpawn</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnModule</b></td></tr>
+<tr class="separator:accac90a99dcee17bd5d43e0098c28635"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4be02fd410e09513fe8e2429e286542d"><td class="memItemLeft" align="right" valign="top"><a id="a4be02fd410e09513fe8e2429e286542d"></a>
+class <a class="el" href="a29627.html">UParticleModuleSpawnPerUnit</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnPerUnitModule</b></td></tr>
+<tr class="separator:a4be02fd410e09513fe8e2429e286542d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82feccb3d1f5ee9d5acde40bf9966173"><td class="memItemLeft" align="right" valign="top"><a id="a82feccb3d1f5ee9d5acde40bf9966173"></a>
+class <a class="el" href="a29631.html">UParticleModuleSpawnRepeatPerPoint</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnRepeatPerPointModule</b></td></tr>
+<tr class="separator:a82feccb3d1f5ee9d5acde40bf9966173"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b653ee8bb55e8006af4e0c4d95a742e"><td class="memItemLeft" align="right" valign="top"><a id="a7b653ee8bb55e8006af4e0c4d95a742e"></a>
+class <a class="el" href="a28047.html">UParticleComputeShaderData</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ParticleComputeData</b></td></tr>
+<tr class="separator:a7b653ee8bb55e8006af4e0c4d95a742e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae054e9fd391b59a31742500f61700c50"><td class="memItemLeft" align="right" valign="top"><a id="ae054e9fd391b59a31742500f61700c50"></a>
+class <a class="el" href="a29519.html">UParticleModuleParametersOverVelocity</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ParametersOverVelocity</b></td></tr>
+<tr class="separator:ae054e9fd391b59a31742500f61700c50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72d1fb3dd9ad64f88ca5f679d0e6367e"><td class="memItemLeft" align="right" valign="top"><a id="a72d1fb3dd9ad64f88ca5f679d0e6367e"></a>
+class <a class="el" href="a29515.html">UParticleModuleParametersOverCustom</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ParametersOverCustom</b></td></tr>
+<tr class="separator:a72d1fb3dd9ad64f88ca5f679d0e6367e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c502cc21ec586ada230b69676751dfd"><td class="memItemLeft" align="right" valign="top"><a id="a3c502cc21ec586ada230b69676751dfd"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a29219.html">UParticleModule</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnModules</b></td></tr>
+<tr class="separator:a3c502cc21ec586ada230b69676751dfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca5b76efd111a44b5ad9254e534e8efa"><td class="memItemLeft" align="right" valign="top"><a id="aca5b76efd111a44b5ad9254e534e8efa"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
+<tr class="separator:aca5b76efd111a44b5ad9254e534e8efa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3770c15060c1fe2a953d0131ca00171"><td class="memItemLeft" align="right" valign="top"><a id="ab3770c15060c1fe2a953d0131ca00171"></a>
+struct <a class="el" href="a31267.html">FGPUSpriteLocalVectorFieldInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LocalVectorField</b></td></tr>
+<tr class="separator:ab3770c15060c1fe2a953d0131ca00171"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0510652ee2f523fccf7017260ee24ac3"><td class="memItemLeft" align="right" valign="top"><a id="a0510652ee2f523fccf7017260ee24ac3"></a>
+struct <a class="el" href="a31271.html">FFloatDistribution</a>&#160;</td><td class="memItemRight" valign="bottom"><b>VectorFieldScale</b></td></tr>
+<tr class="separator:a0510652ee2f523fccf7017260ee24ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abaf795ec4ed679a00e6d7148e1f2a575"><td class="memItemLeft" align="right" valign="top"><a id="abaf795ec4ed679a00e6d7148e1f2a575"></a>
+struct <a class="el" href="a31271.html">FFloatDistribution</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DragCoefficient</b></td></tr>
+<tr class="separator:abaf795ec4ed679a00e6d7148e1f2a575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b9ed5f479467a55f232983fc38d6351"><td class="memItemLeft" align="right" valign="top"><a id="a2b9ed5f479467a55f232983fc38d6351"></a>
+struct <a class="el" href="a31271.html">FFloatDistribution</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DragLocalVelocityCoefficient</b></td></tr>
+<tr class="separator:a2b9ed5f479467a55f232983fc38d6351"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3e6ffb2e6fc899ac93d951fccee9e20"><td class="memItemLeft" align="right" valign="top"><a id="ae3e6ffb2e6fc899ac93d951fccee9e20"></a>
+struct <a class="el" href="a31271.html">FFloatDistribution</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PointAttractorStrength</b></td></tr>
+<tr class="separator:ae3e6ffb2e6fc899ac93d951fccee9e20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a916b57e4cc7aa51f922c2033510a955d"><td class="memItemLeft" align="right" valign="top"><a id="a916b57e4cc7aa51f922c2033510a955d"></a>
+struct <a class="el" href="a31271.html">FFloatDistribution</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Resilience</b></td></tr>
+<tr class="separator:a916b57e4cc7aa51f922c2033510a955d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e5403d287e6f0f16081046e8bde38df"><td class="memItemLeft" align="right" valign="top"><a id="a1e5403d287e6f0f16081046e8bde38df"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ConstantAcceleration</b></td></tr>
+<tr class="separator:a1e5403d287e6f0f16081046e8bde38df"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d60205d1c83e3d086d09c0d781998e2"><td class="memItemLeft" align="right" valign="top"><a id="a5d60205d1c83e3d086d09c0d781998e2"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PointAttractorPosition</b></td></tr>
+<tr class="separator:a5d60205d1c83e3d086d09c0d781998e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4932c727e07e4519dbc059335346f631"><td class="memItemLeft" align="right" valign="top"><a id="a4932c727e07e4519dbc059335346f631"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PointAttractorRadiusSq</b></td></tr>
+<tr class="separator:a4932c727e07e4519dbc059335346f631"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61a40c65720ff7305e1ba2d9ab8bf189"><td class="memItemLeft" align="right" valign="top"><a id="a61a40c65720ff7305e1ba2d9ab8bf189"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>OrbitOffsetBase</b></td></tr>
+<tr class="separator:a61a40c65720ff7305e1ba2d9ab8bf189"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7be1d5aa44292fc1aba1f436b71a3296"><td class="memItemLeft" align="right" valign="top"><a id="a7be1d5aa44292fc1aba1f436b71a3296"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>OrbitOffsetRange</b></td></tr>
+<tr class="separator:a7be1d5aa44292fc1aba1f436b71a3296"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6eb8222829e866ebcad942e0f2f8dd8"><td class="memItemLeft" align="right" valign="top"><a id="aa6eb8222829e866ebcad942e0f2f8dd8"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InvMaxSize</b></td></tr>
+<tr class="separator:aa6eb8222829e866ebcad942e0f2f8dd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0632f31221c20db0fdad3f3c53c54715"><td class="memItemLeft" align="right" valign="top"><a id="a0632f31221c20db0fdad3f3c53c54715"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>InvRotationRateScale</b></td></tr>
+<tr class="separator:a0632f31221c20db0fdad3f3c53c54715"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a929ebcc1a8997463795a1bf0a2a78420"><td class="memItemLeft" align="right" valign="top"><a id="a929ebcc1a8997463795a1bf0a2a78420"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxLifetime</b></td></tr>
+<tr class="separator:a929ebcc1a8997463795a1bf0a2a78420"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bee20cec2943740cee6537f6c6c804e"><td class="memItemLeft" align="right" valign="top"><a id="a6bee20cec2943740cee6537f6c6c804e"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxParticleCount</b></td></tr>
+<tr class="separator:a6bee20cec2943740cee6537f6c6c804e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3eb030a86bfa905e7c543920c8586a0a"><td class="memItemLeft" align="right" valign="top"><a id="a3eb030a86bfa905e7c543920c8586a0a"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EParticleScreenAlignment &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ScreenAlignment</b></td></tr>
+<tr class="separator:a3eb030a86bfa905e7c543920c8586a0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90fa943ffcd16034b06e7da8538e97bd"><td class="memItemLeft" align="right" valign="top"><a id="a90fa943ffcd16034b06e7da8538e97bd"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EParticleAxisLock &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>LockAxisFlag</b></td></tr>
+<tr class="separator:a90fa943ffcd16034b06e7da8538e97bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60c5c2f3e24e3c6c54543af1ec2ce220"><td class="memItemLeft" align="right" valign="top"><a id="a60c5c2f3e24e3c6c54543af1ec2ce220"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x2]</td></tr>
+<tr class="separator:a60c5c2f3e24e3c6c54543af1ec2ce220"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6a7ecdfd3117241c614c1c18c1ddd9e"><td class="memItemLeft" align="right" valign="top"><a id="ab6a7ecdfd3117241c614c1c18c1ddd9e"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableCollision</b>: 1</td></tr>
+<tr class="separator:ab6a7ecdfd3117241c614c1c18c1ddd9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e8cdbc87a8ab2268ebb13796843947a"><td class="memItemLeft" align="right" valign="top"><a id="a8e8cdbc87a8ab2268ebb13796843947a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNeedsVectorFields</b>: 1</td></tr>
+<tr class="separator:a8e8cdbc87a8ab2268ebb13796843947a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a476de75674112fd6da2085146e5af1c3"><td class="memItemLeft" align="right" valign="top"><a id="a476de75674112fd6da2085146e5af1c3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOpacitySpawnsOnCPU</b>: 1</td></tr>
+<tr class="separator:a476de75674112fd6da2085146e5af1c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a6b53de9d94a29cf5d78f8c8720d77e"><td class="memItemLeft" align="right" valign="top"><a id="a1a6b53de9d94a29cf5d78f8c8720d77e"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bSizeSpawnsOnCPU</b>: 1</td></tr>
+<tr class="separator:a1a6b53de9d94a29cf5d78f8c8720d77e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af4b84af512f524fa4c6c9a44b8efc154"><td class="memItemLeft" align="right" valign="top"><a id="af4b84af512f524fa4c6c9a44b8efc154"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bVelocitySpawnsOnCPU</b>: 1</td></tr>
+<tr class="separator:af4b84af512f524fa4c6c9a44b8efc154"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad648376a4b83173f73ebf531ad46c91d"><td class="memItemLeft" align="right" valign="top"><a id="ad648376a4b83173f73ebf531ad46c91d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIgnoreComponentColorTint</b>: 1</td></tr>
+<tr class="separator:ad648376a4b83173f73ebf531ad46c91d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc5abe9ed8d7e1f25f153eaeb9758602"><td class="memItemLeft" align="right" valign="top"><a id="adc5abe9ed8d7e1f25f153eaeb9758602"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x3]</td></tr>
+<tr class="separator:adc5abe9ed8d7e1f25f153eaeb9758602"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c8d97af8a3c3a13ad5ba5ee0975e964"><td class="memItemLeft" align="right" valign="top"><a id="a2c8d97af8a3c3a13ad5ba5ee0975e964"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EParticleCollisionMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CollisionMode</b></td></tr>
+<tr class="separator:a2c8d97af8a3c3a13ad5ba5ee0975e964"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0eb83482ee54db6b0debaa46f581affa"><td class="memItemLeft" align="right" valign="top"><a id="a0eb83482ee54db6b0debaa46f581affa"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b> [0x7]</td></tr>
+<tr class="separator:a0eb83482ee54db6b0debaa46f581affa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79b298b288a87f66c204ac8eb8f42df5"><td class="memItemLeft" align="right" valign="top"><a id="a79b298b288a87f66c204ac8eb8f42df5"></a>
+struct <a class="el" href="a31227.html">FRawDistributionVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DynamicColor</b></td></tr>
+<tr class="separator:a79b298b288a87f66c204ac8eb8f42df5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85b1f05f17dc665307283d167e1fc5c6"><td class="memItemLeft" align="right" valign="top"><a id="a85b1f05f17dc665307283d167e1fc5c6"></a>
+struct <a class="el" href="a31231.html">FRawDistributionFloat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DynamicAlpha</b></td></tr>
+<tr class="separator:a85b1f05f17dc665307283d167e1fc5c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a506c87f5ae6e3dbb74a548ff5e71427e"><td class="memItemLeft" align="right" valign="top"><a id="a506c87f5ae6e3dbb74a548ff5e71427e"></a>
+struct <a class="el" href="a31227.html">FRawDistributionVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DynamicColorScale</b></td></tr>
+<tr class="separator:a506c87f5ae6e3dbb74a548ff5e71427e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89be8c4480fa5752508a4ca3763e9c6a"><td class="memItemLeft" align="right" valign="top"><a id="a89be8c4480fa5752508a4ca3763e9c6a"></a>
+struct <a class="el" href="a31231.html">FRawDistributionFloat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>DynamicAlphaScale</b></td></tr>
+<tr class="separator:a89be8c4480fa5752508a4ca3763e9c6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36ee4bc03fd5d8057e01631bccad599f"><td class="memItemLeft" align="right" valign="top"><a id="a36ee4bc03fd5d8057e01631bccad599f"></a>
+struct <a class="el" href="a26291.html">FVector4</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MurkyColorScale</b></td></tr>
+<tr class="separator:a36ee4bc03fd5d8057e01631bccad599f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abca51d923b3cc20b98b03e1fd95ee6d8"><td class="memItemLeft" align="right" valign="top"><a id="abca51d923b3cc20b98b03e1fd95ee6d8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b> [0x10]</td></tr>
+<tr class="separator:abca51d923b3cc20b98b03e1fd95ee6d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31275.html">FFontRenderInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:24 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31275.html">FGPUSpriteEmitterInfo</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:39 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

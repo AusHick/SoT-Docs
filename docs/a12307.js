@@ -1,8 +1,11 @@
 var a12307 =
 [
-    [ "StaticClass", "a12307.html#a8c9e882b81ef69daa38442e53027cc77", null ],
-    [ "ChanceOfForwardTimeStep", "a12307.html#af95c0b93db3b05c0c2513fea3fbaf3d2", null ],
-    [ "StaticTimeOffsetBounds", "a12307.html#a0dd3fdd6be19f97cb23383dffdd8eedb", null ],
-    [ "StormCheckRadius", "a12307.html#aff1bf502cdcfb6340efe5ec110bfa38a", null ],
-    [ "StormParams", "a12307.html#a7e78a38d05335613e72fa3e64dcea348", null ]
+    [ "StaticClass", "a12307.html#a375e751cba2a7c09973693c286c3d8b3", null ],
+    [ "AllowedInteractableTypes", "a12307.html#ac085361e2c6683d2f6b04b6e096230d7", null ],
+    [ "AutoEnableAfterDisable", "a12307.html#a9d3e572e9697841c73811011059b3483", null ],
+    [ "DelayBeforeActivation", "a12307.html#a6178cabf071cf265ec244347d6411916", null ],
+    [ "DisableAfterActivation", "a12307.html#a2abc69b454c1ed3c741925cac57cd894", null ],
+    [ "TimeAfterDisableBeforeAutoEnable", "a12307.html#a2b4cbc7ed5d274be974ee55f90dbc2aa", null ],
+    [ "UnknownData00", "a12307.html#ae0a21e692fe278ee45a819bb1e8d473d", null ],
+    [ "UnknownData01", "a12307.html#a6ecbc0b0bc507bcd2dd12f92e178a2e4", null ]
 ];

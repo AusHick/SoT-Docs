@@ -1,6 +1,12 @@
 var a34747 =
 [
-    [ "Descriptor", "a34747.html#a9294f56943aa6e7cc7b801be0abf4bb0", null ],
-    [ "Type", "a34747.html#a1a85c38070edfca464487b3755bec5ce", null ],
-    [ "UnknownData00", "a34747.html#aa4141737186f8c77995d48f4e81aa051", null ]
+    [ "DraggedThumbImage", "a34747.html#aed226a9bbc96ec8380a85dd1fa3bc8ee", null ],
+    [ "HorizontalBackgroundImage", "a34747.html#a00c398a600af4a3a5a6a84cb041c67a3", null ],
+    [ "HorizontalBottomSlotImage", "a34747.html#ab9f31412de0484b2c362ec32153ec640", null ],
+    [ "HorizontalTopSlotImage", "a34747.html#aed67c83456deadaecdf7ea2a4215ba42", null ],
+    [ "HoveredThumbImage", "a34747.html#a7098a47f332aa7b450d57dbb286b28a4", null ],
+    [ "NormalThumbImage", "a34747.html#a79e35d8b73797abffaa8a2c20a19bd9e", null ],
+    [ "VerticalBackgroundImage", "a34747.html#a7bb9bed987b91d6041da95fec39f60cc", null ],
+    [ "VerticalBottomSlotImage", "a34747.html#a97feecbcbaf453547fcf1f5f8d4541f5", null ],
+    [ "VerticalTopSlotImage", "a34747.html#afb5dcdd154b692d6eff14ec0088e5b75", null ]
 ];

@@ -1,6 +1,6 @@
 var a35991 =
 [
-    [ "StaticClass", "a35991.html#a076a932f699e228f6add1ebb92443fdc", null ],
-    [ "UnknownData00", "a35991.html#abb7f2d0cf8a2abdda775140f7b3c8154", null ],
-    [ "WindZones", "a35991.html#a5248c80fef674ad2801e738b0a634c87", null ]
+    [ "BuoyancyScaleCurve", "a35991.html#a07fd5b15d16cba3582df33a60b649168", null ],
+    [ "SampleOffset", "a35991.html#a9e57a51225f1d998b3bc50a20763fbd2", null ],
+    [ "UnknownData00", "a35991.html#ad0c5926edfb3f3e705596308419c7159", null ]
 ];

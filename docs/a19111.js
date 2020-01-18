@@ -1,7 +1,6 @@
 var a19111 =
 [
-    [ "PreserveSession", "a19111.html#a00e44ac25598b046807e2a8631f1c2ed", null ],
-    [ "ResubmitTicket", "a19111.html#ad298973a93e1b439560aa5cb0e923473", null ],
-    [ "TimeoutSeconds", "a19111.html#a60e2dc0af43680ee21ad3a91486cea48", null ],
-    [ "UnknownData00", "a19111.html#a95ad43e231bba8900866f2b30edc9f41", null ]
+    [ "BootyId", "a19111.html#a2ad24169dd6935be4676621a1816a725", null ],
+    [ "CompanyId", "a19111.html#a59362870e8f16c26ce68b96ae9abec65", null ],
+    [ "XpAmount", "a19111.html#a70d5c749b62af4f31dd46543d6170fcd", null ]
 ];

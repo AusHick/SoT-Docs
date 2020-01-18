@@ -1,5 +1,5 @@
 var a32415 =
 [
-    [ "Service", "a32415.html#aeb07a9edebb464a5a1ebd56d13a6a465", null ],
-    [ "UnknownData00", "a32415.html#a318532b5560ea437039002824efb7c9b", null ]
+    [ "ParticleSpawnLODs", "a32415.html#a297838115d45c04da691e360609213a9", null ],
+    [ "UnknownData00", "a32415.html#a87ba91dfe51a9f941c4ec708c73fae97", null ]
 ];

@@ -1,8 +1,26 @@
 var a32639 =
 [
-    [ "StaticClass", "a32639.html#a64c47484e03cc028b29822d45eae3cca", null ],
-    [ "KnockbackDirection", "a32639.html#a0496da4614c3aa2097dda6bfa6f20777", null ],
-    [ "KnockbackParams", "a32639.html#ae0c7910af6136d42b700c9f78085c31b", null ],
-    [ "KnockbackTime", "a32639.html#a3ece92f7c06d766526f09cb7c4c930e6", null ],
-    [ "UnknownData00", "a32639.html#a87d7eca7bda44caff5b947526ea69f77", null ]
+    [ "GetBoxExtent", "a32639.html#af6ec9a754c525a324ac6ed8cb9c82f03", null ],
+    [ "GetBoxOrigin", "a32639.html#ab11f5ab93e69cce15cc638139004b000", null ],
+    [ "GetBoxSphereRadius", "a32639.html#a478e56a4fa2c7a66b0e159dd88cc0c24", null ],
+    [ "GetBoxWorldOrigin", "a32639.html#aca0f34e7f963e37211b7ca84726c3fa1", null ],
+    [ "GetInteractableArea", "a32639.html#a04d118cbb325cd2e288e1757eb6b6937", null ],
+    [ "SetBoxExtent", "a32639.html#a686277ca5dd1706a60df2a9c133fed72", null ],
+    [ "SetBoxOrigin", "a32639.html#a57037ee127021c727ec055314676f28b", null ],
+    [ "StaticClass", "a32639.html#a4ae905ff86d721271ec1777b24f83dc5", null ],
+    [ "BoxExtent", "a32639.html#ae49d7256657425a2e35b23503df1326d", null ],
+    [ "BoxOrigin", "a32639.html#a1a563213990b09cbeef08a7faba00b34", null ],
+    [ "BoxRotation", "a32639.html#a9e11defc1c1c9b9574fb83ddffd4aa75", null ],
+    [ "CurrentInteractionState", "a32639.html#affa486fadf7b290ffad3329c2c530a51", null ],
+    [ "FeatureFlag", "a32639.html#a198cb2bbb3fbfdf7534b282d23387486", null ],
+    [ "InteractableArea", "a32639.html#a4d32416573c693497a081b3528705318", null ],
+    [ "MayBeGrouped", "a32639.html#a917670142fa583db171deb532705206f", null ],
+    [ "ProxyForActorInteraction", "a32639.html#a3c0bbb1ffb4da50d7f23ba6682f02bcf", null ],
+    [ "RequiresFacingFront", "a32639.html#a6bb0a0c18a6c4e7425f760862ab21fef", null ],
+    [ "RequiresNotAirborne", "a32639.html#a20343c610babde08b09dd1197be6f54c", null ],
+    [ "RequiresNotSwimming", "a32639.html#a6576a5e7918ef005cf00299da38650f1", null ],
+    [ "UnknownData00", "a32639.html#a38a31c3c984d941e27e58393184f0a4d", null ],
+    [ "UnknownData01", "a32639.html#a4a6cc02af72910297fc9c5da3366b648", null ],
+    [ "UnknownData02", "a32639.html#ac7cda3598bd7d5b37450ce2184c6e5f6", null ],
+    [ "UnknownData03", "a32639.html#a4af70ead63e3b2ed3365c07fad1c2c63", null ]
 ];

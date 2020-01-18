@@ -1,10 +1,8 @@
 var a13659 =
 [
-    [ "AnticipationRanges", "a13659.html#aa0416c4b91dd1346fd6c2a11bb30ac0c", null ],
-    [ "ArenaStrainUpperBound", "a13659.html#aedd76e878ffade4e7e944a571fe154ac", null ],
-    [ "BottomDeckWeight", "a13659.html#aa5dd93fe30544d5fe1c4c3003bd6ffa1", null ],
-    [ "DamageRanges", "a13659.html#a5ccdf48d70f20932a11417e38058c08f", null ],
-    [ "ExistingHoleWeight", "a13659.html#a3434ed0ffa035c7d1b129f6c2814326c", null ],
-    [ "MinMaxRanges", "a13659.html#a60478d4d947b94c2ba1f63a68f871129", null ],
-    [ "StrainUpperBound", "a13659.html#ad1480c613e4e674dc386267d712f53d4", null ]
+    [ "InnerRadius", "a13659.html#a5c963c5383c46ac924b0f890e8edfb4e", null ],
+    [ "OuterRadius", "a13659.html#aacf11717f31321727408aa4f0e46ab41", null ],
+    [ "PriorityLayer", "a13659.html#ada2c4d365d829359f8837184551b930d", null ],
+    [ "TargetLightingIndex", "a13659.html#ade1b75551580ce19ab2eb274d8990a46", null ],
+    [ "Weight", "a13659.html#ada5474980a6330394452b5cf12262f68", null ]
 ];

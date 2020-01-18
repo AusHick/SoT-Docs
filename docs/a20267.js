@@ -1,4 +1,4 @@
 var a20267 =
 [
-    [ "HideoutName", "a20267.html#a1b21df6bfa7b464431a83dca6726ebd8", null ]
+    [ "TutorialEventControlledObject", "a20267.html#aee7e96193ccffc4e332d5d80f18d4b68", null ]
 ];

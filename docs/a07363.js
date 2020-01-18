@@ -1,12 +1,11 @@
 var a07363 =
 [
-    [ "StaticClass", "a07363.html#ae290b778832c8cd8f3ff5240a1aa79ac", null ],
-    [ "AnimationNameToPlay", "a07363.html#a0fb3c717bf2d3bff099cc64effa3ca06", null ],
-    [ "DialogueData", "a07363.html#a544a423329bc74280b2c2995c7ddcc2b", null ],
-    [ "LocalMusicZone", "a07363.html#a03da609cfe3fd7030c256617e573bae6", null ],
-    [ "PlaceableReaction", "a07363.html#aeb10fcf19b4b769479c8dce5eb31779d", null ],
-    [ "SpeakingActorLocalisableName", "a07363.html#a368248767f3f0a3d48a0e6c274331e99", null ],
-    [ "TargetNpc", "a07363.html#a55c3e7308dd13acb45637a4569206ab4", null ],
-    [ "UnknownData00", "a07363.html#aa21d56366a29fb6a1f7996fbbfb13376", null ],
-    [ "UseServerDrivenDialogue", "a07363.html#a7109e94daf3d0e38978729ca6371a673", null ]
+    [ "StaticClass", "a07363.html#a806b5935a9aecbbb3c01b17c615d8df7", null ],
+    [ "CrewNotificationDataAsset", "a07363.html#aace2bf568dd97417701b4a497d311ee2", null ],
+    [ "NewTitlesAvailableToBuyPopUp", "a07363.html#ac139742d856046b9ed70912af9f60182", null ],
+    [ "PeriodicObjectiveCompletePopUp", "a07363.html#a2e1445888e4d395e47811509220c6c82", null ],
+    [ "PeriodicObjectiveIncompletePopUp", "a07363.html#affd1c48be350c9bbeee7095075feacd0", null ],
+    [ "PioneerRewards", "a07363.html#af72304aabc7dd5a26eb227f6044106df", null ],
+    [ "PrioritisedPrompts", "a07363.html#a22927a3b8b755d796ba578891f3b48ab", null ],
+    [ "UnknownData00", "a07363.html#a25afe6b8904edc3852eaca1d31b41d11", null ]
 ];

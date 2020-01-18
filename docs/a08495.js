@@ -1,6 +1,7 @@
 var a08495 =
 [
-    [ "StaticClass", "a08495.html#ad7d9ae66c74aaf3b5940c5992c9a5152", null ],
-    [ "Duration", "a08495.html#a6922cc56400243f8e90ef63521147721", null ],
-    [ "UnknownData00", "a08495.html#a6349de77c850a432195930fc3c612482", null ]
+    [ "StaticClass", "a08495.html#a71f2ed31c0e1245fcabb441ea91c823a", null ],
+    [ "SourceOfDrunkenness", "a08495.html#aabbc796a97113fbd9c1ab07c450702f4", null ],
+    [ "TargetDrunkenness", "a08495.html#a330fc2eb89e29e5a5f4da75e80e5b318", null ],
+    [ "UnknownData00", "a08495.html#a83bb544bea1e06c3e823099c7db383a3", null ]
 ];

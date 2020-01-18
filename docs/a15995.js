@@ -1,7 +1,9 @@
 var a15995 =
 [
-    [ "Action", "a15995.html#aaff63172fd23c0f96a69a4d9d857ebc3", null ],
-    [ "Idle", "a15995.html#aadbbfbf743440fa51f00b8de2b9550b5", null ],
-    [ "Into", "a15995.html#adc4dfd9a7eaf64331a450b87acf71603", null ],
-    [ "Outof", "a15995.html#a271fb7c1456b201cbfd180f1d00fd5da", null ]
+    [ "BackwardsDragForcePerMPS", "a15995.html#ae25e08a954a317f8b409e95b04e97e2d", null ],
+    [ "ForwardDragForcePerMPS", "a15995.html#a2c3008d7ea5c2e1b783fb547c8feef79", null ],
+    [ "ForwardDragWhenBeached", "a15995.html#a0c7dd05a6581c46112490521c6b4c35e", null ],
+    [ "MaxSailFractionToCountAsFullyUpForDragCalc", "a15995.html#a57ec84f32fa697cb6dbeff51f2db69d6", null ],
+    [ "SidewaysDragCounterForcePerMPS", "a15995.html#a38324157539e41df226a362aeaeb89e7", null ],
+    [ "WaterZoneDragAmp", "a15995.html#a63f05931ee8d0d62fdac1a151ee73fe6", null ]
 ];

@@ -1,6 +1,7 @@
 var a05799 =
 [
-    [ "StaticClass", "a05799.html#a0d6a5739bac0ab20bf377c597c731b0f", null ],
-    [ "IslandData", "a05799.html#aa97dd94359035c3578ccc9d7b7b53403", null ],
-    [ "UnknownData00", "a05799.html#a9c6221002828bdfe0885d6abbf86ea1f", null ]
+    [ "StaticClass", "a05799.html#a45a2ef60a0853ac37d4f72dee5e4815b", null ],
+    [ "FaunaSettings", "a05799.html#a85d82f91757113e1407456e1faaf3029", null ],
+    [ "FaunaSpawners", "a05799.html#ae7a031a4237ac1503fab4b316fec2269", null ],
+    [ "UnknownData00", "a05799.html#a1311985836018b41ffafb4d9f135a885", null ]
 ];

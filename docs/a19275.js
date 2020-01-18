@@ -1,4 +1,4 @@
 var a19275 =
 [
-    [ "AthenaCharacter", "a19275.html#a3a267fc49489ce72df62b82f9638f1dc", null ]
+    [ "DebugShipController", "a19275.html#a0035a4635e5c354c8ec99e0f779f19f4", null ]
 ];

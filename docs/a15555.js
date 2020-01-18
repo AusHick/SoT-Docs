@@ -1,5 +1,30 @@
 var a15555 =
 [
-    [ "AllocatedResourceHandle", "a15555.html#aad6dc1dbca28d690a2550f4ffdac7a2b", null ],
-    [ "MigrationAction", "a15555.html#a048b6a31e8eced7c6bb814a75b25685a", null ]
+    [ "AngryWaterLerpRatio", "a15555.html#aeb464ec87d340cd278e1b9be443d1c83", null ],
+    [ "BaseCloudHeightCurve", "a15555.html#ad00777d28cf5b888361219e86d84d406", null ],
+    [ "BaseCloudMaskCurve", "a15555.html#a4eeed3d8ab4669a157bfb26a697d86e7", null ],
+    [ "BaseCloudScaleCurve", "a15555.html#a4e95451880c655d0c390abd8c61995d6", null ],
+    [ "MaterialMaskPropertyName", "a15555.html#a69718e0924284d5258ec026b49283291", null ],
+    [ "OuterRadiusCurve", "a15555.html#a13a121bd9e3344ac728607320818ce2f", null ],
+    [ "PressureZonePushCurve", "a15555.html#a7e1b722796776f3341141d828787c233", null ],
+    [ "PressureZoneRadiusCurve", "a15555.html#aba9f219b4f285194312571519b1683ad", null ],
+    [ "PressureZoneTargetCurve", "a15555.html#a8beb2ecc9195313b425cd906626ac2f7", null ],
+    [ "PressureZoneWeightCurve", "a15555.html#aa66e54ad7ee52c851a4b05fc34d9b508", null ],
+    [ "RadiusCurve", "a15555.html#ac4c090229346d3cc710ed9f1c13b74f1", null ],
+    [ "RainOpacityPropertyName", "a15555.html#a3d1d50730e1ab23d4558591b6d52c406", null ],
+    [ "RainSheetInnerOpacityCurve", "a15555.html#a43130baf95b69e1749ca1cb1d44c7ada", null ],
+    [ "RainSheetInnerScaleCurve", "a15555.html#ae343652e9a83f221304dda643d117090", null ],
+    [ "RainSheetOuterOpacityCurve", "a15555.html#a287b8e783ea55c144313b692330084d3", null ],
+    [ "RainSheetOuterScaleCurve", "a15555.html#a1ff55c322a8e20b823dbf5ca6ce98ee5", null ],
+    [ "RainStrengthCurve", "a15555.html#adbcbbf504fbc34a117521a69dab4689e", null ],
+    [ "RingCloudHeightCurve", "a15555.html#a663d7d9ddff6ab30334d78124f6a55cf", null ],
+    [ "RingCloudMaskCurve", "a15555.html#a45cb160bfbdd5d0abd6944c691ab4462", null ],
+    [ "RingCloudScaleCurve", "a15555.html#a600f6d71982b7c7fadbb27b63cb422ef", null ],
+    [ "TopCloudHeightCurve", "a15555.html#aab02d79f49cd9e0bb4a443beb94f0892", null ],
+    [ "TopCloudMaskCurve", "a15555.html#aeb8dea4b7eb526378cde976a0eff0ffc", null ],
+    [ "TopCloudScaleCurve", "a15555.html#a7b32b1a99aa54805473851f0a67a411d", null ],
+    [ "UnknownData00", "a15555.html#ae83c55c678b0aae40f285b854d949d3b", null ],
+    [ "WaterStrengthCurve", "a15555.html#a0351c9057c433a05e6b65335c0d2f441", null ],
+    [ "WindInnerRadiusCurve", "a15555.html#ac082d5ce49e76c4cbe73f8a767c01e80", null ],
+    [ "WindStrengthCurve", "a15555.html#af560035eff24047312ab354a80570225", null ]
 ];

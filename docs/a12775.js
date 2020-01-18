@@ -1,7 +1,9 @@
 var a12775 =
 [
-    [ "MainCycleSwimming", "a12775.html#a42064ce62ee1dd1949b50252b7f91581", null ],
-    [ "MainInSwimming", "a12775.html#a77018423cfbbe9911ade9d14b4c496b4", null ],
-    [ "MainOneShotInSwimming", "a12775.html#abfee93472e1ed88e804a370f324573b5", null ],
-    [ "MainOutSwimming", "a12775.html#aac15c71702f9afce531edc0aeb3f3b13", null ]
+    [ "ForwardOffsetInMetres", "a12775.html#a9d0a8d3eb46653eb058636a7de011b15", null ],
+    [ "ForwardOffsetVarianceInMetres", "a12775.html#af2b52c70ebdb702997271d20624933f5", null ],
+    [ "SidewaysOffsetInMetres", "a12775.html#a4ff6e9c22508612e66b7a890ffc363f1", null ],
+    [ "SidewaysOffsetVarianceInMetres", "a12775.html#a47a61f8c99474e93beb0a836809512ea", null ],
+    [ "UnknownData00", "a12775.html#ad02d6a60f8a8a7310de76412683fba88", null ],
+    [ "UnknownData01", "a12775.html#a4f49fd79c7110d3ca4cdb319825126b4", null ]
 ];

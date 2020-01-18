@@ -1,10 +1,7 @@
 var a12819 =
 [
-    [ "MeleeAttack", "a12819.html#a1dd0d97c746f3fd9d6f4f9f93926ff73", null ],
-    [ "MeleeBlocking", "a12819.html#ae6fbc3fd09e85696d00e1b71b97e38ee", null ],
-    [ "MeleeBlockReact", "a12819.html#a98cba26c4b8d5652de89392c70a33253", null ],
-    [ "PrimaryContinuous", "a12819.html#a94cdd4e1f85ce3be637f60e3ff4eb217", null ],
-    [ "PrimaryOneShot", "a12819.html#a81611c04fcd40cbd978e7ee0a45146dc", null ],
-    [ "SecondaryContinuous", "a12819.html#a062296c346cb7b42a705fe8c98f1e1ae", null ],
-    [ "SecondaryOneShot", "a12819.html#a99151f556ee14cef41ccc246b861a27c", null ]
+    [ "AllianceId", "a12819.html#a72314189d18ebfc2f7f5c44cfbae99d8", null ],
+    [ "AllianceIndex", "a12819.html#a0c549d99128fad890c6b597beb5a29ee", null ],
+    [ "Crews", "a12819.html#ab2f675598bd8e103c09833d4025983b4", null ],
+    [ "UnknownData00", "a12819.html#aa7d98ba3047c4f69711d586aece30d19", null ]
 ];

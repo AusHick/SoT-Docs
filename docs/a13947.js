@@ -1,9 +1,8 @@
 var a13947 =
 [
-    [ "AudioEvents", "a13947.html#a143d21ac62df0c5168d1b44bd1408fe4", null ],
-    [ "NPCMessageToAllPlayers", "a13947.html#a0bf98ce9a3e166ef04589b45603d15e6", null ],
-    [ "NPCName", "a13947.html#a6aee294ae75afbc8b822d640714510ff", null ],
-    [ "SpecialEvents", "a13947.html#a8b8e9da40ebcaa092560d2d621d51d70", null ],
-    [ "TimeToEvent", "a13947.html#a2b5f1ea71e7de3ef3008a17492547ac7", null ],
-    [ "UnknownData00", "a13947.html#ae77204dd4f9757c921d32fe58ee2993d", null ]
+    [ "HasBeenActivated", "a13947.html#aa59b4a2003b388b8a9327749dba6bf76", null ],
+    [ "RageValue", "a13947.html#a1f2a44c223c8e0b5054d06947bd8b537", null ],
+    [ "State", "a13947.html#a8cfaaf3ad1dbf9b7525a1cbb70993782", null ],
+    [ "UnknownData00", "a13947.html#a9669d109329b5979dccc34d21a173b64", null ],
+    [ "UnknownData01", "a13947.html#a6f6639e86a9e92cc032d1a70f83b8813", null ]
 ];

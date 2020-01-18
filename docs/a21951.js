@@ -1,6 +1,6 @@
 var a21951 =
 [
-    [ "Context", "a21951.html#af46f8af2b7a0a8e1d0784819e873eaea", null ],
-    [ "Description", "a21951.html#a23cce2cf825440231ac61564bec108ac", null ],
-    [ "TaskId", "a21951.html#a7c4fb5232a1d96bb0bde9f315f184ec5", null ]
+    [ "CrewId", "a21951.html#adb935247f374065f29b37cd1e15c3352", null ],
+    [ "DoNotNotifyParticipantsOnVoyageComplete", "a21951.html#a6b74befb039ece125a1e3cadd755e5a5", null ],
+    [ "UnknownData00", "a21951.html#a5d7b04c6145cc3671550bee2ae52fc53", null ]
 ];

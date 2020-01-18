@@ -1,8 +1,16 @@
 var a18255 =
 [
-    [ "DamagerType", "a18255.html#a3befaadaa886008de93d74a1e6d03230", null ],
-    [ "Effects", "a18255.html#a996259c372ddac106ccaf2f5116458cc", null ],
-    [ "HitCount", "a18255.html#ac1cb22157a54fd5d7de15d35c12fe12c", null ],
-    [ "HitResult", "a18255.html#abbdd69fe3c5d3842f2c1c97420a4e8d4", null ],
-    [ "InitialShootingPosition", "a18255.html#ab8a9f65f12d3d3d0c98284fc2fa290ed", null ]
+    [ "AccentUrl", "a18255.html#a3731c2e20e2de5c564c983e719fddf74", null ],
+    [ "BundleSetView", "a18255.html#a88009c24ad382e7f59e5454af6485f5f", null ],
+    [ "CardsView", "a18255.html#a9090220c02519d5c97711640823ee408", null ],
+    [ "Cost", "a18255.html#ab5b29ca0dee6ca9737bd41d60b110591", null ],
+    [ "Description", "a18255.html#af77067769d2ff81a9fbabb4b808880ef", null ],
+    [ "Image", "a18255.html#a1252ca2aa15e503b50d94aa21e9c01db", null ],
+    [ "ItemsSetView", "a18255.html#a8cec03a16baec86cff27c79d3437c044", null ],
+    [ "ItemView", "a18255.html#a97e610c9b9c15e5f08c6f9f9a3d2bde5", null ],
+    [ "Owned", "a18255.html#aaeba323e0a878c9040d2ee4df7c69da1", null ],
+    [ "Size", "a18255.html#a0e1c5c2c7beba96bda0f448f9dc1ae68", null ],
+    [ "TimeLimited", "a18255.html#abbebb36eb3806959a54d9c742a110f33", null ],
+    [ "Title", "a18255.html#aac16a11bcce95332ea027132be792ff9", null ],
+    [ "Type", "a18255.html#ad63789c726535a09631043ecd68dff6d", null ]
 ];

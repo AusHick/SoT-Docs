@@ -1,6 +1,5 @@
 var a08867 =
 [
-    [ "StaticClass", "a08867.html#a4bb239ae791e2806bd77f1de729451bc", null ],
-    [ "GiveToolsOnStart", "a08867.html#a70887b4f6f64b18e8208eee7df247fec", null ],
-    [ "UnknownData00", "a08867.html#a1fecbc4b1d3536c4e3aba46f5430b4cf", null ]
+    [ "StaticClass", "a08867.html#adc69bbf72629302b8619e253d63a39c8", null ],
+    [ "WoodenPlankDesc", "a08867.html#af86a0f039b8542843b24d6c0e4a65c6e", null ]
 ];

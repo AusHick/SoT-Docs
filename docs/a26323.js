@@ -1,5 +1,6 @@
 var a26323 =
 [
-    [ "EmoteDuration", "a26323.html#adf3e22ada2656cc8545fd6dfb633b7aa", null ],
-    [ "EmoteName", "a26323.html#a2df667ac8af3302d9b7baeb01ee8e78c", null ]
+    [ "X", "a26323.html#af5439b2810eab17512799dc7cf9f51bf", null ],
+    [ "Y", "a26323.html#a7d81126dca464115bf759c02893936d6", null ],
+    [ "Z", "a26323.html#ab7b7ed865bf80b813872ffb5e45d1f47", null ]
 ];

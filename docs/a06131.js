@@ -1,6 +1,6 @@
 var a06131 =
 [
-    [ "StaticClass", "a06131.html#a82b641ef644e94b7fa838392a0136790", null ],
-    [ "RunLocation", "a06131.html#ad1208e4d41e9a2ab063831569a1a792d", null ],
-    [ "UnknownData00", "a06131.html#a4bd28bea7df12cd09ea8c59abc8a6cb7", null ]
+    [ "StaticClass", "a06131.html#a22318f713403a98acf1261aceacde8e1", null ],
+    [ "LastHealthChangeReason", "a06131.html#a5100d5fedeb71d89712466e283a71ae1", null ],
+    [ "UnknownData00", "a06131.html#a0bdeb50107ddaa021469ec991ff49b85", null ]
 ];

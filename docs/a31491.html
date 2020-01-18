@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBoneMirrorExport Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FDepthFieldGlowInfo Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,42 @@ $(document).ready(function(){initNavTree('a31491.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31488.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBoneMirrorExport Struct Reference</div>  </div>
+<div class="title">SDK::FDepthFieldGlowInfo Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBoneMirrorExport:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDepthFieldGlowInfo:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31489.svg" width="478" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a31489.svg" width="410" height="360"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af3a4f68fa0345e677d8b7de2a4d09d6f"><td class="memItemLeft" align="right" valign="top"><a id="af3a4f68fa0345e677d8b7de2a4d09d6f"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BoneName</b></td></tr>
-<tr class="separator:af3a4f68fa0345e677d8b7de2a4d09d6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7dda0c3753728b528de4bc43d1154ad0"><td class="memItemLeft" align="right" valign="top"><a id="a7dda0c3753728b528de4bc43d1154ad0"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SourceBoneName</b></td></tr>
-<tr class="separator:a7dda0c3753728b528de4bc43d1154ad0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49c4a4dcfe96813029a5e93faacd6837"><td class="memItemLeft" align="right" valign="top"><a id="a49c4a4dcfe96813029a5e93faacd6837"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EAxis &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>BoneFlipAxis</b></td></tr>
-<tr class="separator:a49c4a4dcfe96813029a5e93faacd6837"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adaa04a55b5a4168e6269a25e5a759cc3"><td class="memItemLeft" align="right" valign="top"><a id="adaa04a55b5a4168e6269a25e5a759cc3"></a>
+<tr class="memitem:a1237c5ee37ab2ed7f06900a0cef18289"><td class="memItemLeft" align="right" valign="top"><a id="a1237c5ee37ab2ed7f06900a0cef18289"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableGlow</b>: 1</td></tr>
+<tr class="separator:a1237c5ee37ab2ed7f06900a0cef18289"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22418edb8fa0576e9d2b2e530c1dbfdd"><td class="memItemLeft" align="right" valign="top"><a id="a22418edb8fa0576e9d2b2e530c1dbfdd"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:adaa04a55b5a4168e6269a25e5a759cc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a22418edb8fa0576e9d2b2e530c1dbfdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4e1f6b8f2338acb191e94a70a9f9f4d"><td class="memItemLeft" align="right" valign="top"><a id="aa4e1f6b8f2338acb191e94a70a9f9f4d"></a>
+struct <a class="el" href="a26331.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GlowColor</b></td></tr>
+<tr class="separator:aa4e1f6b8f2338acb191e94a70a9f9f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0b6a21fab78939adde15247597dd630"><td class="memItemLeft" align="right" valign="top"><a id="ae0b6a21fab78939adde15247597dd630"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GlowOuterRadius</b></td></tr>
+<tr class="separator:ae0b6a21fab78939adde15247597dd630"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8dfc3d798a6f995d5d64b8b4e9fbddf3"><td class="memItemLeft" align="right" valign="top"><a id="a8dfc3d798a6f995d5d64b8b4e9fbddf3"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GlowInnerRadius</b></td></tr>
+<tr class="separator:a8dfc3d798a6f995d5d64b8b4e9fbddf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31491.html">FBoneMirrorExport</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31491.html">FDepthFieldGlowInfo</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:35 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

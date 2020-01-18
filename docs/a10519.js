@@ -1,8 +1,8 @@
 var a10519 =
 [
-    [ "StaticClass", "a10519.html#aa62daa81f6583d404a11cace0a33a147", null ],
-    [ "RewardDestination", "a10519.html#a8a036e41ded9521f76641c7f1c378106", null ],
-    [ "RewardDistribution", "a10519.html#add00ba839666bd632b173eb94a54ecc7", null ],
-    [ "UnknownData00", "a10519.html#abc19480ae0b2907c14e6c801382baf0f", null ],
-    [ "UnknownData01", "a10519.html#a980f526e5440f6f9c6b3ff42c0b8aa22", null ]
+    [ "GetValidWaterHeightAtomic", "a10519.html#aefd7f18115a904661ea8175bcaca1a98", null ],
+    [ "GetWaterHeight", "a10519.html#a5a4bfb5f405beab63011882b028bd63e", null ],
+    [ "HasValidWaterHeight", "a10519.html#ac734a7684bec5d71316ded82ae2a38c2", null ],
+    [ "StaticClass", "a10519.html#aab87524d27aabf63dde5d1d570b50892", null ],
+    [ "UnknownData00", "a10519.html#a0a9fb582f6d38dcdba4fe54059c95ef9", null ]
 ];

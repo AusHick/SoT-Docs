@@ -1,10 +1,13 @@
 var a15567 =
 [
-    [ "IsEmergent", "a15567.html#ae6e58abb6d0235abd6e56049334dd681", null ],
-    [ "IslandName", "a15567.html#a208658c451d655fc6112042a4a34c3ca", null ],
-    [ "OverrideTreasureMapItemDesc", "a15567.html#ab04396b64ab349465c932be60c955063", null ],
-    [ "Title", "a15567.html#a150d17fc0d6ecbed3cd1f060139023ed", null ],
-    [ "UnknownData00", "a15567.html#a35142ca6cb14699ccef109d038014df9", null ],
-    [ "UnknownData01", "a15567.html#ae2fb932161c9ea3515d15c768e4a50fd", null ],
-    [ "UnknownData02", "a15567.html#ab236ee38024ecac0495c0a4455960b76", null ]
+    [ "ApplyStunAnim", "a15567.html#a3a3f179529b119cbf9c369652251e94a", null ],
+    [ "DamagerType", "a15567.html#ac4d4f40139d06bf02a344976ee579b4f", null ],
+    [ "DurationType", "a15567.html#aa2ac1c3dd986f27f25e75c28ff8239f2", null ],
+    [ "InterruptMeleeAttacks", "a15567.html#ae4d85dc3019e2caea9dee2fea6dab58a", null ],
+    [ "IsItemWieldingAllowed", "a15567.html#a0a20a4fbf36277d29a1ab9f29b104c26", null ],
+    [ "LockCameraMovement", "a15567.html#a8e6f3806e11b6c38a046f67252066046", null ],
+    [ "StunAnimType", "a15567.html#a821a93967089a45e7ae1639f304dcc86", null ],
+    [ "StunDuration", "a15567.html#a8453599d340cc990c761a2c214e9f73d", null ],
+    [ "TriggerStunScreenSpaceVFX", "a15567.html#a23b8bccfed5d69269d7ea46f463b62ff", null ],
+    [ "UnknownData00", "a15567.html#a1e310233173e7abbe122794a56e39b8e", null ]
 ];

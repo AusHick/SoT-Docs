@@ -1,5 +1,7 @@
 var a06711 =
 [
-    [ "StaticClass", "a06711.html#a2d8e476fe4067282f203a82afdebcdb1", null ],
-    [ "Desc", "a06711.html#a61af717fbd6b4ccfdf7801e2b2a5b1f2", null ]
+    [ "StaticClass", "a06711.html#a86252abc0b2dd3be14085b0738566cec", null ],
+    [ "LookupRadiusAroundListener", "a06711.html#aadacf6e69217e762f5fb0f8ae470cbb5", null ],
+    [ "MaxAmountOfRemoteNoiseMakers", "a06711.html#ae53ba0842c242a476c6f928b560a8e76", null ],
+    [ "WwiseFoliagePoolWrappers", "a06711.html#ac2ac0bda49089b57353f6cfc31d8c2ce", null ]
 ];

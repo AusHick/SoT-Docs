@@ -1,5 +1,7 @@
 var a15015 =
 [
-    [ "EmoteIdent", "a15015.html#a227254f237b0605b3f01f8fbaab4e506", null ],
-    [ "EmotePreviewSequence", "a15015.html#a120051e8e4210f7a90524a0e2a6f2123", null ]
+    [ "CrewId", "a15015.html#a30228c01cc8df9ca2dfb42e2acd6c5f0", null ],
+    [ "NetPlayerState", "a15015.html#a6f14735c2200c6da22fb4bf04f7db732", null ],
+    [ "Player", "a15015.html#a07338f3dca80f3ee4eb336f059e8e074", null ],
+    [ "UnknownData00", "a15015.html#a0faf37da333c12a6976ebb9a66f686a2", null ]
 ];

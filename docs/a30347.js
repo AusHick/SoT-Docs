@@ -1,7 +1,19 @@
 var a30347 =
 [
-    [ "CustomLeftRightAxis", "a30347.html#a2eee0d26aa26255d0dd3cacfc6022550", null ],
-    [ "CustomLeftRightBoneName", "a30347.html#a71d094687ef6bde24d5033748894d511", null ],
-    [ "TriangleSorting", "a30347.html#acc89667fda1c5291ea7fd9e48f807d17", null ],
-    [ "UnknownData00", "a30347.html#adbd46fd9b5276c1f7a535556d0afa07e", null ]
+    [ "bAbsoluteLocation", "a30347.html#a4a0476f5a666d165476ec97724c7533d", null ],
+    [ "bDrawShadow", "a30347.html#aa7a8706028c95779978c0f58795942da", null ],
+    [ "bKeepAttachedToActor", "a30347.html#ad46d033f085eb8e86c2a0ab17a1039a5", null ],
+    [ "DebugText", "a30347.html#ae451b941de5631f37282dfc5532be81e", null ],
+    [ "Duration", "a30347.html#a38206a13b571ad2a61f9661ae414e37a", null ],
+    [ "Font", "a30347.html#a2f8fe03346d4b57e241f8f6b13072edd", null ],
+    [ "FontScale", "a30347.html#acf8c0b82a3c6a260a0d0f8c3214f7917", null ],
+    [ "OrigActorLocation", "a30347.html#ad9e7aebbd5e53b54a563faa61b3234ef", null ],
+    [ "SrcActor", "a30347.html#abe9ac256aed36f532fdf0a9e5ada9a74", null ],
+    [ "SrcActorDesiredOffset", "a30347.html#ac6bc7780b9390722344bd6fcacefddf2", null ],
+    [ "SrcActorOffset", "a30347.html#a9bc7ec9abc33b401cfd1f7c115c610d7", null ],
+    [ "TextColor", "a30347.html#a6322339e616a6f53d4d3fafddd428d74", null ],
+    [ "TimeRemaining", "a30347.html#a1f0c7dfa62c61dcea57aa6e5a9f5ff47", null ],
+    [ "UnknownData00", "a30347.html#a9217eaab65aa6fe96c1726f1722062f6", null ],
+    [ "UnknownData01", "a30347.html#ad3435151b20ed9e694d092ba7168eeaf", null ],
+    [ "UnknownData02", "a30347.html#ab80a8a3b52a77102dbf07bf4c49e4af0", null ]
 ];

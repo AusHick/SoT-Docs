@@ -1,7 +1,12 @@
 var a06915 =
 [
-    [ "StaticClass", "a06915.html#ae429dea64df0b6bfa08cfbbf038aadb2", null ],
-    [ "ActorIdx", "a06915.html#a15d321f90469fb2148a1ef04f6072d6a", null ],
-    [ "DialogueState", "a06915.html#a7c7771d70fbb10a0dbfc8bf72f26f498", null ],
-    [ "UnknownData00", "a06915.html#a022c2a364ad2a64d58b329d3eafeb7d4", null ]
+    [ "StaticClass", "a06915.html#a26a6b57113b2802b5820b17d470adb7b", null ],
+    [ "CloseOnExectuted", "a06915.html#a83888f63616ef2083edd6b0a8ee3a3ed", null ],
+    [ "LinkedDialog", "a06915.html#aa7bd8778621d5ec0839c301bf5110a37", null ],
+    [ "RelevantOnServer", "a06915.html#a56f684ecc04d7dc95b44cdcc1fa30791", null ],
+    [ "Text", "a06915.html#aa384412758e9f685849b3646347bd963", null ],
+    [ "TutorialStep", "a06915.html#a293f2c1e15848fef573108cc895b290d", null ],
+    [ "UnknownData00", "a06915.html#a804f6c53225bf0fc62ca2d4e1a771d76", null ],
+    [ "UnknownData01", "a06915.html#a946f0148961f229bdb43f21ca44c828b", null ],
+    [ "UnknownData02", "a06915.html#a636cb11a59e1f345d5035d8764576442", null ]
 ];

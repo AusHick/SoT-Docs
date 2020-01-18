@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCanvasLOD Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FWeaponProjectileEffectParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,51 @@ $(document).ready(function(){initNavTree('a15259.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15256.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCanvasLOD Struct Reference</div>  </div>
+<div class="title">SDK::FWeaponProjectileEffectParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCanvasLOD:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeaponProjectileEffectParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15257.svg" width="636" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15257.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a156e3a67ced083cc58e54c287e79e328"><td class="memItemLeft" align="right" valign="top"><a id="a156e3a67ced083cc58e54c287e79e328"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsCanvasCountLimited</b></td></tr>
-<tr class="separator:a156e3a67ced083cc58e54c287e79e328"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5249993202d11ac83363c9614f799e5"><td class="memItemLeft" align="right" valign="top"><a id="ad5249993202d11ac83363c9614f799e5"></a>
+<tr class="memitem:aabf8c9cb5336d28b7130021d7bc76732"><td class="memItemLeft" align="right" valign="top"><a id="aabf8c9cb5336d28b7130021d7bc76732"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>ApplyStun</b></td></tr>
+<tr class="separator:aabf8c9cb5336d28b7130021d7bc76732"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6275d8720a382f48d0a66aa94c1be934"><td class="memItemLeft" align="right" valign="top"><a id="a6275d8720a382f48d0a66aa94c1be934"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:ad5249993202d11ac83363c9614f799e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a66473ca102bcf7fc347aa89bf63313b8"><td class="memItemLeft" align="right" valign="top"><a id="a66473ca102bcf7fc347aa89bf63313b8"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxNumCanvasesAtThisLOD</b></td></tr>
-<tr class="separator:a66473ca102bcf7fc347aa89bf63313b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a14c663a84f5a9123b79deb9566d102b1"><td class="memItemLeft" align="right" valign="top"><a id="a14c663a84f5a9123b79deb9566d102b1"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ResolutionScaler</b></td></tr>
-<tr class="separator:a14c663a84f5a9123b79deb9566d102b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a6275d8720a382f48d0a66aa94c1be934"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6612eae4be1eaaad8c3293dba0f9ad3a"><td class="memItemLeft" align="right" valign="top"><a id="a6612eae4be1eaaad8c3293dba0f9ad3a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>StunDuration</b></td></tr>
+<tr class="separator:a6612eae4be1eaaad8c3293dba0f9ad3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa317664c5be8724ad43db21af299d37a"><td class="memItemLeft" align="right" valign="top"><a id="aa317664c5be8724ad43db21af299d37a"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>ApplyKnockback</b></td></tr>
+<tr class="separator:aa317664c5be8724ad43db21af299d37a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a314657f348cadef5cc665b77e225edd6"><td class="memItemLeft" align="right" valign="top"><a id="a314657f348cadef5cc665b77e225edd6"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:a314657f348cadef5cc665b77e225edd6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f4ae5976237558000afca576e46108c"><td class="memItemLeft" align="right" valign="top"><a id="a0f4ae5976237558000afca576e46108c"></a>
+struct <a class="el" href="a13291.html">FKnockBackInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><b>KnockbackParams</b></td></tr>
+<tr class="separator:a0f4ae5976237558000afca576e46108c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07fb69703bb0277d4bed81aeb75c8bf0"><td class="memItemLeft" align="right" valign="top"><a id="a07fb69703bb0277d4bed81aeb75c8bf0"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MinimumHitProjectilesForKnockback</b></td></tr>
+<tr class="separator:a07fb69703bb0277d4bed81aeb75c8bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5960ede77cc3fab2a98edc2494f485a7"><td class="memItemLeft" align="right" valign="top"><a id="a5960ede77cc3fab2a98edc2494f485a7"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaximumKnockbackDistance</b></td></tr>
+<tr class="separator:a5960ede77cc3fab2a98edc2494f485a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15259.html">FCanvasLOD</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15259.html">FWeaponProjectileEffectParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:50 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

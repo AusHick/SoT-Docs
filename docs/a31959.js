@@ -1,8 +1,9 @@
 var a31959 =
 [
-    [ "LastSlotNodeInitializationCounter", "a31959.html#a8d997a542939ad8eaf84305b8f98526b", null ],
-    [ "SlotName", "a31959.html#adeff5d4072e196296d0bbc30ecc045bb", null ],
-    [ "Source", "a31959.html#a17d63e605e3c7b6135e6e4a596f9ddf2", null ],
-    [ "UnknownData00", "a31959.html#a9813f6882cf51e7df9d3adc40271d642", null ],
-    [ "UnknownData01", "a31959.html#af4ac6ce56d201242f7ed69d54e3bb70d", null ]
+    [ "CurrentTimeDisplayed", "a31959.html#a3ead75841ae6988f5756544707cfa9a6", null ],
+    [ "DisplayColor", "a31959.html#aed6a475502111f728d9968c8502281cd", null ],
+    [ "Key", "a31959.html#a17b68dc92fd1474e33ebca6b5c82eaeb", null ],
+    [ "ScreenMessage", "a31959.html#ae881149fc85c34ded5ddc5d96d2510d9", null ],
+    [ "TimeToDisplay", "a31959.html#aa811703e930748fd3a34b8fdb4b20cd5", null ],
+    [ "UnknownData00", "a31959.html#a81cf41df5b9969f564166c41454de65f", null ]
 ];

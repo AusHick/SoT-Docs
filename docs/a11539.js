@@ -1,6 +1,6 @@
 var a11539 =
 [
-    [ "StaticClass", "a11539.html#a86f4277d5d4a49ed2740dad3f62d8cdb", null ],
-    [ "RegisteredNameplates", "a11539.html#a600ac5f0bae0efcbc3629cd5711dff7a", null ],
-    [ "UnknownData00", "a11539.html#a72d2dfefa5d336c1f11a1078ee1ff4be", null ]
+    [ "StaticClass", "a11539.html#a3f403d5ad340bb619309ce800bc936b6", null ],
+    [ "AnnouncesOnUI", "a11539.html#abb1363da953cf0cfab94300f839bdcbc", null ],
+    [ "UnknownData00", "a11539.html#a69ca55c74caab80caf4d86c6ee11b3b1", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FDebugFishSelectionSize Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FShipInternalWaterParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,63 @@ $(document).ready(function(){initNavTree('a16207.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a16204.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FDebugFishSelectionSize Struct Reference</div>  </div>
+<div class="title">SDK::FShipInternalWaterParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDebugFishSelectionSize:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FShipInternalWaterParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a16205.svg" width="380" height="398"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a16205.svg" width="428" height="404"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab3c667b5c0be83651e442238f54439a2"><td class="memItemLeft" align="right" valign="top"><a id="ab3c667b5c0be83651e442238f54439a2"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>SizeIndex</b></td></tr>
-<tr class="separator:ab3c667b5c0be83651e442238f54439a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d5307ae1c76bb12c1055edf0d177a04"><td class="memItemLeft" align="right" valign="top"><a id="a2d5307ae1c76bb12c1055edf0d177a04"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
-<tr class="separator:a2d5307ae1c76bb12c1055edf0d177a04"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af76636691e19441a7ed1537e1f4f2161"><td class="memItemLeft" align="right" valign="top"><a id="af76636691e19441a7ed1537e1f4f2161"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FishClass</b></td></tr>
-<tr class="separator:af76636691e19441a7ed1537e1f4f2161"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a86000c07f920167566526772cb38318d"><td class="memItemLeft" align="right" valign="top"><a id="a86000c07f920167566526772cb38318d"></a>
+class <a class="el" href="a27039.html">UCurveFloat</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SloshinessCurve</b></td></tr>
+<tr class="separator:a86000c07f920167566526772cb38318d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e8d58e923c0a853aab2de75b5274134"><td class="memItemLeft" align="right" valign="top"><a id="a8e8d58e923c0a853aab2de75b5274134"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxWaterAmount</b></td></tr>
+<tr class="separator:a8e8d58e923c0a853aab2de75b5274134"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af5af3ec55f120c8f4812aa8b9ea24136"><td class="memItemLeft" align="right" valign="top"><a id="af5af3ec55f120c8f4812aa8b9ea24136"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxWaterHeight</b></td></tr>
+<tr class="separator:af5af3ec55f120c8f4812aa8b9ea24136"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa3434a94c5038957742bfc5ee146c1be"><td class="memItemLeft" align="right" valign="top"><a id="aa3434a94c5038957742bfc5ee146c1be"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CorrectiveSpeed</b></td></tr>
+<tr class="separator:aa3434a94c5038957742bfc5ee146c1be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf3b641e7a7079fa025e1e6add630c35"><td class="memItemLeft" align="right" valign="top"><a id="adf3b641e7a7079fa025e1e6add630c35"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxClientWaterError</b></td></tr>
+<tr class="separator:adf3b641e7a7079fa025e1e6add630c35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d8d6fd159fcb9b66c0cd0e280fbdbd5"><td class="memItemLeft" align="right" valign="top"><a id="a5d8d6fd159fcb9b66c0cd0e280fbdbd5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>WaterStartHeight</b></td></tr>
+<tr class="separator:a5d8d6fd159fcb9b66c0cd0e280fbdbd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5fb566fc1f8d34797fc2d3453832b87"><td class="memItemLeft" align="right" valign="top"><a id="ab5fb566fc1f8d34797fc2d3453832b87"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>VisibleWaterLevelSpringAccel</b></td></tr>
+<tr class="separator:ab5fb566fc1f8d34797fc2d3453832b87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3a5f92c4db2814525891c37388aa83e"><td class="memItemLeft" align="right" valign="top"><a id="ab3a5f92c4db2814525891c37388aa83e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinShowAmount</b></td></tr>
+<tr class="separator:ab3a5f92c4db2814525891c37388aa83e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d599367622c181769a893a64747ba11"><td class="memItemLeft" align="right" valign="top"><a id="a6d599367622c181769a893a64747ba11"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTipAdjustmentDepth</b></td></tr>
+<tr class="separator:a6d599367622c181769a893a64747ba11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe4317cc86968717a5290830fe1f7c7f"><td class="memItemLeft" align="right" valign="top"><a id="abe4317cc86968717a5290830fe1f7c7f"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxTipAdjustmentRoll</b></td></tr>
+<tr class="separator:abe4317cc86968717a5290830fe1f7c7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8582e9817fa3630d3ecbc000af6ffb98"><td class="memItemLeft" align="right" valign="top"><a id="a8582e9817fa3630d3ecbc000af6ffb98"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinTipAdjustmentAmount</b></td></tr>
+<tr class="separator:a8582e9817fa3630d3ecbc000af6ffb98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a120320d2802a7d6a7335d6e394365548"><td class="memItemLeft" align="right" valign="top"><a id="a120320d2802a7d6a7335d6e394365548"></a>
+class <a class="el" href="a27039.html">UCurveFloat</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FillPercentageVSMaxRollAngleCurve</b></td></tr>
+<tr class="separator:a120320d2802a7d6a7335d6e394365548"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16207.html">FDebugFishSelectionSize</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16207.html">FShipInternalWaterParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:47 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,10 +1,7 @@
 var a24587 =
 [
-    [ "StaticClass", "a24587.html#a100a1b0709c244cc594c93d0f125d2e6", null ],
-    [ "AIDiorama", "a24587.html#ac76e33ca33a2e75e10c973b38f46c4ce", null ],
-    [ "AIDioramaDesc", "a24587.html#ad0cfdb10960fbb66209ffa87e7f8ffad", null ],
-    [ "SpawnedDioramaPawns", "a24587.html#a19274755568b8d8ebf087ea85fd60f93", null ],
-    [ "Spawner", "a24587.html#a5819b78aac158189dbd5508aa03d6b34", null ],
-    [ "UnknownData00", "a24587.html#af6d2ba71732d23e5837ae8ba49dbd0e2", null ],
-    [ "UnknownData01", "a24587.html#ab2f4b3c8032570835bb13bf53275fe28", null ]
+    [ "StaticClass", "a24587.html#a8125c992ce6f5a1fb0387eb8380d8b04", null ],
+    [ "InteractionFocusPosition", "a24587.html#a7e5fa1fc2d8c907cbd5382bf58bdc357", null ],
+    [ "InteractionPosition", "a24587.html#ac9765b252dff8e62e840d7c548aca038", null ],
+    [ "SourceInteractable", "a24587.html#a692553f9d5b2810595c1d2fa0c2468b3", null ]
 ];

@@ -1,4 +1,4 @@
 var a22123 =
 [
-    [ "UnknownData00", "a22123.html#ae7284f07f04be59cbcf437baff3db4ef", null ]
+    [ "VoyageProposalIds", "a22123.html#a0df5b71df88e6f756edfa42a4ee7ae09", null ]
 ];

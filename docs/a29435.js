@@ -1,9 +1,22 @@
 var a29435 =
 [
-    [ "StaticClass", "a29435.html#ae8f24cc3e57c369ca20d663b0fa65cd0", null ],
-    [ "bUseEmitterTime", "a29435.html#a8ad8f7fc6281601653aec80909e2182e", null ],
-    [ "FrameRate", "a29435.html#a16d26d0aea8948c4aa0609a079372d29", null ],
-    [ "StartingFrame", "a29435.html#ad1f617093e37904f373dba843fa15ed8", null ],
-    [ "UnknownData00", "a29435.html#a6e82bda77f772362aa748e09e58db0a3", null ],
-    [ "UnknownData01", "a29435.html#a884c11806111cdbbb770473ba276a33d", null ]
+    [ "StaticClass", "a29435.html#a59a8847d6b8674164ad155cff3c6901b", null ],
+    [ "AdditionalAngleRanges", "a29435.html#a8c421368ab794f3896c7244be7f718d1", null ],
+    [ "AdditionalStartHeights", "a29435.html#ac9c06ed9b1601ab64faa423349cbd9ca", null ],
+    [ "AdditionalStartRadiuses", "a29435.html#a4cb7d9298e8c114dbf4d470b94707960", null ],
+    [ "AngleRange", "a29435.html#ad02b2f3860ed1145c89072cd40658b5a", null ],
+    [ "AngleRangeUseGroupAForAll", "a29435.html#a2621e10c5f7da32458d63e39261c4d61", null ],
+    [ "HeightAxis", "a29435.html#aeac743fce1a683056cf128c2532304b7", null ],
+    [ "RadialVelocity", "a29435.html#afd661736ced93e0e0814bf94bbf70d18", null ],
+    [ "RadiusScale", "a29435.html#a56eef40c78811bc932574d1d38eca7ca", null ],
+    [ "StartHeight", "a29435.html#a8d218f0cd9af0bfcb7c23a0b32e5c783", null ],
+    [ "StartHeightUseGroupAForAll", "a29435.html#a38e9748bb6f4bd3a250f23a582770b59", null ],
+    [ "StartRadius", "a29435.html#a962140f51ee4385b3fcad6539bc66114", null ],
+    [ "StartRadiusUseGroupAForAll", "a29435.html#a9421fe0a3c954c8d46e665649cf1d7fc", null ],
+    [ "UnknownData00", "a29435.html#a3685abd8005a9ae6c07513953e0070b7", null ],
+    [ "UnknownData01", "a29435.html#abc5ce11e1f1ee94f10f778b4c8d2f3a6", null ],
+    [ "UnknownData02", "a29435.html#afd512b9bf87c4c8bfc02d9e11e83403e", null ],
+    [ "UnknownData03", "a29435.html#a5ea7fc59de1949c3f6abf25454de4c1f", null ],
+    [ "UnknownData04", "a29435.html#afeb148b2f7761f8e7076e7d9a409c681", null ],
+    [ "UnknownData05", "a29435.html#a13941b1dd2fd5706eba26ddf48ee1305", null ]
 ];

@@ -1,14 +1,20 @@
 var a26599 =
 [
-    [ "StaticClass", "a26599.html#a574d8ef960db29a9ea42f2c68a4bae30", null ],
-    [ "ComponentTemplates", "a26599.html#ad14180bcb2230b8214ac59d46e9869c6", null ],
-    [ "DynamicBindingObjects", "a26599.html#a847d12b6ca146a82b350689168a1ad35", null ],
-    [ "FastCallPairs", "a26599.html#ae35165df898b35d0e541092b1f7b6ff5", null ],
-    [ "InheritableComponentHandler", "a26599.html#ac327276df6984eb3ec0079247260f43f", null ],
-    [ "NumReplicatedProperties", "a26599.html#a5aacbd8af240b06d5ba53a6a74fb7f54", null ],
-    [ "SimpleConstructionScript", "a26599.html#a58453bd295fce709906b760f149214ea", null ],
-    [ "Timelines", "a26599.html#a64af808dbc99dd0833c4a718ae3aa302", null ],
-    [ "UberGraphFramePointerProperty", "a26599.html#ac7ee413b9476394a7431fb5895628f2b", null ],
-    [ "UberGraphFunction", "a26599.html#aed1bb41d6fc40ca65196b1e4ab975e56", null ],
-    [ "UnknownData00", "a26599.html#a60ccd61a788694e9cb27d944a4b3d57b", null ]
+    [ "GetActorFeetLocation", "a26599.html#ae4b456264fd80ab3b6dda49a46837927", null ],
+    [ "IsCrouching", "a26599.html#a775357c81952f50d41fb549324476a1d", null ],
+    [ "IsFalling", "a26599.html#a63fb4421b4dbc15ca223f22012bc990e", null ],
+    [ "IsFlying", "a26599.html#a63a0c2508e87d7301ca0c792354f15dd", null ],
+    [ "IsMovingOnGround", "a26599.html#a4fd7dae5ff6d80f5c32e09651f9360fc", null ],
+    [ "IsSwimming", "a26599.html#a2a869c3694069d000cc1191e293d779e", null ],
+    [ "StaticClass", "a26599.html#a6b202b0e2c083c4a974abbb3e9ddf5cb", null ],
+    [ "StopActiveMovement", "a26599.html#aec32752e601776f5ffeae7128811c88b", null ],
+    [ "StopMovementKeepPathing", "a26599.html#a29925e6bbae69d57a8ba45a2413d996e", null ],
+    [ "bUpdateNavAgentWithOwnersCollision", "a26599.html#a52a0d2d9f03fb6385ecbf81ac26b1634", null ],
+    [ "MovementState", "a26599.html#a35c1687410ba14e8f64fda4ebfa41418", null ],
+    [ "NavAgentProps", "a26599.html#a760c34a348b30ad0f4918c3d81b6370a", null ],
+    [ "UnknownData00", "a26599.html#a87a160627a101e712287608e7c9a6301", null ],
+    [ "UnknownData01", "a26599.html#ae0a1f4748e1aac292a3900fbfe7e46d1", null ],
+    [ "UnknownData02", "a26599.html#a5652552d8e8555932edc08becac52189", null ],
+    [ "UseDefaultNavWalkingSearchHeightScale", "a26599.html#ab8da60011029f0816c90040eb962e62d", null ],
+    [ "UseDefaultNavWalkingSearchRadiusScale", "a26599.html#ae2ab6bf1ace150a6cc4a20a6640f0f3b", null ]
 ];

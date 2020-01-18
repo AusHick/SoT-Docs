@@ -1,6 +1,7 @@
 var a13843 =
 [
-    [ "Reason", "a13843.html#a5f4715cc254a5d78e1fbc9753eaa27a9", null ],
-    [ "TimeToAdd", "a13843.html#aef223bbb5cfe52822814d5a56853c11a", null ],
-    [ "UnknownData00", "a13843.html#a6cd12bcc983518e8b7c4cb488a790676", null ]
+    [ "CorrectiveForceMultiplier", "a13843.html#aea11167f11621a2a6708f5b3cb40b268", null ],
+    [ "MaxError", "a13843.html#a6dec812516ceb7beff62b22d34422900", null ],
+    [ "MaxFreeLoweringVelocity", "a13843.html#adb3d03cd3ffaa3ff97bed1d70ecec593", null ],
+    [ "MaxVelocityPerPlayer", "a13843.html#adda157e96f27b3de9ae6cb55e60d3d84", null ]
 ];

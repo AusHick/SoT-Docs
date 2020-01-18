@@ -1,4 +1,5 @@
 var a08179 =
 [
-    [ "StaticClass", "a08179.html#a37050a880877cf56c383499a4ce06e66", null ]
+    [ "StaticClass", "a08179.html#afd54560ee18fd1b400cc41dc3cb44fce", null ],
+    [ "StrategyAudioEvents", "a08179.html#afa3a198d97f56e7e949195d7a5cb53e7", null ]
 ];

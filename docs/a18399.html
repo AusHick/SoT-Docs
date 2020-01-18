@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FWielderInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FServerStateUpdateMessage Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a18399.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a18396.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FWielderInfo Struct Reference</div>  </div>
+<div class="title">SDK::FServerStateUpdateMessage Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWielderInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServerStateUpdateMessage:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,23 +100,71 @@ $(document).ready(function(){initNavTree('a18399.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9de7b3821b610d6ef274b6e7092441da"><td class="memItemLeft" align="right" valign="top"><a id="a9de7b3821b610d6ef274b6e7092441da"></a>
-class <a class="el" href="a02307.html">AAthenaPlayerCharacter</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Character</b></td></tr>
-<tr class="separator:a9de7b3821b610d6ef274b6e7092441da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad9dadd46c57c6641a7be19e66df08fa3"><td class="memItemLeft" align="right" valign="top"><a id="ad9dadd46c57c6641a7be19e66df08fa3"></a>
-class <a class="el" href="a02959.html">AAthenaPlayerController</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Controller</b></td></tr>
-<tr class="separator:ad9dadd46c57c6641a7be19e66df08fa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad09e73aa31168980052630e963c60812"><td class="memItemLeft" align="right" valign="top"><a id="ad09e73aa31168980052630e963c60812"></a>
-class <a class="el" href="a02891.html">AAthenaPlayerState</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>State</b></td></tr>
-<tr class="separator:ad09e73aa31168980052630e963c60812"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa01016de04dcc22711231749fd2d5406"><td class="memItemLeft" align="right" valign="top"><a id="aa01016de04dcc22711231749fd2d5406"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerId</b></td></tr>
+<tr class="separator:aa01016de04dcc22711231749fd2d5406"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40d7e92493c49f9d9f917cf032046f73"><td class="memItemLeft" align="right" valign="top"><a id="a40d7e92493c49f9d9f917cf032046f73"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TitleVersion</b></td></tr>
+<tr class="separator:a40d7e92493c49f9d9f917cf032046f73"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3bd51c4b7f06c2f7598d6eed041b5c09"><td class="memItemLeft" align="right" valign="top"><a id="a3bd51c4b7f06c2f7598d6eed041b5c09"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EPlayMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PlayMode</b></td></tr>
+<tr class="separator:a3bd51c4b7f06c2f7598d6eed041b5c09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a854b8c8dcf6f1452b4662a1a011d8474"><td class="memItemLeft" align="right" valign="top"><a id="a854b8c8dcf6f1452b4662a1a011d8474"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a854b8c8dcf6f1452b4662a1a011d8474"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab519e1c68093d13e3ff38234088cdb7a"><td class="memItemLeft" align="right" valign="top"><a id="ab519e1c68093d13e3ff38234088cdb7a"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a18395.html">FServerUpdateCrewState</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Crews</b></td></tr>
+<tr class="separator:ab519e1c68093d13e3ff38234088cdb7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7fac0f3f75841058cda1d9788e6ec47"><td class="memItemLeft" align="right" valign="top"><a id="ad7fac0f3f75841058cda1d9788e6ec47"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct FIncomingMigrationPreventionZone &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>IncomingMigrationPreventionZones</b></td></tr>
+<tr class="separator:ad7fac0f3f75841058cda1d9788e6ec47"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0dc7f9f66e47931790d27abed7383393"><td class="memItemLeft" align="right" valign="top"><a id="a0dc7f9f66e47931790d27abed7383393"></a>
+struct <a class="el" href="a26415.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TimeToLive</b></td></tr>
+<tr class="separator:a0dc7f9f66e47931790d27abed7383393"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34ed75399881ee64b5fe168f1ea4bb5e"><td class="memItemLeft" align="right" valign="top"><a id="a34ed75399881ee64b5fe168f1ea4bb5e"></a>
+struct <a class="el" href="a26415.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Uptime</b></td></tr>
+<tr class="separator:a34ed75399881ee64b5fe168f1ea4bb5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab01b59b969cea98d98f7d999c8e53f11"><td class="memItemLeft" align="right" valign="top"><a id="ab01b59b969cea98d98f7d999c8e53f11"></a>
+struct <a class="el" href="a26415.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TotalUptime</b></td></tr>
+<tr class="separator:ab01b59b969cea98d98f7d999c8e53f11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9cee8a320d74b93d6b01e5e1d5ff3d7b"><td class="memItemLeft" align="right" valign="top"><a id="a9cee8a320d74b93d6b01e5e1d5ff3d7b"></a>
+struct <a class="el" href="a26415.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MessageInterval</b></td></tr>
+<tr class="separator:a9cee8a320d74b93d6b01e5e1d5ff3d7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad1cd74bcd0370a44b46ff32bb56a8984"><td class="memItemLeft" align="right" valign="top"><a id="ad1cd74bcd0370a44b46ff32bb56a8984"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>SequenceId</b></td></tr>
+<tr class="separator:ad1cd74bcd0370a44b46ff32bb56a8984"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51abdc85a334a2d99ae96cfa80fb864d"><td class="memItemLeft" align="right" valign="top"><a id="a51abdc85a334a2d99ae96cfa80fb864d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a51abdc85a334a2d99ae96cfa80fb864d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a121f446be1c34e0deeeec381d9c1dfea"><td class="memItemLeft" align="right" valign="top"><a id="a121f446be1c34e0deeeec381d9c1dfea"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerAddress</b></td></tr>
+<tr class="separator:a121f446be1c34e0deeeec381d9c1dfea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a31a88b638192bd75666b7f61d8ee9d"><td class="memItemLeft" align="right" valign="top"><a id="a0a31a88b638192bd75666b7f61d8ee9d"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerLocation</b></td></tr>
+<tr class="separator:a0a31a88b638192bd75666b7f61d8ee9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08b0acb7a15016fcd4407ed0372a7f87"><td class="memItemLeft" align="right" valign="top"><a id="a08b0acb7a15016fcd4407ed0372a7f87"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerDataCentre</b></td></tr>
+<tr class="separator:a08b0acb7a15016fcd4407ed0372a7f87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25180cb651dbc411d022957cadba7d78"><td class="memItemLeft" align="right" valign="top"><a id="a25180cb651dbc411d022957cadba7d78"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>HighPriorityForMatchmaking</b></td></tr>
+<tr class="separator:a25180cb651dbc411d022957cadba7d78"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89209f225a4c5800ec718e4e8d600698"><td class="memItemLeft" align="right" valign="top"><a id="a89209f225a4c5800ec718e4e8d600698"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>ServerIsActive</b></td></tr>
+<tr class="separator:a89209f225a4c5800ec718e4e8d600698"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60ff29da4a5fad78218bfa9320e37d38"><td class="memItemLeft" align="right" valign="top"><a id="a60ff29da4a5fad78218bfa9320e37d38"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>ContestMatchmaking</b></td></tr>
+<tr class="separator:a60ff29da4a5fad78218bfa9320e37d38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed77d5bcdecd503b190f5fa25edaa4c3"><td class="memItemLeft" align="right" valign="top"><a id="aed77d5bcdecd503b190f5fa25edaa4c3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x5]</td></tr>
+<tr class="separator:aed77d5bcdecd503b190f5fa25edaa4c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a18399.html">FWielderInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:31 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a18399.html">FServerStateUpdateMessage</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:46 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

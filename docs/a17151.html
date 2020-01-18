@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FContestRequestScoreBoardData Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FNPCChat Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -84,43 +84,51 @@ $(document).ready(function(){initNavTree('a17151.html',''); initResizable(); });
 
 <div class="header">
   <div class="summary">
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a17148.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FContestRequestScoreBoardData Struct Reference</div>  </div>
+<div class="title">SDK::FNPCChat Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FContestRequestScoreBoardData:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FNPCChat:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a17150.svg" width="203" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
-<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FContestRequestScoreBoardData:</div>
-<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
-</div>
-<div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a17149.svg" width="203" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a17149.svg" width="523" height="346"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_attribs_a25367"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a25367')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a25367.html">SDK::FBoxedRpc</a></td></tr>
-<tr class="memitem:a4c32b5988e212880eddb68413c9990b0 inherit pub_attribs_a25367"><td class="memItemLeft" align="right" valign="top"><a id="a4c32b5988e212880eddb68413c9990b0"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:a4c32b5988e212880eddb68413c9990b0 inherit pub_attribs_a25367"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7bb6602688eddd86180dad7e51a0148 inherit pub_attribs_a25367"><td class="memItemLeft" align="right" valign="top"><a id="ab7bb6602688eddd86180dad7e51a0148"></a>
-class <a class="el" href="a25907.html">UScriptStruct</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
-<tr class="separator:ab7bb6602688eddd86180dad7e51a0148 inherit pub_attribs_a25367"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a1b54ec1a652f37026d9ba9140465671a"><td class="memItemLeft" align="right" valign="top"><a id="a1b54ec1a652f37026d9ba9140465671a"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SenderName</b></td></tr>
+<tr class="separator:a1b54ec1a652f37026d9ba9140465671a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad337bdd1ba4eca8e8add7cdbc41d0d15"><td class="memItemLeft" align="right" valign="top"><a id="ad337bdd1ba4eca8e8add7cdbc41d0d15"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Text</b></td></tr>
+<tr class="separator:ad337bdd1ba4eca8e8add7cdbc41d0d15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad49ba0e7120b897764a92759175ee183"><td class="memItemLeft" align="right" valign="top"><a id="ad49ba0e7120b897764a92759175ee183"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ENPCChatType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
+<tr class="separator:ad49ba0e7120b897764a92759175ee183"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3342a7e10ede0b03df58e8eb53841044"><td class="memItemLeft" align="right" valign="top"><a id="a3342a7e10ede0b03df58e8eb53841044"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a3342a7e10ede0b03df58e8eb53841044"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3f05151ef55daba43fe12f9034c0c6a0"><td class="memItemLeft" align="right" valign="top"><a id="a3f05151ef55daba43fe12f9034c0c6a0"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Image</b></td></tr>
+<tr class="separator:a3f05151ef55daba43fe12f9034c0c6a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a505c26d5698a5e88a35f9af8726a8bc0"><td class="memItemLeft" align="right" valign="top"><a id="a505c26d5698a5e88a35f9af8726a8bc0"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>Timeout</b></td></tr>
+<tr class="separator:a505c26d5698a5e88a35f9af8726a8bc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa93a02932e9b189ba7146a627e0480ff"><td class="memItemLeft" align="right" valign="top"><a id="aa93a02932e9b189ba7146a627e0480ff"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:aa93a02932e9b189ba7146a627e0480ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17151.html">FContestRequestScoreBoardData</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17151.html">FNPCChat</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:42 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

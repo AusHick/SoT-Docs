@@ -1,5 +1,7 @@
 var a03623 =
 [
-    [ "StaticClass", "a03623.html#aeb027798f03ebd9c4db4e77f32476df1", null ],
-    [ "CapstanDesc", "a03623.html#afb297544cd22893ec08cc24172893f35", null ]
+    [ "OnSecondaryInteract", "a03623.html#a07243fb0d3450452e8a4ea45ac97296b", null ],
+    [ "OnSecondaryInteractReleased", "a03623.html#a2b1a1a6a02296c1ffae7e6695da2d54d", null ],
+    [ "StaticClass", "a03623.html#aa8bbb30a56957b540a6069474775bb36", null ],
+    [ "UnknownData00", "a03623.html#a5e8288328e703bfd1c2a0c6459bec3fb", null ]
 ];

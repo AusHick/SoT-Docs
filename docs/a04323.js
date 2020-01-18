@@ -1,26 +1,5 @@
 var a04323 =
 [
-    [ "OnRep_Colours", "a04323.html#a90a3d61b65348538003c7312a8d0ffe0", null ],
-    [ "OnRep_ShouldBeHidden", "a04323.html#a328c9799a38b304f62080b4c8a082894", null ],
-    [ "OnRep_UnfoldBanners", "a04323.html#a57b45f8f22ac7a5190f620473e319c00", null ],
-    [ "StaticClass", "a04323.html#a301556ea6f37b0d77f76f9428e9e0a93", null ],
-    [ "AssociatedRope", "a04323.html#af31f213cdd1a0534c5feba4d996f63ac", null ],
-    [ "BannerBaseMaterialIndex", "a04323.html#aac50cf6119408564f6f4dae7f474c03a", null ],
-    [ "BannerMeshComponent", "a04323.html#af4fcec840424672399ea9ab18f0951f0", null ],
-    [ "BannerPosition", "a04323.html#a830389fccaf3d3b1fb21adc065d89452", null ],
-    [ "BannerTexture", "a04323.html#a2914e4769ee53c92a7ba3694c5cdc873", null ],
-    [ "MatInst", "a04323.html#ac807976e6a1d99a028130c073560876f", null ],
-    [ "MaxWindAmount", "a04323.html#a66eaf15de860c391158cc9c4aa5353ed", null ],
-    [ "Meshes", "a04323.html#a6e2502d6f5b2cd8e147c3110599b4794", null ],
-    [ "SceneRootComponent", "a04323.html#adf27b97bcf259ce0ea5302450a38187d", null ],
-    [ "ShouldBeHidden", "a04323.html#a2d32e8ae1946e38b40c28960aa8e14f9", null ],
-    [ "UnfoldBanners", "a04323.html#aa838bdc08504f5cd4f4587891e65d209", null ],
-    [ "UnfoldDelay", "a04323.html#ab9924d48d1b54cfd2f582fbcd34773f8", null ],
-    [ "UnfoldTime", "a04323.html#a3e333c00a1757619f53bae2de1bf2ac5", null ],
-    [ "UnknownData00", "a04323.html#a54ef79f120022c861dec42091dd8456c", null ],
-    [ "UnknownData01", "a04323.html#a36f9b120b24a289dc7747b12a197f64c", null ],
-    [ "UnknownData02", "a04323.html#a69e41959fb72d26b97d783dc414e3053", null ],
-    [ "UnknownData03", "a04323.html#aa65e60a2c823d7fff3c942f61faf1033", null ],
-    [ "UnknownData04", "a04323.html#aaefa8638f84e69f9198030fb9af85010", null ],
-    [ "WindBlendSpeed", "a04323.html#aa385743b1e5f32ca29fd0640098b6329", null ]
+    [ "GetId", "a04323.html#ac5b47ec8b992f6c886688f123b7fe6fc", null ],
+    [ "StaticClass", "a04323.html#a907077f7366265485891dd4bd778bc02", null ]
 ];

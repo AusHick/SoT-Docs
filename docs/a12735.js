@@ -1,7 +1,7 @@
 var a12735 =
 [
-    [ "EffectTime", "a12735.html#a4d2bbad25ec1769e1ce0662c9fddb9ca", null ],
-    [ "OneShotSequence", "a12735.html#a698f90366dcf5998045d36ed185fc9c7", null ],
-    [ "SequenceName", "a12735.html#a4ee2d4bef55af652e72cfd484b6d712c", null ],
-    [ "UnknownData00", "a12735.html#abd05cf31959cb225f252b1a2f3c2960d", null ]
+    [ "MaxColourStrength", "a12735.html#aeb60050d5cd91521a3c4cf94b9040b11", null ],
+    [ "MaxShaderStrength", "a12735.html#a8c04fe5d2283188269eccf855b1abe69", null ],
+    [ "ShaderBlendDuration", "a12735.html#aee9de03013bdb6c217b0e28d15e8da3e", null ],
+    [ "VengeanceUpdateFrequency", "a12735.html#afdf7fe8eb222771cf5e379f4e7f465b9", null ]
 ];

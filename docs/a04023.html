@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::UFrontendHudComponent Class Reference</title>
+<title>Sea of Thieves SDK: SDK::UGameNarrationComponent Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -84,474 +84,530 @@ $(document).ready(function(){initNavTree('a04023.html',''); initResizable(); });
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a04020.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::UFrontendHudComponent Class Reference</div>  </div>
+<div class="title">SDK::UGameNarrationComponent Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::UFrontendHudComponent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::UGameNarrationComponent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a04022.svg" width="252" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a04022.svg" width="230" height="580"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::UFrontendHudComponent:</div>
+  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::UGameNarrationComponent:</div>
 <div id="dynsection-1-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a04021.svg" width="432" height="443"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a04021.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a9d2d7d4fbd25c63155d0c5125780b2e5"><td class="memItemLeft" align="right" valign="top"><a id="a9d2d7d4fbd25c63155d0c5125780b2e5"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetFrontendMessagingDispatcher</b> (const <a class="el" href="a25643.html">TScriptInterface</a>&lt; class <a class="el" href="a33319.html">UObjectMessagingDispatcherInterface</a> &gt; &amp;Dispatcher)</td></tr>
-<tr class="separator:a9d2d7d4fbd25c63155d0c5125780b2e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a169c9f4c39caea941d020726590b3790"><td class="memItemLeft" align="right" valign="top"><a id="a169c9f4c39caea941d020726590b3790"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnReadyForBindings</b> ()</td></tr>
-<tr class="separator:a169c9f4c39caea941d020726590b3790"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a04019"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a04019')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a04019.html">SDK::UCoherentBaseHUDComponent</a></td></tr>
-<tr class="memitem:a8d3a7c5112a2dec7967797517e4a8274 inherit pub_methods_a04019"><td class="memItemLeft" align="right" valign="top"><a id="a8d3a7c5112a2dec7967797517e4a8274"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnScriptingReady</b> ()</td></tr>
-<tr class="separator:a8d3a7c5112a2dec7967797517e4a8274 inherit pub_methods_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d8478bca57d639ab194a1fb1e7b1b22 inherit pub_methods_a04019"><td class="memItemLeft" align="right" valign="top"><a id="a8d8478bca57d639ab194a1fb1e7b1b22"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnReadyForBindings</b> ()</td></tr>
-<tr class="separator:a8d8478bca57d639ab194a1fb1e7b1b22 inherit pub_methods_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad63a37cf6cb64654f97fb953009887c1 inherit pub_methods_a04019"><td class="memItemLeft" align="right" valign="top"><a id="ad63a37cf6cb64654f97fb953009887c1"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>HasInitializationErrorOccurred</b> ()</td></tr>
-<tr class="separator:ad63a37cf6cb64654f97fb953009887c1 inherit pub_methods_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a04015"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a04015')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a04015.html">SDK::UCoherentUIGTInstancedComponent</a></td></tr>
-<tr class="memitem:a25fa65d08025ba3d925897ce418fc73f inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a25fa65d08025ba3d925897ce418fc73f"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ScriptingReadyEventReceived</b> ()</td></tr>
-<tr class="separator:a25fa65d08025ba3d925897ce418fc73f inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1505976a9d331047376683cd8a46abe2 inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a1505976a9d331047376683cd8a46abe2"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ReadyForBindingsEventReceived</b> ()</td></tr>
-<tr class="separator:a1505976a9d331047376683cd8a46abe2 inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93734c8ec350ac6de6f137d6788c1a6b inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a93734c8ec350ac6de6f137d6788c1a6b"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnScriptingReady</b> ()</td></tr>
-<tr class="separator:a93734c8ec350ac6de6f137d6788c1a6b inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b1d213c631d42292a1db1c6ea29472b inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a7b1d213c631d42292a1db1c6ea29472b"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnReadyForBindings</b> ()</td></tr>
-<tr class="separator:a7b1d213c631d42292a1db1c6ea29472b inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a54131fe541a83b498b7c4ba422bdf90f inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a54131fe541a83b498b7c4ba422bdf90f"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsScriptingReady</b> ()</td></tr>
-<tr class="separator:a54131fe541a83b498b7c4ba422bdf90f inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee1d7d58641a1b0e933eb72b8ad7cb65 inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="aee1d7d58641a1b0e933eb72b8ad7cb65"></a>
-class <a class="el" href="a28895.html">UMaterialInstanceDynamic</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetHUDMaterial</b> ()</td></tr>
-<tr class="separator:aee1d7d58641a1b0e933eb72b8ad7cb65 inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8efed0ce9784cd70b3232bbe48170cd inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="ab8efed0ce9784cd70b3232bbe48170cd"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>FinishLoadEventReceived</b> (const class <a class="el" href="a25631.html">FString</a> &amp;path, bool isMainFrame)</td></tr>
-<tr class="separator:ab8efed0ce9784cd70b3232bbe48170cd inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad262acde167a3ff4a02dc7816b189849 inherit pub_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="ad262acde167a3ff4a02dc7816b189849"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>BindingsReleasedEventReceived</b> ()</td></tr>
-<tr class="separator:ad262acde167a3ff4a02dc7816b189849 inherit pub_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a25731"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a25731')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a25731.html">SDK::UCoherentUIGTBaseComponent</a></td></tr>
-<tr class="memitem:a7bd6c2c9275d3a7f2efc79e09eda7dc9 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a7bd6c2c9275d3a7f2efc79e09eda7dc9"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>UpdateWholeDataModelFromStruct</b> (class <a class="el" href="a26047.html">UStructProperty</a> *Arg)</td></tr>
-<tr class="separator:a7bd6c2c9275d3a7f2efc79e09eda7dc9 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5b59739f63be1a9f1d23541dc3c171d inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="af5b59739f63be1a9f1d23541dc3c171d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>UpdateWholeDataModelFromObject</b> (class <a class="el" href="a25883.html">UObject</a> *Model)</td></tr>
-<tr class="separator:af5b59739f63be1a9f1d23541dc3c171d inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad840f42c8f6ff3660dd8d3b85a585e00 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ad840f42c8f6ff3660dd8d3b85a585e00"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>TriggerJSEvent</b> (const class <a class="el" href="a25631.html">FString</a> &amp;Name, class <a class="el" href="a25755.html">UCoherentUIGTJSEvent</a> *EventData)</td></tr>
-<tr class="separator:ad840f42c8f6ff3660dd8d3b85a585e00 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7ab091e075e25b90b09d7ae357253415 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a7ab091e075e25b90b09d7ae357253415"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SynchronizeModels</b> ()</td></tr>
-<tr class="separator:a7ab091e075e25b90b09d7ae357253415 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb2204f25896de254c183a05ff63eb3b inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="adb2204f25896de254c183a05ff63eb3b"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ShowPaintRects</b> (bool show)</td></tr>
-<tr class="separator:adb2204f25896de254c183a05ff63eb3b inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3454d7a8027bf232140affa150265c83 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a3454d7a8027bf232140affa150265c83"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetClickThroughAlphaThreshold</b> (float Threshold)</td></tr>
-<tr class="separator:a3454d7a8027bf232140affa150265c83 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad4763977fab4308861b0dd562be81b70 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ad4763977fab4308861b0dd562be81b70"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Resize</b> (int Width, int Height)</td></tr>
-<tr class="separator:ad4763977fab4308861b0dd562be81b70 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba6a87afc16fe051707c22ca54286908 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="aba6a87afc16fe051707c22ca54286908"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Reload</b> ()</td></tr>
-<tr class="separator:aba6a87afc16fe051707c22ca54286908 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ad5654623c6bd155e01d4739ba67d81 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a6ad5654623c6bd155e01d4739ba67d81"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Redraw</b> ()</td></tr>
-<tr class="separator:a6ad5654623c6bd155e01d4739ba67d81 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3366c5a36c87c473eb2b8afc3145aad inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ae3366c5a36c87c473eb2b8afc3145aad"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Load</b> (const class <a class="el" href="a25631.html">FString</a> &amp;path)</td></tr>
-<tr class="separator:ae3366c5a36c87c473eb2b8afc3145aad inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24eead2e3225c0c8d01d95f1e3992d15 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a24eead2e3225c0c8d01d95f1e3992d15"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsTransparent</b> ()</td></tr>
-<tr class="separator:a24eead2e3225c0c8d01d95f1e3992d15 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab4332c4ae3958225b3a004825ca9f9e8 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ab4332c4ae3958225b3a004825ca9f9e8"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsReadyToCreateView</b> ()</td></tr>
-<tr class="separator:ab4332c4ae3958225b3a004825ca9f9e8 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17c0fb7af190c3168e89826d750d784d inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a17c0fb7af190c3168e89826d750d784d"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsReadyForBindings</b> ()</td></tr>
-<tr class="separator:a17c0fb7af190c3168e89826d750d784d inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad3d371297b559937175d0f417f577f2a inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ad3d371297b559937175d0f417f577f2a"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsDocumentReady</b> ()</td></tr>
-<tr class="separator:ad3d371297b559937175d0f417f577f2a inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acc995ba0dd54e211a02388727d3ec17f inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="acc995ba0dd54e211a02388727d3ec17f"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>HasRequestedView</b> ()</td></tr>
-<tr class="separator:acc995ba0dd54e211a02388727d3ec17f inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34fbf9adfde9ff9d35bbf24ad7c4b587 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a34fbf9adfde9ff9d35bbf24ad7c4b587"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>GetClickThroughAlphaThreshold</b> ()</td></tr>
-<tr class="separator:a34fbf9adfde9ff9d35bbf24ad7c4b587 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a93689c0f10ff5a9de638866fdf409c51 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a93689c0f10ff5a9de638866fdf409c51"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>EndDebugFrameSave</b> ()</td></tr>
-<tr class="separator:a93689c0f10ff5a9de638866fdf409c51 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0c36453536f94444f4c04c2ee4af610e inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a0c36453536f94444f4c04c2ee4af610e"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>EnableDelayedUpdate</b> (bool bEnabled)</td></tr>
-<tr class="separator:a0c36453536f94444f4c04c2ee4af610e inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9affc00b6fa9f73d38867f20b36841b7 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a9affc00b6fa9f73d38867f20b36841b7"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>DebugSaveNextFrame</b> ()</td></tr>
-<tr class="separator:a9affc00b6fa9f73d38867f20b36841b7 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca4f18246ef4b02dd4792720b64d5023 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="aca4f18246ef4b02dd4792720b64d5023"></a>
-class <a class="el" href="a25755.html">UCoherentUIGTJSEvent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateJSEvent</b> ()</td></tr>
-<tr class="separator:aca4f18246ef4b02dd4792720b64d5023 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8b1a2a4c9e2b42ab26505447e8b96343 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a8b1a2a4c9e2b42ab26505447e8b96343"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>CreateDataModelFromStruct</b> (const class <a class="el" href="a25631.html">FString</a> &amp;Name, class <a class="el" href="a26047.html">UStructProperty</a> *Arg)</td></tr>
-<tr class="separator:a8b1a2a4c9e2b42ab26505447e8b96343 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3db4685d68f82421c434f1fcc23e5673 inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a3db4685d68f82421c434f1fcc23e5673"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>CreateDataModelFromObject</b> (const class <a class="el" href="a25631.html">FString</a> &amp;Name, class <a class="el" href="a25883.html">UObject</a> *Model)</td></tr>
-<tr class="separator:a3db4685d68f82421c434f1fcc23e5673 inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d2c7d15009f8f89e5334e551c64126a inherit pub_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a8d2c7d15009f8f89e5334e551c64126a"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>BeginDebugFrameSave</b> ()</td></tr>
-<tr class="separator:a8d2c7d15009f8f89e5334e551c64126a inherit pub_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a26339"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a26339')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a26339.html">SDK::UActorComponent</a></td></tr>
-<tr class="memitem:af154f134e6cbe6b051b09ce2ecc338fc inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="af154f134e6cbe6b051b09ce2ecc338fc"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ToggleActive</b> ()</td></tr>
-<tr class="separator:af154f134e6cbe6b051b09ce2ecc338fc inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f30a22d06e6b3517c014f7d409f068f inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a5f30a22d06e6b3517c014f7d409f068f"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetTickGroup</b> (<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ETickingGroup &gt; NewTickGroup)</td></tr>
-<tr class="separator:a5f30a22d06e6b3517c014f7d409f068f inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b1bf4c339a1e610e0571f66be9bb21d inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a6b1bf4c339a1e610e0571f66be9bb21d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetTickableWhenPaused</b> (bool bTickableWhenPaused)</td></tr>
-<tr class="separator:a6b1bf4c339a1e610e0571f66be9bb21d inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae51cd5278e497ccbf8e5385374cd32cf inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ae51cd5278e497ccbf8e5385374cd32cf"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetIsReplicated</b> (bool ShouldReplicate)</td></tr>
-<tr class="separator:ae51cd5278e497ccbf8e5385374cd32cf inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa37afd5df453a3b284449760f66a51a6 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aa37afd5df453a3b284449760f66a51a6"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetComponentTickEnabled</b> (bool bEnabled)</td></tr>
-<tr class="separator:aa37afd5df453a3b284449760f66a51a6 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afed31a502ce90750e27920a1bae4387f inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="afed31a502ce90750e27920a1bae4387f"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SetActive</b> (bool bNewActive, bool bReset)</td></tr>
-<tr class="separator:afed31a502ce90750e27920a1bae4387f inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ff8fd1bda1a02d8ee5b2aa48d974f4a inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a6ff8fd1bda1a02d8ee5b2aa48d974f4a"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveTickPrerequisiteComponent</b> (class <a class="el" href="a26339.html">UActorComponent</a> *PrerequisiteComponent)</td></tr>
-<tr class="separator:a6ff8fd1bda1a02d8ee5b2aa48d974f4a inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee11863f966009a7b407e9bde252a31e inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aee11863f966009a7b407e9bde252a31e"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveTickPrerequisiteActor</b> (class <a class="el" href="a26343.html">AActor</a> *PrerequisiteActor)</td></tr>
-<tr class="separator:aee11863f966009a7b407e9bde252a31e inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac056e5feb235d66a3b019d08bc23fe5a inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ac056e5feb235d66a3b019d08bc23fe5a"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveTick</b> (float DeltaSeconds)</td></tr>
-<tr class="separator:ac056e5feb235d66a3b019d08bc23fe5a inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad601c02ee2075c33c871894d0b54db07 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ad601c02ee2075c33c871894d0b54db07"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveEndPlay</b> (<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EEndPlayReason &gt; EndPlayReason)</td></tr>
-<tr class="separator:ad601c02ee2075c33c871894d0b54db07 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2348875acebad68ff471d8972ead1c38 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a2348875acebad68ff471d8972ead1c38"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveBeginPlay</b> ()</td></tr>
-<tr class="separator:a2348875acebad68ff471d8972ead1c38 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aed5a7ea09dd752821dd1e0b6aecc4ca5 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aed5a7ea09dd752821dd1e0b6aecc4ca5"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>OnRep_IsActive</b> ()</td></tr>
-<tr class="separator:aed5a7ea09dd752821dd1e0b6aecc4ca5 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae8ad2d742bec3e9410d259b89801ca5 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aae8ad2d742bec3e9410d259b89801ca5"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_DestroyComponent</b> (class <a class="el" href="a25883.html">UObject</a> *Object)</td></tr>
-<tr class="separator:aae8ad2d742bec3e9410d259b89801ca5 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ca620f845b284046b468e558bd561c1 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a6ca620f845b284046b468e558bd561c1"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsComponentTickEnabled</b> ()</td></tr>
-<tr class="separator:a6ca620f845b284046b468e558bd561c1 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1756eb82ed8248b9d77e86a3854a52b9 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a1756eb82ed8248b9d77e86a3854a52b9"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsBeingDestroyed</b> ()</td></tr>
-<tr class="separator:a1756eb82ed8248b9d77e86a3854a52b9 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b5c0774b35bda7850a08729b2d6bf8e inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a2b5c0774b35bda7850a08729b2d6bf8e"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsActive</b> ()</td></tr>
-<tr class="separator:a2b5c0774b35bda7850a08729b2d6bf8e inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2559bc2a8944717d5e174a716fe8e4be inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a2559bc2a8944717d5e174a716fe8e4be"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetOwner</b> ()</td></tr>
-<tr class="separator:a2559bc2a8944717d5e174a716fe8e4be inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a22be68babe4be83d84801852517dc327 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a22be68babe4be83d84801852517dc327"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Deactivate</b> ()</td></tr>
-<tr class="separator:a22be68babe4be83d84801852517dc327 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05019594dcbc470ff74b1ac066c8c48b inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a05019594dcbc470ff74b1ac066c8c48b"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>ComponentHasTag</b> (const struct <a class="el" href="a25627.html">FName</a> &amp;Tag)</td></tr>
-<tr class="separator:a05019594dcbc470ff74b1ac066c8c48b inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8501993e355226c801d8ef466fa912d inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ab8501993e355226c801d8ef466fa912d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>AddTickPrerequisiteComponent</b> (class <a class="el" href="a26339.html">UActorComponent</a> *PrerequisiteComponent)</td></tr>
-<tr class="separator:ab8501993e355226c801d8ef466fa912d inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7ec1ee3c484ce99f6a0b7ed28a2df87 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="af7ec1ee3c484ce99f6a0b7ed28a2df87"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>AddTickPrerequisiteActor</b> (class <a class="el" href="a26343.html">AActor</a> *PrerequisiteActor)</td></tr>
-<tr class="separator:af7ec1ee3c484ce99f6a0b7ed28a2df87 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6bc59a298ea6606e656bd24b6c722d3 inherit pub_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ae6bc59a298ea6606e656bd24b6c722d3"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>Activate</b> (bool bReset)</td></tr>
-<tr class="separator:ae6bc59a298ea6606e656bd24b6c722d3 inherit pub_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a25883"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a25883')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a25883.html">SDK::UObject</a></td></tr>
-<tr class="memitem:af2c061576578c6ea904962e185ef59a0 inherit pub_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="af2c061576578c6ea904962e185ef59a0"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetName</b> () const</td></tr>
-<tr class="separator:af2c061576578c6ea904962e185ef59a0 inherit pub_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a762581d04de7c9e00104ad4124109ec4 inherit pub_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a762581d04de7c9e00104ad4124109ec4"></a>
-std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetFullName</b> () const</td></tr>
-<tr class="separator:a762581d04de7c9e00104ad4124109ec4 inherit pub_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34df1f581c5e2b4ab42c798c119016cd inherit pub_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a34df1f581c5e2b4ab42c798c119016cd"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsA</b> (<a class="el" href="a25915.html">UClass</a> *cmp) const</td></tr>
-<tr class="separator:a34df1f581c5e2b4ab42c798c119016cd inherit pub_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a44d9b582a01529ceb894672dc098fe1d inherit pub_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a44d9b582a01529ceb894672dc098fe1d"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ProcessEvent</b> (class <a class="el" href="a25919.html">UFunction</a> *function, void *parms)</td></tr>
-<tr class="separator:a44d9b582a01529ceb894672dc098fe1d inherit pub_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adceb829afb1014c0909f12b3d355d7a7 inherit pub_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="adceb829afb1014c0909f12b3d355d7a7"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>ExecuteUbergraph</b> (int EntryPoint)</td></tr>
-<tr class="separator:adceb829afb1014c0909f12b3d355d7a7 inherit pub_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a7b86de3c4fd06097b73a27fd266b18d3"><td class="memItemLeft" align="right" valign="top"><a id="a7b86de3c4fd06097b73a27fd266b18d3"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a7b86de3c4fd06097b73a27fd266b18d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_methods_a04019"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a04019')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a04019.html">SDK::UCoherentBaseHUDComponent</a></td></tr>
-<tr class="memitem:a793ad3b9d045e7e2bdfaadec2711ee81 inherit pub_static_methods_a04019"><td class="memItemLeft" align="right" valign="top"><a id="a793ad3b9d045e7e2bdfaadec2711ee81"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a793ad3b9d045e7e2bdfaadec2711ee81 inherit pub_static_methods_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_methods_a04015"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a04015')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a04015.html">SDK::UCoherentUIGTInstancedComponent</a></td></tr>
-<tr class="memitem:a57a0d04238129a344624c70d22ae305d inherit pub_static_methods_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a57a0d04238129a344624c70d22ae305d"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a57a0d04238129a344624c70d22ae305d inherit pub_static_methods_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_methods_a25731"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a25731')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a25731.html">SDK::UCoherentUIGTBaseComponent</a></td></tr>
-<tr class="memitem:a08eaa6e55ccd1ff2fa339f1f5abdad09 inherit pub_static_methods_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a08eaa6e55ccd1ff2fa339f1f5abdad09"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a08eaa6e55ccd1ff2fa339f1f5abdad09 inherit pub_static_methods_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_methods_a26339"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a26339')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a26339.html">SDK::UActorComponent</a></td></tr>
-<tr class="memitem:a59703a6ffeac33fee1be9e132f287cd1 inherit pub_static_methods_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a59703a6ffeac33fee1be9e132f287cd1"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a59703a6ffeac33fee1be9e132f287cd1 inherit pub_static_methods_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_static_methods_a25883"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a25883')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a25883.html">SDK::UObject</a></td></tr>
-<tr class="memitem:a2958e3a8100b96c49cf03d324f9929fb inherit pub_static_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a2958e3a8100b96c49cf03d324f9929fb"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
-<tr class="separator:a2958e3a8100b96c49cf03d324f9929fb inherit pub_static_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afe188136f37a5c9982b70f381d6ebbf9 inherit pub_static_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="afe188136f37a5c9982b70f381d6ebbf9"></a>
-static <a class="el" href="a25603.html">TUObjectArray</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetGlobalObjects</b> ()</td></tr>
-<tr class="separator:afe188136f37a5c9982b70f381d6ebbf9 inherit pub_static_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a25883"><td class="memTemplParams" colspan="2"><a id="aa87eb64a0d47b52315d2d5fc83375042"></a>
+<tr class="memitem:a3c85ffcb8500eea404de2542917b3098"><td class="memItemLeft" align="right" valign="top"><a id="a3c85ffcb8500eea404de2542917b3098"></a>
+static <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
+<tr class="separator:a3c85ffcb8500eea404de2542917b3098"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_methods_a26575"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a26575')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a26575.html">SDK::USceneComponent</a></td></tr>
+<tr class="memitem:aa9222815924499630a2525c7b4bec9fa inherit pub_static_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa9222815924499630a2525c7b4bec9fa"></a>
+static <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
+<tr class="separator:aa9222815924499630a2525c7b4bec9fa inherit pub_static_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_methods_a26551"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a26551')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a26551.html">SDK::UActorComponent</a></td></tr>
+<tr class="memitem:a59703a6ffeac33fee1be9e132f287cd1 inherit pub_static_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a59703a6ffeac33fee1be9e132f287cd1"></a>
+static <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
+<tr class="separator:a59703a6ffeac33fee1be9e132f287cd1 inherit pub_static_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_methods_a26095"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_a26095')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="a26095.html">SDK::UObject</a></td></tr>
+<tr class="memitem:a2958e3a8100b96c49cf03d324f9929fb inherit pub_static_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a2958e3a8100b96c49cf03d324f9929fb"></a>
+static <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>StaticClass</b> ()</td></tr>
+<tr class="separator:a2958e3a8100b96c49cf03d324f9929fb inherit pub_static_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe188136f37a5c9982b70f381d6ebbf9 inherit pub_static_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="afe188136f37a5c9982b70f381d6ebbf9"></a>
+static <a class="el" href="a25815.html">TUObjectArray</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>GetGlobalObjects</b> ()</td></tr>
+<tr class="separator:afe188136f37a5c9982b70f381d6ebbf9 inherit pub_static_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a26095"><td class="memTemplParams" colspan="2"><a id="aa87eb64a0d47b52315d2d5fc83375042"></a>
 template&lt;typename T &gt; </td></tr>
-<tr class="memitem:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a25883"><td class="memTemplItemLeft" align="right" valign="top">static T *&#160;</td><td class="memTemplItemRight" valign="bottom"><b>FindObject</b> (const std::string &amp;name)</td></tr>
-<tr class="separator:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5b3f6b812e011a442f1f0316fd9d19b inherit pub_static_methods_a25883"><td class="memItemLeft" align="right" valign="top"><a id="aa5b3f6b812e011a442f1f0316fd9d19b"></a>
-static <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FindClass</b> (const std::string &amp;name)</td></tr>
-<tr class="separator:aa5b3f6b812e011a442f1f0316fd9d19b inherit pub_static_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a25883"><td class="memTemplParams" colspan="2"><a id="a3ad6b4c865d90824474ee93ffdcbdf91"></a>
+<tr class="memitem:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a26095"><td class="memTemplItemLeft" align="right" valign="top">static T *&#160;</td><td class="memTemplItemRight" valign="bottom"><b>FindObject</b> (const std::string &amp;name)</td></tr>
+<tr class="separator:aa87eb64a0d47b52315d2d5fc83375042 inherit pub_static_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa5b3f6b812e011a442f1f0316fd9d19b inherit pub_static_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="aa5b3f6b812e011a442f1f0316fd9d19b"></a>
+static <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>FindClass</b> (const std::string &amp;name)</td></tr>
+<tr class="separator:aa5b3f6b812e011a442f1f0316fd9d19b inherit pub_static_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a26095"><td class="memTemplParams" colspan="2"><a id="a3ad6b4c865d90824474ee93ffdcbdf91"></a>
 template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a25883"><td class="memTemplItemLeft" align="right" valign="top">static T *&#160;</td><td class="memTemplItemRight" valign="bottom"><b>GetObjectCasted</b> (std::size_t index)</td></tr>
-<tr class="separator:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a26095"><td class="memTemplItemLeft" align="right" valign="top">static T *&#160;</td><td class="memTemplItemRight" valign="bottom"><b>GetObjectCasted</b> (std::size_t index)</td></tr>
+<tr class="separator:a3ad6b4c865d90824474ee93ffdcbdf91 inherit pub_static_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a77cb8071f0ab63fc7ede95fd80bb079a"><td class="memItemLeft" align="right" valign="top"><a id="a77cb8071f0ab63fc7ede95fd80bb079a"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x168]</td></tr>
-<tr class="separator:a77cb8071f0ab63fc7ede95fd80bb079a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a04019"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a04019')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a04019.html">SDK::UCoherentBaseHUDComponent</a></td></tr>
-<tr class="memitem:aa41de68d6a928845dffc0ccd7d6b1e1b inherit pub_attribs_a04019"><td class="memItemLeft" align="right" valign="top"><a id="aa41de68d6a928845dffc0ccd7d6b1e1b"></a>
-class <a class="el" href="a26355.html">APawn</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentPawn</b></td></tr>
-<tr class="separator:aa41de68d6a928845dffc0ccd7d6b1e1b inherit pub_attribs_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2128b477d40f0630b424a3a5bc0d1a53 inherit pub_attribs_a04019"><td class="memItemLeft" align="right" valign="top"><a id="a2128b477d40f0630b424a3a5bc0d1a53"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x1E8]</td></tr>
-<tr class="separator:a2128b477d40f0630b424a3a5bc0d1a53 inherit pub_attribs_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7a2e1ade3e63fa13f4d251283809c111 inherit pub_attribs_a04019"><td class="memItemLeft" align="right" valign="top"><a id="a7a2e1ade3e63fa13f4d251283809c111"></a>
-class <a class="el" href="a04043.html">UCoherentToWwiseEventComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AudioComponent</b></td></tr>
-<tr class="separator:a7a2e1ade3e63fa13f4d251283809c111 inherit pub_attribs_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adffd4394d2e2e7718f1f9427f86a91ad inherit pub_attribs_a04019"><td class="memItemLeft" align="right" valign="top"><a id="adffd4394d2e2e7718f1f9427f86a91ad"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x8]</td></tr>
-<tr class="separator:adffd4394d2e2e7718f1f9427f86a91ad inherit pub_attribs_a04019"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a04015"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a04015')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a04015.html">SDK::UCoherentUIGTInstancedComponent</a></td></tr>
-<tr class="memitem:a99c5c103ce39454e6cc9af496e69c03f inherit pub_attribs_a04015"><td class="memItemLeft" align="right" valign="top"><a id="a99c5c103ce39454e6cc9af496e69c03f"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>URL</b></td></tr>
-<tr class="separator:a99c5c103ce39454e6cc9af496e69c03f inherit pub_attribs_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab8a586b07fe23ec84fef68878eefdc06 inherit pub_attribs_a04015"><td class="memItemLeft" align="right" valign="top"><a id="ab8a586b07fe23ec84fef68878eefdc06"></a>
-class <a class="el" href="a28895.html">UMaterialInstanceDynamic</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>HUDMaterialInstance</b></td></tr>
-<tr class="separator:ab8a586b07fe23ec84fef68878eefdc06 inherit pub_attribs_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae24cf0d06162839b740c50526a100c4c inherit pub_attribs_a04015"><td class="memItemLeft" align="right" valign="top"><a id="ae24cf0d06162839b740c50526a100c4c"></a>
-class <a class="el" href="a26451.html">APlayerController</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>PlayerController</b></td></tr>
-<tr class="separator:ae24cf0d06162839b740c50526a100c4c inherit pub_attribs_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6b26ac15dd9488ed979d6165a3145f8 inherit pub_attribs_a04015"><td class="memItemLeft" align="right" valign="top"><a id="aa6b26ac15dd9488ed979d6165a3145f8"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x28]</td></tr>
-<tr class="separator:aa6b26ac15dd9488ed979d6165a3145f8 inherit pub_attribs_a04015"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a25731"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a25731')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a25731.html">SDK::UCoherentUIGTBaseComponent</a></td></tr>
-<tr class="memitem:a750552699fc4d37f6bac03d69baa8e26 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a750552699fc4d37f6bac03d69baa8e26"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ReadyForBindings</b></td></tr>
-<tr class="separator:a750552699fc4d37f6bac03d69baa8e26 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5040f39dbdb1e9688be3bd42abbd9227 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a5040f39dbdb1e9688be3bd42abbd9227"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BindingsReleased</b></td></tr>
-<tr class="separator:a5040f39dbdb1e9688be3bd42abbd9227 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6caa1657ba31e977ed1addc86ded03f inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ac6caa1657ba31e977ed1addc86ded03f"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FinishLoad</b></td></tr>
-<tr class="separator:ac6caa1657ba31e977ed1addc86ded03f inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3d7d778804ca190fa8179d1793eacdc inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="af3d7d778804ca190fa8179d1793eacdc"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>FailLoad</b></td></tr>
-<tr class="separator:af3d7d778804ca190fa8179d1793eacdc inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3a0d4e4c0bf7e8f25c19f8a731d803a inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="af3a0d4e4c0bf7e8f25c19f8a731d803a"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StartLoading</b></td></tr>
-<tr class="separator:af3a0d4e4c0bf7e8f25c19f8a731d803a inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06a77ddf3f67188135078f9077470476 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a06a77ddf3f67188135078f9077470476"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NavigateTo</b></td></tr>
-<tr class="separator:a06a77ddf3f67188135078f9077470476 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a329b45a282170b0823ab2a1c51fea2e0 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a329b45a282170b0823ab2a1c51fea2e0"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>JavaScriptEvent</b></td></tr>
-<tr class="separator:a329b45a282170b0823ab2a1c51fea2e0 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a01949b411a34134e4ec2e45cbf25b2ff inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a01949b411a34134e4ec2e45cbf25b2ff"></a>
-struct <a class="el" href="a25655.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>UIGTScriptingReady</b></td></tr>
-<tr class="separator:a01949b411a34134e4ec2e45cbf25b2ff inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1921808df2dff2e7d03f50db81ad2e4d inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a1921808df2dff2e7d03f50db81ad2e4d"></a>
-struct <a class="el" href="a25651.html">FScriptDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LiveViewSizeRequested</b></td></tr>
-<tr class="separator:a1921808df2dff2e7d03f50db81ad2e4d inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3790c499ec8e2a423d266865572d3a42 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a3790c499ec8e2a423d266865572d3a42"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x48]</td></tr>
-<tr class="separator:a3790c499ec8e2a423d266865572d3a42 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a589d34d5f0177f98209178913499bf3a inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a589d34d5f0177f98209178913499bf3a"></a>
-class <a class="el" href="a26491.html">UTextureRenderTarget2D</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Texture</b></td></tr>
-<tr class="separator:a589d34d5f0177f98209178913499bf3a inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6f65155a805d207acd06c5a3fbf84d2b inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a6f65155a805d207acd06c5a3fbf84d2b"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ETextureFilter &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Filter</b></td></tr>
-<tr class="separator:a6f65155a805d207acd06c5a3fbf84d2b inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad304df5377267d34d792eeb9b8cc8674 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ad304df5377267d34d792eeb9b8cc8674"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bReceiveInput</b></td></tr>
-<tr class="separator:ad304df5377267d34d792eeb9b8cc8674 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1e202529658a9f7ad93a5217b2347cab inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a1e202529658a9f7ad93a5217b2347cab"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bReceiveInputWhenTransparent</b></td></tr>
-<tr class="separator:a1e202529658a9f7ad93a5217b2347cab inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac65eee5b680fb04ae840eba2bf2ea435 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ac65eee5b680fb04ae840eba2bf2ea435"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>AllowPerformanceWarnings</b></td></tr>
-<tr class="separator:ac65eee5b680fb04ae840eba2bf2ea435 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1061c9ee573de195c5c51f16da5a2eaf inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a1061c9ee573de195c5c51f16da5a2eaf"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ExecuteJSTimersThresholdMs</b></td></tr>
-<tr class="separator:a1061c9ee573de195c5c51f16da5a2eaf inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa426ab22c8dd344c02ee2bc31097db54 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="aa426ab22c8dd344c02ee2bc31097db54"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>UpdateStylesAndLayoutThresholdMs</b></td></tr>
-<tr class="separator:aa426ab22c8dd344c02ee2bc31097db54 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aceabfb991f882e47015242ca20156eda inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="aceabfb991f882e47015242ca20156eda"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>RecordRenderingCommandsThresholdMs</b></td></tr>
-<tr class="separator:aceabfb991f882e47015242ca20156eda inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98635adbb665fffd5804a3f5a0de0891 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a98635adbb665fffd5804a3f5a0de0891"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>PaintWarningThresholdMs</b></td></tr>
-<tr class="separator:a98635adbb665fffd5804a3f5a0de0891 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a8a1bd7f0f2907411a4b60d925d4ff3 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a2a8a1bd7f0f2907411a4b60d925d4ff3"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>LayersCountThreshold</b></td></tr>
-<tr class="separator:a2a8a1bd7f0f2907411a4b60d925d4ff3 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77d976a2a0e92d4c4a3b9f37a9fe4f85 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a77d976a2a0e92d4c4a3b9f37a9fe4f85"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>LayerWidthThreshold</b></td></tr>
-<tr class="separator:a77d976a2a0e92d4c4a3b9f37a9fe4f85 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad00c09aec1b7af4b62df2873622bedab inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ad00c09aec1b7af4b62df2873622bedab"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>LayerHeightThreshold</b></td></tr>
-<tr class="separator:ad00c09aec1b7af4b62df2873622bedab inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a40b609842836c148da1ad9fddb3a7cfc inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="a40b609842836c148da1ad9fddb3a7cfc"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableAdditionalDefaultStyles</b></td></tr>
-<tr class="separator:a40b609842836c148da1ad9fddb3a7cfc inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aad58ea073916cfd93038517a98787ee6 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="aad58ea073916cfd93038517a98787ee6"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bDelayedUpdate</b></td></tr>
-<tr class="separator:aad58ea073916cfd93038517a98787ee6 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab230be9dfdf12f39145a7c9575f674f8 inherit pub_attribs_a25731"><td class="memItemLeft" align="right" valign="top"><a id="ab230be9dfdf12f39145a7c9575f674f8"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x176]</td></tr>
-<tr class="separator:ab230be9dfdf12f39145a7c9575f674f8 inherit pub_attribs_a25731"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a26339"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a26339')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a26339.html">SDK::UActorComponent</a></td></tr>
-<tr class="memitem:aaca10c38a25f8d104e597fbe5503a091 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aaca10c38a25f8d104e597fbe5503a091"></a>
+<tr class="memitem:a862cb63fb2cc5f300cb571d2129e7ffc"><td class="memItemLeft" align="right" valign="top"><a id="a862cb63fb2cc5f300cb571d2129e7ffc"></a>
+struct <a class="el" href="a34443.html">FWwiseEmitter</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Emitter</b></td></tr>
+<tr class="separator:a862cb63fb2cc5f300cb571d2129e7ffc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39ae82772a8f41d31ded31f2dd5c7ae5"><td class="memItemLeft" align="right" valign="top"><a id="a39ae82772a8f41d31ded31f2dd5c7ae5"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0xF0]</td></tr>
+<tr class="separator:a39ae82772a8f41d31ded31f2dd5c7ae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13856d22dcc4977eaf669d23323b96af"><td class="memItemLeft" align="right" valign="top"><a id="a13856d22dcc4977eaf669d23323b96af"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CachedPreferredVoice</b></td></tr>
+<tr class="separator:a13856d22dcc4977eaf669d23323b96af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7dc33dc67a784ebf59012b828de65437"><td class="memItemLeft" align="right" valign="top"><a id="a7dc33dc67a784ebf59012b828de65437"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsNarrationSettingEnabled</b></td></tr>
+<tr class="separator:a7dc33dc67a784ebf59012b828de65437"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad170049a3a1c776fbcee9fbfed6c8111"><td class="memItemLeft" align="right" valign="top"><a id="ad170049a3a1c776fbcee9fbfed6c8111"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0xF]</td></tr>
+<tr class="separator:ad170049a3a1c776fbcee9fbfed6c8111"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a26575"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a26575')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a26575.html">SDK::USceneComponent</a></td></tr>
+<tr class="memitem:a53f4122e0d65402dec6be69bb12f4867 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a53f4122e0d65402dec6be69bb12f4867"></a>
+class <a class="el" href="a26575.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AttachParent</b></td></tr>
+<tr class="separator:a53f4122e0d65402dec6be69bb12f4867 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a719bedacbb1fde28013a9910dedb2952 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a719bedacbb1fde28013a9910dedb2952"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a26575.html">USceneComponent</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AttachChildren</b></td></tr>
+<tr class="separator:a719bedacbb1fde28013a9910dedb2952 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a14e605ba068d0b436d64844c50c600f3 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a14e605ba068d0b436d64844c50c600f3"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AttachSocketName</b></td></tr>
+<tr class="separator:a14e605ba068d0b436d64844c50c600f3 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba2c71a6a5fabc4c7e42930e0c202c5d inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aba2c71a6a5fabc4c7e42930e0c202c5d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bRequiresCustomLocation</b>: 1</td></tr>
+<tr class="separator:aba2c71a6a5fabc4c7e42930e0c202c5d inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa9e82c0e811b4704ab7cc1f51a27819 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="afa9e82c0e811b4704ab7cc1f51a27819"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAbsoluteLocation</b>: 1</td></tr>
+<tr class="separator:afa9e82c0e811b4704ab7cc1f51a27819 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85cd7854fe34a51f8058c5706107a519 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a85cd7854fe34a51f8058c5706107a519"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAbsoluteTranslation</b>: 1</td></tr>
+<tr class="separator:a85cd7854fe34a51f8058c5706107a519 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d108b96a202dab2c1099226fd247a26 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a3d108b96a202dab2c1099226fd247a26"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAbsoluteRotation</b>: 1</td></tr>
+<tr class="separator:a3d108b96a202dab2c1099226fd247a26 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a368d03ea37583bf70fd52f57189762cb inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a368d03ea37583bf70fd52f57189762cb"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAbsoluteScale</b>: 1</td></tr>
+<tr class="separator:a368d03ea37583bf70fd52f57189762cb inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c6faf81cf16f4e240d2b8de6a84710d inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a2c6faf81cf16f4e240d2b8de6a84710d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bVisible</b>: 1</td></tr>
+<tr class="separator:a2c6faf81cf16f4e240d2b8de6a84710d inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9b06912e5015e299c773782aef1ee29 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ae9b06912e5015e299c773782aef1ee29"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bHiddenInGame</b>: 1</td></tr>
+<tr class="separator:ae9b06912e5015e299c773782aef1ee29 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42b64b62ba3ff0ec5ac720b3d0f21b0b inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a42b64b62ba3ff0ec5ac720b3d0f21b0b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bShouldUpdatePhysicsVolume</b>: 1</td></tr>
+<tr class="separator:a42b64b62ba3ff0ec5ac720b3d0f21b0b inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc5859a56db557526ea7566a701044f8 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="afc5859a56db557526ea7566a701044f8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bBoundsChangeTriggersStreamingDataRebuild</b>: 1</td></tr>
+<tr class="separator:afc5859a56db557526ea7566a701044f8 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa17ea807775378c7c73656b85044aa5 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aaa17ea807775378c7c73656b85044aa5"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bUseAttachParentBound</b>: 1</td></tr>
+<tr class="separator:aaa17ea807775378c7c73656b85044aa5 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae137bcb849b788862329b9227b0c034 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aae137bcb849b788862329b9227b0c034"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bComponentIsUnionOfChildren</b>: 1</td></tr>
+<tr class="separator:aae137bcb849b788862329b9227b0c034 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9581ffbda4981885b5374f5128a431f6 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a9581ffbda4981885b5374f5128a431f6"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b>: 1</td></tr>
+<tr class="separator:a9581ffbda4981885b5374f5128a431f6 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4f01006655bd75aeb93b772ae13f7b7b inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a4f01006655bd75aeb93b772ae13f7b7b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bJitterReduction</b>: 1</td></tr>
+<tr class="separator:a4f01006655bd75aeb93b772ae13f7b7b inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b0ad81ccfcf35f55c3c7a27bed0a188 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a7b0ad81ccfcf35f55c3c7a27bed0a188"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b>: 1</td></tr>
+<tr class="separator:a7b0ad81ccfcf35f55c3c7a27bed0a188 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a712f72ed09522af9a4a5bd808c344cba inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a712f72ed09522af9a4a5bd808c344cba"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>CacheRootVelocity</b>: 1</td></tr>
+<tr class="separator:a712f72ed09522af9a4a5bd808c344cba inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ff45f057d5d7abb428d4376147f0bbe inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a3ff45f057d5d7abb428d4376147f0bbe"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bWorldToComponentUpdated</b>: 1</td></tr>
+<tr class="separator:a3ff45f057d5d7abb428d4376147f0bbe inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa440a4d591923a55b000f56f2b7c66bf inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa440a4d591923a55b000f56f2b7c66bf"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0xE]</td></tr>
+<tr class="separator:aa440a4d591923a55b000f56f2b7c66bf inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf682b8b0b3d47adb57fab091a7280a3 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aaf682b8b0b3d47adb57fab091a7280a3"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a26759.html">APhysicsVolume</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsVolume</b></td></tr>
+<tr class="separator:aaf682b8b0b3d47adb57fab091a7280a3 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d288ed5655012a24a09af94dc234491 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a3d288ed5655012a24a09af94dc234491"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b> [0x1C]</td></tr>
+<tr class="separator:a3d288ed5655012a24a09af94dc234491 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6a906543b483bd44ae070d89150a61f inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ad6a906543b483bd44ae070d89150a61f"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RelativeScale3D</b></td></tr>
+<tr class="separator:ad6a906543b483bd44ae070d89150a61f inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a7f5b7a882f9ede9bee1e680b0159de inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a7a7f5b7a882f9ede9bee1e680b0159de"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RelativeLocation</b></td></tr>
+<tr class="separator:a7a7f5b7a882f9ede9bee1e680b0159de inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48be7660b83f0a9d2229f47226e7a113 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a48be7660b83f0a9d2229f47226e7a113"></a>
+struct <a class="el" href="a26307.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RelativeRotation</b></td></tr>
+<tr class="separator:a48be7660b83f0a9d2229f47226e7a113 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a831b9c9be28b8adfb1331666a5f2975e inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a831b9c9be28b8adfb1331666a5f2975e"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b> [0xE0]</td></tr>
+<tr class="separator:a831b9c9be28b8adfb1331666a5f2975e inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a727c33548d625808e593834a12b08617 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a727c33548d625808e593834a12b08617"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EComponentMobility &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Mobility</b></td></tr>
+<tr class="separator:a727c33548d625808e593834a12b08617 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c6d1f27d2911a55bbd4ab176beaa8ee inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a2c6d1f27d2911a55bbd4ab176beaa8ee"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EDetailMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DetailMode</b></td></tr>
+<tr class="separator:a2c6d1f27d2911a55bbd4ab176beaa8ee inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e59e48337fe1192370e65b8866e5f3f inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a4e59e48337fe1192370e65b8866e5f3f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData05</b> [0xA]</td></tr>
+<tr class="separator:a4e59e48337fe1192370e65b8866e5f3f inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2a7134874098e30e0fa24c2d2bff161 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa2a7134874098e30e0fa24c2d2bff161"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ComponentVelocity</b></td></tr>
+<tr class="separator:aa2a7134874098e30e0fa24c2d2bff161 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4527b54030832705a1d343a4c1054319 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a4527b54030832705a1d343a4c1054319"></a>
+struct <a class="el" href="a25867.html">FScriptMulticastDelegate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsVolumeChangedDelegate</b></td></tr>
+<tr class="separator:a4527b54030832705a1d343a4c1054319 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac39d8505e76cdf1331ae81ae1a052e63 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ac39d8505e76cdf1331ae81ae1a052e63"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData06</b> [0x10]</td></tr>
+<tr class="separator:ac39d8505e76cdf1331ae81ae1a052e63 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8044736f1aed1804e4cab50f31c9b1b inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa8044736f1aed1804e4cab50f31c9b1b"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a25839.html">FName</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SocketVelocitiesToCache</b></td></tr>
+<tr class="separator:aa8044736f1aed1804e4cab50f31c9b1b inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c9f6e9ecba1bd0d77f09a274e15ab23 inherit pub_attribs_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a4c9f6e9ecba1bd0d77f09a274e15ab23"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData07</b> [0x28]</td></tr>
+<tr class="separator:a4c9f6e9ecba1bd0d77f09a274e15ab23 inherit pub_attribs_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a26551"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a26551')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a26551.html">SDK::UActorComponent</a></td></tr>
+<tr class="memitem:aaca10c38a25f8d104e597fbe5503a091 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aaca10c38a25f8d104e597fbe5503a091"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:aaca10c38a25f8d104e597fbe5503a091 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a879398059065da5522e7984dc35a0eef inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a879398059065da5522e7984dc35a0eef"></a>
-struct <a class="el" href="a29883.html">FActorComponentTickFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PrimaryComponentTick</b></td></tr>
-<tr class="separator:a879398059065da5522e7984dc35a0eef inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe1c35f8d3db432d7e40cfb0a58a86ec inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="abe1c35f8d3db432d7e40cfb0a58a86ec"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a25627.html">FName</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ComponentTags</b></td></tr>
-<tr class="separator:abe1c35f8d3db432d7e40cfb0a58a86ec inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a58cf3e2f7871e13f57ef9360af1b612c inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a58cf3e2f7871e13f57ef9360af1b612c"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a29887.html">FSimpleMemberReference</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>UCSModifiedProperties</b></td></tr>
-<tr class="separator:a58cf3e2f7871e13f57ef9360af1b612c inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a638d44c6980629ac7d92d9fea03ba809 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a638d44c6980629ac7d92d9fea03ba809"></a>
+<tr class="separator:aaca10c38a25f8d104e597fbe5503a091 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a879398059065da5522e7984dc35a0eef inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a879398059065da5522e7984dc35a0eef"></a>
+struct <a class="el" href="a30091.html">FActorComponentTickFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PrimaryComponentTick</b></td></tr>
+<tr class="separator:a879398059065da5522e7984dc35a0eef inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe1c35f8d3db432d7e40cfb0a58a86ec inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="abe1c35f8d3db432d7e40cfb0a58a86ec"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a25839.html">FName</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ComponentTags</b></td></tr>
+<tr class="separator:abe1c35f8d3db432d7e40cfb0a58a86ec inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58cf3e2f7871e13f57ef9360af1b612c inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a58cf3e2f7871e13f57ef9360af1b612c"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a30095.html">FSimpleMemberReference</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>UCSModifiedProperties</b></td></tr>
+<tr class="separator:a58cf3e2f7871e13f57ef9360af1b612c inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a638d44c6980629ac7d92d9fea03ba809 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a638d44c6980629ac7d92d9fea03ba809"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x10]</td></tr>
-<tr class="separator:a638d44c6980629ac7d92d9fea03ba809 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf959ff17bda784fe3096d08baebbe2b inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aaf959ff17bda784fe3096d08baebbe2b"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a27599.html">UAssetUserData</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AssetUserData</b></td></tr>
-<tr class="separator:aaf959ff17bda784fe3096d08baebbe2b inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa6470af003188f31017a5f0dcb1bed50 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aa6470af003188f31017a5f0dcb1bed50"></a>
+<tr class="separator:a638d44c6980629ac7d92d9fea03ba809 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf959ff17bda784fe3096d08baebbe2b inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aaf959ff17bda784fe3096d08baebbe2b"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a27811.html">UAssetUserData</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>AssetUserData</b></td></tr>
+<tr class="separator:aaf959ff17bda784fe3096d08baebbe2b inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6470af003188f31017a5f0dcb1bed50 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aa6470af003188f31017a5f0dcb1bed50"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b>: 3</td></tr>
-<tr class="separator:aa6470af003188f31017a5f0dcb1bed50 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a008b37a1046956643fbedc3b7f5ec537 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a008b37a1046956643fbedc3b7f5ec537"></a>
+<tr class="separator:aa6470af003188f31017a5f0dcb1bed50 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a008b37a1046956643fbedc3b7f5ec537 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a008b37a1046956643fbedc3b7f5ec537"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bReplicates</b>: 1</td></tr>
-<tr class="separator:a008b37a1046956643fbedc3b7f5ec537 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bcff4f9b10dc2bfdecc40b3acfa4f59 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a7bcff4f9b10dc2bfdecc40b3acfa4f59"></a>
+<tr class="separator:a008b37a1046956643fbedc3b7f5ec537 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7bcff4f9b10dc2bfdecc40b3acfa4f59 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a7bcff4f9b10dc2bfdecc40b3acfa4f59"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNetAddressable</b>: 1</td></tr>
-<tr class="separator:a7bcff4f9b10dc2bfdecc40b3acfa4f59 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a75cc7a118ae114b9c4f6f576581969e4 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a75cc7a118ae114b9c4f6f576581969e4"></a>
+<tr class="separator:a7bcff4f9b10dc2bfdecc40b3acfa4f59 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75cc7a118ae114b9c4f6f576581969e4 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a75cc7a118ae114b9c4f6f576581969e4"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b>: 3</td></tr>
-<tr class="separator:a75cc7a118ae114b9c4f6f576581969e4 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae37b266fbb6f21d9c4d377669a88f911 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ae37b266fbb6f21d9c4d377669a88f911"></a>
+<tr class="separator:a75cc7a118ae114b9c4f6f576581969e4 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae37b266fbb6f21d9c4d377669a88f911 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ae37b266fbb6f21d9c4d377669a88f911"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b>: 6</td></tr>
-<tr class="separator:ae37b266fbb6f21d9c4d377669a88f911 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad75681170e20f9a640607c944a8ebd48 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ad75681170e20f9a640607c944a8ebd48"></a>
+<tr class="separator:ae37b266fbb6f21d9c4d377669a88f911 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad75681170e20f9a640607c944a8ebd48 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ad75681170e20f9a640607c944a8ebd48"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bCreatedByConstructionScript</b>: 1</td></tr>
-<tr class="separator:ad75681170e20f9a640607c944a8ebd48 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a12ac4f23794e894cb984828da5e083 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a8a12ac4f23794e894cb984828da5e083"></a>
+<tr class="separator:ad75681170e20f9a640607c944a8ebd48 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a12ac4f23794e894cb984828da5e083 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a8a12ac4f23794e894cb984828da5e083"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bInstanceComponent</b>: 1</td></tr>
-<tr class="separator:a8a12ac4f23794e894cb984828da5e083 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a165d477f4bc5540504a3a69779080f47 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a165d477f4bc5540504a3a69779080f47"></a>
+<tr class="separator:a8a12ac4f23794e894cb984828da5e083 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a165d477f4bc5540504a3a69779080f47 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a165d477f4bc5540504a3a69779080f47"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAutoActivate</b>: 1</td></tr>
-<tr class="separator:a165d477f4bc5540504a3a69779080f47 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a96321c91e03a7eaf2ef4ddf7341c9fc9 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a96321c91e03a7eaf2ef4ddf7341c9fc9"></a>
+<tr class="separator:a165d477f4bc5540504a3a69779080f47 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96321c91e03a7eaf2ef4ddf7341c9fc9 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a96321c91e03a7eaf2ef4ddf7341c9fc9"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsActive</b>: 1</td></tr>
-<tr class="separator:a96321c91e03a7eaf2ef4ddf7341c9fc9 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac32d181e3c6b9caa7972385ee5775ac5 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ac32d181e3c6b9caa7972385ee5775ac5"></a>
+<tr class="separator:a96321c91e03a7eaf2ef4ddf7341c9fc9 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac32d181e3c6b9caa7972385ee5775ac5 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ac32d181e3c6b9caa7972385ee5775ac5"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bEditableWhenInherited</b>: 1</td></tr>
-<tr class="separator:ac32d181e3c6b9caa7972385ee5775ac5 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9aec77d48c27c10b974a0b44be66b8df inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a9aec77d48c27c10b974a0b44be66b8df"></a>
+<tr class="separator:ac32d181e3c6b9caa7972385ee5775ac5 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9aec77d48c27c10b974a0b44be66b8df inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a9aec77d48c27c10b974a0b44be66b8df"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData05</b>: 5</td></tr>
-<tr class="separator:a9aec77d48c27c10b974a0b44be66b8df inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a307bb0177451b113c6a8ae0e356e35d7 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a307bb0177451b113c6a8ae0e356e35d7"></a>
+<tr class="separator:a9aec77d48c27c10b974a0b44be66b8df inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a307bb0177451b113c6a8ae0e356e35d7 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a307bb0177451b113c6a8ae0e356e35d7"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData06</b>: 3</td></tr>
-<tr class="separator:a307bb0177451b113c6a8ae0e356e35d7 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab34b1f82eda0bd43e8c8d9bd3c5447b8 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="ab34b1f82eda0bd43e8c8d9bd3c5447b8"></a>
+<tr class="separator:a307bb0177451b113c6a8ae0e356e35d7 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab34b1f82eda0bd43e8c8d9bd3c5447b8 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ab34b1f82eda0bd43e8c8d9bd3c5447b8"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNeedsLoadForClient</b>: 1</td></tr>
-<tr class="separator:ab34b1f82eda0bd43e8c8d9bd3c5447b8 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77e9124d4f4755d05b80dfc113088ff7 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a77e9124d4f4755d05b80dfc113088ff7"></a>
+<tr class="separator:ab34b1f82eda0bd43e8c8d9bd3c5447b8 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a77e9124d4f4755d05b80dfc113088ff7 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a77e9124d4f4755d05b80dfc113088ff7"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNeedsLoadForServer</b>: 1</td></tr>
-<tr class="separator:a77e9124d4f4755d05b80dfc113088ff7 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeacd2b6e38bde21549d916de2f58023c inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="aeacd2b6e38bde21549d916de2f58023c"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EComponentCreationMethod &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CreationMethod</b></td></tr>
-<tr class="separator:aeacd2b6e38bde21549d916de2f58023c inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c847a8b63f5bf68553f48bab03f24d8 inherit pub_attribs_a26339"><td class="memItemLeft" align="right" valign="top"><a id="a3c847a8b63f5bf68553f48bab03f24d8"></a>
+<tr class="separator:a77e9124d4f4755d05b80dfc113088ff7 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeacd2b6e38bde21549d916de2f58023c inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aeacd2b6e38bde21549d916de2f58023c"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EComponentCreationMethod &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CreationMethod</b></td></tr>
+<tr class="separator:aeacd2b6e38bde21549d916de2f58023c inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c847a8b63f5bf68553f48bab03f24d8 inherit pub_attribs_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a3c847a8b63f5bf68553f48bab03f24d8"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData07</b> [0x3]</td></tr>
-<tr class="separator:a3c847a8b63f5bf68553f48bab03f24d8 inherit pub_attribs_a26339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a25883"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a25883')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a25883.html">SDK::UObject</a></td></tr>
-<tr class="memitem:a9a4974437a38a7f9c4e16bbf3a3040a8 inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a9a4974437a38a7f9c4e16bbf3a3040a8"></a>
+<tr class="separator:a3c847a8b63f5bf68553f48bab03f24d8 inherit pub_attribs_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a26095"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a26095')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a26095.html">SDK::UObject</a></td></tr>
+<tr class="memitem:a9a4974437a38a7f9c4e16bbf3a3040a8 inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a9a4974437a38a7f9c4e16bbf3a3040a8"></a>
 void *&#160;</td><td class="memItemRight" valign="bottom"><b>Vtable</b></td></tr>
-<tr class="separator:a9a4974437a38a7f9c4e16bbf3a3040a8 inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1291e9ceb41c4099d9f3c62a872b3293 inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a1291e9ceb41c4099d9f3c62a872b3293"></a>
-<a class="el" href="a36163.html">int32_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectFlags</b></td></tr>
-<tr class="separator:a1291e9ceb41c4099d9f3c62a872b3293 inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2b19319b7fb12ba15dbc05bff80495ef inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a2b19319b7fb12ba15dbc05bff80495ef"></a>
-<a class="el" href="a36163.html">int32_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InternalIndex</b></td></tr>
-<tr class="separator:a2b19319b7fb12ba15dbc05bff80495ef inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7df9329bbc048f6cf8ea5634961a1905 inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a7df9329bbc048f6cf8ea5634961a1905"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Class</b></td></tr>
-<tr class="separator:a7df9329bbc048f6cf8ea5634961a1905 inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69895f4601143b93dac97fac18f33da1 inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a69895f4601143b93dac97fac18f33da1"></a>
-<a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b></td></tr>
-<tr class="separator:a69895f4601143b93dac97fac18f33da1 inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4b2fb3f20ee53313f4e77278880e0f3d inherit pub_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a4b2fb3f20ee53313f4e77278880e0f3d"></a>
-class <a class="el" href="a25883.html">UObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Outer</b></td></tr>
-<tr class="separator:a4b2fb3f20ee53313f4e77278880e0f3d inherit pub_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a9a4974437a38a7f9c4e16bbf3a3040a8 inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1291e9ceb41c4099d9f3c62a872b3293 inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a1291e9ceb41c4099d9f3c62a872b3293"></a>
+<a class="el" href="a36387.html">int32_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectFlags</b></td></tr>
+<tr class="separator:a1291e9ceb41c4099d9f3c62a872b3293 inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b19319b7fb12ba15dbc05bff80495ef inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a2b19319b7fb12ba15dbc05bff80495ef"></a>
+<a class="el" href="a36387.html">int32_t</a>&#160;</td><td class="memItemRight" valign="bottom"><b>InternalIndex</b></td></tr>
+<tr class="separator:a2b19319b7fb12ba15dbc05bff80495ef inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7df9329bbc048f6cf8ea5634961a1905 inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a7df9329bbc048f6cf8ea5634961a1905"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Class</b></td></tr>
+<tr class="separator:a7df9329bbc048f6cf8ea5634961a1905 inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69895f4601143b93dac97fac18f33da1 inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a69895f4601143b93dac97fac18f33da1"></a>
+<a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b></td></tr>
+<tr class="separator:a69895f4601143b93dac97fac18f33da1 inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b2fb3f20ee53313f4e77278880e0f3d inherit pub_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a4b2fb3f20ee53313f4e77278880e0f3d"></a>
+class <a class="el" href="a26095.html">UObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Outer</b></td></tr>
+<tr class="separator:a4b2fb3f20ee53313f4e77278880e0f3d inherit pub_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_static_attribs_a25883"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_a25883')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="a25883.html">SDK::UObject</a></td></tr>
-<tr class="memitem:a623933b00f3680f61f807c4d969c7e72 inherit pub_static_attribs_a25883"><td class="memItemLeft" align="right" valign="top"><a id="a623933b00f3680f61f807c4d969c7e72"></a>
-static <a class="el" href="a25607.html">FUObjectArray</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GObjects</b> = nullptr</td></tr>
-<tr class="separator:a623933b00f3680f61f807c4d969c7e72 inherit pub_static_attribs_a25883"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a26575"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a26575')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a26575.html">SDK::USceneComponent</a></td></tr>
+<tr class="memitem:a1199c98b1e920c3f07bff090abdf9051 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a1199c98b1e920c3f07bff090abdf9051"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ToggleVisibility</b> (bool bPropagateToChildren)</td></tr>
+<tr class="separator:a1199c98b1e920c3f07bff090abdf9051 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7495093393023b6ca785b79377c5a3f2 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a7495093393023b6ca785b79377c5a3f2"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SnapTo</b> (class <a class="el" href="a26575.html">USceneComponent</a> *InParent, const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName)</td></tr>
+<tr class="separator:a7495093393023b6ca785b79377c5a3f2 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa50ba5c27764557e71029eb0f5ccbffc inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa50ba5c27764557e71029eb0f5ccbffc"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>SharesBasis</b> (class <a class="el" href="a26575.html">USceneComponent</a> *Other)</td></tr>
+<tr class="separator:aa50ba5c27764557e71029eb0f5ccbffc inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad51d5423e7664f1d64dab95c265c051e inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ad51d5423e7664f1d64dab95c265c051e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetWorldScale3D</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewScale)</td></tr>
+<tr class="separator:ad51d5423e7664f1d64dab95c265c051e inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90bbf213e0dedae41e478424e68ac6e2 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a90bbf213e0dedae41e478424e68ac6e2"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetVisibility</b> (bool bNewVisibility, bool bPropagateToChildren)</td></tr>
+<tr class="separator:a90bbf213e0dedae41e478424e68ac6e2 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25d2a0635cc4c734422b0cf852f7e3f7 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a25d2a0635cc4c734422b0cf852f7e3f7"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetRelativeScale3D</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewScale3D)</td></tr>
+<tr class="separator:a25d2a0635cc4c734422b0cf852f7e3f7 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe0af17727a3327728d7de1764ba66fb inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="afe0af17727a3327728d7de1764ba66fb"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetHiddenInGame</b> (bool NewHidden, bool bPropagateToChildren)</td></tr>
+<tr class="separator:afe0af17727a3327728d7de1764ba66fb inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9266da106c291753780393ee0044bb3e inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a9266da106c291753780393ee0044bb3e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetAbsolute</b> (bool bNewAbsoluteLocation, bool bNewAbsoluteRotation, bool bNewAbsoluteScale)</td></tr>
+<tr class="separator:a9266da106c291753780393ee0044bb3e inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a866b4676b6cb2e68fc8e0f58104be7bc inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a866b4676b6cb2e68fc8e0f58104be7bc"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ResetRelativeTransform</b> ()</td></tr>
+<tr class="separator:a866b4676b6cb2e68fc8e0f58104be7bc inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa56cfbe0169cb161af20894bf9fa9ed inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aaa56cfbe0169cb161af20894bf9fa9ed"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnRep_Visibility</b> (bool OldValue)</td></tr>
+<tr class="separator:aaa56cfbe0169cb161af20894bf9fa9ed inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8457d07d43557633dd04bccb1839ecc1 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a8457d07d43557633dd04bccb1839ecc1"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnRep_Transform</b> ()</td></tr>
+<tr class="separator:a8457d07d43557633dd04bccb1839ecc1 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70181e1c6731e4eefa991fb6bd9cf124 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a70181e1c6731e4eefa991fb6bd9cf124"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>K2_TryGetCachedSocketVelocity</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;SocketName, struct <a class="el" href="a26287.html">FVector</a> *OutVelocity)</td></tr>
+<tr class="separator:a70181e1c6731e4eefa991fb6bd9cf124 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf733b29f3b3e9d43b6f053e661d7e41 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aaf733b29f3b3e9d43b6f053e661d7e41"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetWorldTransform</b> (const struct <a class="el" href="a26403.html">FTransform</a> &amp;NewTransform, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:aaf733b29f3b3e9d43b6f053e661d7e41 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a481a467d3f9c771b7aaf5f9236eb3c8d inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a481a467d3f9c771b7aaf5f9236eb3c8d"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetWorldRotation</b> (const struct <a class="el" href="a26307.html">FRotator</a> &amp;NewRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a481a467d3f9c771b7aaf5f9236eb3c8d inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af62df2438ca02d4b0968b86c2133f247 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="af62df2438ca02d4b0968b86c2133f247"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetWorldLocationAndRotation</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewLocation, const struct <a class="el" href="a26307.html">FRotator</a> &amp;NewRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:af62df2438ca02d4b0968b86c2133f247 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c7a600e5b77d5da54b5a693c87d55b8 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a8c7a600e5b77d5da54b5a693c87d55b8"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetWorldLocation</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewLocation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a8c7a600e5b77d5da54b5a693c87d55b8 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65498c36591e75ef487d28f535f9c394 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a65498c36591e75ef487d28f535f9c394"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetRelativeTransform</b> (const struct <a class="el" href="a26403.html">FTransform</a> &amp;NewTransform, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a65498c36591e75ef487d28f535f9c394 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa48e59659029acb9ec4af9d6a40db2eb inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aa48e59659029acb9ec4af9d6a40db2eb"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetRelativeRotation</b> (const struct <a class="el" href="a26307.html">FRotator</a> &amp;NewRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:aa48e59659029acb9ec4af9d6a40db2eb inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ee17e96ee2b714eaaa29781a1b3a27e inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a8ee17e96ee2b714eaaa29781a1b3a27e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetRelativeLocationAndRotation</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewLocation, const struct <a class="el" href="a26307.html">FRotator</a> &amp;NewRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a8ee17e96ee2b714eaaa29781a1b3a27e inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaa42558cc5e3fee39a49c51df927f1d6 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aaa42558cc5e3fee39a49c51df927f1d6"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_SetRelativeLocation</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;NewLocation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:aaa42558cc5e3fee39a49c51df927f1d6 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ee763f6807501616e5d25ac3e95b1c6 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a9ee763f6807501616e5d25ac3e95b1c6"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>K2_GetComponentToWorld</b> ()</td></tr>
+<tr class="separator:a9ee763f6807501616e5d25ac3e95b1c6 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a650ac37244857c623a9a82f2b0e5ed00 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a650ac37244857c623a9a82f2b0e5ed00"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>K2_GetComponentScale</b> ()</td></tr>
+<tr class="separator:a650ac37244857c623a9a82f2b0e5ed00 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab85607f42938e10bad7ac9299e022ec inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aab85607f42938e10bad7ac9299e022ec"></a>
+struct <a class="el" href="a26307.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>K2_GetComponentRotation</b> ()</td></tr>
+<tr class="separator:aab85607f42938e10bad7ac9299e022ec inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6f15c175c76e19318296a5489fc2484 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ab6f15c175c76e19318296a5489fc2484"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>K2_GetComponentLocation</b> ()</td></tr>
+<tr class="separator:ab6f15c175c76e19318296a5489fc2484 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab96db2cbf9d3ab65759c6e88353d3f4f inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ab96db2cbf9d3ab65759c6e88353d3f4f"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AttachTo</b> (class <a class="el" href="a26575.html">USceneComponent</a> *InParent, const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName, <a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAttachLocation &gt; AttachType, bool bWeldSimulatedBodies)</td></tr>
+<tr class="separator:ab96db2cbf9d3ab65759c6e88353d3f4f inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c742f2889d6f6b415df291ad7dfff10 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a8c742f2889d6f6b415df291ad7dfff10"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddWorldTransform</b> (const struct <a class="el" href="a26403.html">FTransform</a> &amp;DeltaTransform, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a8c742f2889d6f6b415df291ad7dfff10 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0217a16c4557064d9a9e9e2e52f8e694 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a0217a16c4557064d9a9e9e2e52f8e694"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddWorldRotation</b> (const struct <a class="el" href="a26307.html">FRotator</a> &amp;DeltaRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a0217a16c4557064d9a9e9e2e52f8e694 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a17a6283fc4c34c0a681638a4caac7e62 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a17a6283fc4c34c0a681638a4caac7e62"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddWorldOffset</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;DeltaLocation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a17a6283fc4c34c0a681638a4caac7e62 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac789e7aeadcc8eadda6cfb3059c8c8de inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ac789e7aeadcc8eadda6cfb3059c8c8de"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddRelativeRotation</b> (const struct <a class="el" href="a26307.html">FRotator</a> &amp;DeltaRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:ac789e7aeadcc8eadda6cfb3059c8c8de inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a915a48a9603e6b0bc90a3e35e0089f01 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a915a48a9603e6b0bc90a3e35e0089f01"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddRelativeLocation</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;DeltaLocation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a915a48a9603e6b0bc90a3e35e0089f01 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69265b85ed54e3651644727e824bece8 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a69265b85ed54e3651644727e824bece8"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddLocalTransform</b> (const struct <a class="el" href="a26403.html">FTransform</a> &amp;DeltaTransform, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a69265b85ed54e3651644727e824bece8 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1cb04a1cc127d03566f68d7c23bfca5b inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a1cb04a1cc127d03566f68d7c23bfca5b"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddLocalRotation</b> (const struct <a class="el" href="a26307.html">FRotator</a> &amp;DeltaRotation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:a1cb04a1cc127d03566f68d7c23bfca5b inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad37555e98124cbaea9f83aa2cc43d8c6 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ad37555e98124cbaea9f83aa2cc43d8c6"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_AddLocalOffset</b> (const struct <a class="el" href="a26287.html">FVector</a> &amp;DeltaLocation, bool bSweep, bool bTeleport, struct <a class="el" href="a30127.html">FHitResult</a> *SweepHitResult)</td></tr>
+<tr class="separator:ad37555e98124cbaea9f83aa2cc43d8c6 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4699201bb545b4d0df10752a101769f7 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a4699201bb545b4d0df10752a101769f7"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsVisible</b> ()</td></tr>
+<tr class="separator:a4699201bb545b4d0df10752a101769f7 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73167cb0a3a3e87868a0d860b84d6239 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a73167cb0a3a3e87868a0d860b84d6239"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsSimulatingPhysics</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;BoneName)</td></tr>
+<tr class="separator:a73167cb0a3a3e87868a0d860b84d6239 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85162dc85e2d6dbdd94d29b4c18c29f8 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a85162dc85e2d6dbdd94d29b4c18c29f8"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsAnySimulatingPhysics</b> ()</td></tr>
+<tr class="separator:a85162dc85e2d6dbdd94d29b4c18c29f8 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c6b3ce3b392ece74e0f39671defc565 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a8c6b3ce3b392ece74e0f39671defc565"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetUpVector</b> ()</td></tr>
+<tr class="separator:a8c6b3ce3b392ece74e0f39671defc565 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05542fe75c0cb21213e574291205da78 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a05542fe75c0cb21213e574291205da78"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetSocketTransform</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName, <a class="el" href="a25847.html">TEnumAsByte</a>&lt; ERelativeTransformSpace &gt; TransformSpace)</td></tr>
+<tr class="separator:a05542fe75c0cb21213e574291205da78 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1de2b34d84ce9f07b1b8570cf171cee3 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a1de2b34d84ce9f07b1b8570cf171cee3"></a>
+struct <a class="el" href="a26307.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetSocketRotation</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName)</td></tr>
+<tr class="separator:a1de2b34d84ce9f07b1b8570cf171cee3 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7981cc8048dbc01bb54679adedc58bdb inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a7981cc8048dbc01bb54679adedc58bdb"></a>
+struct <a class="el" href="a26311.html">FQuat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetSocketQuaternion</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName)</td></tr>
+<tr class="separator:a7981cc8048dbc01bb54679adedc58bdb inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d61db25b444969c2949dd52382cde85 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a0d61db25b444969c2949dd52382cde85"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetSocketLocation</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName)</td></tr>
+<tr class="separator:a0d61db25b444969c2949dd52382cde85 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afea506b81eba1d2675019957a224070b inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="afea506b81eba1d2675019957a224070b"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetRightVector</b> ()</td></tr>
+<tr class="separator:afea506b81eba1d2675019957a224070b inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabb3e4d63b873f40086698d6dc9ab364 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aabb3e4d63b873f40086698d6dc9ab364"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetRelativeTransform</b> ()</td></tr>
+<tr class="separator:aabb3e4d63b873f40086698d6dc9ab364 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aded9ec04a240480cb7ab3ded026076df inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="aded9ec04a240480cb7ab3ded026076df"></a>
+class <a class="el" href="a26759.html">APhysicsVolume</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetPhysicsVolume</b> ()</td></tr>
+<tr class="separator:aded9ec04a240480cb7ab3ded026076df inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a616f196a073b15e09feafbce8a648788 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a616f196a073b15e09feafbce8a648788"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>GetParentComponents</b> (<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a26575.html">USceneComponent</a> * &gt; *Parents)</td></tr>
+<tr class="separator:a616f196a073b15e09feafbce8a648788 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71e2c38b7c7d920fd3bac0ca28fa107b inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a71e2c38b7c7d920fd3bac0ca28fa107b"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>GetNumChildrenComponents</b> ()</td></tr>
+<tr class="separator:a71e2c38b7c7d920fd3bac0ca28fa107b inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5dd34be78441c581ed4cc1c4125c5a2 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ad5dd34be78441c581ed4cc1c4125c5a2"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetForwardVector</b> ()</td></tr>
+<tr class="separator:ad5dd34be78441c581ed4cc1c4125c5a2 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a847f546862b1641b77e62aedf41787cd inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a847f546862b1641b77e62aedf41787cd"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetComponentVelocity</b> ()</td></tr>
+<tr class="separator:a847f546862b1641b77e62aedf41787cd inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac570a50d1e79071e4754803d5c496a92 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ac570a50d1e79071e4754803d5c496a92"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>GetChildrenComponents</b> (bool bIncludeAllDescendants, <a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a26575.html">USceneComponent</a> * &gt; *Children)</td></tr>
+<tr class="separator:ac570a50d1e79071e4754803d5c496a92 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5267f3e38ea0ae368333b92040e9850 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="ad5267f3e38ea0ae368333b92040e9850"></a>
+class <a class="el" href="a26575.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetChildComponent</b> (int ChildIndex)</td></tr>
+<tr class="separator:ad5267f3e38ea0ae368333b92040e9850 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addbbba2d3dfef01c693a8eb22f940bb7 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="addbbba2d3dfef01c693a8eb22f940bb7"></a>
+class <a class="el" href="a26575.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetAttachParent</b> ()</td></tr>
+<tr class="separator:addbbba2d3dfef01c693a8eb22f940bb7 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a361b2a2a2a68b959ff6013a631312c34 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a361b2a2a2a68b959ff6013a631312c34"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>GetAttachedBasisTransform</b> ()</td></tr>
+<tr class="separator:a361b2a2a2a68b959ff6013a631312c34 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afff96832f5772a197917b54a2e464b32 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="afff96832f5772a197917b54a2e464b32"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a25839.html">FName</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GetAllSocketNames</b> ()</td></tr>
+<tr class="separator:afff96832f5772a197917b54a2e464b32 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7229c8df485a1cada97584a4bd8d1969 inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a7229c8df485a1cada97584a4bd8d1969"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>DoesSocketExist</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;InSocketName)</td></tr>
+<tr class="separator:a7229c8df485a1cada97584a4bd8d1969 inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92c546a8564537e9f3571e12725f323e inherit pub_methods_a26575"><td class="memItemLeft" align="right" valign="top"><a id="a92c546a8564537e9f3571e12725f323e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>DetachFromParent</b> (bool bMaintainWorldPosition, bool bCallModify)</td></tr>
+<tr class="separator:a92c546a8564537e9f3571e12725f323e inherit pub_methods_a26575"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a26551"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a26551')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a26551.html">SDK::UActorComponent</a></td></tr>
+<tr class="memitem:af154f134e6cbe6b051b09ce2ecc338fc inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="af154f134e6cbe6b051b09ce2ecc338fc"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ToggleActive</b> ()</td></tr>
+<tr class="separator:af154f134e6cbe6b051b09ce2ecc338fc inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f30a22d06e6b3517c014f7d409f068f inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a5f30a22d06e6b3517c014f7d409f068f"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetTickGroup</b> (<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ETickingGroup &gt; NewTickGroup)</td></tr>
+<tr class="separator:a5f30a22d06e6b3517c014f7d409f068f inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b1bf4c339a1e610e0571f66be9bb21d inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a6b1bf4c339a1e610e0571f66be9bb21d"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetTickableWhenPaused</b> (bool bTickableWhenPaused)</td></tr>
+<tr class="separator:a6b1bf4c339a1e610e0571f66be9bb21d inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae51cd5278e497ccbf8e5385374cd32cf inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ae51cd5278e497ccbf8e5385374cd32cf"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetIsReplicated</b> (bool ShouldReplicate)</td></tr>
+<tr class="separator:ae51cd5278e497ccbf8e5385374cd32cf inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa37afd5df453a3b284449760f66a51a6 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aa37afd5df453a3b284449760f66a51a6"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetComponentTickEnabled</b> (bool bEnabled)</td></tr>
+<tr class="separator:aa37afd5df453a3b284449760f66a51a6 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afed31a502ce90750e27920a1bae4387f inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="afed31a502ce90750e27920a1bae4387f"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>SetActive</b> (bool bNewActive, bool bReset)</td></tr>
+<tr class="separator:afed31a502ce90750e27920a1bae4387f inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ff8fd1bda1a02d8ee5b2aa48d974f4a inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a6ff8fd1bda1a02d8ee5b2aa48d974f4a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveTickPrerequisiteComponent</b> (class <a class="el" href="a26551.html">UActorComponent</a> *PrerequisiteComponent)</td></tr>
+<tr class="separator:a6ff8fd1bda1a02d8ee5b2aa48d974f4a inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee11863f966009a7b407e9bde252a31e inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aee11863f966009a7b407e9bde252a31e"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>RemoveTickPrerequisiteActor</b> (class <a class="el" href="a26555.html">AActor</a> *PrerequisiteActor)</td></tr>
+<tr class="separator:aee11863f966009a7b407e9bde252a31e inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac056e5feb235d66a3b019d08bc23fe5a inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ac056e5feb235d66a3b019d08bc23fe5a"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveTick</b> (float DeltaSeconds)</td></tr>
+<tr class="separator:ac056e5feb235d66a3b019d08bc23fe5a inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad601c02ee2075c33c871894d0b54db07 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ad601c02ee2075c33c871894d0b54db07"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveEndPlay</b> (<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EEndPlayReason &gt; EndPlayReason)</td></tr>
+<tr class="separator:ad601c02ee2075c33c871894d0b54db07 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2348875acebad68ff471d8972ead1c38 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a2348875acebad68ff471d8972ead1c38"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ReceiveBeginPlay</b> ()</td></tr>
+<tr class="separator:a2348875acebad68ff471d8972ead1c38 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed5a7ea09dd752821dd1e0b6aecc4ca5 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aed5a7ea09dd752821dd1e0b6aecc4ca5"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>OnRep_IsActive</b> ()</td></tr>
+<tr class="separator:aed5a7ea09dd752821dd1e0b6aecc4ca5 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae8ad2d742bec3e9410d259b89801ca5 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="aae8ad2d742bec3e9410d259b89801ca5"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>K2_DestroyComponent</b> (class <a class="el" href="a26095.html">UObject</a> *Object)</td></tr>
+<tr class="separator:aae8ad2d742bec3e9410d259b89801ca5 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ca620f845b284046b468e558bd561c1 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a6ca620f845b284046b468e558bd561c1"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsComponentTickEnabled</b> ()</td></tr>
+<tr class="separator:a6ca620f845b284046b468e558bd561c1 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1756eb82ed8248b9d77e86a3854a52b9 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a1756eb82ed8248b9d77e86a3854a52b9"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsBeingDestroyed</b> ()</td></tr>
+<tr class="separator:a1756eb82ed8248b9d77e86a3854a52b9 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b5c0774b35bda7850a08729b2d6bf8e inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a2b5c0774b35bda7850a08729b2d6bf8e"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsActive</b> ()</td></tr>
+<tr class="separator:a2b5c0774b35bda7850a08729b2d6bf8e inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2559bc2a8944717d5e174a716fe8e4be inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a2559bc2a8944717d5e174a716fe8e4be"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GetOwner</b> ()</td></tr>
+<tr class="separator:a2559bc2a8944717d5e174a716fe8e4be inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a22be68babe4be83d84801852517dc327 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a22be68babe4be83d84801852517dc327"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>Deactivate</b> ()</td></tr>
+<tr class="separator:a22be68babe4be83d84801852517dc327 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05019594dcbc470ff74b1ac066c8c48b inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="a05019594dcbc470ff74b1ac066c8c48b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>ComponentHasTag</b> (const struct <a class="el" href="a25839.html">FName</a> &amp;Tag)</td></tr>
+<tr class="separator:a05019594dcbc470ff74b1ac066c8c48b inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab8501993e355226c801d8ef466fa912d inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ab8501993e355226c801d8ef466fa912d"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>AddTickPrerequisiteComponent</b> (class <a class="el" href="a26551.html">UActorComponent</a> *PrerequisiteComponent)</td></tr>
+<tr class="separator:ab8501993e355226c801d8ef466fa912d inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7ec1ee3c484ce99f6a0b7ed28a2df87 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="af7ec1ee3c484ce99f6a0b7ed28a2df87"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>AddTickPrerequisiteActor</b> (class <a class="el" href="a26555.html">AActor</a> *PrerequisiteActor)</td></tr>
+<tr class="separator:af7ec1ee3c484ce99f6a0b7ed28a2df87 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6bc59a298ea6606e656bd24b6c722d3 inherit pub_methods_a26551"><td class="memItemLeft" align="right" valign="top"><a id="ae6bc59a298ea6606e656bd24b6c722d3"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>Activate</b> (bool bReset)</td></tr>
+<tr class="separator:ae6bc59a298ea6606e656bd24b6c722d3 inherit pub_methods_a26551"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a26095"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a26095')"><img src="closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="a26095.html">SDK::UObject</a></td></tr>
+<tr class="memitem:af2c061576578c6ea904962e185ef59a0 inherit pub_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="af2c061576578c6ea904962e185ef59a0"></a>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetName</b> () const</td></tr>
+<tr class="separator:af2c061576578c6ea904962e185ef59a0 inherit pub_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a762581d04de7c9e00104ad4124109ec4 inherit pub_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a762581d04de7c9e00104ad4124109ec4"></a>
+std::string&#160;</td><td class="memItemRight" valign="bottom"><b>GetFullName</b> () const</td></tr>
+<tr class="separator:a762581d04de7c9e00104ad4124109ec4 inherit pub_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34df1f581c5e2b4ab42c798c119016cd inherit pub_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a34df1f581c5e2b4ab42c798c119016cd"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsA</b> (<a class="el" href="a26127.html">UClass</a> *cmp) const</td></tr>
+<tr class="separator:a34df1f581c5e2b4ab42c798c119016cd inherit pub_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44d9b582a01529ceb894672dc098fe1d inherit pub_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a44d9b582a01529ceb894672dc098fe1d"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ProcessEvent</b> (class <a class="el" href="a26131.html">UFunction</a> *function, void *parms)</td></tr>
+<tr class="separator:a44d9b582a01529ceb894672dc098fe1d inherit pub_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adceb829afb1014c0909f12b3d355d7a7 inherit pub_methods_a26095"><td class="memItemLeft" align="right" valign="top"><a id="adceb829afb1014c0909f12b3d355d7a7"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>ExecuteUbergraph</b> (int EntryPoint)</td></tr>
+<tr class="separator:adceb829afb1014c0909f12b3d355d7a7 inherit pub_methods_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_attribs_a26095"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_a26095')"><img src="closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="a26095.html">SDK::UObject</a></td></tr>
+<tr class="memitem:a623933b00f3680f61f807c4d969c7e72 inherit pub_static_attribs_a26095"><td class="memItemLeft" align="right" valign="top"><a id="a623933b00f3680f61f807c4d969c7e72"></a>
+static <a class="el" href="a25819.html">FUObjectArray</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>GObjects</b> = nullptr</td></tr>
+<tr class="separator:a623933b00f3680f61f807c4d969c7e72 inherit pub_static_attribs_a26095"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a04023.html">UFrontendHudComponent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:51 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a04023.html">UGameNarrationComponent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:26:19 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

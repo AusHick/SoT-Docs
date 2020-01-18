@@ -1,7 +1,6 @@
 var a13275 =
 [
-    [ "Desc", "a13275.html#aa786b961172df3c3aba92049e7d03763", null ],
-    [ "Feature", "a13275.html#a8d7e357f875f9947e1238010a561ec0f", null ],
-    [ "UnknownData00", "a13275.html#ab5e02ddffbbb0ef42ce80f3866046ffa", null ],
-    [ "Weight", "a13275.html#adccf2acc5282e2c9a6c92ee47bd9a138", null ]
+    [ "SprintAccelAmp", "a13275.html#a2511a62a761c9e422f854b702adc36fe", null ],
+    [ "SprintSpdAmp", "a13275.html#ab39755938e9e00edb740ccc4158b6ee0", null ],
+    [ "TurnSpeedScalar", "a13275.html#a830728e03101316fee036e6df91114dc", null ]
 ];

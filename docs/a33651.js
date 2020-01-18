@@ -1,6 +1,6 @@
 var a33651 =
 [
-    [ "AnimState", "a33651.html#ae31c1eca566563c131c0981414dc9c3f", null ],
-    [ "AnimTimeout", "a33651.html#a9617f394254ada84eb6415478f9a7182", null ],
-    [ "UnknownData00", "a33651.html#a7032119d8deaed9039331ae87a6def7e", null ]
+    [ "StaticClass", "a33651.html#a69fb206d7b847d9fed9f97a35704944d", null ],
+    [ "NewDescriptor", "a33651.html#acbab4773777f218f90d6b5e03c645685", null ],
+    [ "UnknownData00", "a33651.html#ac5b6e4dc5b695c159d623b0619f46502", null ]
 ];

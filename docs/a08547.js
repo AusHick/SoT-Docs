@@ -1,6 +1,9 @@
 var a08547 =
 [
-    [ "StaticClass", "a08547.html#ab6c548d61e0edc70edab2e092d6f3f79", null ],
-    [ "FortOfTheDammedStrongholdKey", "a08547.html#ad799ab357a4b1052196d2c8653edd941", null ],
-    [ "StandardStrongholdKey", "a08547.html#a5d3f4624196d74df156641b684a5d82a", null ]
+    [ "StaticClass", "a08547.html#a546361bf673e116d28ddfe219103b866", null ],
+    [ "DespawnAllOnDeath", "a08547.html#a8d51cb660f1bce23251441113632c0f4", null ],
+    [ "MaxTotalAIFromSummonAbility", "a08547.html#af30b139ec6d2ab2113adb46fc32cd3f5", null ],
+    [ "NumToSpawn", "a08547.html#a1024d5583fff6ecc93ac9a6a93e74c53", null ],
+    [ "SummonSpawner", "a08547.html#a5f55d3038f5e2dc2e2ad7ba5e91c962f", null ],
+    [ "UnknownData00", "a08547.html#a69624735de1814b89b1ff189b8a49bc6", null ]
 ];

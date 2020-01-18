@@ -1,5 +1,7 @@
 var a34367 =
 [
-    [ "ActorClass", "a34367.html#a4ce33d8fc7081a5a6d0f2382824170a4", null ],
-    [ "DamagePerDistance", "a34367.html#abace9e4b3e4bcd46b24b75f6e2fcd626", null ]
+    [ "StaticClass", "a34367.html#aaf9a9c845d7b183371c81b8d5822d7e4", null ],
+    [ "UnknownData00", "a34367.html#a09b623a994586ebe98b0d2b300cce0be", null ],
+    [ "WwiseEvent", "a34367.html#af09b07c2f35fd747bd8f37e6f023c369", null ],
+    [ "WwiseEventEnd", "a34367.html#a36a7a42610e1c11a47e3166b81565075", null ]
 ];

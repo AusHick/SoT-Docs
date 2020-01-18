@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FRelativeSpawnLocationGeneratorParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIShipEncounterParamsSpawnerData Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,54 @@ $(document).ready(function(){initNavTree('a01727.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01724.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FRelativeSpawnLocationGeneratorParams Struct Reference</div>  </div>
+<div class="title">SDK::FAIShipEncounterParamsSpawnerData Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRelativeSpawnLocationGeneratorParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipEncounterParamsSpawnerData:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01725.svg" width="370" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a01725.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aba22b6372c3e773b4bbc0474bdb93bc5"><td class="memItemLeft" align="right" valign="top"><a id="aba22b6372c3e773b4bbc0474bdb93bc5"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a01723.html">FWeightedSpawnDirection</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnDirections</b></td></tr>
-<tr class="separator:aba22b6372c3e773b4bbc0474bdb93bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8fccd2ad52e7aa4217811d0a17879762"><td class="memItemLeft" align="right" valign="top"><a id="a8fccd2ad52e7aa4217811d0a17879762"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x90]</td></tr>
-<tr class="separator:a8fccd2ad52e7aa4217811d0a17879762"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3d8c8e26ba10d7861e1eaee043cc10b"><td class="memItemLeft" align="right" valign="top"><a id="ac3d8c8e26ba10d7861e1eaee043cc10b"></a>
+class <a class="el" href="a23883.html">UAISpawner</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Spawner</b></td></tr>
+<tr class="separator:ac3d8c8e26ba10d7861e1eaee043cc10b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8fed26e4de7ed79cc6b08e399bb4f74b"><td class="memItemLeft" align="right" valign="top"><a id="a8fed26e4de7ed79cc6b08e399bb4f74b"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnLocationType</b></td></tr>
+<tr class="separator:a8fed26e4de7ed79cc6b08e399bb4f74b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e9bddfff35223eaafbcd3239246278e"><td class="memItemLeft" align="right" valign="top"><a id="a1e9bddfff35223eaafbcd3239246278e"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAIShipPlayerTrackerType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ShipPlayerTrackerType</b></td></tr>
+<tr class="separator:a1e9bddfff35223eaafbcd3239246278e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abaf0c6c6f300627e8495ad7e2369cd75"><td class="memItemLeft" align="right" valign="top"><a id="abaf0c6c6f300627e8495ad7e2369cd75"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:abaf0c6c6f300627e8495ad7e2369cd75"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc38769e5757f4b737f9a6e12300e86c"><td class="memItemLeft" align="right" valign="top"><a id="adc38769e5757f4b737f9a6e12300e86c"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CaptainName</b></td></tr>
+<tr class="separator:adc38769e5757f4b737f9a6e12300e86c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7796bbf903ab937cf5fb61dcb5e5fbf0"><td class="memItemLeft" align="right" valign="top"><a id="a7796bbf903ab937cf5fb61dcb5e5fbf0"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>CanRepairDamage</b></td></tr>
+<tr class="separator:a7796bbf903ab937cf5fb61dcb5e5fbf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adac6b0359def951e57c7a62b2e7e2d3d"><td class="memItemLeft" align="right" valign="top"><a id="adac6b0359def951e57c7a62b2e7e2d3d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>CanUseCannons</b></td></tr>
+<tr class="separator:adac6b0359def951e57c7a62b2e7e2d3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a1c2eb9a77b73952a103c66ee01bb7c"><td class="memItemLeft" align="right" valign="top"><a id="a9a1c2eb9a77b73952a103c66ee01bb7c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsCaptain</b></td></tr>
+<tr class="separator:a9a1c2eb9a77b73952a103c66ee01bb7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82b0f29e1b15af6cae8345eda327cd7e"><td class="memItemLeft" align="right" valign="top"><a id="a82b0f29e1b15af6cae8345eda327cd7e"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>BelowDeck</b></td></tr>
+<tr class="separator:a82b0f29e1b15af6cae8345eda327cd7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01727.html">FRelativeSpawnLocationGeneratorParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:28 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01727.html">FAIShipEncounterParamsSpawnerData</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

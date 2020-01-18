@@ -1,4 +1,5 @@
 var a31503 =
 [
-    [ "UnknownData00", "a31503.html#aefe492ca35c8e14ea29efb76733dab8f", null ]
+    [ "DamageTypeClass", "a31503.html#ab804675c559bebacdacc090ab55fc5a2", null ],
+    [ "UnknownData00", "a31503.html#a2d553476df8a85c11e201c21c06def98", null ]
 ];

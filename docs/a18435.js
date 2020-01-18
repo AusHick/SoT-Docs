@@ -1,6 +1,5 @@
 var a18435 =
 [
-    [ "KilledBy", "a18435.html#a212ad6dd26de3b21b0a3f55871bda3f5", null ],
-    [ "UnknownData00", "a18435.html#ad958a8c59247c5f10a2cd70be6569719", null ],
-    [ "WasKilled", "a18435.html#a759342e2906e13f0c2b9abb8b9c09edd", null ]
+    [ "CatalogName", "a18435.html#a09c70730fb8aee5827a6c57e36cb2d8f", null ],
+    [ "OfferId", "a18435.html#a9cecb00ffc9c01db2d5efe92b3652b4d", null ]
 ];

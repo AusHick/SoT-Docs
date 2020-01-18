@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FROscillator Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCollisionResponseContainer Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,123 @@ $(document).ready(function(){initNavTree('a30259.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30256.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FROscillator Struct Reference</div>  </div>
+<div class="title">SDK::FCollisionResponseContainer Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FROscillator:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCollisionResponseContainer:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30257.svg" width="140" height="258"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30257.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6a730c45d6d507a192832ea8cafd7c93"><td class="memItemLeft" align="right" valign="top"><a id="a6a730c45d6d507a192832ea8cafd7c93"></a>
-struct <a class="el" href="a30255.html">FFOscillator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Pitch</b></td></tr>
-<tr class="separator:a6a730c45d6d507a192832ea8cafd7c93"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4c1b6cc76e687ef8b4135fd91c776447"><td class="memItemLeft" align="right" valign="top"><a id="a4c1b6cc76e687ef8b4135fd91c776447"></a>
-struct <a class="el" href="a30255.html">FFOscillator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Yaw</b></td></tr>
-<tr class="separator:a4c1b6cc76e687ef8b4135fd91c776447"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b14cd5434595f83967c283e09e14174"><td class="memItemLeft" align="right" valign="top"><a id="a7b14cd5434595f83967c283e09e14174"></a>
-struct <a class="el" href="a30255.html">FFOscillator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Roll</b></td></tr>
-<tr class="separator:a7b14cd5434595f83967c283e09e14174"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac743e8703af19ddba0ac07194f2ead7e"><td class="memItemLeft" align="right" valign="top"><a id="ac743e8703af19ddba0ac07194f2ead7e"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>WorldStatic</b></td></tr>
+<tr class="separator:ac743e8703af19ddba0ac07194f2ead7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a189621e4dcffd040275f058a0d52d03e"><td class="memItemLeft" align="right" valign="top"><a id="a189621e4dcffd040275f058a0d52d03e"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>WorldDynamic</b></td></tr>
+<tr class="separator:a189621e4dcffd040275f058a0d52d03e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4be18dcf78de6137dff44225c4a915e"><td class="memItemLeft" align="right" valign="top"><a id="aa4be18dcf78de6137dff44225c4a915e"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Pawn</b></td></tr>
+<tr class="separator:aa4be18dcf78de6137dff44225c4a915e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a960b1ee76c35daab5daae2932326f02f"><td class="memItemLeft" align="right" valign="top"><a id="a960b1ee76c35daab5daae2932326f02f"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Visibility</b></td></tr>
+<tr class="separator:a960b1ee76c35daab5daae2932326f02f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0015e470b8461b9d6c7e0b8d334e1bea"><td class="memItemLeft" align="right" valign="top"><a id="a0015e470b8461b9d6c7e0b8d334e1bea"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Camera</b></td></tr>
+<tr class="separator:a0015e470b8461b9d6c7e0b8d334e1bea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a7f9d830f22a2b5d92b0d410435e589"><td class="memItemLeft" align="right" valign="top"><a id="a8a7f9d830f22a2b5d92b0d410435e589"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsBody</b></td></tr>
+<tr class="separator:a8a7f9d830f22a2b5d92b0d410435e589"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1b45336c2ae87e55ae5aa224649f193"><td class="memItemLeft" align="right" valign="top"><a id="aa1b45336c2ae87e55ae5aa224649f193"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Vehicle</b></td></tr>
+<tr class="separator:aa1b45336c2ae87e55ae5aa224649f193"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff38e6f0abd5f1caeea189c5972c52fc"><td class="memItemLeft" align="right" valign="top"><a id="aff38e6f0abd5f1caeea189c5972c52fc"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Destructible</b></td></tr>
+<tr class="separator:aff38e6f0abd5f1caeea189c5972c52fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96de333077dd1c809d4cb9aded915f9a"><td class="memItemLeft" align="right" valign="top"><a id="a96de333077dd1c809d4cb9aded915f9a"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel1</b></td></tr>
+<tr class="separator:a96de333077dd1c809d4cb9aded915f9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b58a6fd76865140a97fce319ab38617"><td class="memItemLeft" align="right" valign="top"><a id="a2b58a6fd76865140a97fce319ab38617"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel2</b></td></tr>
+<tr class="separator:a2b58a6fd76865140a97fce319ab38617"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3550bd975ba683966e9ee41c11f9cec"><td class="memItemLeft" align="right" valign="top"><a id="ae3550bd975ba683966e9ee41c11f9cec"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel3</b></td></tr>
+<tr class="separator:ae3550bd975ba683966e9ee41c11f9cec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9356eff147863388e7f9ec912de923a"><td class="memItemLeft" align="right" valign="top"><a id="aa9356eff147863388e7f9ec912de923a"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel4</b></td></tr>
+<tr class="separator:aa9356eff147863388e7f9ec912de923a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80abf964d917b6922088a487d919dba6"><td class="memItemLeft" align="right" valign="top"><a id="a80abf964d917b6922088a487d919dba6"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel5</b></td></tr>
+<tr class="separator:a80abf964d917b6922088a487d919dba6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac69031d0e80a1169fff0bf0448690912"><td class="memItemLeft" align="right" valign="top"><a id="ac69031d0e80a1169fff0bf0448690912"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EngineTraceChannel6</b></td></tr>
+<tr class="separator:ac69031d0e80a1169fff0bf0448690912"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae13229183184553bcb432d8574ba42a7"><td class="memItemLeft" align="right" valign="top"><a id="ae13229183184553bcb432d8574ba42a7"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel1</b></td></tr>
+<tr class="separator:ae13229183184553bcb432d8574ba42a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac043963cad3667002b23d67a734f5a2"><td class="memItemLeft" align="right" valign="top"><a id="aac043963cad3667002b23d67a734f5a2"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel2</b></td></tr>
+<tr class="separator:aac043963cad3667002b23d67a734f5a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a633082b604e1b5ac004daef54b6d159a"><td class="memItemLeft" align="right" valign="top"><a id="a633082b604e1b5ac004daef54b6d159a"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel3</b></td></tr>
+<tr class="separator:a633082b604e1b5ac004daef54b6d159a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac30bc8ea37bf2084fa199c530dddf25"><td class="memItemLeft" align="right" valign="top"><a id="aac30bc8ea37bf2084fa199c530dddf25"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel4</b></td></tr>
+<tr class="separator:aac30bc8ea37bf2084fa199c530dddf25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a320a7fca0440ecceefbb02567eeb1068"><td class="memItemLeft" align="right" valign="top"><a id="a320a7fca0440ecceefbb02567eeb1068"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel5</b></td></tr>
+<tr class="separator:a320a7fca0440ecceefbb02567eeb1068"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafe89748a56522df1e350a77d7b99c45"><td class="memItemLeft" align="right" valign="top"><a id="aafe89748a56522df1e350a77d7b99c45"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel6</b></td></tr>
+<tr class="separator:aafe89748a56522df1e350a77d7b99c45"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3803c157282fe7030d7de2a802efb94e"><td class="memItemLeft" align="right" valign="top"><a id="a3803c157282fe7030d7de2a802efb94e"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel7</b></td></tr>
+<tr class="separator:a3803c157282fe7030d7de2a802efb94e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0254adf7966f41631eea143ebac6e276"><td class="memItemLeft" align="right" valign="top"><a id="a0254adf7966f41631eea143ebac6e276"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel8</b></td></tr>
+<tr class="separator:a0254adf7966f41631eea143ebac6e276"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d8ea9f2d5d315294ca46dad97483dbc"><td class="memItemLeft" align="right" valign="top"><a id="a4d8ea9f2d5d315294ca46dad97483dbc"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel9</b></td></tr>
+<tr class="separator:a4d8ea9f2d5d315294ca46dad97483dbc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6dd8a01748c12b623459bbe5fba94bc5"><td class="memItemLeft" align="right" valign="top"><a id="a6dd8a01748c12b623459bbe5fba94bc5"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel10</b></td></tr>
+<tr class="separator:a6dd8a01748c12b623459bbe5fba94bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae908fd2d289ab4a38b3a972271d6a05"><td class="memItemLeft" align="right" valign="top"><a id="aae908fd2d289ab4a38b3a972271d6a05"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel11</b></td></tr>
+<tr class="separator:aae908fd2d289ab4a38b3a972271d6a05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5a28cb1544939fb6125623b0c932dc42"><td class="memItemLeft" align="right" valign="top"><a id="a5a28cb1544939fb6125623b0c932dc42"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel12</b></td></tr>
+<tr class="separator:a5a28cb1544939fb6125623b0c932dc42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39b6b18743716556c16795549d240233"><td class="memItemLeft" align="right" valign="top"><a id="a39b6b18743716556c16795549d240233"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel13</b></td></tr>
+<tr class="separator:a39b6b18743716556c16795549d240233"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fded29d7c5ebaf2c5ef1a52fe2c3bf2"><td class="memItemLeft" align="right" valign="top"><a id="a7fded29d7c5ebaf2c5ef1a52fe2c3bf2"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel14</b></td></tr>
+<tr class="separator:a7fded29d7c5ebaf2c5ef1a52fe2c3bf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3fa3acc9e6aeb5c9c2064aced6f0d86b"><td class="memItemLeft" align="right" valign="top"><a id="a3fa3acc9e6aeb5c9c2064aced6f0d86b"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel15</b></td></tr>
+<tr class="separator:a3fa3acc9e6aeb5c9c2064aced6f0d86b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afdf065d877c3f9392decee8065811219"><td class="memItemLeft" align="right" valign="top"><a id="afdf065d877c3f9392decee8065811219"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel16</b></td></tr>
+<tr class="separator:afdf065d877c3f9392decee8065811219"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82c1fc7c12f7cb0e5e2a6f7cd4e5bcac"><td class="memItemLeft" align="right" valign="top"><a id="a82c1fc7c12f7cb0e5e2a6f7cd4e5bcac"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel17</b></td></tr>
+<tr class="separator:a82c1fc7c12f7cb0e5e2a6f7cd4e5bcac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb8bdd169cd180db5624a2a259534234"><td class="memItemLeft" align="right" valign="top"><a id="acb8bdd169cd180db5624a2a259534234"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionResponse &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GameTraceChannel18</b></td></tr>
+<tr class="separator:acb8bdd169cd180db5624a2a259534234"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30259.html">FROscillator</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30259.html">FCollisionResponseContainer</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:34 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

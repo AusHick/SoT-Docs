@@ -1,4 +1,5 @@
 var a17719 =
 [
-    [ "ErrorMessage", "a17719.html#a14ea6fc6ae90bb5eaae5ed437e61526d", null ]
+    [ "InputID", "a17719.html#ae07f1a3ba498601357db9f953eb2befe", null ],
+    [ "ItemBeingUsed", "a17719.html#a982280cb33a856306e6a79628658bb73", null ]
 ];

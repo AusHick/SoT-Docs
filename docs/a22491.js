@@ -1,4 +1,5 @@
 var a22491 =
 [
-    [ "UnknownData00", "a22491.html#aa0c670b6b0461f00cb67e97528192766", null ]
+    [ "SpotLightData", "a22491.html#aa15de652cb13b02016aa03aa0e235fa7", null ],
+    [ "UnknownData00", "a22491.html#a0c8a6bd08b067ec50471b1f1588c5139", null ]
 ];

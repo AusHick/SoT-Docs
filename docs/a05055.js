@@ -1,16 +1,18 @@
 var a05055 =
 [
-    [ "StaticClass", "a05055.html#a267ac2323b1953b47b0d851bf653315c", null ],
-    [ "ActivateEventHandle", "a05055.html#a6377329509bc509c037a39bec9fb188b", null ],
-    [ "ActivationSfx", "a05055.html#ab36d276080db788dbde63cda384294d1", null ],
-    [ "DeactivateEventHandle", "a05055.html#ae564766bc26b6bf79f2909ac202c56bb", null ],
-    [ "DeactivationSfx", "a05055.html#a995514cbce6b9d22774874dad4dd1b79", null ],
-    [ "EventDispatcher", "a05055.html#a8ef4033b59f41903b3d4cf1c5b31dd9a", null ],
-    [ "FullyActivatedSfx", "a05055.html#a83f4d4b49f1e8f2434194e91415e39cf", null ],
-    [ "FullyDeactivatedSfx", "a05055.html#a049d39ab834998d839f391fcd9910a30", null ],
-    [ "IsActivated", "a05055.html#aa65c79f2b52440e18f4348a43c5706f8", null ],
-    [ "RegisteredController", "a05055.html#a97fa83923f402b32978eaa6269813fca", null ],
-    [ "UnknownData00", "a05055.html#a43d74bf52fab76ece503906a9527e833", null ],
-    [ "UnknownData01", "a05055.html#a93ce4e120a5e11c13558e66dfe4ac1ae", null ],
-    [ "UnknownData02", "a05055.html#ad330a1d601febfaef1dfc1d1e5f61381", null ]
+    [ "StaticClass", "a05055.html#a596e4782bf903bafe418904cfe84ddb0", null ],
+    [ "ActiveDuration", "a05055.html#ac1449c467e27dd1d3c7c9c920f024ae0", null ],
+    [ "DefaultColour", "a05055.html#a1dffdcfdb9f3381c4422e8dc3dbfb72e", null ],
+    [ "Density", "a05055.html#a9b8b8d1637810e126cdc52cfcc9e4079", null ],
+    [ "EmergencyFadeOutDuration", "a05055.html#add82bc5e30a0fafed99dbe53999a4513", null ],
+    [ "FadeInDuration", "a05055.html#a0a8e38d9b67c057b0aad803a12f045f3", null ],
+    [ "FadeOutDuration", "a05055.html#ab6db61974f9f6d384262ea706404856d", null ],
+    [ "FogColourForSea", "a05055.html#a3ea7d14e766aac8a429147b28d394c5a", null ],
+    [ "FullyCulledDistanceFromPlayerInKm", "a05055.html#a6626283086f5b8380fb8aa1962b39f36", null ],
+    [ "HeightInKm", "a05055.html#a3bf0b03254adcae669814eb0a033a3a9", null ],
+    [ "NotCulledDistanceFromPlayerInKm", "a05055.html#a40484de726cece88216bca1853ac59a3", null ],
+    [ "RadiusXInKm", "a05055.html#ad93410e71f919729673f6c44a061ced5", null ],
+    [ "RadiusYInKm", "a05055.html#a2be6fc508223bd51835cafea2c92cb39", null ],
+    [ "TimeBetweenLocalPlayerDensityModifierUpdate", "a05055.html#afea8433adcc4872839939b1b683f231b", null ],
+    [ "UnknownData00", "a05055.html#aa63fe091e3a7a15952b07863d02c85e5", null ]
 ];

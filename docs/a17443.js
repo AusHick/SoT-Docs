@@ -1,6 +1,7 @@
 var a17443 =
 [
-    [ "StateToTransitionTo", "a17443.html#a7078e03cbdf37dfd1fb98ae4e248e105", null ],
-    [ "UnknownData00", "a17443.html#a0340a6d557d71336c992ffa0a0900179", null ],
-    [ "WeightedChance", "a17443.html#a4278207cc3b4c24ca8017414d00f3ea0", null ]
+    [ "Location", "a17443.html#a5eba89a113ff521646dfbef59de16c21", null ],
+    [ "Radius", "a17443.html#a0395cad21227887be73690744291655a", null ],
+    [ "UnknownData00", "a17443.html#a78ef9c9e26fefb12097347b5cdc65dc0", null ],
+    [ "UnknownData01", "a17443.html#a9916489948100bba8d2387a4eb1aa950", null ]
 ];

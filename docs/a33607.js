@@ -1,7 +1,6 @@
 var a33607 =
 [
-    [ "Responses", "a33607.html#a3e8532e9cd3664e3cda2d226ae659782", null ],
-    [ "SoundTag", "a33607.html#a40f0e1b5dc6d10508ff3240c3055910e", null ],
-    [ "TimeBeforeForgotten", "a33607.html#aced1a5132d659d69cda846292e77e328", null ],
-    [ "UnknownData00", "a33607.html#ab85c1936ccf949bbe376f95add48d83a", null ]
+    [ "StaticClass", "a33607.html#acde8844549f710f88efaa57b1883bf3e", null ],
+    [ "FailRoamingStates", "a33607.html#a27f5a30f08af4e3e43d222716d59616c", null ],
+    [ "SuccessRoamingStates", "a33607.html#a40fc8edd7e8b68d76e7223aa112884c0", null ]
 ];

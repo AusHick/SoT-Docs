@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FContestZoneVendorShipData Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCrew Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,45 @@ $(document).ready(function(){initNavTree('a14071.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14068.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FContestZoneVendorShipData Struct Reference</div>  </div>
+<div class="title">SDK::FCrew Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FContestZoneVendorShipData:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCrew:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14069.svg" width="386" height="243"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a14069.svg" width="651" height="471"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a78a2b81e272ac7b79f53afa7ad50873d"><td class="memItemLeft" align="right" valign="top"><a id="a78a2b81e272ac7b79f53afa7ad50873d"></a>
-<a class="el" href="a25691.html">TAssetPtr</a>&lt; class <a class="el" href="a25915.html">UClass</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>VendorShipToSpawn</b></td></tr>
-<tr class="separator:a78a2b81e272ac7b79f53afa7ad50873d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab9a5593d6a61efa24bb6592d5043489e"><td class="memItemLeft" align="right" valign="top"><a id="ab9a5593d6a61efa24bb6592d5043489e"></a>
-struct <a class="el" href="a26191.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ContestZoneWorldLocation</b></td></tr>
-<tr class="separator:ab9a5593d6a61efa24bb6592d5043489e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5baf7c4bf9fd7c1ff7265bfa31dc7b99"><td class="memItemLeft" align="right" valign="top"><a id="a5baf7c4bf9fd7c1ff7265bfa31dc7b99"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CrewId</b></td></tr>
+<tr class="separator:a5baf7c4bf9fd7c1ff7265bfa31dc7b99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af27cf5c1bfd5d7c023c24c2f7b600ea0"><td class="memItemLeft" align="right" valign="top"><a id="af27cf5c1bfd5d7c023c24c2f7b600ea0"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SessionId</b></td></tr>
+<tr class="separator:af27cf5c1bfd5d7c023c24c2f7b600ea0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff4582addf86cec03a10f6b6155aad06"><td class="memItemLeft" align="right" valign="top"><a id="aff4582addf86cec03a10f6b6155aad06"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a26655.html">APlayerState</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Players</b></td></tr>
+<tr class="separator:aff4582addf86cec03a10f6b6155aad06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e0f03a0d9e56f1274c3b0194026367b"><td class="memItemLeft" align="right" valign="top"><a id="a1e0f03a0d9e56f1274c3b0194026367b"></a>
+struct <a class="el" href="a34571.html">FCrewSessionTemplate</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CrewSessionTemplate</b></td></tr>
+<tr class="separator:a1e0f03a0d9e56f1274c3b0194026367b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abec82d5ac0dd9a3e5d302dae0945cc08"><td class="memItemLeft" align="right" valign="top"><a id="abec82d5ac0dd9a3e5d302dae0945cc08"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LiveryID</b></td></tr>
+<tr class="separator:abec82d5ac0dd9a3e5d302dae0945cc08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68812ca2f67e0e4b6b149036fcd5f9bf"><td class="memItemLeft" align="right" valign="top"><a id="a68812ca2f67e0e4b6b149036fcd5f9bf"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
+<tr class="separator:a68812ca2f67e0e4b6b149036fcd5f9bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14071.html">FContestZoneVendorShipData</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14071.html">FCrew</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:34 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

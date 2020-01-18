@@ -1,8 +1,9 @@
 var a01671 =
 [
-    [ "StaticClass", "a01671.html#afc9689d06472477149a25158e07eabd4", null ],
-    [ "IsCaptainPresentKey", "a01671.html#a91560831df95ea586b24382de5259d0c", null ],
-    [ "ShouldSailForwardKey", "a01671.html#afb7712f944ec506400788f03942706dc", null ],
-    [ "TimeToSailForwardKey", "a01671.html#a99668bf2787b2324642787599706836d", null ],
-    [ "UnknownData00", "a01671.html#a568f247f70801e7f919b31dd50d61887", null ]
+    [ "StaticClass", "a01671.html#affae968aa6765475795a8164add65efb", null ],
+    [ "AnchorDynamicsParams", "a01671.html#ab9813ff222929e6e423b46aa4e221b63", null ],
+    [ "BTAsset", "a01671.html#a82ec7da9191994632c930a563945046e", null ],
+    [ "StatusEffectManagerComponent", "a01671.html#a34540daa54e8b95cc3459c10d8c649bd", null ],
+    [ "UnknownData00", "a01671.html#a1c9b1c4edcc16bd18ee2dd2faaca014a", null ],
+    [ "UnknownData01", "a01671.html#a16b1b5b5e0934268490e8e876560ed5b", null ]
 ];

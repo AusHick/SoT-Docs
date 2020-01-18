@@ -1,9 +1,7 @@
 var a13415 =
 [
-    [ "ContestArenaName", "a13415.html#aa17eb7d2d060edb4fcfbc14d72582e85", null ],
-    [ "ContestVoyageTime", "a13415.html#aa393815fcc78badbff145216ba280a25", null ],
-    [ "IsSharableVoyage", "a13415.html#a0edba5ab875b31eebf41608a757856b6", null ],
-    [ "ScoreSystemToLoad", "a13415.html#a9a649a059ad715adf2242851592154c3", null ],
-    [ "UnknownData00", "a13415.html#a34aea01ee57bcbe88c5f9b17a60bda68", null ],
-    [ "WeightedContestZonesToActivate", "a13415.html#adab3e3402875c53cf5faa9a681b81185", null ]
+    [ "Chapters", "a13415.html#a55061e88a1c0c34cf188ac41c9e6df15", null ],
+    [ "NumChapters", "a13415.html#a6dbbefc29a26da97d8b2350b936fc76c", null ],
+    [ "UnknownData00", "a13415.html#a4b9780fefddd3b1fe0aeb6ff0e7ec331", null ],
+    [ "UseProceduralQuestRewards", "a13415.html#acee21ce23156eba7bda0595b73a4f743", null ]
 ];

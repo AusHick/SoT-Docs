@@ -1,6 +1,6 @@
 var a22999 =
 [
-    [ "Turn", "a22999.html#ab4375c75af182e06f1f92fc1f663da1b", null ],
-    [ "TurnFast", "a22999.html#abf88dd70c630cf18de27bbf658005bb8", null ],
-    [ "TurnFast180", "a22999.html#a0868e744aa5c6199d7e04cee4e8e1f9d", null ]
+    [ "PetCustomizationEntitlementId", "a22999.html#a9b1f5ff9cf864fe7ed8e766b03c21e2c", null ],
+    [ "PetEntitlementId", "a22999.html#a06ea0a94a5053d36eb95449046edaea9", null ],
+    [ "PetName", "a22999.html#a21b1ad10ff1bdb6ca7912c433720a2e8", null ]
 ];

@@ -1,6 +1,6 @@
 var a34611 =
 [
-    [ "BackgroundImage", "a34611.html#aa19fd85a7f60d4f2ce3fcefc031d1139", null ],
-    [ "FillImage", "a34611.html#a3deae2e12e93fb766b72fd732d2ff734", null ],
-    [ "MarqueeImage", "a34611.html#adb917ad636ad7e6b39a1c7aa54c95f3c", null ]
+    [ "DamageLevel", "a34611.html#aa8bc958debe1c989c6245ab0392e9ee7", null ],
+    [ "DamageZone", "a34611.html#a97c3856cb57a66ce46e7a430d9529159", null ],
+    [ "UnknownData00", "a34611.html#a21dbbe67fa9d5c6b268ddb33bf21c3f6", null ]
 ];

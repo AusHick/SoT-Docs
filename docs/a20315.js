@@ -1,5 +1,7 @@
 var a20315 =
 [
-    [ "DisplayPeriod", "a20315.html#a1e6722fbc91cbaa76ff9dc7adb4dce9d", null ],
-    [ "TimeTillShutdown", "a20315.html#aeadbe4f5180abf63f41eada14dc840b0", null ]
+    [ "InputID", "a20315.html#a889f0c0fde2e044e8606ccde2f138b41", null ],
+    [ "IsLightOn", "a20315.html#a95693d0934ae60cdd63a21384db6875d", null ],
+    [ "Item", "a20315.html#a3e44117cf3a1ffcb9537b6f8413a064f", null ],
+    [ "UnknownData00", "a20315.html#a5ca601a9f847e05afdc127511c64cca8", null ]
 ];

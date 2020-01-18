@@ -1,13 +1,11 @@
 var a08235 =
 [
-    [ "OnRep_CurrentAudioState", "a08235.html#a124b6b78f566b4f99cf032608e14a544", null ],
-    [ "StaticClass", "a08235.html#ab44c9389a7c5af08424cd8333d281f49", null ],
-    [ "BossMusicZone", "a08235.html#acb678adfc833590887ab6338e3a2baf7", null ],
-    [ "CurrentAudioState", "a08235.html#a7357d29e996ce508ae9ff2b9851b637b", null ],
-    [ "DoorClosesWhenPlayersLeaveVicinity", "a08235.html#a6ad48554d087f97dad02c058bdc214ec", null ],
-    [ "EmitterOffset", "a08235.html#ab627c9d4a004b4e4670c342ce9ac5410", null ],
-    [ "FortBellOneshot", "a08235.html#a4b09c36c79fbe2e6133c8e60f73f6b64", null ],
-    [ "FortBellPool", "a08235.html#a01138d0f051fa78a29508f77c08309bd", null ],
-    [ "PreBossMusicZone", "a08235.html#a672a5032cf66b06d0f3e69f025532834", null ],
-    [ "UnknownData00", "a08235.html#a110d7a3c138a34b2e1d7a30cf9bdf261", null ]
+    [ "StaticClass", "a08235.html#a791e392a165f03785bc806b5710f616a", null ],
+    [ "SlidingDoorClosingAdditionalStopSound", "a08235.html#a0f1f97b0451fb2c8707c7b9c6addc893", null ],
+    [ "SlidingDoorClosingLoopStart", "a08235.html#a7cd27a1acf8f492312c3e5d09c0928e4", null ],
+    [ "SlidingDoorClosingLoopStop", "a08235.html#a2adb351f3f7d74d3710def56cdfd1e36", null ],
+    [ "SlidingDoorOpeningAdditionalStopSound", "a08235.html#a3d01a3d238e0b72f173c5f78a1168c89", null ],
+    [ "SlidingDoorOpeningLoopStart", "a08235.html#a6984ca7c679e925e1729449899904885", null ],
+    [ "SlidingDoorOpeningLoopStop", "a08235.html#a556fa63f0d6aac55ba0e1ce10115d5f3", null ],
+    [ "SlidingDoorPool", "a08235.html#a51c502642fbf31277fee2b52c92aa8fd", null ]
 ];

@@ -1,6 +1,5 @@
 var a33987 =
 [
-    [ "MaterialReferences", "a33987.html#a965369adc20cf87881d11e3e538bb9b4", null ],
-    [ "Meshes", "a33987.html#aa9b67623f63cd26819d176fb21343a93", null ],
-    [ "ScalarParameters", "a33987.html#a6d4df4c972d9d04979ea4b7bdc3a1684", null ]
+    [ "FeedingInteractionId", "a33987.html#a92ace6faeb086998d676060b90855bbf", null ],
+    [ "IgnoringPlayerId", "a33987.html#a506fa4696717e3c0c9e70c60f7d2a9de", null ]
 ];

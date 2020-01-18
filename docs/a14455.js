@@ -1,4 +1,5 @@
 var a14455 =
 [
-    [ "ClientSetupResponseTimeout", "a14455.html#a1b5b5ee43d59eabd4f2eac0f0bc93a25", null ]
+    [ "Holes", "a14455.html#abc2d4c73212b64b905a0ac775b86f6d0", null ],
+    [ "IslandName", "a14455.html#acadff051123c5a681b58c733aa379bf6", null ]
 ];

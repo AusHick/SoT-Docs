@@ -1,4 +1,5 @@
 var a01879 =
 [
-    [ "StaticClass", "a01879.html#a80f02f5e6e841d96018c33b5af3778a2", null ]
+    [ "CampaignDataAsset", "a01879.html#a7f73484f868b37885df405f2e79f4fef", null ],
+    [ "Feature", "a01879.html#ae14bf631edebffa660cc4c3635fd7c1c", null ]
 ];

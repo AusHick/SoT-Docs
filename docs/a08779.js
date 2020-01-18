@@ -1,5 +1,6 @@
 var a08779 =
 [
-    [ "StaticClass", "a08779.html#a7eaf66bd4322d9ce4f254c09d38eba69", null ],
-    [ "Desc", "a08779.html#ac1bcdf26f1cb5a5478c1bd732acd063e", null ]
+    [ "StaticClass", "a08779.html#ab58f654b34550b3ff8a129ba183aa3dc", null ],
+    [ "Definition", "a08779.html#aac5180df179b7583365838a02a58cbaf", null ],
+    [ "UnknownData00", "a08779.html#a0d6e5a35b7a183519251c70abcf4a8ac", null ]
 ];

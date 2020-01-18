@@ -1,7 +1,7 @@
 var a24463 =
 [
-    [ "StaticClass", "a24463.html#a5745612cd022f5782dcbbc8ee02f37c3", null ],
-    [ "Interactable", "a24463.html#a29b1aec6f131a772d7adefe4ce9afc67", null ],
-    [ "TargetForInteractable", "a24463.html#abec2ded8471d20992c6cc2aa0397dd18", null ],
-    [ "TargetRelativeAimVector", "a24463.html#a2d083092b7ed61273a74cf07b036ad57", null ]
+    [ "StaticClass", "a24463.html#a05030be42041e4bb640f4a2718365871", null ],
+    [ "MaxNumLoops", "a24463.html#acc18627c0ff26d1a39102446aaa3e7e0", null ],
+    [ "MinNumLoops", "a24463.html#ad7694404329d833c3b0f34d772449877", null ],
+    [ "RandomNumLoopCurve", "a24463.html#aba469c4f07312475ad25241938b04104", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FConditionalStat Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FPetAnimationDataRoaming Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a15891.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15888.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FConditionalStat Struct Reference</div>  </div>
+<div class="title">SDK::FPetAnimationDataRoaming Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FConditionalStat:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPetAnimationDataRoaming:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,26 +100,65 @@ $(document).ready(function(){initNavTree('a15891.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5e3fd343a1ad060f4010ae8d89ef85b4"><td class="memItemLeft" align="right" valign="top"><a id="a5e3fd343a1ad060f4010ae8d89ef85b4"></a>
-struct <a class="el" href="a00567.html">FPlayerStat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Stat</b></td></tr>
-<tr class="separator:a5e3fd343a1ad060f4010ae8d89ef85b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4bc387c5b1a03c2c22ed23d18f6ee5d"><td class="memItemLeft" align="right" valign="top"><a id="af4bc387c5b1a03c2c22ed23d18f6ee5d"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EConditionalStatType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>StatType</b></td></tr>
-<tr class="separator:af4bc387c5b1a03c2c22ed23d18f6ee5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc01e4f4074975c24603ead4077b9836"><td class="memItemLeft" align="right" valign="top"><a id="afc01e4f4074975c24603ead4077b9836"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:afc01e4f4074975c24603ead4077b9836"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad91ad76190461a751c49e1381e8df8c5"><td class="memItemLeft" align="right" valign="top"><a id="ad91ad76190461a751c49e1381e8df8c5"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a04311.html">UStatCondition</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Conditions</b></td></tr>
-<tr class="separator:ad91ad76190461a751c49e1381e8df8c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7b1200b54dff90233511c49d22f515d"><td class="memItemLeft" align="right" valign="top"><a id="af7b1200b54dff90233511c49d22f515d"></a>
+struct <a class="el" href="a15887.html">FWeightedPetAnimations</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WeightedIdle</b></td></tr>
+<tr class="separator:af7b1200b54dff90233511c49d22f515d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae54ddf0c1f94845cb46f7052f028546a"><td class="memItemLeft" align="right" valign="top"><a id="ae54ddf0c1f94845cb46f7052f028546a"></a>
+class <a class="el" href="a11843.html">UPetRoamingAnimationStateDefinitionsDataAsset</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>RoamingAnimationStateDefinitionsAsset</b></td></tr>
+<tr class="separator:ae54ddf0c1f94845cb46f7052f028546a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7e22b400424b6296c8321c1d47d58b01"><td class="memItemLeft" align="right" valign="top"><a id="a7e22b400424b6296c8321c1d47d58b01"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Locomotion_In</b></td></tr>
+<tr class="separator:a7e22b400424b6296c8321c1d47d58b01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad00f80e966dc1232ef9b465476935dc1"><td class="memItemLeft" align="right" valign="top"><a id="ad00f80e966dc1232ef9b465476935dc1"></a>
+class <a class="el" href="a27747.html">UBlendSpace1D</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Locomotion</b></td></tr>
+<tr class="separator:ad00f80e966dc1232ef9b465476935dc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aafb2575091cde46f0cb7ac58d8261071"><td class="memItemLeft" align="right" valign="top"><a id="aafb2575091cde46f0cb7ac58d8261071"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Locomotion_Out</b></td></tr>
+<tr class="separator:aafb2575091cde46f0cb7ac58d8261071"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a46e67b1019caab3e3cb81467df672c65"><td class="memItemLeft" align="right" valign="top"><a id="a46e67b1019caab3e3cb81467df672c65"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Locomotion_Scared</b></td></tr>
+<tr class="separator:a46e67b1019caab3e3cb81467df672c65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a8d50a232f99dc03fd2cae7d6335f7d"><td class="memItemLeft" align="right" valign="top"><a id="a8a8d50a232f99dc03fd2cae7d6335f7d"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Locomotion_Sad_Additive</b></td></tr>
+<tr class="separator:a8a8d50a232f99dc03fd2cae7d6335f7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15e77d5d2fda49f2f0456ec63fed79ae"><td class="memItemLeft" align="right" valign="top"><a id="a15e77d5d2fda49f2f0456ec63fed79ae"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TurnLeft</b></td></tr>
+<tr class="separator:a15e77d5d2fda49f2f0456ec63fed79ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac16f456f9519dd5dfc8fd00298f2015"><td class="memItemLeft" align="right" valign="top"><a id="aac16f456f9519dd5dfc8fd00298f2015"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TurnRight</b></td></tr>
+<tr class="separator:aac16f456f9519dd5dfc8fd00298f2015"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5e2f66f9040cdb608b01c12c7b04aa3"><td class="memItemLeft" align="right" valign="top"><a id="ad5e2f66f9040cdb608b01c12c7b04aa3"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Arrive</b></td></tr>
+<tr class="separator:ad5e2f66f9040cdb608b01c12c7b04aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15452744102cd947188182036ec7fc38"><td class="memItemLeft" align="right" valign="top"><a id="a15452744102cd947188182036ec7fc38"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Exit</b></td></tr>
+<tr class="separator:a15452744102cd947188182036ec7fc38"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1acc80b5b430d7747516a1a8818d5873"><td class="memItemLeft" align="right" valign="top"><a id="a1acc80b5b430d7747516a1a8818d5873"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>LandingLoop</b></td></tr>
+<tr class="separator:a1acc80b5b430d7747516a1a8818d5873"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac33655a71daf68dd19d521d6bdb7f816"><td class="memItemLeft" align="right" valign="top"><a id="ac33655a71daf68dd19d521d6bdb7f816"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Landing_Out</b></td></tr>
+<tr class="separator:ac33655a71daf68dd19d521d6bdb7f816"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a566015a729e28c5db31f98c147e4a593"><td class="memItemLeft" align="right" valign="top"><a id="a566015a729e28c5db31f98c147e4a593"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TakingOff_In</b></td></tr>
+<tr class="separator:a566015a729e28c5db31f98c147e4a593"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3239151a2c6d847f2672c4a464220811"><td class="memItemLeft" align="right" valign="top"><a id="a3239151a2c6d847f2672c4a464220811"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TakingOffLoop</b></td></tr>
+<tr class="separator:a3239151a2c6d847f2672c4a464220811"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6a088d1f1c2b2da10bc9823b950e21ea"><td class="memItemLeft" align="right" valign="top"><a id="a6a088d1f1c2b2da10bc9823b950e21ea"></a>
+class <a class="el" href="a27747.html">UBlendSpace1D</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Flying</b></td></tr>
+<tr class="separator:a6a088d1f1c2b2da10bc9823b950e21ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a299e3e324048c35c6ecd1c617052231e"><td class="memItemLeft" align="right" valign="top"><a id="a299e3e324048c35c6ecd1c617052231e"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Flying_Scared</b></td></tr>
+<tr class="separator:a299e3e324048c35c6ecd1c617052231e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15891.html">FConditionalStat</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15891.html">FPetAnimationDataRoaming</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:43 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

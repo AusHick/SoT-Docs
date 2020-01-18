@@ -1,7 +1,10 @@
 var a16239 =
 [
-    [ "ActionActivationMode", "a16239.html#a16c757c35011ee6b7b46011be38035a8", null ],
-    [ "NumActionsToSelect", "a16239.html#a9a97aed83fef3b98c71f924c8acb0df4", null ],
-    [ "NumTriggersToSelect", "a16239.html#a3631fadf55f7581f91990d9b6f2cf9f3", null ],
-    [ "UnknownData00", "a16239.html#a0f6d2fdda0f407ff2d8017dbd24c9df1", null ]
+    [ "Id", "a16239.html#abe5e3f0351fa4370daa8e652412ab8ea", null ],
+    [ "ImagePath", "a16239.html#af672b144b53d9936a799f7641aba4b80", null ],
+    [ "LockedImagePath", "a16239.html#abe70cda50b91618c45ca94b3994b2310", null ],
+    [ "RewardId", "a16239.html#abd8f943b2dbf0ed200d4f1156e04e543", null ],
+    [ "UnknownData00", "a16239.html#a7fea7328ce354f06cfa5afb96c04ddee", null ],
+    [ "UnlockAtNumCriteriaCompleted", "a16239.html#a7b8cb7b079e952085eaefb1bcce20f9e", null ],
+    [ "UnlockCriteria", "a16239.html#a66ccbb896872ee9f0b9a9df5ad27418a", null ]
 ];

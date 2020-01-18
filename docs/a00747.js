@@ -1,6 +1,7 @@
 var a00747 =
 [
-    [ "FloatProp", "a00747.html#a3c9378544e769d0f6a7d8885506879b1", null ],
-    [ "InnerStruct", "a00747.html#abbeb259bbc18bf4e21fa9ba3c56f8044", null ],
-    [ "UnknownData00", "a00747.html#aa9fdef31763c0ab455f378910b1e8c66", null ]
+    [ "Id", "a00747.html#a3158743e0314b8ea522ab2e151aadf58", null ],
+    [ "Type", "a00747.html#a22f7e665663aa1dfe3999bf0350dc371", null ],
+    [ "UnknownData00", "a00747.html#ae2e24a3ad281be5c83d3757c89359bc3", null ],
+    [ "UnknownData01", "a00747.html#aad53df0a8234932a2c5770424426c766", null ]
 ];

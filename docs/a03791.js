@@ -1,12 +1,7 @@
 var a03791 =
 [
-    [ "StaticClass", "a03791.html#a4a3b1e20a200677b0ce96411f6d03e55", null ],
-    [ "CrouchedWalkingNoiseRange", "a03791.html#a978e9c51f5b26270f3636b578572a133", null ],
-    [ "JumpNoiseRange", "a03791.html#a4e9e5dd0601aa1ee691e8716a4d88298", null ],
-    [ "LandNoiseRange", "a03791.html#aa1837dc8102c52cd119cbded3d5b700b", null ],
-    [ "MinSpeedToTriggerLandedEvent", "a03791.html#a59acc83252d12c01a6f92e4f423456df", null ],
-    [ "MovementTag", "a03791.html#a299c3ff4083ca77bc131df947f0a71fc", null ],
-    [ "MovingInWaterNoiseRange", "a03791.html#a6b7233ef65bc945981f89f796107eae2", null ],
-    [ "UnknownData00", "a03791.html#aa891ba944184d12ac026f50e0ef4b36d", null ],
-    [ "WalkingSpeedToNoiseRange", "a03791.html#a23fa56bf781bfe03d8e68e605d6f802a", null ]
+    [ "GenerateClothingItems", "a03791.html#a0618a38cd5ec37c00dda07495cab4d95", null ],
+    [ "GenerateSetOfPirates", "a03791.html#a3ad80a3ca43c1ed102d178067c948877", null ],
+    [ "RefreshCurrentPirateStatus", "a03791.html#af9c87d83fe348e86ee378eccca3fdd8f", null ],
+    [ "StaticClass", "a03791.html#a3ed9018c14f07d4ebf76c3d1c8719b24", null ]
 ];

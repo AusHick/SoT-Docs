@@ -1,6 +1,7 @@
 var a12023 =
 [
-    [ "GetSecondsSinceAnimationStarted", "a12023.html#a3127a32b2248b6315df1d85395778505", null ],
-    [ "IsAnimating", "a12023.html#afa34852da66a069594c3032f2730f966", null ],
-    [ "StaticClass", "a12023.html#ad624d1eaeb4be14837d8d8d9259c3749", null ]
+    [ "StaticClass", "a12023.html#a6922121393162992dd81bfebfce82aac", null ],
+    [ "Desc", "a12023.html#a6e9c9679ef24d7d80e9db6353d582140", null ],
+    [ "Params", "a12023.html#a0b438ca70f731a86778466291f862a41", null ],
+    [ "UnknownData00", "a12023.html#a782521ecb213230a1e7f5c2c94b17a1a", null ]
 ];

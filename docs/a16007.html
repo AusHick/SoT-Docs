@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FEncounterStatus Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FBowSplashProbe Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a16007.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a16004.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FEncounterStatus Struct Reference</div>  </div>
+<div class="title">SDK::FBowSplashProbe Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEncounterStatus:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBowSplashProbe:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,23 +100,50 @@ $(document).ready(function(){initNavTree('a16007.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a3648b68b72162c5ca5aa34d2e27585d8"><td class="memItemLeft" align="right" valign="top"><a id="a3648b68b72162c5ca5aa34d2e27585d8"></a>
-class <a class="el" href="a26343.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>EncounterListenerActor</b></td></tr>
-<tr class="separator:a3648b68b72162c5ca5aa34d2e27585d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae86c65097df676353abf18fc8ae63fd5"><td class="memItemLeft" align="right" valign="top"><a id="ae86c65097df676353abf18fc8ae63fd5"></a>
-struct <a class="el" href="a15999.html">FEncounter</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Encounter</b></td></tr>
-<tr class="separator:ae86c65097df676353abf18fc8ae63fd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4f6f1e06fa76ae3de7208151726ef911"><td class="memItemLeft" align="right" valign="top"><a id="a4f6f1e06fa76ae3de7208151726ef911"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:a4f6f1e06fa76ae3de7208151726ef911"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15a2594d42726c02f7c7b368a911a7f2"><td class="memItemLeft" align="right" valign="top"><a id="a15a2594d42726c02f7c7b368a911a7f2"></a>
+struct <a class="el" href="a36003.html">FWaterSplashProbe</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Probe</b></td></tr>
+<tr class="separator:a15a2594d42726c02f7c7b368a911a7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8f93729f6e0e1c3475a4407206b43f4"><td class="memItemLeft" align="right" valign="top"><a id="aa8f93729f6e0e1c3475a4407206b43f4"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ProbeSamplingTime</b></td></tr>
+<tr class="separator:aa8f93729f6e0e1c3475a4407206b43f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acc4fcd247742ec11f54d0623f1199eaa"><td class="memItemLeft" align="right" valign="top"><a id="acc4fcd247742ec11f54d0623f1199eaa"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TimeBetweenProbeVfx</b></td></tr>
+<tr class="separator:acc4fcd247742ec11f54d0623f1199eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca9f00ae43534d11dae7b7b00253151e"><td class="memItemLeft" align="right" valign="top"><a id="aca9f00ae43534d11dae7b7b00253151e"></a>
+class <a class="el" href="a26095.html">UObject</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ParticleSystem</b></td></tr>
+<tr class="separator:aca9f00ae43534d11dae7b7b00253151e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8a31d6168962c905d0a8bebceb59055"><td class="memItemLeft" align="right" valign="top"><a id="aa8a31d6168962c905d0a8bebceb59055"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnAttached</b></td></tr>
+<tr class="separator:aa8a31d6168962c905d0a8bebceb59055"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a973915716a4169e8d0d0eb9107fd33ab"><td class="memItemLeft" align="right" valign="top"><a id="a973915716a4169e8d0d0eb9107fd33ab"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AttachToWaterSurface</b></td></tr>
+<tr class="separator:a973915716a4169e8d0d0eb9107fd33ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1bb88771e2cb36097a8bdfe68892d81a"><td class="memItemLeft" align="right" valign="top"><a id="a1bb88771e2cb36097a8bdfe68892d81a"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAttachLocation &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SplashAttachType</b></td></tr>
+<tr class="separator:a1bb88771e2cb36097a8bdfe68892d81a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54d554b6459c19675348128fd80ff479"><td class="memItemLeft" align="right" valign="top"><a id="a54d554b6459c19675348128fd80ff479"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EShipAlignmentType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ShipAlignmentType</b></td></tr>
+<tr class="separator:a54d554b6459c19675348128fd80ff479"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7ac30fa0d029d77841e1c5f924e0a7d"><td class="memItemLeft" align="right" valign="top"><a id="ad7ac30fa0d029d77841e1c5f924e0a7d"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>VfxSpawnOffset</b></td></tr>
+<tr class="separator:ad7ac30fa0d029d77841e1c5f924e0a7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab5a87a6986d5bfd0cdae9da57920bb6"><td class="memItemLeft" align="right" valign="top"><a id="aab5a87a6986d5bfd0cdae9da57920bb6"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>Enabled</b></td></tr>
+<tr class="separator:aab5a87a6986d5bfd0cdae9da57920bb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73d02a83e759d8e964a2f21e705c3449"><td class="memItemLeft" align="right" valign="top"><a id="a73d02a83e759d8e964a2f21e705c3449"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a73d02a83e759d8e964a2f21e705c3449"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8977fe71677285c571cf75c7cdf06548"><td class="memItemLeft" align="right" valign="top"><a id="a8977fe71677285c571cf75c7cdf06548"></a>
+class <a class="el" href="a26755.html">UParticleSystemComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentlyPlayingVFX</b></td></tr>
+<tr class="separator:a8977fe71677285c571cf75c7cdf06548"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16007.html">FEncounterStatus</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a16007.html">FBowSplashProbe</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:32 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

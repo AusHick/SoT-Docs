@@ -1,5 +1,5 @@
 var a22635 =
 [
-    [ "PickupableObject", "a22635.html#a9269ba9a4fcd32c9b90640d13fb997ea", null ],
-    [ "UnknownData00", "a22635.html#a0fb45931479a294d2407641161f58a43", null ]
+    [ "Actor", "a22635.html#a06bbf5e4710b791b45a5db4a1ae58d7b", null ],
+    [ "Ship", "a22635.html#aec897151d9e2d567dd53629b9963efd4", null ]
 ];

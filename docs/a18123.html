@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FPremiumStoreBundleSetView Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FChestEntitlementViewModel Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a18123.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a18120.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FPremiumStoreBundleSetView Struct Reference</div>  </div>
+<div class="title">SDK::FChestEntitlementViewModel Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FPremiumStoreBundleSetView:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FChestEntitlementViewModel:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,35 +100,56 @@ $(document).ready(function(){initNavTree('a18123.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9f33b69c3e8e5e275fc64772a0bdb139"><td class="memItemLeft" align="right" valign="top"><a id="a9f33b69c3e8e5e275fc64772a0bdb139"></a>
-struct <a class="el" href="a26071.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Id</b></td></tr>
-<tr class="separator:a9f33b69c3e8e5e275fc64772a0bdb139"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb0ae7965281ea839b9c92cb29b9eb48"><td class="memItemLeft" align="right" valign="top"><a id="adb0ae7965281ea839b9c92cb29b9eb48"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PageTitle</b></td></tr>
-<tr class="separator:adb0ae7965281ea839b9c92cb29b9eb48"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af6b31bd05691faf2934a0bdfb76e26c8"><td class="memItemLeft" align="right" valign="top"><a id="af6b31bd05691faf2934a0bdfb76e26c8"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PageIcon</b></td></tr>
-<tr class="separator:af6b31bd05691faf2934a0bdfb76e26c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7e93a6fb06cbacd03f6719adc385c006"><td class="memItemLeft" align="right" valign="top"><a id="a7e93a6fb06cbacd03f6719adc385c006"></a>
-struct <a class="el" href="a18111.html">FPremiumStoreBundleView</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Bundle</b></td></tr>
-<tr class="separator:a7e93a6fb06cbacd03f6719adc385c006"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52958192619ebf3495d1b702ab884735"><td class="memItemLeft" align="right" valign="top"><a id="a52958192619ebf3495d1b702ab884735"></a>
-struct <a class="el" href="a18119.html">FPremiumStoreItemsView</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Items</b></td></tr>
-<tr class="separator:a52958192619ebf3495d1b702ab884735"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a695e57193322493aadcdae23feb64f58"><td class="memItemLeft" align="right" valign="top"><a id="a695e57193322493aadcdae23feb64f58"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TopBannerUrl</b></td></tr>
-<tr class="separator:a695e57193322493aadcdae23feb64f58"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a34d061a612ab1736982be994251512ae"><td class="memItemLeft" align="right" valign="top"><a id="a34d061a612ab1736982be994251512ae"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BottomBannerUrl</b></td></tr>
-<tr class="separator:a34d061a612ab1736982be994251512ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0382075e0a59739f19332476ccd9cf91"><td class="memItemLeft" align="right" valign="top"><a id="a0382075e0a59739f19332476ccd9cf91"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EChestEntitlementActionType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Action</b></td></tr>
+<tr class="separator:a0382075e0a59739f19332476ccd9cf91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a886f41d226d06b4be28f3194a8aa34a1"><td class="memItemLeft" align="right" valign="top"><a id="a886f41d226d06b4be28f3194a8aa34a1"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:a886f41d226d06b4be28f3194a8aa34a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ed3a03548ff5390a5474b75486cfe41"><td class="memItemLeft" align="right" valign="top"><a id="a3ed3a03548ff5390a5474b75486cfe41"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ItemDesc</b></td></tr>
+<tr class="separator:a3ed3a03548ff5390a5474b75486cfe41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac712c31ba2369b80de3ec7060df18115"><td class="memItemLeft" align="right" valign="top"><a id="ac712c31ba2369b80de3ec7060df18115"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b></td></tr>
+<tr class="separator:ac712c31ba2369b80de3ec7060df18115"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66741f98448f8ad96afa67bfd8f53b5f"><td class="memItemLeft" align="right" valign="top"><a id="a66741f98448f8ad96afa67bfd8f53b5f"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ThumbnailImageUrl</b></td></tr>
+<tr class="separator:a66741f98448f8ad96afa67bfd8f53b5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2b8009a981a8d700fda8118afe8e1a6"><td class="memItemLeft" align="right" valign="top"><a id="ae2b8009a981a8d700fda8118afe8e1a6"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PreviewImageUrl</b></td></tr>
+<tr class="separator:ae2b8009a981a8d700fda8118afe8e1a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afff7f1ab4d6dcf2e31474b5db827b4f1"><td class="memItemLeft" align="right" valign="top"><a id="afff7f1ab4d6dcf2e31474b5db827b4f1"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Description</b></td></tr>
+<tr class="separator:afff7f1ab4d6dcf2e31474b5db827b4f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50b4b4662ebfb4932574405121d6af98"><td class="memItemLeft" align="right" valign="top"><a id="a50b4b4662ebfb4932574405121d6af98"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>SlotId</b></td></tr>
+<tr class="separator:a50b4b4662ebfb4932574405121d6af98"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad21ef9d7c87f81d177dc7602cae49ff"><td class="memItemLeft" align="right" valign="top"><a id="aad21ef9d7c87f81d177dc7602cae49ff"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:aad21ef9d7c87f81d177dc7602cae49ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a968d3b8561b807b160c6a481146ed0d2"><td class="memItemLeft" align="right" valign="top"><a id="a968d3b8561b807b160c6a481146ed0d2"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Category</b></td></tr>
+<tr class="separator:a968d3b8561b807b160c6a481146ed0d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49508ec6fedada3800ef96931fed4b5d"><td class="memItemLeft" align="right" valign="top"><a id="a49508ec6fedada3800ef96931fed4b5d"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>EmoteBackgroundImageUrl</b></td></tr>
+<tr class="separator:a49508ec6fedada3800ef96931fed4b5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43562550770d4bd8c393036c34a0cb85"><td class="memItemLeft" align="right" valign="top"><a id="a43562550770d4bd8c393036c34a0cb85"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>EmoteIconImageUrl</b></td></tr>
+<tr class="separator:a43562550770d4bd8c393036c34a0cb85"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab70c4a8eb44a76bbdc9f2c95081adf5b"><td class="memItemLeft" align="right" valign="top"><a id="ab70c4a8eb44a76bbdc9f2c95081adf5b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>DoesPlayerOwnEntitlement</b></td></tr>
+<tr class="separator:ab70c4a8eb44a76bbdc9f2c95081adf5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb8c82e49b5c97c68e4a6a9fea78272b"><td class="memItemLeft" align="right" valign="top"><a id="acb8c82e49b5c97c68e4a6a9fea78272b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x7]</td></tr>
+<tr class="separator:acb8c82e49b5c97c68e4a6a9fea78272b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a18123.html">FPremiumStoreBundleSetView</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:28 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a18123.html">FChestEntitlementViewModel</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

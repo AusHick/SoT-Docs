@@ -1,7 +1,7 @@
 var a24331 =
 [
-    [ "StaticClass", "a24331.html#a84d3ba175375c5347cdf9712f0e23e2b", null ],
-    [ "EnterBranchNotificationId", "a24331.html#a71de96228320fffce7cbf5d82a0893ef", null ],
-    [ "LeaveBranchNotificationId", "a24331.html#a886aa1414c7caf88be44b250edc4394e", null ],
-    [ "UnknownData00", "a24331.html#a1725bb296e26d3dfa7030c51b31dc72b", null ]
+    [ "StaticClass", "a24331.html#acd3d5e71500c407e9ac3685584f34471", null ],
+    [ "AIAbilities", "a24331.html#a1545001dae7ca10e005046bfb847a94d", null ],
+    [ "UnknownData00", "a24331.html#a05a4d80527565669dacbc7acd93c90ef", null ],
+    [ "UnknownData01", "a24331.html#aecc76125189df17761b278b01938a2f0", null ]
 ];

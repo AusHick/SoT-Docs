@@ -1,8 +1,7 @@
 var a32375 =
 [
-    [ "StaticClass", "a32375.html#a29d3f69ed5ef9618e649e4406fda800f", null ],
-    [ "TaskDelayDelegate__DelegateSignature", "a32375.html#a1466e7d647d2295fb3031f7ed8fa164d", null ],
-    [ "TaskWaitDelay", "a32375.html#adc1940ec3386c80f754f2fbd6e031e63", null ],
-    [ "OnFinish", "a32375.html#a086b4f901cacc4f1be70b281085732ae", null ],
-    [ "UnknownData00", "a32375.html#a817a254d84ebc346cd4d78f924c550bf", null ]
+    [ "ActorClass", "a32375.html#ae53bd1fbbf145805ce374f8f21460d6e", null ],
+    [ "LevelsOfDamage", "a32375.html#a83e974ebd9e01ea05f57aac3b0713d5d", null ],
+    [ "TimeInFireBeforeDamage", "a32375.html#a2345eb01fa001ded11350b3d2c4a5c45", null ],
+    [ "UnknownData00", "a32375.html#a3e7e58025092f295e02cbc9c45303f82", null ]
 ];

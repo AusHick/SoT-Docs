@@ -1,8 +1,8 @@
 var a32227 =
 [
-    [ "AdditionalGridOffsetForCharring", "a32227.html#a000eacec26b381205f8dc8ace0717c91", null ],
-    [ "FireGridTexture", "a32227.html#a22fa6706435b2e651c872fcd34422c50", null ],
-    [ "ShipMaterials", "a32227.html#a8fbceb8e03b375a82340190e3d44f677", null ],
-    [ "UnknownData00", "a32227.html#aac016f5e2aeee9b6b20fb7c915746650", null ],
-    [ "UnknownData01", "a32227.html#a3dd931818376897a19bd40cf459b8eda", null ]
+    [ "ActorDetails", "a32227.html#ac7a8ecca2db1e9abba1a0880dfee09a0", null ],
+    [ "ActorSerialisationBytes", "a32227.html#a2c4e1b3a84b30c61b167d154b4997aa2", null ],
+    [ "NumActorsMigrated", "a32227.html#ab7fee6a7fc77d2d7fac078aed4345c60", null ],
+    [ "NumClients", "a32227.html#af40d4ade1bc3755b7c5730407a36beb7", null ],
+    [ "TotalTime", "a32227.html#a5f5ba36fe9c7eee4647f5f16dcdac673", null ]
 ];

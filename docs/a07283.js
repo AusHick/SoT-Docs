@@ -1,7 +1,6 @@
 var a07283 =
 [
-    [ "StaticClass", "a07283.html#a9e86281391df53f9ddea4adba8811fbf", null ],
-    [ "CurrentShip", "a07283.html#a2d94ca36771522583be7ea7adbe09c98", null ],
-    [ "UnknownData00", "a07283.html#a4c0581679b1b8c020271ed848b379434", null ],
-    [ "UnknownData01", "a07283.html#a457fcebdb4974157fcbfa1c5cf20b1cb", null ]
+    [ "StaticClass", "a07283.html#a0e35b855aa5409034b4ee13dc56c2dbf", null ],
+    [ "PendingRequests", "a07283.html#ad05f092fb8cf6a213263119283775c57", null ],
+    [ "UnknownData00", "a07283.html#a7c7851a05df35b7e974c4bf59f79eb6a", null ]
 ];

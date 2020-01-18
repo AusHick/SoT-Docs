@@ -1,6 +1,9 @@
 var a33339 =
 [
-    [ "EventType", "a33339.html#ac374818a17ce2828027a3a3bb1d0afdd", null ],
-    [ "UnknownData00", "a33339.html#a2e758de73c04346de1c2a1adecd6ef7a", null ],
-    [ "UnknownData01", "a33339.html#a77e475411827f74c84331b481c426886", null ]
+    [ "StaticClass", "a33339.html#a0b7b5423dab64f15daf6af86db43f698", null ],
+    [ "bSectionsAreShowable", "a33339.html#a397b313dcbcb8c1c3b4d12db6d0930e3", null ],
+    [ "PropertyName", "a33339.html#a3569c37e05250ca9ed826b46ed8091e0", null ],
+    [ "PropertyPath", "a33339.html#af75654e175269b7471f88f0db55d7380", null ],
+    [ "Sections", "a33339.html#afcd50c5f41527f039e8cb769627adb19", null ],
+    [ "UnknownData00", "a33339.html#a5dedd17dd02f6d688f6d64c07c97b5c0", null ]
 ];

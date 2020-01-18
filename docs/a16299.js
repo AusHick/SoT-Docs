@@ -1,7 +1,6 @@
 var a16299 =
 [
-    [ "GoldMesh", "a16299.html#a74c7ca4cce1664ed3482165a6cc03d04", null ],
-    [ "Position", "a16299.html#a15db2024eec5e814d7c453d4cbe48219", null ],
-    [ "RewardIdentifier", "a16299.html#adda62bff29466b170b4a2bbaf464a969", null ],
-    [ "Scale", "a16299.html#a4593f4ee048fb38def02579bedb82c06", null ]
+    [ "Size", "a16299.html#ab8439d566ec6e6c2d8ee0237d89f0380", null ],
+    [ "UnknownData00", "a16299.html#a6bd540de07e8250adad6e6853653f2a0", null ],
+    [ "Weight", "a16299.html#a519059a0ff7a7e1675d61beafd60da2b", null ]
 ];

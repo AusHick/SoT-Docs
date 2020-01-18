@@ -1,6 +1,9 @@
 var a34475 =
 [
-    [ "ColorUseRule", "a34475.html#ab0e3548f39e0f31f6b8ce1e92f9c5df4", null ],
-    [ "SpecifiedColor", "a34475.html#a2b67f6d47a33bb25bb3a6f686e392ced", null ],
-    [ "UnknownData00", "a34475.html#aa73dafa6762443a6b6f522843cdc5ac2", null ]
+    [ "DidHitchOccurThisFrame", "a34475.html#ab86d7eceba46cfbfc8b3e8387217f4e2", null ],
+    [ "DumpThisFramesHitchesToLog", "a34475.html#a816f4f4010b58d3622eb098873fc2f0a", null ],
+    [ "GetMaxHitchLengthThisFrameMs", "a34475.html#a765680b32c32bdd373b4c5602e65865a", null ],
+    [ "GetMaxHitchNameThisFrame", "a34475.html#a3b60ed904b5b36ea81e34a1b6e9ae86c", null ],
+    [ "SetHitchThreshold", "a34475.html#a416822cb7464be3791cb0719ddc99a4a", null ],
+    [ "StaticClass", "a34475.html#ae11babf82c5bfaef265cd5a97af159b6", null ]
 ];

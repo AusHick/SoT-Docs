@@ -1,8 +1,6 @@
 var a08675 =
 [
-    [ "StaticClass", "a08675.html#a9fae56664c8caf83c65da54b25a31bc9", null ],
-    [ "AlloctedVaultHandleVar", "a08675.html#a11031491e9b3c1791cc7ba201f062636", null ],
-    [ "AlloctedVaultVar", "a08675.html#a2ccb15ae4e430fc30f924979af7326a3", null ],
-    [ "SelectionOriginPointVar", "a08675.html#a3391debf776fa88184f1136a93da8566", null ],
-    [ "VaultKeyTypeVar", "a08675.html#adb4a530c8c47d92bb8c850058ee2d96a", null ]
+    [ "StaticClass", "a08675.html#a30cff453976bcc973645f0c392378df1", null ],
+    [ "AIDioramaDesc", "a08675.html#a89ce3d3fe3302457eca2edf871774556", null ],
+    [ "AIDioramaDescAsset", "a08675.html#a13ccb06385ec74f37ad9c09726b22c38", null ]
 ];

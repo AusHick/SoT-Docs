@@ -1,5 +1,5 @@
 var a33503 =
 [
-    [ "StaticClass", "a33503.html#a8dad3db6652a51b44c742b2a98ae6148", null ],
-    [ "PetFeedingParams", "a33503.html#a15da7b2b8af7428076f7b6e421aa4fb3", null ]
+    [ "ForceFeedbackOptions", "a33503.html#ac785bc9422522aca9fd856eb21164421", null ],
+    [ "TimeBetweenRumbles", "a33503.html#aa138763c2e96b80ef2f66da312c73822", null ]
 ];

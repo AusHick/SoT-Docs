@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FEventCharacterInert Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FVoyageMembershipInfo Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,69 @@ $(document).ready(function(){initNavTree('a22119.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a22116.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FEventCharacterInert Struct Reference</div>  </div>
+<div class="title">SDK::FVoyageMembershipInfo Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FEventCharacterInert:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FVoyageMembershipInfo:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a22117.svg" width="190" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a22117.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae852cfee2c3a9da13cdc28d94f4e582c"><td class="memItemLeft" align="right" valign="top"><a id="ae852cfee2c3a9da13cdc28d94f4e582c"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bIsInert</b></td></tr>
-<tr class="separator:ae852cfee2c3a9da13cdc28d94f4e582c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89669e46533f57d36e0b0aa0f6455625"><td class="memItemLeft" align="right" valign="top"><a id="a89669e46533f57d36e0b0aa0f6455625"></a>
+struct <a class="el" href="a25859.html">FText</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Title</b></td></tr>
+<tr class="separator:a89669e46533f57d36e0b0aa0f6455625"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a87f3a1886844776ee679ff31d883a6"><td class="memItemLeft" align="right" valign="top"><a id="a8a87f3a1886844776ee679ff31d883a6"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Id</b></td></tr>
+<tr class="separator:a8a87f3a1886844776ee679ff31d883a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7b2137b6360163c981a167f693c0f5b"><td class="memItemLeft" align="right" valign="top"><a id="ab7b2137b6360163c981a167f693c0f5b"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a22115.html">FQuestInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>QuestStatus</b></td></tr>
+<tr class="separator:ab7b2137b6360163c981a167f693c0f5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9a43711fdb7a4fee3e274fb3583803e"><td class="memItemLeft" align="right" valign="top"><a id="ae9a43711fdb7a4fee3e274fb3583803e"></a>
+class <a class="el" href="a26127.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Company</b></td></tr>
+<tr class="separator:ae9a43711fdb7a4fee3e274fb3583803e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab0e0184b209ca2e26c283490c8af52da"><td class="memItemLeft" align="right" valign="top"><a id="ab0e0184b209ca2e26c283490c8af52da"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsEmergent</b></td></tr>
+<tr class="separator:ab0e0184b209ca2e26c283490c8af52da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0985571baab2c9e8d62da7250181aa67"><td class="memItemLeft" align="right" valign="top"><a id="a0985571baab2c9e8d62da7250181aa67"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsTale</b></td></tr>
+<tr class="separator:a0985571baab2c9e8d62da7250181aa67"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ef3b8f194362e01d81ff40a79a8fd7b"><td class="memItemLeft" align="right" valign="top"><a id="a2ef3b8f194362e01d81ff40a79a8fd7b"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EEmergentVoyageSource &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EmergentSource</b></td></tr>
+<tr class="separator:a2ef3b8f194362e01d81ff40a79a8fd7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a4f4e4e83fef27f581f85c8e2193d96"><td class="memItemLeft" align="right" valign="top"><a id="a1a4f4e4e83fef27f581f85c8e2193d96"></a>
+struct <a class="el" href="a13263.html">FViewVoyageBanners</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ViewVoyageBanners</b></td></tr>
+<tr class="separator:a1a4f4e4e83fef27f581f85c8e2193d96"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae992ab9d9a036ce255660e76eab1bafd"><td class="memItemLeft" align="right" valign="top"><a id="ae992ab9d9a036ce255660e76eab1bafd"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>DoNotNotifyParticipantsOnVoyageComplete</b></td></tr>
+<tr class="separator:ae992ab9d9a036ce255660e76eab1bafd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a998f23af9a262738e29c9f9cb1b26e63"><td class="memItemLeft" align="right" valign="top"><a id="a998f23af9a262738e29c9f9cb1b26e63"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x2]</td></tr>
+<tr class="separator:a998f23af9a262738e29c9f9cb1b26e63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2389a53b56262abf151863deba0ae5f2"><td class="memItemLeft" align="right" valign="top"><a id="a2389a53b56262abf151863deba0ae5f2"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>Rank</b></td></tr>
+<tr class="separator:a2389a53b56262abf151863deba0ae5f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab9d5f5313bf8efa9ae07f41f7d6a790"><td class="memItemLeft" align="right" valign="top"><a id="aab9d5f5313bf8efa9ae07f41f7d6a790"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:aab9d5f5313bf8efa9ae07f41f7d6a790"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a046cefc72a0df407792429117a3426c3"><td class="memItemLeft" align="right" valign="top"><a id="a046cefc72a0df407792429117a3426c3"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a00571.html">FPlayerStat</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>VoyageCompletionStats</b></td></tr>
+<tr class="separator:a046cefc72a0df407792429117a3426c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaabdb52000ec2b2f3e377ea8ab221076"><td class="memItemLeft" align="right" valign="top"><a id="aaabdb52000ec2b2f3e377ea8ab221076"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a00571.html">FPlayerStat</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ReapersMarkCompletionStats</b></td></tr>
+<tr class="separator:aaabdb52000ec2b2f3e377ea8ab221076"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a22119.html">FEventCharacterInert</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:23 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a22119.html">FVoyageMembershipInfo</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:50 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

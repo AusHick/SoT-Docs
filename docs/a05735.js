@@ -1,12 +1,14 @@
 var a05735 =
 [
-    [ "AirbornePolicy_ExecuteCanInteract", "a05735.html#a304c1d1843a79ff8ba895470026e22bd", null ],
-    [ "CanInteractValidationPolicy_WithCanInteractInteractor_IsValidReturnsTrue", "a05735.html#ae8f6fb761b8c4acd575ba9d40b6a32e1", null ],
-    [ "CanInteractValidationPolicy_WithCantInteractInteractor_IsValidReturnsFalse", "a05735.html#a0a3f93c05a633a21462292891afc24d3", null ],
-    [ "CenterOfScreenDistanceSortingPolicy_ExecuteTakesHighestPrecedent", "a05735.html#a33d186e2fcaeefa808f74683bb0fdfd0", null ],
-    [ "ClosestToPlayerSortingPolicy_WithTwoInteractablesClosestAndFurthest_ClosestTakesHighestPrecedent", "a05735.html#af8e8ac2ffe8340bad5f7729e6df0f3c0", null ],
-    [ "StaticClass", "a05735.html#a30922fb085161b34215598e5da579103", null ],
-    [ "WithinInteractionAngleValidationPolicy_OutsideInteractionAngleInteractor_IsValidReturnsFalse", "a05735.html#a2eeacef996875ef5327a0d9298bf0cd6", null ],
-    [ "WithinInteractionAngleValidationPolicy_WithinInteractionAngleInteractor_IsValidReturnsTrue", "a05735.html#a656cdbb55191027f1955ee03dcdd48bb", null ],
-    [ "WithinInteractionAngleValidationPolicy_WithInteractorBehindTheObject_IsInvalidReturnsFalse", "a05735.html#ad9be8187baaa8cccfda09ff28e45650a", null ]
+    [ "StaticClass", "a05735.html#af3e1680ea3b90bd9050363dfbb4ddf3e", null ],
+    [ "DormantShipRegions", "a05735.html#ad974ebe3e74905e4523e6ee46a452127", null ],
+    [ "ExposeToNetProxy", "a05735.html#a8da77c6b180f39ceb72ff883584aa07a", null ],
+    [ "IsBrigLight", "a05735.html#af89fd9fea79098559f56183c3ae37a29", null ],
+    [ "NetProxyBitIndex", "a05735.html#af5bf07faac9ecb7059a141ca518d35d3", null ],
+    [ "Ship", "a05735.html#aaa7df9abee1da8880e8c6890fc13f429", null ],
+    [ "SiblingLights", "a05735.html#a3b6f083ef4a5aa666f881a8dc69f9ccd", null ],
+    [ "UnknownData00", "a05735.html#a817124c1240d7df4c09a22a2aa633b9b", null ],
+    [ "UnknownData01", "a05735.html#a8f4911380d57dbf0b5e4850dc54debb4", null ],
+    [ "UnknownData02", "a05735.html#a2f71120c510178bb073f033cd83e7dd0", null ],
+    [ "UnknownData03", "a05735.html#a832de757d31cce1000fb78c30b3f928d", null ]
 ];

@@ -1,7 +1,6 @@
 var a15819 =
 [
-    [ "JumpCycle", "a15819.html#ae2adb9722f20a15ca3cc0002d321d3f9", null ],
-    [ "JumpStart", "a15819.html#a6d2883ed05decefb41446aaa281ece9f", null ],
-    [ "LandLight", "a15819.html#a92adf6133199a78b307e8a2e4a5f1552", null ],
-    [ "PreImpact", "a15819.html#aa841345e3f824eb794cdd2e957855961", null ]
+    [ "HealthChangeAmount", "a15819.html#a335ec7ac946cdf7a210176c0ddd0593a", null ],
+    [ "HealthChangeEnabled", "a15819.html#a682294583691b2f06643660e40e42cc6", null ],
+    [ "UnknownData00", "a15819.html#a3dbe2bfa0007db4a47cca6592844309b", null ]
 ];

@@ -1,14 +1,13 @@
 var a05847 =
 [
-    [ "SetAllowNewSpawnRequests", "a05847.html#a5cb5e8d2e9c57c5de85ac004c378658d", null ],
-    [ "StaticClass", "a05847.html#adc57322ba8595b84efaa6e7dee138fac", null ],
-    [ "IslandData", "a05847.html#aaf50d9b7ca722656d93f3a35eefb03ba", null ],
-    [ "IslandSalvageItemSpawnComponents", "a05847.html#a44a383f4aabfc30067a3fb736e45d2e0", null ],
-    [ "IslandSalvageLocationData", "a05847.html#ae5c0b99542861968d5073dd1fd60435e", null ],
-    [ "ObjectMessagingDispatcher", "a05847.html#a6b72ad30250bfb82dbb38e946710e107", null ],
-    [ "SalvageSpawnComponentsAwaitingRequests", "a05847.html#a12902abc93ddfdd11868ea02cc2002a9", null ],
-    [ "TypeMappedSalvageSpawnComponentRequests", "a05847.html#a593b34146d99df3d2d9e9c630c41fe15", null ],
-    [ "UnknownData00", "a05847.html#a49077dd3bde668845151c19a7d26932b", null ],
-    [ "UnknownData01", "a05847.html#acbc7851732c80f6af39e3f100743aa46", null ],
-    [ "UnknownData02", "a05847.html#a806f59652ee5be3c4bba3c45017697d2", null ]
+    [ "OnItemDestroyed", "a05847.html#a1fa3dbe0ec27999c0b03c3d0cefb21f9", null ],
+    [ "OnRep_Slots", "a05847.html#a255223cc1ee0efbb84e1c4dff0f84631", null ],
+    [ "StaticClass", "a05847.html#a990c3960a189f666be1c2b29843cf9a2", null ],
+    [ "ItemLoadout", "a05847.html#af1edf5b871f39da61fe85ad76be0c82d", null ],
+    [ "LoadoutSlots", "a05847.html#a162ea33b03688a3818f41835671fc4dc", null ],
+    [ "MaxWeaponSlots", "a05847.html#afa6f40a072d4714fdbaa89a34525b8e7", null ],
+    [ "UnknownData00", "a05847.html#acde3a4b98c31cfdbc2248a46297d27e4", null ],
+    [ "UnknownData01", "a05847.html#a004c3827fb4a4eef956bc2d9fbfac6d1", null ],
+    [ "UnknownData02", "a05847.html#a32825a9de04238d71c3cc19031a5cdb6", null ],
+    [ "WeaponSlots_ClientPredicted", "a05847.html#abcfd5ff4c3497796516f7146f5c6e5d7", null ]
 ];

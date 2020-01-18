@@ -1,5 +1,6 @@
 var a01507 =
 [
-    [ "Angles", "a01507.html#ab62fd5681c91203cf355771ce3eee894", null ],
-    [ "Radii", "a01507.html#a05e9665fdf5462ab53ea8aab46585cdf", null ]
+    [ "OtherActor", "a01507.html#a262c94a909ed1f19bed918f037fd1a4a", null ],
+    [ "TouchReceiver", "a01507.html#a64ebfd7ff75a79fc1bcfacc4db32f491", null ],
+    [ "UnknownData00", "a01507.html#ace304b651590756fb3844354ddd833b7", null ]
 ];

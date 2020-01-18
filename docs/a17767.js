@@ -1,4 +1,8 @@
 var a17767 =
 [
-    [ "UnknownData00", "a17767.html#ab6011b12c2dc8682bbb0af6bef5cb5a1", null ]
+    [ "DurationMS", "a17767.html#a9dafa06dbb5457b3c0ed2aea9860be06", null ],
+    [ "IgnoredRequestCount", "a17767.html#a49037f50047c47d434c460fae7b7eb27", null ],
+    [ "Item", "a17767.html#a961a72637b8e11db0cc82a4483f7b6e0", null ],
+    [ "SpeedId", "a17767.html#a265f1df5906aa1499bb2df897a6eb9c3", null ],
+    [ "UnknownData00", "a17767.html#aee44e8461651640047582352b8a65062", null ]
 ];

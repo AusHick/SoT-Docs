@@ -1,7 +1,9 @@
 var a17203 =
 [
-    [ "Background", "a17203.html#a854994f80bb4bbc9e8fdc8cc4b7fcc64", null ],
-    [ "Images", "a17203.html#a83315a6cc93d511ea5e71ca8b0becdb5", null ],
-    [ "QuestCount", "a17203.html#a42286d9502a6c8b89b73abd965e6efea", null ],
-    [ "UnknownData00", "a17203.html#a56e6238829efc256e05897074703e7d7", null ]
+    [ "CrewId", "a17203.html#a6022018cbe21087af7a02b5e7be35dbb", null ],
+    [ "CrewScore", "a17203.html#a0252c9ffcf6f578765b171a210542cfc", null ],
+    [ "ReasonForScoring", "a17203.html#a4604ebf43a709bcc725ad882c6d15451", null ],
+    [ "ScoreId", "a17203.html#a44b9dd413f24742623965adbc7fa560c", null ],
+    [ "UnknownData00", "a17203.html#ae8137440ccfb50281148eae4bf4c2048", null ],
+    [ "UnknownData01", "a17203.html#a4f055a1cfe7b32c66e81702c0015f035", null ]
 ];

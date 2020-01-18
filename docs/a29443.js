@@ -1,17 +1,15 @@
 var a29443 =
 [
-    [ "StaticClass", "a29443.html#a266ed6ff9c388c91ec5b88116c398f49", null ],
-    [ "bInheritRotation", "a29443.html#ae4d3b7cf60fa374dce0d3a2b11ae14e5", null ],
-    [ "bLockSourceStength", "a29443.html#afbfbb11886c4af41549a9de0a2b11cc8", null ],
-    [ "SelectionMethod", "a29443.html#a23db845afc66b6628427fe319cd9020f", null ],
-    [ "SourceMethod", "a29443.html#afdf4574f86516007e7f6a892e297c496", null ],
-    [ "SourceName", "a29443.html#a977c74f5c7de05480dacdf0fc6cc1abf", null ],
-    [ "SourceOffsetCount", "a29443.html#a0690c14d96e47fe7ee27a2e43de3f9d8", null ],
-    [ "SourceOffsetDefaults", "a29443.html#a128a1ad21c6514d86cc3d10bc65ed61d", null ],
-    [ "SourceStrength", "a29443.html#a2787c99a315870627714471b525c16ef", null ],
-    [ "UnknownData00", "a29443.html#a3c17bd9d9ac6c8f4c2428d7a7f9548fb", null ],
-    [ "UnknownData01", "a29443.html#adb1787781d90952808a19d375d4dbee5", null ],
-    [ "UnknownData02", "a29443.html#a40fc875e1d17cd164daeacdb0310f866", null ],
-    [ "UnknownData03", "a29443.html#a37a233159c38d1dd4a2747136fc781f4", null ],
-    [ "UnknownData04", "a29443.html#a06b48057151dc34245bcd5fe168452db", null ]
+    [ "StaticClass", "a29443.html#a950885daf2b24492e792338d9a7c9ada", null ],
+    [ "AdditionalStartRadiuses", "a29443.html#ad1620c49ad3f861233f904b70c9cc3ff", null ],
+    [ "NegativeXAngleRange", "a29443.html#a1dc255514caab86d47aef59c92feb278", null ],
+    [ "NegativeYAngleRange", "a29443.html#a9151bfd6929baeed18ba66d6379c4077", null ],
+    [ "NegativeZAngleRange", "a29443.html#a0d00dade01962d11781cbcd9c062aa49", null ],
+    [ "PositiveXAngleRange", "a29443.html#a180cfd15d5c73412fdf4cd3e6e64152d", null ],
+    [ "PositiveYAngleRange", "a29443.html#a1fb8b3ba7db4620067acf1a21ff2dfdf", null ],
+    [ "PositiveZAngleRange", "a29443.html#a721b72b47f0c8c54d5d33032c32d72b0", null ],
+    [ "StartRadius", "a29443.html#ae917abfec8d55b8821c7723d6fe5c573", null ],
+    [ "StartRadiusUseGroupAForAll", "a29443.html#a53706c994a7cddd0ca474b2751fa9fe2", null ],
+    [ "UnknownData00", "a29443.html#ac00f9de6073c626c221a0639747ba3f3", null ],
+    [ "UnknownData01", "a29443.html#a614ef8d6b3c78501a60654036e067617", null ]
 ];

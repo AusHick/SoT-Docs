@@ -1,4 +1,5 @@
 var a16335 =
 [
-    [ "UnknownData00", "a16335.html#a465ca82ccecf6c162c857a5b305f31bc", null ]
+    [ "FishDataAsset", "a16335.html#ae70f4d9337e3638aa878f06d99f21cfe", null ],
+    [ "SetupDataAsset", "a16335.html#a349b1f4186f1a26581e56a39756f5c39", null ]
 ];

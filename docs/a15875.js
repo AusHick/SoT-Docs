@@ -1,6 +1,6 @@
 var a15875 =
 [
-    [ "AirDragPerSailPerMPS", "a15875.html#abe5c55ac1ba624d15bff8d8d75b26068", null ],
-    [ "ForceGeneratedByWindSpeedPerMPS", "a15875.html#a2fdbf993d281a6713f387ec0b70dd826", null ],
-    [ "PowerRatioOfSailForwardForceToFullForce", "a15875.html#a0327d7b4a71be8139870ead0bd217682", null ]
+    [ "In", "a15875.html#aaef62e070122edf6508f598a4cd6c68e", null ],
+    [ "Loop", "a15875.html#ab7f1671bf2ebdd18bc22d4a842b6aaee", null ],
+    [ "Out", "a15875.html#a419e0b52bf1f90ad7c76b90d997bdd5f", null ]
 ];

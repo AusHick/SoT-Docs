@@ -1,7 +1,7 @@
 var a28523 =
 [
-    [ "StaticClass", "a28523.html#acb70e6c733ec2fef6e1d97a184ca59c6", null ],
-    [ "ExpressionGUID", "a28523.html#a5cce7412074871daed3d5f0649db8882", null ],
-    [ "Group", "a28523.html#a74c9fcd22ff4ef9f34abdacd0af0a8aa", null ],
-    [ "ParameterName", "a28523.html#acb9155cd33eebeec729655fec756ae61", null ]
+    [ "StaticClass", "a28523.html#a2ee74b62b5718a158f52e671bb8be092", null ],
+    [ "bInitiallyLoaded", "a28523.html#ac07bfe5a2902a855ac87463e3ac78d23", null ],
+    [ "bInitiallyVisible", "a28523.html#aa4afb5b91de261b179f5780dd3b1e836", null ],
+    [ "UnknownData00", "a28523.html#a389fa0c8f72b510e58248f122c1858ba", null ]
 ];

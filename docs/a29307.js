@@ -1,11 +1,13 @@
 var a29307 =
 [
-    [ "StaticClass", "a29307.html#a34a0d872f4203bf781341ff99c42e4c5", null ],
-    [ "CylinderRadiusOverCustomScale", "a29307.html#a6bb1a3739e4ba86dcbbeb468c9120b9a", null ],
-    [ "DynamicParamScaleOverCustomScale", "a29307.html#a36db967e27f4be6d3d32f66d7312ca16", null ],
-    [ "InitialVelocityOverCustomScale", "a29307.html#a2b34edd560059d5aaa0a9ae2cfe2f767", null ],
-    [ "LifetimeOverCustomScale", "a29307.html#a686032db467ec00b82eabb8b23627315", null ],
-    [ "OpacityOverCustomScale", "a29307.html#ab0e912740d52cbd992ca0d51192800e9", null ],
-    [ "SizeOverCustomScale", "a29307.html#a887e6683538923c4525020749fa03a25", null ],
-    [ "SpawnRateOverCustomScale", "a29307.html#a3f37ffd47740a01a95649166cc2d8c18", null ]
+    [ "StaticClass", "a29307.html#a6cacb67d0f1a1a4511c4fe0c4015be91", null ],
+    [ "CollisionMode", "a29307.html#a7b855273e600622bc35003c27e43afae", null ],
+    [ "DampingFactorRotation", "a29307.html#a6b2d1ad8bb393194ac07efc70c222401", null ],
+    [ "Friction", "a29307.html#a1e2878b4926e3ce18f08f6f0f38862fe", null ],
+    [ "RadiusBias", "a29307.html#ade0c192cbfce1e5f638fb9017590bdf0", null ],
+    [ "RadiusScale", "a29307.html#a1f76f599629a3e7a3ff20cff345b6b80", null ],
+    [ "Resilience", "a29307.html#a635f12825456da7159f7d9dc58e0c45f", null ],
+    [ "ResilienceScaleOverLife", "a29307.html#aa094e056d1b1619c6f8e6688ca667202", null ],
+    [ "Response", "a29307.html#a7d987dd75117e0b91772127ebec12523", null ],
+    [ "UnknownData00", "a29307.html#a6b863e52c6f85b8d0d8642eec1ff49fe", null ]
 ];

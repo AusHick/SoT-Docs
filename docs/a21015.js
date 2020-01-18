@@ -1,4 +1,5 @@
 var a21015 =
 [
-    [ "UnknownData00", "a21015.html#af68afa5a0d4e174debca89d3def217d5", null ]
+    [ "CrewId", "a21015.html#adb649673cb5adfc496885395934483f4", null ],
+    [ "NumberOfCrewMembers", "a21015.html#a721f6ad2b472e208bc9f2e938303c2fc", null ]
 ];

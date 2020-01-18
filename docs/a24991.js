@@ -1,7 +1,6 @@
 var a24991 =
 [
-    [ "CustomAnimationAsset", "a24991.html#a81899318eedbb13f8abed2650fa70f5f", null ],
-    [ "CustomAnimationToRunOnSpawn", "a24991.html#aec8295d6f973b8ad67f4a6dc04e3b89f", null ],
-    [ "RoleName", "a24991.html#ae1801e53f30cd9130fca10f85b5f1354", null ],
-    [ "StartingItemCategory", "a24991.html#a3180289f4c0c3a8a15022e4bb4bd4d70", null ]
+    [ "MaxPlayers", "a24991.html#af84c095b1227fc2ba8552d6124a9be3a", null ],
+    [ "UnknownData00", "a24991.html#a4304614f9b8b0011ddb85896a3039678", null ],
+    [ "WeightedArray", "a24991.html#a5a34f7d8ee8f26a3af76b5d8a651b872", null ]
 ];

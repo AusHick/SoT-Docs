@@ -1,7 +1,7 @@
 var a20803 =
 [
-    [ "ActivatedDateTimeUtc", "a20803.html#a40fb425db72a811086c52817ab281688", null ],
-    [ "CorrelationId", "a20803.html#af31d6c1346da0c5b6265aca0d12283de", null ],
-    [ "NotificationId", "a20803.html#ad2d12fda3131bd0c39d3ee2eeec9ba38", null ],
-    [ "UnknownData00", "a20803.html#af9402a6d6489cf6f0b23631b26a44b94", null ]
+    [ "BindingName", "a20803.html#a378973b41873add43ad01e3db0da3608", null ],
+    [ "ControllerType", "a20803.html#a0c9c4272eb3ab8acc3508207516bb728", null ],
+    [ "KeyName", "a20803.html#a536f9ce2b8259895f6bb58ec3ad7d2dd", null ],
+    [ "UnknownData00", "a20803.html#ac7b9ddcc5d944caab8a929f4a6097ed7", null ]
 ];

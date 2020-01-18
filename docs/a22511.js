@@ -1,4 +1,6 @@
 var a22511 =
 [
-    [ "UnknownData00", "a22511.html#a451acd1a8a83d9c622381653d5ea8811", null ]
+    [ "ActorHit", "a22511.html#a84c5d63d6459fbeecf036da2ce5bb1f1", null ],
+    [ "Instigator", "a22511.html#a39e348258a1165c2c27ba64eab83e11c", null ],
+    [ "ProjectileActor", "a22511.html#a25f5ab9e5c2ce6f73824c33c0236c708", null ]
 ];

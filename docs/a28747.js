@@ -1,9 +1,13 @@
 var a28747 =
 [
-    [ "StaticClass", "a28747.html#ac91ded659b1969a430221b39b09ec9bc", null ],
-    [ "ConstInput", "a28747.html#a972368e6070707c1c5d2a93508d47ec9", null ],
-    [ "Coordinates", "a28747.html#ac3065593f9735590ccd85a71bd27fa2e", null ],
-    [ "Input", "a28747.html#a417412cbcb68463d3778bf52f8ba6cf5", null ],
-    [ "InputMode", "a28747.html#aaab19e5f8ba7cfe34329dab209851207", null ],
-    [ "UnknownData00", "a28747.html#a6f30f85c43b24e58b75b5ceb564595ca", null ]
+    [ "StaticClass", "a28747.html#a51bdfc3d529c5d6c27a9a2c320242606", null ],
+    [ "A", "a28747.html#a80da26cd6f96c65d78229a15ec01a956", null ],
+    [ "bLastPreviewed", "a28747.html#a6dab2dfca0923398d71a05e92d40c33a", null ],
+    [ "Description", "a28747.html#a3cd809763b82229077f7b50c2d52b1d8", null ],
+    [ "Id", "a28747.html#ab23e237be15f00c9f132b419b55dcb8d", null ],
+    [ "OutputName", "a28747.html#a006eca7023c751ebd038ee82360be636", null ],
+    [ "SortPriority", "a28747.html#a31e07425c86311d5baf1ade57ad00a7b", null ],
+    [ "UnknownData00", "a28747.html#ab984da5a38550c434414220894a27489", null ],
+    [ "UnknownData01", "a28747.html#a4fa11474dfa17f021ce5ac0f99c653c9", null ],
+    [ "UnknownData02", "a28747.html#aca1e772b836439e6b05e5d92093faa91", null ]
 ];

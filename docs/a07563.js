@@ -1,5 +1,10 @@
 var a07563 =
 [
-    [ "StaticClass", "a07563.html#aa1aad2d62818bd6f485a8f459de414c2", null ],
-    [ "PageList", "a07563.html#a84ebb5f2a5600029a3d1c995bcd32f41", null ]
+    [ "StaticClass", "a07563.html#ac5e81b4ab0febfaa0ec32a7d400476c4", null ],
+    [ "CompassDirections", "a07563.html#a5a7cb7c2d6a020a11f0811d3d47678dc", null ],
+    [ "NumPacesPhraseId", "a07563.html#ac41a250a3bd2d4e904a2a893ba907da2", null ],
+    [ "RiddleActionInfo", "a07563.html#aa55a69f3c816f991d22cfff2d97c552e", null ],
+    [ "TemporaryLandmarkHeight", "a07563.html#ad4dd285b620120f4acc51e5e4ec3268b", null ],
+    [ "TemporaryLandmarkRadius", "a07563.html#a72c0132e99278887a01fbe0d31859999", null ],
+    [ "ValidRiddleOptions", "a07563.html#a6d5d0783e0f1e89df37f64a74c42f7aa", null ]
 ];

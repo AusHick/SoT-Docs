@@ -1,6 +1,5 @@
 var a27475 =
 [
-    [ "StaticClass", "a27475.html#a93047f752a368d2eecdbe4e825ddc45d", null ],
-    [ "PreviewCaptureBox", "a27475.html#a0b03325990a20a37ebe5f24f1f32d7a5", null ],
-    [ "PreviewInfluenceBox", "a27475.html#a82c5cf3824fce7848c64c769545a8b6c", null ]
+    [ "StaticClass", "a27475.html#a6904e99025b1a5597e0cf6632884d611", null ],
+    [ "Attenuation", "a27475.html#a858aaf6a82c02317a9fca6a1acff10b9", null ]
 ];

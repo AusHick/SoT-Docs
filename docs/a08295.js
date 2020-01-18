@@ -1,7 +1,8 @@
 var a08295 =
 [
-    [ "StaticClass", "a08295.html#a78087d35f435a920e7992081e491885a", null ],
-    [ "SpawnedPage", "a08295.html#a4e336352aa8dd03c1fd00d1ba60d823e", null ],
-    [ "StepDesc", "a08295.html#a2621a93b9ddbe42330f31e0f4d5d881c", null ],
-    [ "UnknownData00", "a08295.html#a6c2195765df99d0ebebd251d5a2ed62d", null ]
+    [ "StaticClass", "a08295.html#a99607e74d33d27004d572599bda60038", null ],
+    [ "LinkedSpawnLocation", "a08295.html#ae055b5f2a9987cd9f8ec7c491cdeb280", null ],
+    [ "ProgressLevel", "a08295.html#ac68e0e27f4fc2f29e8b81b8919e17741", null ],
+    [ "UnknownData00", "a08295.html#a9aacf498cfbea68324eff7998eb6bcad", null ],
+    [ "UnknownData01", "a08295.html#a9b1d13cdbc49e7bd24a5ba35c526ced2", null ]
 ];

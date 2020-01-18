@@ -1,7 +1,10 @@
 var a12087 =
 [
-    [ "StaticClass", "a12087.html#a0bc9beb086c50be1ca86b3b4dfd3c7c7", null ],
-    [ "ResetMechanismInBlueprint", "a12087.html#a9c47880c70daf88651562a22c5799ee5", null ],
-    [ "UnknownData00", "a12087.html#af27f9d90dddcf787089623c68bb4c1b8", null ],
-    [ "UnknownData01", "a12087.html#a1d0f75daf6bf940b695d88050492dd4c", null ]
+    [ "StaticClass", "a12087.html#ad9eeb159a641ed19b8ed768230671e6e", null ],
+    [ "LookAroundMouseInputAsMovementInputModifier", "a12087.html#a79a1b36c5739ec5c2e2090d8beaeb4ce", null ],
+    [ "LookAroundMouseInputToAngleModifier", "a12087.html#a285aefddd4ba8ce0346e7f2f97a08732", null ],
+    [ "LookAroundRightStickInputToAngleModifier", "a12087.html#a6bef7be0837ea013b402f48a16093e50", null ],
+    [ "PitchMaxDegrees", "a12087.html#aa016887c1b998912e8df8df74a3e7b57", null ],
+    [ "PitchMinDegrees", "a12087.html#ab7395747533b53559c45e66a9795ebd0", null ],
+    [ "YawDegrees", "a12087.html#afca9b71441225cb6c762302b153437e3", null ]
 ];

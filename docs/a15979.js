@@ -1,9 +1,11 @@
 var a15979 =
 [
-    [ "ActionVisuals", "a15979.html#ad356e02ffd56ee9137151297a863f016", null ],
-    [ "FeatureFlag", "a15979.html#afebafcd377e491e34728aa6587f6a525", null ],
-    [ "SplitActionRules", "a15979.html#afd8dc15d901342f4b76ce0b49813252d", null ],
-    [ "StartUse", "a15979.html#ac8ab8e53fdb95cd6596b06f783143baa", null ],
-    [ "StopUse", "a15979.html#ac6419e164c085ed53f9a8bce0f76d859", null ],
-    [ "UnknownData00", "a15979.html#a57df49a0cb7869e857f8d5be1505e492", null ]
+    [ "ChoppinessScalar", "a15979.html#adf937d211d491fca82f66c0a72ef0a4c", null ],
+    [ "DistanceFromWaterSurfaceToConsiderSurfaced", "a15979.html#ada5bf8b3b9f20c5159a6273ea9b1bb56", null ],
+    [ "Enabled", "a15979.html#a7d6912fe1ea392ed2b405b1a80a0392c", null ],
+    [ "EnterLockStateBlendTime", "a15979.html#a5da60954ddd4942e9ab0d4a09d0db70f", null ],
+    [ "ExitLockStateBlendTime", "a15979.html#a52121c343f75fdad6e0e75694f23dde1", null ],
+    [ "SpringAcceleration", "a15979.html#a317788a8b96dbccc6ec196933e2d40f1", null ],
+    [ "SubmersionHint", "a15979.html#a0163792263cc25de717094b21c474d65", null ],
+    [ "UnknownData00", "a15979.html#a3e11c9ee3b5f69ccb035e97a3182105b", null ]
 ];

@@ -1,6 +1,5 @@
 var a16383 =
 [
-    [ "Direction", "a16383.html#ad4738ecb55300e53e6e6de9b45f781d2", null ],
-    [ "MaxDistance", "a16383.html#a5d0b35e18d9227c4da96063472e00dab", null ],
-    [ "Origin", "a16383.html#a3f9828e9bc4f3f2c573d20755c098523", null ]
+    [ "Component", "a16383.html#a28a665baff8a3e72b41d6b3ffc0b2292", null ],
+    [ "Curve", "a16383.html#a5ea379cc5fcb95d753f8ea81e5fdbc9b", null ]
 ];

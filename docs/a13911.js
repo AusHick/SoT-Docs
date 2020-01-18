@@ -1,5 +1,5 @@
 var a13911 =
 [
-    [ "BottomBanner", "a13911.html#a222cbcc5095e8fe04af84b6b0d2d8a74", null ],
-    [ "TopBanner", "a13911.html#a159f91ae5da0bf62d7df5c95fff4e581", null ]
+    [ "SpottedShip", "a13911.html#ac4fba02bcf6ec012fbe1220d45ab6be2", null ],
+    [ "TimeSpotted", "a13911.html#aa86ae5d606c9d6039ca43c8c19273099", null ]
 ];

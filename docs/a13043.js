@@ -1,8 +1,9 @@
 var a13043 =
 [
-    [ "AllSkeletonShipCaptainAnimations", "a13043.html#a5c709eebe538588f5e00530d30e86925", null ],
-    [ "DockedAnimationState", "a13043.html#a2dafc7622f52e20a735be6c08221b518", null ],
-    [ "ShipCaptainIdleCycleA", "a13043.html#ad83ee219b792f0d5f760612add20ad71", null ],
-    [ "ShipCaptainIdleCycleB", "a13043.html#ae5ffc266b8c1d34120a3786ab87d4248", null ],
-    [ "UnknownData00", "a13043.html#ab430375f2a8688eb48a8e4aefcfae16a", null ]
+    [ "AnimationOverride", "a13043.html#a6cd8e441e465c726a2672891d415f740", null ],
+    [ "FishingFloat", "a13043.html#a9fd286e43e8b95bf27cd69249d7fb19b", null ],
+    [ "FishingRodActor", "a13043.html#a344883bba4bfffa4618922ec7fc8dd2f", null ],
+    [ "OwningAnimationInstance", "a13043.html#a0df96decbd0c6d84622918c8f2d78341", null ],
+    [ "UnknownData00", "a13043.html#a0300e833185889e47bb5ac0113093e56", null ],
+    [ "UnknownData01", "a13043.html#a64c84e499c12fd2cdea7b38893cbe184", null ]
 ];

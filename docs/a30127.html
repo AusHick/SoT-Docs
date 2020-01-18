@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FInteriorSettings Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FHitResult Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,57 +87,81 @@ $(document).ready(function(){initNavTree('a30127.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30124.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FInteriorSettings Struct Reference</div>  </div>
+<div class="title">SDK::FHitResult Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FInteriorSettings:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FHitResult:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30125.svg" width="278" height="331"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30125.svg" width="100%" height="559"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aad64fd1c74764261a05889f0fb29afb0"><td class="memItemLeft" align="right" valign="top"><a id="aad64fd1c74764261a05889f0fb29afb0"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bIsWorldSettings</b>: 1</td></tr>
-<tr class="separator:aad64fd1c74764261a05889f0fb29afb0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2e058b76185b6c7d24279fc982f6331"><td class="memItemLeft" align="right" valign="top"><a id="ac2e058b76185b6c7d24279fc982f6331"></a>
+<tr class="memitem:a19855ec9743aa7429194f926ef938f4d"><td class="memItemLeft" align="right" valign="top"><a id="a19855ec9743aa7429194f926ef938f4d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bBlockingHit</b>: 1</td></tr>
+<tr class="separator:a19855ec9743aa7429194f926ef938f4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ea1a445f688cd8faaccd49c3b3dda06"><td class="memItemLeft" align="right" valign="top"><a id="a8ea1a445f688cd8faaccd49c3b3dda06"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bStartPenetrating</b>: 1</td></tr>
+<tr class="separator:a8ea1a445f688cd8faaccd49c3b3dda06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e3c12c0f53d6333a79f43b03ebf4c57"><td class="memItemLeft" align="right" valign="top"><a id="a8e3c12c0f53d6333a79f43b03ebf4c57"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:ac2e058b76185b6c7d24279fc982f6331"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa1fa8453f6aaec6b7dafb69202281fa1"><td class="memItemLeft" align="right" valign="top"><a id="aa1fa8453f6aaec6b7dafb69202281fa1"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ExteriorVolume</b></td></tr>
-<tr class="separator:aa1fa8453f6aaec6b7dafb69202281fa1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0bc5d66e5e3ac57d0c72d3c4c214f825"><td class="memItemLeft" align="right" valign="top"><a id="a0bc5d66e5e3ac57d0c72d3c4c214f825"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ExteriorTime</b></td></tr>
-<tr class="separator:a0bc5d66e5e3ac57d0c72d3c4c214f825"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af6d93fda5031a223d37b80b756a30db3"><td class="memItemLeft" align="right" valign="top"><a id="af6d93fda5031a223d37b80b756a30db3"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ExteriorLPF</b></td></tr>
-<tr class="separator:af6d93fda5031a223d37b80b756a30db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35fea8ebaeba1f2328e1480a325eb07d"><td class="memItemLeft" align="right" valign="top"><a id="a35fea8ebaeba1f2328e1480a325eb07d"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>ExteriorLPFTime</b></td></tr>
-<tr class="separator:a35fea8ebaeba1f2328e1480a325eb07d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ff239953308fa50ac0a9eb956f5b092"><td class="memItemLeft" align="right" valign="top"><a id="a1ff239953308fa50ac0a9eb956f5b092"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>InteriorVolume</b></td></tr>
-<tr class="separator:a1ff239953308fa50ac0a9eb956f5b092"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a12aa762933da9c016adfc3c4c03d9e47"><td class="memItemLeft" align="right" valign="top"><a id="a12aa762933da9c016adfc3c4c03d9e47"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>InteriorTime</b></td></tr>
-<tr class="separator:a12aa762933da9c016adfc3c4c03d9e47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6dbdb934004ce613b3afa4f36368ec9"><td class="memItemLeft" align="right" valign="top"><a id="ab6dbdb934004ce613b3afa4f36368ec9"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>InteriorLPF</b></td></tr>
-<tr class="separator:ab6dbdb934004ce613b3afa4f36368ec9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a961b15a7f1dd9e0c7961912c03b0ce0d"><td class="memItemLeft" align="right" valign="top"><a id="a961b15a7f1dd9e0c7961912c03b0ce0d"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>InteriorLPFTime</b></td></tr>
-<tr class="separator:a961b15a7f1dd9e0c7961912c03b0ce0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a8e3c12c0f53d6333a79f43b03ebf4c57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8a04fca3dac5488367b67e30320269d5"><td class="memItemLeft" align="right" valign="top"><a id="a8a04fca3dac5488367b67e30320269d5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Time</b></td></tr>
+<tr class="separator:a8a04fca3dac5488367b67e30320269d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28f0052d53a34c92e2bbbff622aec63a"><td class="memItemLeft" align="right" valign="top"><a id="a28f0052d53a34c92e2bbbff622aec63a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Distance</b></td></tr>
+<tr class="separator:a28f0052d53a34c92e2bbbff622aec63a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a883132695e1a0a9bd45a6a660c3369c6"><td class="memItemLeft" align="right" valign="top"><a id="a883132695e1a0a9bd45a6a660c3369c6"></a>
+struct <a class="el" href="a30119.html">FVector_NetQuantize</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Location</b></td></tr>
+<tr class="separator:a883132695e1a0a9bd45a6a660c3369c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf63949041450e0b4d9355600e7fb3bf"><td class="memItemLeft" align="right" valign="top"><a id="acf63949041450e0b4d9355600e7fb3bf"></a>
+struct <a class="el" href="a30119.html">FVector_NetQuantize</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactPoint</b></td></tr>
+<tr class="separator:acf63949041450e0b4d9355600e7fb3bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab936cbac280df3a20b4a33064379d0a4"><td class="memItemLeft" align="right" valign="top"><a id="ab936cbac280df3a20b4a33064379d0a4"></a>
+struct <a class="el" href="a30123.html">FVector_NetQuantizeNormal</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Normal</b></td></tr>
+<tr class="separator:ab936cbac280df3a20b4a33064379d0a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c887a653f30367043d878c044c97cf2"><td class="memItemLeft" align="right" valign="top"><a id="a1c887a653f30367043d878c044c97cf2"></a>
+struct <a class="el" href="a30123.html">FVector_NetQuantizeNormal</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ImpactNormal</b></td></tr>
+<tr class="separator:a1c887a653f30367043d878c044c97cf2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ccd0b060362383481de8ebfea6a12c9"><td class="memItemLeft" align="right" valign="top"><a id="a8ccd0b060362383481de8ebfea6a12c9"></a>
+struct <a class="el" href="a30119.html">FVector_NetQuantize</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TraceStart</b></td></tr>
+<tr class="separator:a8ccd0b060362383481de8ebfea6a12c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b4f58c27dc3629dc89cc37756081b27"><td class="memItemLeft" align="right" valign="top"><a id="a5b4f58c27dc3629dc89cc37756081b27"></a>
+struct <a class="el" href="a30119.html">FVector_NetQuantize</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TraceEnd</b></td></tr>
+<tr class="separator:a5b4f58c27dc3629dc89cc37756081b27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdb15e7443256022bb3a6eaa530e9595"><td class="memItemLeft" align="right" valign="top"><a id="acdb15e7443256022bb3a6eaa530e9595"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PenetrationDepth</b></td></tr>
+<tr class="separator:acdb15e7443256022bb3a6eaa530e9595"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acdd3d4c95886964fb642af0cc7140656"><td class="memItemLeft" align="right" valign="top"><a id="acdd3d4c95886964fb642af0cc7140656"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>Item</b></td></tr>
+<tr class="separator:acdd3d4c95886964fb642af0cc7140656"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8613a7d03371c7eb7e9c84471cdce9ff"><td class="memItemLeft" align="right" valign="top"><a id="a8613a7d03371c7eb7e9c84471cdce9ff"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a29759.html">UPhysicalMaterial</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PhysMaterial</b></td></tr>
+<tr class="separator:a8613a7d03371c7eb7e9c84471cdce9ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d205750756881fa755b20d59d983632"><td class="memItemLeft" align="right" valign="top"><a id="a2d205750756881fa755b20d59d983632"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a26555.html">AActor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Actor</b></td></tr>
+<tr class="separator:a2d205750756881fa755b20d59d983632"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abfdf8f485d94968861dfb663ba426330"><td class="memItemLeft" align="right" valign="top"><a id="abfdf8f485d94968861dfb663ba426330"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a26631.html">UPrimitiveComponent</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Component</b></td></tr>
+<tr class="separator:abfdf8f485d94968861dfb663ba426330"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f1887264b0bd9254cacdf4afaf872b4"><td class="memItemLeft" align="right" valign="top"><a id="a1f1887264b0bd9254cacdf4afaf872b4"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BoneName</b></td></tr>
+<tr class="separator:a1f1887264b0bd9254cacdf4afaf872b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7ef34f44301e46ae1e0aa873c459fb8"><td class="memItemLeft" align="right" valign="top"><a id="ad7ef34f44301e46ae1e0aa873c459fb8"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>FaceIndex</b></td></tr>
+<tr class="separator:ad7ef34f44301e46ae1e0aa873c459fb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30127.html">FInteriorSettings</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30127.html">FHitResult</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:40 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

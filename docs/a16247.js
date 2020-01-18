@@ -1,5 +1,5 @@
 var a16247 =
 [
-    [ "Component", "a16247.html#a28a665baff8a3e72b41d6b3ffc0b2292", null ],
-    [ "Curve", "a16247.html#a5ea379cc5fcb95d753f8ea81e5fdbc9b", null ]
+    [ "Id", "a16247.html#a9401336d5cdd8dcf3b88288c4504c455", null ],
+    [ "Name", "a16247.html#a92e800eac54e899215656778d2d56db9", null ]
 ];

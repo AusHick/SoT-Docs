@@ -1,4 +1,5 @@
 var a22787 =
 [
-    [ "UnknownData00", "a22787.html#ad31ec3b75a7d3d20a583e7b22b505b2b", null ]
+    [ "PickupableObject", "a22787.html#a9269ba9a4fcd32c9b90640d13fb997ea", null ],
+    [ "UnknownData00", "a22787.html#a0fb45931479a294d2407641161f58a43", null ]
 ];

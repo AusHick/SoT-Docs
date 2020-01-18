@@ -1,27 +1,4 @@
 var a08955 =
 [
-    [ "Multicast_StartAnimatedStepsOpen", "a08955.html#a1fca37956336203184c5911d94c5c31b", null ],
-    [ "OnBeginOverlapStepsListener", "a08955.html#a631f29ebcd369082111b2db81a813f3e", null ],
-    [ "OnBeginOverlapTavern", "a08955.html#a912497b4214ebb51f12cdc95864efe80", null ],
-    [ "OnEndOverlapStepsListener", "a08955.html#a3427d203d70e191d8b2126eb0037e942", null ],
-    [ "OnEndOverlapTavern", "a08955.html#ab64078be80b14c0b432b25048435b036", null ],
-    [ "OnRep_StepsState", "a08955.html#ae17f81cdc43cfd700dd679c1d7213832", null ],
-    [ "StaticClass", "a08955.html#ad3221b4f0dfa8c484cf0c0ae60f71248", null ],
-    [ "ActorsPlayingInstruments", "a08955.html#a64a7779f28fa3fb3ba1c53eb5a0acf7d", null ],
-    [ "AnimatedSteps", "a08955.html#a3d911cdaefb58dc0883c8a966b18a50e", null ],
-    [ "CollisionRoot", "a08955.html#aed15aed8a8afa001ab4d7f5713731eac", null ],
-    [ "PlayersInTavernTriggerComponent", "a08955.html#a031a054a1575217f1b0f7180b2fa0ae1", null ],
-    [ "PlayMagicEvent", "a08955.html#ad4278871f49dfe828c03da72f6679259", null ],
-    [ "ReactionEventPlayerOpen", "a08955.html#a64ff4016e845b58bbf659965b617ab46", null ],
-    [ "ReactionEventsCancel", "a08955.html#a5185ded87b371e89f9f25561ab3ef6cb", null ],
-    [ "ReactionEventsOpen", "a08955.html#af4db53794266235ea3a5f9da3c9c5bb3", null ],
-    [ "ShantyDelayBeforeStepsOpen", "a08955.html#a0edd60063cdae4750faf979d36f7e318", null ],
-    [ "ShantyMagicEmitter", "a08955.html#aad3c3013a77c38e194e23ef307bfacdc", null ],
-    [ "ShantyWorldRegionComponent", "a08955.html#a4b50133fc537e342fd3adbac8a2f438f", null ],
-    [ "StepsListenerTriggerComponent", "a08955.html#a7910e43c334916c79d2f25f0a57bf015", null ],
-    [ "StepsState", "a08955.html#aaccea984f4c429cbbf7bf9af93779e03", null ],
-    [ "StopMagicEvent", "a08955.html#a1c256a5b54db80c03e1e82b585921c3c", null ],
-    [ "UnknownData00", "a08955.html#a64bcc63ef73d58fb9d6cd631bc0b7687", null ],
-    [ "UnknownData01", "a08955.html#a7297a0bcd21cef3631298e55426673b4", null ],
-    [ "UnknownData02", "a08955.html#a724e90a6a5970faa2a44c332f820252c", null ]
+    [ "StaticClass", "a08955.html#a232c5fba34a5fd02244476a4aa6da5cf", null ]
 ];

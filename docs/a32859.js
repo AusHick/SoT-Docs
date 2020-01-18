@@ -1,9 +1,8 @@
 var a32859 =
 [
-    [ "AngleLerpShortest", "a32859.html#a677058eda096828a9ffd3802d2339322", null ],
-    [ "AngleMod180", "a32859.html#a52e6edfc1b366feed73302e45c8e1f1a", null ],
-    [ "AngleMod360", "a32859.html#a6b703241d3decaa801c01319cdf674a7", null ],
-    [ "AngleMoveTowardsMod180", "a32859.html#a61ed8157cbdb8ca1ab0abc2bcfc9f359", null ],
-    [ "CalculateEulerAngle", "a32859.html#ad16ac3405f7e6691106e777e2424b4bb", null ],
-    [ "StaticClass", "a32859.html#a0dc3b898d23dfd243c1b79d370a5d7bc", null ]
+    [ "Location", "a32859.html#aae740221540e0fcbfbbbd8b405d6ce6e", null ],
+    [ "Rotation", "a32859.html#a7c7259c44d6c0716c3b08cfbf63f31e4", null ],
+    [ "TriggerTime", "a32859.html#a2ba9e716aa8be0bb257fb3138c4adcc0", null ],
+    [ "UnknownData00", "a32859.html#a969b31d991c891c92d39005152027a8e", null ],
+    [ "VFX", "a32859.html#a402c91a0f592c50c4f1b53ac5c88e826", null ]
 ];

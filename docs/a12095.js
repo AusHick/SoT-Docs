@@ -1,16 +1,15 @@
 var a12095 =
 [
-    [ "OnFlamethrowerBeginOverlap", "a12095.html#a6c5652eab0036d5e210ed12426023992", null ],
-    [ "OnFlamethrowerEndOverlap", "a12095.html#a1098fd8dbdf19fafaacc9400d6b1ce93", null ],
-    [ "Reset", "a12095.html#aba9b4e3c4b018e05c147d78187069c84", null ],
-    [ "Start", "a12095.html#a7c043d72e110e59fdcf8eee70e4b7a19", null ],
-    [ "StaticClass", "a12095.html#a0cd5db64244f5d39fe1a0bb92bcea060", null ],
-    [ "Stop", "a12095.html#a1c24826011b7a6796a3162f87bceee33", null ],
-    [ "Animation", "a12095.html#a304a14f210cb3f0e3e9c0eb44adbe9a4", null ],
-    [ "CachedParticleSystem", "a12095.html#ab8fad6b7f7ee6dc82250e941a7ec9469", null ],
-    [ "ParticleSystem", "a12095.html#ab7957669b16ee8bc489767d273429590", null ],
-    [ "ParticleSystemRelativeRotation", "a12095.html#ab4aaaffff9442b8acc7ef26661027527", null ],
-    [ "UnknownData00", "a12095.html#a1ea31ae521b9e41ba8939ece9e3afd04", null ],
-    [ "UnknownData01", "a12095.html#a41580121b2ed8d6d16a70b50f8665d3e", null ],
-    [ "UnknownData02", "a12095.html#a3686a4beadd1504ffcd00d0114559ae4", null ]
+    [ "StaticClass", "a12095.html#af68203caa1d254ab58b95be376ca9037", null ],
+    [ "ChanceOfEscapePositionBeingAway", "a12095.html#abe517f5884f62e68dee9723122b9646b", null ],
+    [ "ChanceOfEscapePositionBeingLeft", "a12095.html#a5d4f0f828ab9c7f5454ac88cc4729c48", null ],
+    [ "ChanceOfEscapePositionBeingRight", "a12095.html#a1bfa2b58cd73585ea3f26e63fec55ef0", null ],
+    [ "HowLongBeforeUnfoughtFishEscapes", "a12095.html#a5332bf92d9b8b808562e5dcad7a5462b", null ],
+    [ "NumFakeOuts", "a12095.html#a416cdcd243626612a525daf681e3637e", null ],
+    [ "SpeedMovingBackToCentreWhenRecovering", "a12095.html#a872d516051fc548cb263bcccdf6fd856", null ],
+    [ "SpeedMovingBackToCentreWhenRecoveringWhenReeling", "a12095.html#a7cb56adb38006ee0cb2a9e3ce0f39985", null ],
+    [ "SwitchesBeforeRecovery", "a12095.html#a1473db5df146f64e3cea0451fa11545d", null ],
+    [ "TimeSpentRecovering", "a12095.html#a1e8b766e3262ffad81858045409930b5", null ],
+    [ "TimeToTire", "a12095.html#a283548ca7eadb523e3ff6ba302fa4797", null ],
+    [ "UnknownData00", "a12095.html#ad04d106f54628f2260c3061aa10847ca", null ]
 ];

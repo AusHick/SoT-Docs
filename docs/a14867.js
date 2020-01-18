@@ -1,7 +1,5 @@
 var a14867 =
 [
-    [ "ContainerId", "a14867.html#a146140ddc902e473ee97659db290327a", null ],
-    [ "ItemType", "a14867.html#a9344330379752817e0c84afd1f230d74", null ],
-    [ "NumberOfItemsRemainingInContainer", "a14867.html#aaeab1406802d3c51681ecb44a322da2e", null ],
-    [ "UnknownData00", "a14867.html#a91cdeb46e3adce3e888bee8ac485893d", null ]
+    [ "IconImage", "a14867.html#a5c7e90657d807aed4b2fea43e27dae58", null ],
+    [ "Name", "a14867.html#a50f4fb1a7937c5fdfc7da6a7ab9b3b3e", null ]
 ];

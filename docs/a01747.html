@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIShipCaptainParams Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FWeightedSpawnOffset Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,42 @@ $(document).ready(function(){initNavTree('a01747.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01744.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIShipCaptainParams Struct Reference</div>  </div>
+<div class="title">SDK::FWeightedSpawnOffset Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIShipCaptainParams:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FWeightedSpawnOffset:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01745.svg" width="336" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a01745.svg" width="494" height="272"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a27a84b7f3e29aa847e71233eb90275ba"><td class="memItemLeft" align="right" valign="top"><a id="a27a84b7f3e29aa847e71233eb90275ba"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AIClassId</b></td></tr>
-<tr class="separator:a27a84b7f3e29aa847e71233eb90275ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e61aee2d0352e831862e4b462c41c4e"><td class="memItemLeft" align="right" valign="top"><a id="a4e61aee2d0352e831862e4b462c41c4e"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b></td></tr>
-<tr class="separator:a4e61aee2d0352e831862e4b462c41c4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aefe50e13a71d37d8b341b8aee9b6d29e"><td class="memItemLeft" align="right" valign="top"><a id="aefe50e13a71d37d8b341b8aee9b6d29e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MinSpawnDistance</b></td></tr>
+<tr class="separator:aefe50e13a71d37d8b341b8aee9b6d29e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a380d430e16d5b44accb1cbb448af508a"><td class="memItemLeft" align="right" valign="top"><a id="a380d430e16d5b44accb1cbb448af508a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxSpawnDistance</b></td></tr>
+<tr class="separator:a380d430e16d5b44accb1cbb448af508a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9df48dd035b22f2c48f07773a15418a"><td class="memItemLeft" align="right" valign="top"><a id="ae9df48dd035b22f2c48f07773a15418a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Weight</b></td></tr>
+<tr class="separator:ae9df48dd035b22f2c48f07773a15418a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff28529f0edcaf2d4a6d94dec2a475c8"><td class="memItemLeft" align="right" valign="top"><a id="aff28529f0edcaf2d4a6d94dec2a475c8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:aff28529f0edcaf2d4a6d94dec2a475c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd528b9b1d6c63ccbe14c899dc07de2b"><td class="memItemLeft" align="right" valign="top"><a id="afd528b9b1d6c63ccbe14c899dc07de2b"></a>
+struct <a class="el" href="a33155.html">FWeightedProbabilityRangeOfRanges</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnRotations</b></td></tr>
+<tr class="separator:afd528b9b1d6c63ccbe14c899dc07de2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01747.html">FAIShipCaptainParams</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01747.html">FWeightedSpawnOffset</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:50 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

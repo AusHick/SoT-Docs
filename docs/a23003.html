@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAthenaAnimationWheelArmOverlayAnimData Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCategorisedLoadout Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,48 @@ $(document).ready(function(){initNavTree('a23003.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a23000.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAthenaAnimationWheelArmOverlayAnimData Struct Reference</div>  </div>
+<div class="title">SDK::FCategorisedLoadout Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAthenaAnimationWheelArmOverlayAnimData:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCategorisedLoadout:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a23001.svg" width="212" height="258"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a23001.svg" width="100%" height="537"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aea0d5ddba046c65f8b6a651bf3501417"><td class="memItemLeft" align="right" valign="top"><a id="aea0d5ddba046c65f8b6a651bf3501417"></a>
-class <a class="el" href="a27535.html">UBlendSpace1D</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ArmLower</b></td></tr>
-<tr class="separator:aea0d5ddba046c65f8b6a651bf3501417"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a054e26eb22e63fd59cae8c1cf65127db"><td class="memItemLeft" align="right" valign="top"><a id="a054e26eb22e63fd59cae8c1cf65127db"></a>
-class <a class="el" href="a27535.html">UBlendSpace1D</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>ArmRaise</b></td></tr>
-<tr class="separator:a054e26eb22e63fd59cae8c1cf65127db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a653f3307345bd631d8fa5d0c56781d22"><td class="memItemLeft" align="right" valign="top"><a id="a653f3307345bd631d8fa5d0c56781d22"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a22995.html">FLoadoutCategory</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ItemLoadout</b></td></tr>
+<tr class="separator:a653f3307345bd631d8fa5d0c56781d22"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb6d0f95e447b5ba5e30221bf6086122"><td class="memItemLeft" align="right" valign="top"><a id="acb6d0f95e447b5ba5e30221bf6086122"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a22995.html">FLoadoutCategory</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ClothingLoadout</b></td></tr>
+<tr class="separator:acb6d0f95e447b5ba5e30221bf6086122"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4ade34607a57c6899f48ebb0c0e377d2"><td class="memItemLeft" align="right" valign="top"><a id="a4ade34607a57c6899f48ebb0c0e377d2"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a22999.html">FLoadoutPetCategory</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PetLoadout</b></td></tr>
+<tr class="separator:a4ade34607a57c6899f48ebb0c0e377d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac28153affcacf4a7a16e07a9fa12d08d"><td class="memItemLeft" align="right" valign="top"><a id="ac28153affcacf4a7a16e07a9fa12d08d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>PetNamingDisallowed</b></td></tr>
+<tr class="separator:ac28153affcacf4a7a16e07a9fa12d08d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab09a3c569083686ea71c129a67006750"><td class="memItemLeft" align="right" valign="top"><a id="ab09a3c569083686ea71c129a67006750"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>InitialLoadout</b></td></tr>
+<tr class="separator:ab09a3c569083686ea71c129a67006750"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee6d756f701a8adf55fffcbb8bb90d06"><td class="memItemLeft" align="right" valign="top"><a id="aee6d756f701a8adf55fffcbb8bb90d06"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x6]</td></tr>
+<tr class="separator:aee6d756f701a8adf55fffcbb8bb90d06"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae484878c1ec9f82a155313d4479756d1"><td class="memItemLeft" align="right" valign="top"><a id="ae484878c1ec9f82a155313d4479756d1"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Hash</b></td></tr>
+<tr class="separator:ae484878c1ec9f82a155313d4479756d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a23003.html">FAthenaAnimationWheelArmOverlayAnimData</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a23003.html">FCategorisedLoadout</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,5 +1,6 @@
 var a29943 =
 [
-    [ "SourceAsset", "a29943.html#a41c912bbfe07a96809a66ff463bf50de", null ],
-    [ "UnknownData00", "a29943.html#a614a4b73f078fb4cf1503e466d563b86", null ]
+    [ "StaticClass", "a29943.html#a3cf33d96a2335d654600412d30e40bea", null ],
+    [ "DopplerIntensity", "a29943.html#a89b1b2350a43f852b8dbfba7845fa292", null ],
+    [ "UnknownData00", "a29943.html#a143d2e0d780e164c898d12d8637ff53b", null ]
 ];

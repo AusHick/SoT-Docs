@@ -1,6 +1,9 @@
 var a34239 =
 [
-    [ "EmitterPositionRelativeToComponentOrigin", "a34239.html#ab30c63f80d586189a65c66214e67a3d5", null ],
-    [ "PlaybackData", "a34239.html#ac4c2d17972904558aaa13a9960ea3921", null ],
-    [ "UnknownData00", "a34239.html#a2ad07cc9c65970d81a65438010918f82", null ]
+    [ "Compatibility", "a34239.html#ac601f4acb000db2fbaa28e01a3f3b051", null ],
+    [ "Env", "a34239.html#a7832ca2ac53e100fbb3b204a0eef2d44", null ],
+    [ "Max", "a34239.html#a535d2101130d81ad34f8b30912f3cf8d", null ],
+    [ "Min", "a34239.html#a5e74f7e6c76995590e0e555b1b554686", null ],
+    [ "Name", "a34239.html#a8d82d4650e9a560abeeeef9f4635a680", null ],
+    [ "UnknownData00", "a34239.html#a7d5d5ce9954a0fa2e8b99f86a0f10f8d", null ]
 ];

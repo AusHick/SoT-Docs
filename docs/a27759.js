@@ -1,5 +1,13 @@
 var a27759 =
 [
-    [ "StaticClass", "a27759.html#a1d86326d8e252bdd347ef17bb6278ede", null ],
-    [ "ButtonStyle", "a27759.html#a1440201c9bc23a3b2c68cb79242b5852", null ]
+    [ "StaticClass", "a27759.html#a2408060c3eb1cdb37a4aa3ceb4ac03e6", null ],
+    [ "bAutoReplaceIfExistingErrorTooGreat", "a27759.html#a82081615e14ddd7f4addfac3f438059d", null ],
+    [ "bRaiseMaxErrorToExisting", "a27759.html#a506227e1feff558b1649a18b8cb3c7fc", null ],
+    [ "bRunCurrentDefaultCompressor", "a27759.html#a1c788bab6c6a965558cd01a774186b2a", null ],
+    [ "bTryFixedBitwiseCompression", "a27759.html#a4138791083c57d6f823a5dbcf91d3017", null ],
+    [ "bTryIntervalKeyRemoval", "a27759.html#a3b9598d1cc39f85ee79d6fa700c65179", null ],
+    [ "bTryLinearKeyRemovalCompression", "a27759.html#a622f7c655f6dc6f1f8d472cc8e6579a1", null ],
+    [ "bTryPerTrackBitwiseCompression", "a27759.html#a56a50b8b469a973b6dfce8e89be237b1", null ],
+    [ "MaxEndEffectorError", "a27759.html#a504d965e6290bcab785c0e123ff9b70a", null ],
+    [ "UnknownData00", "a27759.html#a367d62713e3109f65e71761c6799e522", null ]
 ];

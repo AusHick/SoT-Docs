@@ -1,6 +1,12 @@
 var a34387 =
 [
-    [ "DamageLevel", "a34387.html#aa8bc958debe1c989c6245ab0392e9ee7", null ],
-    [ "DamageZone", "a34387.html#a97c3856cb57a66ce46e7a430d9529159", null ],
-    [ "UnknownData00", "a34387.html#a21dbbe67fa9d5c6b268ddb33bf21c3f6", null ]
+    [ "StaticClass", "a34387.html#af609941ff8d31588b245ae47272bc0ea", null ],
+    [ "DisableOcclusion", "a34387.html#abba0f61b901dd42f4877a9922efb0fc6", null ],
+    [ "DisableReverb", "a34387.html#ab51cea7479a7b6694de8d7434893f750", null ],
+    [ "MaxProxies", "a34387.html#ad6954e8c51b122b62c1a7de3e3a743e4", null ],
+    [ "MaxResources", "a34387.html#a0f86d45222f05f6c436a525b5d326d2c", null ],
+    [ "PoolDensityParams", "a34387.html#aee865625f7c951287913ce90ed4ab670", null ],
+    [ "PoolName", "a34387.html#a6c97c2b09395600b30dec11136a66129", null ],
+    [ "UnknownData00", "a34387.html#a644f8474718af7931b4d2dea0920cca3", null ],
+    [ "UnknownData01", "a34387.html#a8c2794898a78cd977d838aa77659fbff", null ]
 ];

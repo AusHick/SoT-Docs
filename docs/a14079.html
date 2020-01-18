@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FShipCustomizationLoadout Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCrewScore Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,39 @@ $(document).ready(function(){initNavTree('a14079.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a14076.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FShipCustomizationLoadout Struct Reference</div>  </div>
+<div class="title">SDK::FCrewScore Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FShipCustomizationLoadout:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCrewScore:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a14077.svg" width="496" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a14077.svg" width="560" height="500"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ab58f8df49fa40efcc4fdc44a84328dd2"><td class="memItemLeft" align="right" valign="top"><a id="ab58f8df49fa40efcc4fdc44a84328dd2"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a25915.html">UClass</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Customizations</b></td></tr>
-<tr class="separator:ab58f8df49fa40efcc4fdc44a84328dd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a33a2a523e34b466680de63a0fb119664"><td class="memItemLeft" align="right" valign="top"><a id="a33a2a523e34b466680de63a0fb119664"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; class <a class="el" href="a25915.html">UClass</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>InitialCustomizations</b></td></tr>
-<tr class="separator:a33a2a523e34b466680de63a0fb119664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9cd8526fbc83665d7d9bc3e07133b884"><td class="memItemLeft" align="right" valign="top"><a id="a9cd8526fbc83665d7d9bc3e07133b884"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>HasInitialCustomizationsSet</b></td></tr>
-<tr class="separator:a9cd8526fbc83665d7d9bc3e07133b884"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1c5838e03db5896b0c7e3c23fc9efa5f"><td class="memItemLeft" align="right" valign="top"><a id="a1c5838e03db5896b0c7e3c23fc9efa5f"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a1c5838e03db5896b0c7e3c23fc9efa5f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6fb8cdf94fe082d34ea8f4218c1de07e"><td class="memItemLeft" align="right" valign="top"><a id="a6fb8cdf94fe082d34ea8f4218c1de07e"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CrewId</b></td></tr>
+<tr class="separator:a6fb8cdf94fe082d34ea8f4218c1de07e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa253ac222915f8467e74436369e9ad37"><td class="memItemLeft" align="right" valign="top"><a id="aa253ac222915f8467e74436369e9ad37"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>Score</b></td></tr>
+<tr class="separator:aa253ac222915f8467e74436369e9ad37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcc1859f64679e898f94c713150daa40"><td class="memItemLeft" align="right" valign="top"><a id="abcc1859f64679e898f94c713150daa40"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EContestScoreId &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ScoreId</b></td></tr>
+<tr class="separator:abcc1859f64679e898f94c713150daa40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe5f8e18def5a74577f5c0f77118f63b"><td class="memItemLeft" align="right" valign="top"><a id="abe5f8e18def5a74577f5c0f77118f63b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:abe5f8e18def5a74577f5c0f77118f63b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14079.html">FShipCustomizationLoadout</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a14079.html">FCrewScore</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:34 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

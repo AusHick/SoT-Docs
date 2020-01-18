@@ -1,5 +1,6 @@
 var a16343 =
 [
-    [ "Manifest", "a16343.html#ad1106776f24bec94aae529dfbb2a8233", null ],
-    [ "Ship", "a16343.html#aa69313c9fd6520f2899fa58cc8cbfc47", null ]
+    [ "FishClass", "a16343.html#af76636691e19441a7ed1537e1f4f2161", null ],
+    [ "SizeIndex", "a16343.html#ab3c667b5c0be83651e442238f54439a2", null ],
+    [ "UnknownData00", "a16343.html#a2d5307ae1c76bb12c1055edf0d177a04", null ]
 ];

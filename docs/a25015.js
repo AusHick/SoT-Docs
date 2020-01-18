@@ -1,13 +1,8 @@
 var a25015 =
 [
-    [ "LifetimeTimeout", "a25015.html#a908ba8f1fc8b97a585c98dc5a7d73675", null ],
-    [ "RepositionTime", "a25015.html#a35c44698e3a0699c8dec525a8dea37c4", null ],
-    [ "SpawnOffset", "a25015.html#a528acea043129148019a84f5942a6d98", null ],
-    [ "TargetRadius", "a25015.html#a349a0543cc8a05e842bfa4489cfe1c4e", null ],
-    [ "TinySharkAIType", "a25015.html#ac53144984c71e1c70cf61080c26c2164", null ],
-    [ "TinySharkClassID", "a25015.html#a47bbed89122bde91e5f1afe060cdb4cd", null ],
-    [ "TinySharkLoadout", "a25015.html#a367f91d84a4c60db5a81c1413a34a210", null ],
-    [ "TinySharkSkillset", "a25015.html#a4ffa192afa90b850cb2d174d72f0bc23", null ],
-    [ "TinySharkType", "a25015.html#ad22dd3b29602ccb5e62780a2c28f607f", null ],
-    [ "TrackedShipDistanceThreshold", "a25015.html#adeebe496bf25c5c33cba3381b9d5b601", null ]
+    [ "MaxHealth", "a25015.html#aa3aff41ca87141c694ea9b34390be222", null ],
+    [ "MinHealth", "a25015.html#a0dec2b090c1c6e5d5c1a7bc9a8169eff", null ],
+    [ "OverrideMaxHealth", "a25015.html#a4aea1685ee1fe5ce15bebb430759cf8f", null ],
+    [ "OverrideMaxHealthWithMinMax", "a25015.html#a5f83183bb9bdb14704bc558107e53ef2", null ],
+    [ "UnknownData00", "a25015.html#afe3be02b893b41086f61a6fe6cf6f8bc", null ]
 ];

@@ -1,5 +1,7 @@
 var a14195 =
 [
-    [ "MinimumSpeedForExplosion", "a14195.html#ac22dbd603cab6eca38d3393c811687e9", null ],
-    [ "RammerType", "a14195.html#a1344d972591f15b3fa424b876ec0e429", null ]
+    [ "Customizations", "a14195.html#ab58f8df49fa40efcc4fdc44a84328dd2", null ],
+    [ "HasInitialCustomizationsSet", "a14195.html#a9cd8526fbc83665d7d9bc3e07133b884", null ],
+    [ "InitialCustomizations", "a14195.html#a33a2a523e34b466680de63a0fb119664", null ],
+    [ "UnknownData00", "a14195.html#a1c5838e03db5896b0c7e3c23fc9efa5f", null ]
 ];

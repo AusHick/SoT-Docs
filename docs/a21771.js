@@ -1,13 +1,10 @@
 var a21771 =
 [
-    [ "BootyId", "a21771.html#a5a5364e7ea923d236fca11cee1a8cf1a", null ],
-    [ "BootyType", "a21771.html#a73c5b91b0350e7f1bc662363f8f3bf26", null ],
-    [ "DeliveredOnTime", "a21771.html#a077fcf1621fdc22267f9c91e07abba32", null ],
-    [ "DeliveredQuality", "a21771.html#a71fd6d339c93d648d5c8ce95be6df4b3", null ],
-    [ "GoldAwarded", "a21771.html#a143980c9e21c547f85833b0fa48c2af8", null ],
-    [ "MaxQuality", "a21771.html#a290aade38d6fa0a66afcfa9d338bf42c", null ],
-    [ "Rarity", "a21771.html#ad07d08169d5a5bb7d78b35101fd14878", null ],
-    [ "UnknownData00", "a21771.html#ab37414d19a1df891c7f8afae54341035", null ],
-    [ "UnknownData01", "a21771.html#ae4d7eae5bc890b1b510f619e689a3f1d", null ],
-    [ "UnknownData02", "a21771.html#a292fa8b83d489630106278d207900fe7", null ]
+    [ "GeneratedRewards", "a21771.html#ad47e9becadf7c9c2c3ead4947c4bc5f6", null ],
+    [ "NumIslandsToAvoid", "a21771.html#ace1929cedd15f45b6d1fb079ea750957", null ],
+    [ "UnknownData00", "a21771.html#a0008511dad1307ff90f230fdad106547", null ],
+    [ "VoyageGenerationLocation", "a21771.html#aa37c5a4a895a9a7aaedc29f3c616d9ae", null ],
+    [ "VoyageGenerationSeed", "a21771.html#a1bde5807777a8a5be70bce961c7f0916", null ],
+    [ "VoyageRank", "a21771.html#ab23404a8c6e3af7aa8000c39a4290f36", null ],
+    [ "VoyageRecipeAsset", "a21771.html#ae31bd2d296e82cacc5c76651ab4f2d07", null ]
 ];

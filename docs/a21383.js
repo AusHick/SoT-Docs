@@ -1,4 +1,5 @@
 var a21383 =
 [
-    [ "ItemCategory", "a21383.html#a87d1d58cdd51ab7effdb2c5ba48c2064", null ]
+    [ "ResolutionX", "a21383.html#a61c9528b8461817145199010cfa121a9", null ],
+    [ "ResolutionY", "a21383.html#aabd68f8b92fbe656e68c33ba7a49e6cd", null ]
 ];

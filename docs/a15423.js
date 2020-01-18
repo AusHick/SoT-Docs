@@ -1,6 +1,6 @@
 var a15423 =
 [
-    [ "AIProxPlayerTracker", "a15423.html#a1fce21d657264c6d8b91911d787eaa52", null ],
-    [ "AISpawner", "a15423.html#afa954c9644a1fe8f04d98c409b85b1cd", null ],
-    [ "UnknownData00", "a15423.html#a51aeb5ac4de3cfc922c2e7f2fb751c01", null ]
+    [ "ActivatedDateTimeUtc", "a15423.html#a1a9e032da1309886b19e6c0117801f02", null ],
+    [ "NotificationId", "a15423.html#adf48c3c75f82b91db3a8d4452988fd57", null ],
+    [ "UnknownData00", "a15423.html#a6900106c10108e0e3c5891e05897e3e0", null ]
 ];

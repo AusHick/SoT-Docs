@@ -1,6 +1,5 @@
 var a31151 =
 [
-    [ "MaxVolumeThreshold", "a31151.html#a2256513cf7bfd373d58ffa9a3f190003", null ],
-    [ "MinVolumeThreshold", "a31151.html#aa8cbea048e2183914eba7c3744d78543", null ],
-    [ "SoundMix", "a31151.html#a9f3468a2cb64923e179e41609ccc5060", null ]
+    [ "GroupName", "a31151.html#af6cc2b1843d9e03036bcee0c1404dc78", null ],
+    [ "Time", "a31151.html#ac65fff9912975bceedd9c0ba653b63a3", null ]
 ];

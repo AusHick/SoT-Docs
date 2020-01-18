@@ -1,7 +1,7 @@
 var a02883 =
 [
-    [ "DisableStatusResponse", "a02883.html#a12911b444a1ff4e8460c55cf7d21aaec", null ],
-    [ "ForceReCalculateShipRegion", "a02883.html#acef9bd9666fbd63ee2f3f3f895d57210", null ],
-    [ "ForceShipRegion", "a02883.html#a0d159e4f908fa5125ea3e3538d3b3970", null ],
-    [ "StaticClass", "a02883.html#a7bdce42eb963a2dc10356a17a4600026", null ]
+    [ "StaticClass", "a02883.html#a47b4081a6b9e5795175c403a978c98d9", null ],
+    [ "CurrentAIStrategyId", "a02883.html#a79ea6bf533fed09a0474bd75c44adb45", null ],
+    [ "CurrentServerActionStates", "a02883.html#ad8ff9bd5c3f8f4a1d07443ebe50fb9cd", null ],
+    [ "UnknownData00", "a02883.html#ad0ae070edbb4c8b2afc9fa1b9166fb31", null ]
 ];

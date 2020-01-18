@@ -1,6 +1,6 @@
 var a15371 =
 [
-    [ "Name", "a15371.html#a5e423005156a3aef1991cdddbba50a27", null ],
-    [ "ShipCategoryObject", "a15371.html#abc00681f80df853f570b921bc1bd4c59", null ],
-    [ "ShipTypeObject", "a15371.html#a3214eb64b20d2ad613473c814a35ef28", null ]
+    [ "Curse", "a15371.html#ac028127867a91cf96c28bd712ce91d2c", null ],
+    [ "StatToFire", "a15371.html#a274fa52755a211119808810a82d0a671", null ],
+    [ "UnknownData00", "a15371.html#a6b9a374e9812a8af39aee9162696cbd8", null ]
 ];

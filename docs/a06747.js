@@ -1,7 +1,8 @@
 var a06747 =
 [
-    [ "Multicast_PlayVFXRPC", "a06747.html#a7abcd88cd65b88f1eba418fd5d59e5ca", null ],
-    [ "StaticClass", "a06747.html#a43780cd5b456ffaa1f1af672e08c3b6b", null ],
-    [ "CurrentlyPlayingParticleSystem", "a06747.html#a3ac9223524af7911511d90ff343e98ce", null ],
-    [ "NetworkTriggerableVFX", "a06747.html#a7a4d4b24520cec95e29b3619706b2466", null ]
+    [ "StaticClass", "a06747.html#a40aeef5e6f838e095289f3a0aa4b0009", null ],
+    [ "LinkedDialog", "a06747.html#a709f230783830f720b5a771ac191ce22", null ],
+    [ "LinkedDialogOption", "a06747.html#a898d65925ecb9378201056c29632e8b1", null ],
+    [ "NumberOfUses", "a06747.html#ade7d8e5f3cedf63cbe36264cf5fa60bf", null ],
+    [ "UnknownData00", "a06747.html#ab17a7007244b807f6d30788772e10a5d", null ]
 ];

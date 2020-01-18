@@ -1,6 +1,22 @@
 var a13743 =
 [
-    [ "RepairableState", "a13743.html#a30575a008a9731471a3ca864ce0693f2", null ],
-    [ "RepairingList", "a13743.html#a3c22dbfa8e1adab64637e83ca71746aa", null ],
-    [ "UnknownData00", "a13743.html#a2630b32a1dda7af535275b2a44bda08a", null ]
+    [ "AnchorName", "a13743.html#a68d277f497854af4134bc863a06b85fe", null ],
+    [ "CapstanName", "a13743.html#a563155c70dd8709cc997e6eb1fcffa6e", null ],
+    [ "ForeMastName", "a13743.html#a869dce8e211844da74bf4cec0f125c3f", null ],
+    [ "ForeMastSailAngleLeftName", "a13743.html#a7ac3a062ee41d057be3544ef133c983f", null ],
+    [ "ForeMastSailAngleRightName", "a13743.html#abf7bd2252b9acce30ba3cfe462ddfdda", null ],
+    [ "ForeMastSailHoistLeftName", "a13743.html#a088e36524ef85e6e44adfa55b33241ee", null ],
+    [ "ForeMastSailHoistRightName", "a13743.html#a3678d118e22fb25e81931d3e2cf71a5e", null ],
+    [ "MainMastName", "a13743.html#aa0f30697034ec959c875f70e849e1a73", null ],
+    [ "MainMastSailAngleLeftName", "a13743.html#a30512b7680a28b310f8672d484cee624", null ],
+    [ "MainMastSailAngleRightName", "a13743.html#a8918790685758cb4e7a93bbbd9fd580d", null ],
+    [ "MainMastSailHoistLeftName", "a13743.html#a8f46137abeccdeeb97c7bef7975186e1", null ],
+    [ "MainMastSailHoistRightName", "a13743.html#a4f30f8f11ea6adea4a11e1308ab71ae4", null ],
+    [ "MizzenMastName", "a13743.html#aa265f175a763f998bee45ebb5ee4e8d6", null ],
+    [ "MizzenMastSailAngleLeftName", "a13743.html#aeaa0b80ab669fca9f61b4ee2f392c68e", null ],
+    [ "MizzenMastSailAngleRightName", "a13743.html#aa3f9e65ab5426c71f8774f72500c96da", null ],
+    [ "MizzenMastSailHoistLeftName", "a13743.html#ad5d32f11bff6ee35b0c612e707fd1d67", null ],
+    [ "MizzenMastSailHoistRightName", "a13743.html#a5a46f4f996022f8b8bd62e90aae8035c", null ],
+    [ "RudderName", "a13743.html#a6cbe2234c64b9216c6795609d03babe7", null ],
+    [ "WheelName", "a13743.html#a80ef251866b56bcff835ac2d6fb9f43a", null ]
 ];

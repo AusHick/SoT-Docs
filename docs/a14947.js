@@ -1,7 +1,7 @@
 var a14947 =
 [
-    [ "ContinuousSequences", "a14947.html#a8b199c78db873aa053013d1b7e200003", null ],
-    [ "InitialSpawnedCosmeticItems", "a14947.html#ad137ee2dc734f49ac3dc2cdf88c8aed2", null ],
-    [ "OneShotSequences", "a14947.html#a47751978c90eb037672b25d42fc05e16", null ],
-    [ "WieldableCosmeticItemList", "a14947.html#a34dfa0ad075c05ec1b1d12627c662453", null ]
+    [ "ContainerId", "a14947.html#a146140ddc902e473ee97659db290327a", null ],
+    [ "ItemType", "a14947.html#a9344330379752817e0c84afd1f230d74", null ],
+    [ "NumberOfItemsRemainingInContainer", "a14947.html#aaeab1406802d3c51681ecb44a322da2e", null ],
+    [ "UnknownData00", "a14947.html#a91cdeb46e3adce3e888bee8ac485893d", null ]
 ];

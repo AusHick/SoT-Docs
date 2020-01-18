@@ -1,5 +1,5 @@
 var a00807 =
 [
-    [ "StaticClass", "a00807.html#a2da9ad8e2fe349e5afc12b8b0c899d61", null ],
-    [ "UnknownData00", "a00807.html#ac67d8445d9759578a9f3abe47794761f", null ]
+    [ "TestProperty", "a00807.html#af0d0dc54ded50c9862b50cb6edc8a827", null ],
+    [ "UnknownData00", "a00807.html#aec1c16e1cef54bb7580292a62448a07f", null ]
 ];

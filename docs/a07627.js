@@ -1,10 +1,11 @@
 var a07627 =
 [
-    [ "OnEmotesRadialActivatedGamepad", "a07627.html#a47dbcd0a8ad03f0d2899ebd26dd9f383", null ],
-    [ "OnEmotesRadialActivatedKeyboard", "a07627.html#a1c7a39329b9c25e1f29ec03aa6b95b0a", null ],
-    [ "OnEmotesRadialDeactivatedGamepad", "a07627.html#a32fe4c65153af2553a917b5410d859b2", null ],
-    [ "OnEmotesRadialDeactivatedKeyboard", "a07627.html#a6c56c8da0592ec4d3033d3c312c65c6a", null ],
-    [ "OnEmotesRadialTriggerNextSetOfEmotes", "a07627.html#aea1b459bcfa6793dd270891dea09478f", null ],
-    [ "StaticClass", "a07627.html#a600a5c9ebd8b172335255532abde28ac", null ],
-    [ "UnknownData00", "a07627.html#a044844d6c868c5756e5fd5cc8363a5c8", null ]
+    [ "StaticClass", "a07627.html#a328ccdba7e4c82a3faf17e64c6f7c5a7", null ],
+    [ "PollIntervalSeconds", "a07627.html#a4e931fe25b63121722efabc55e1ea003", null ],
+    [ "ReapersMarkFlag", "a07627.html#a769dc04df65177d1da3876bc7ef27f5d", null ],
+    [ "ReapersMarkLevelData", "a07627.html#a3b048d048dd0036ca5d80b09a9500ccc", null ],
+    [ "ShipStatusStats", "a07627.html#ab173ade3e9b4af733934e0be5ef43f95", null ],
+    [ "SkeletonCurseStats", "a07627.html#ae90bee7ee700b12f4506462437a97209", null ],
+    [ "StatToFireOnReapersMarkLevelIncrease", "a07627.html#add3931cd90f1314e5cab0cbcfe118aca", null ],
+    [ "UnknownData00", "a07627.html#a5de67cb0fed9654347f4198def9a92cf", null ]
 ];

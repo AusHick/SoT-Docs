@@ -1,5 +1,6 @@
 var a14335 =
 [
-    [ "IslandName", "a14335.html#a1b33b3c9e33832685d122611305be886", null ],
-    [ "MaxHoles", "a14335.html#a47b73c74661b3ee36ea165cc67b6b798", null ]
+    [ "CharmIn", "a14335.html#a4bb5d01f02cffd84624dff2ba7bf96d1", null ],
+    [ "CharmLoop", "a14335.html#a0cb1fb898f9eedaface6d69bf5238dc3", null ],
+    [ "CharmOut", "a14335.html#aa05ac2b11c9ce763480f98241a2e113f", null ]
 ];

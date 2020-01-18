@@ -1,4 +1,5 @@
 var a21203 =
 [
-    [ "CrewMembers", "a21203.html#a7055773a56bc1442b8f6b6a330f1235b", null ]
+    [ "DistancePlayerTravelledSinceLoadCompleted", "a21203.html#a751813da6fb6643483141d8aa6473fe4", null ],
+    [ "TimeSinceLoadCompleted", "a21203.html#ae101026badd1fee59236c755bffbd198", null ]
 ];

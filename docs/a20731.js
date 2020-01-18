@@ -1,5 +1,5 @@
 var a20731 =
 [
-    [ "CrewId", "a20731.html#af576f15699b4780d7f5349500a3f0e15", null ],
-    [ "Pirates", "a20731.html#a961c88f92e6013f5244ec27b1a22ab14", null ]
+    [ "MigrationId", "a20731.html#a4f42ff906264eabeb286bbcab768a462", null ],
+    [ "Stage", "a20731.html#a004004ad7509446ec11152b3b4179d7b", null ]
 ];

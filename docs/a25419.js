@@ -1,4 +1,5 @@
 var a25419 =
 [
-    [ "StaticClass", "a25419.html#a4b533682e76edb50738baa0fe05aa1bf", null ]
+    [ "Player", "a25419.html#a0a71276d61dbd65894e3e6eda5e4d775", null ],
+    [ "UnknownData00", "a25419.html#a66de2db1bb7114254bcb03406464164f", null ]
 ];

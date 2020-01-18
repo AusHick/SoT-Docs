@@ -1,6 +1,8 @@
 var a32851 =
 [
-    [ "KrakenDespawnReason", "a32851.html#af4f3657d6eda5b227a2888676512561c", null ],
-    [ "KrakenId", "a32851.html#aa07328f712ef294af7e866bf488e5e31", null ],
-    [ "UnknownData00", "a32851.html#a950a7e2394b5d854c2ef4bbfe449127d", null ]
+    [ "Duration", "a32851.html#afce7908c2beb839ce193f0bcf0948376", null ],
+    [ "EndFrame", "a32851.html#af4b6e71aeb9e661a1657a23beb012e29", null ],
+    [ "StartFrame", "a32851.html#a419c50bee5a32db04b5b4607f76b5024", null ],
+    [ "UnknownData00", "a32851.html#a3880e5da3e2cd94ae5999a47380b5b68", null ],
+    [ "Visible", "a32851.html#a8bc3f5e9e2b05f74ca34dc505d272a96", null ]
 ];

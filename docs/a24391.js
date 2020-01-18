@@ -1,6 +1,5 @@
 var a24391 =
 [
-    [ "StaticClass", "a24391.html#a8789545a109c2f658de2f634eaa96375", null ],
-    [ "SrcBlackboardKey", "a24391.html#af581369955484a89081cb3a60fdb1d84", null ],
-    [ "TargetBlackboardKey", "a24391.html#a95b761dcb779fefe2bddb1323f56af0d", null ]
+    [ "StaticClass", "a24391.html#ab3d26f8de18cc018a8f74bac0c6f5eb1", null ],
+    [ "Strategies", "a24391.html#a59780b7b52c0e2c8a4d3cdcb9cc9ea4e", null ]
 ];

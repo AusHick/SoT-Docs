@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBehaviorTreeTemplateInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAINoiseEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a01495.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a01492.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBehaviorTreeTemplateInfo Struct Reference</div>  </div>
+<div class="title">SDK::FAINoiseEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBehaviorTreeTemplateInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAINoiseEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a01493.svg" width="387" height="508"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a01493.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a3a0ab45c71414e9f24cc3d16433654da"><td class="memItemLeft" align="right" valign="top"><a id="a3a0ab45c71414e9f24cc3d16433654da"></a>
-class <a class="el" href="a01031.html">UBehaviorTree</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Asset</b></td></tr>
-<tr class="separator:a3a0ab45c71414e9f24cc3d16433654da"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ea8bb4957a97e43e707ba53d5b99528"><td class="memItemLeft" align="right" valign="top"><a id="a0ea8bb4957a97e43e707ba53d5b99528"></a>
-class <a class="el" href="a01027.html">UBTCompositeNode</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Template</b></td></tr>
-<tr class="separator:a0ea8bb4957a97e43e707ba53d5b99528"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7cc7d149caddc24443b5bd65209079e"><td class="memItemLeft" align="right" valign="top"><a id="ab7cc7d149caddc24443b5bd65209079e"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:ab7cc7d149caddc24443b5bd65209079e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6b6fb7653a1cfab378b5c4d731943b3"><td class="memItemLeft" align="right" valign="top"><a id="ac6b6fb7653a1cfab378b5c4d731943b3"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:ac6b6fb7653a1cfab378b5c4d731943b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d6025c3e6de9141146e3514e57fe6d7"><td class="memItemLeft" align="right" valign="top"><a id="a3d6025c3e6de9141146e3514e57fe6d7"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>NoiseLocation</b></td></tr>
+<tr class="separator:a3d6025c3e6de9141146e3514e57fe6d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a264f85cb82f6fd53ce3ce95564ef6495"><td class="memItemLeft" align="right" valign="top"><a id="a264f85cb82f6fd53ce3ce95564ef6495"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Loudness</b></td></tr>
+<tr class="separator:a264f85cb82f6fd53ce3ce95564ef6495"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8172f737dc9ccdbed1a49d8051103e50"><td class="memItemLeft" align="right" valign="top"><a id="a8172f737dc9ccdbed1a49d8051103e50"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxRange</b></td></tr>
+<tr class="separator:a8172f737dc9ccdbed1a49d8051103e50"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2941fccedb3c378403d659a92ccfecbb"><td class="memItemLeft" align="right" valign="top"><a id="a2941fccedb3c378403d659a92ccfecbb"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Instigator</b></td></tr>
+<tr class="separator:a2941fccedb3c378403d659a92ccfecbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0d192e1e2bd9c04e115d7b7b242bf62"><td class="memItemLeft" align="right" valign="top"><a id="ae0d192e1e2bd9c04e115d7b7b242bf62"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Tag</b></td></tr>
+<tr class="separator:ae0d192e1e2bd9c04e115d7b7b242bf62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4084663672799fcfcc8eebea0a65f98f"><td class="memItemLeft" align="right" valign="top"><a id="a4084663672799fcfcc8eebea0a65f98f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x8]</td></tr>
+<tr class="separator:a4084663672799fcfcc8eebea0a65f98f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01495.html">FBehaviorTreeTemplateInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a01495.html">FAINoiseEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,9 +1,9 @@
 var a01751 =
 [
-    [ "CaptainGenders", "a01751.html#a6a2963dcce09b544b9755d9e2323cb05", null ],
-    [ "Captains", "a01751.html#a8be35145f0ab06ca35f4c9bd7f60dbff", null ],
-    [ "EncounterTypes", "a01751.html#ace91512b5dbd90790cabc9324fecd3f6", null ],
-    [ "SailColours", "a01751.html#ae0d33906c3380d67386cb7e651a0dabf", null ],
-    [ "SkeletonAmmoTypes", "a01751.html#abf266ace14e14d9c75a31c583bc4a523", null ],
-    [ "SkeletonForms", "a01751.html#aab9a0ed5abcd72e13779ce0db86e30c3", null ]
+    [ "DirectionAngle", "a01751.html#a352ddf6d2070e32ef597b3c90c5b6264", null ],
+    [ "DirectionWidth", "a01751.html#a6316f09e226f2abf7f24b47195ecbb12", null ],
+    [ "SpawnOffsets", "a01751.html#a25039792cdbf5817c6a55466dd009186", null ],
+    [ "UnknownData00", "a01751.html#a20445b7b90fc95fa3ba8b4fba318036b", null ],
+    [ "UnknownData01", "a01751.html#a0b1533cc49955259fbd8cc10127b3fb2", null ],
+    [ "Weight", "a01751.html#a6d01740cac8aa14f681fefb788c26c06", null ]
 ];

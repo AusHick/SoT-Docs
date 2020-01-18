@@ -1,5 +1,5 @@
 var a30543 =
 [
-    [ "DistanceToLOD", "a30543.html#ab92d271023ce608e77d2e669f576acc6", null ],
-    [ "LODReduction", "a30543.html#a109807f054e5fc8d742480a19d4c9bd1", null ]
+    [ "Material", "a30543.html#a9b0a0778414707564bfd4d9b95eaffb2", null ],
+    [ "Name", "a30543.html#a4d2a83421c8b5449f7d03f330a9796e8", null ]
 ];

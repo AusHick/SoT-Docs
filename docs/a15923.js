@@ -1,5 +1,7 @@
 var a15923 =
 [
-    [ "ActionBeingLookedUp", "a15923.html#a7a467124cf38a9d57c9fe52f77cee22b", null ],
-    [ "ActionToAlsoLookup", "a15923.html#adb0d0f657cf7c4cce13ac677834110f6", null ]
+    [ "AxisNames", "a15923.html#ae12e63f7b1a6d8e6b747036c8f4350ba", null ],
+    [ "BindingName", "a15923.html#aa2e6ae72e94b2def5302558396b3d1c9", null ],
+    [ "Scale", "a15923.html#ab7ea65097a27ef215b55eae3d4a104d3", null ],
+    [ "UnknownData00", "a15923.html#a0e1864bfeb4b7133d1b7afe51b0b7de7", null ]
 ];

@@ -1,27 +1,8 @@
 var a35315 =
 [
-    [ "GetAlignment", "a35315.html#a36dc8f14f76190869940911f30bbee9f", null ],
-    [ "GetAnchors", "a35315.html#acdf82531c98dc243698ed835f5c6dbfc", null ],
-    [ "GetAutoSize", "a35315.html#afe7362a3397a675b5a8b67b77185cc48", null ],
-    [ "GetLayout", "a35315.html#abcb149fd5f197e53652f12c37002ada5", null ],
-    [ "GetOffsets", "a35315.html#a678b8784a41bd5549f674058bcde56ad", null ],
-    [ "GetPosition", "a35315.html#ab1eca15493026632404214fd2dd0c721", null ],
-    [ "GetSize", "a35315.html#afe6bd4fe0bf79f6dbb5da601d2667bfd", null ],
-    [ "GetZOrder", "a35315.html#adc010c3f408a82887462e9828262373f", null ],
-    [ "SetAlignment", "a35315.html#a1f70836f5cb5f1c33ef9f96fd6f40452", null ],
-    [ "SetAnchors", "a35315.html#ab675ccabd4d85b629311a4ce1cab38b9", null ],
-    [ "SetAutoSize", "a35315.html#a47c1756b7b18578b74dac1111a9ceb73", null ],
-    [ "SetLayout", "a35315.html#a82718b61694126420ee1d63f4808ff6f", null ],
-    [ "SetMaximum", "a35315.html#a53c4d9e024bb4058f53f12e5b9b13d68", null ],
-    [ "SetMinimum", "a35315.html#a90f3d3089013136179eee4d062b84003", null ],
-    [ "SetOffsets", "a35315.html#ae09169d1c82979f473129c29850493b0", null ],
-    [ "SetPosition", "a35315.html#aa00e8358dca3941529c3300e89446229", null ],
-    [ "SetSize", "a35315.html#a158ce6d33f5d72309aee71a1f1ccae34", null ],
-    [ "SetZOrder", "a35315.html#aba6288533475029a7ce3128081ae65e2", null ],
-    [ "StaticClass", "a35315.html#a10ec29e033d104d19b2298731d9c8bb2", null ],
-    [ "bAutoSize", "a35315.html#a26e4cf2e89646be6d20f8fb1e489cbaa", null ],
-    [ "LayoutData", "a35315.html#a9268869d89281a2326bf57264be3f36b", null ],
-    [ "UnknownData00", "a35315.html#a44cbdf23baf4ef915ed2c3ac60029d63", null ],
-    [ "UnknownData01", "a35315.html#ab76a7c075882c80b2b86b109004e436b", null ],
-    [ "ZOrder", "a35315.html#a45523b9da9432172f695d45f8d2f7825", null ]
+    [ "Id", "a35315.html#aa779f276f31bf9d637c8c219d4d3f78a", null ],
+    [ "Item", "a35315.html#a524f1e8ad7800fe1021c08888300f03d", null ],
+    [ "NumToAllocate", "a35315.html#afa1e06938b2433717f52a8fa6839ce36", null ],
+    [ "NumToDeliver", "a35315.html#aeb3893162e07f64141be00de7dfbe40f", null ],
+    [ "UnknownData00", "a35315.html#a824c4b85d3075a6f186ae334fb601575", null ]
 ];

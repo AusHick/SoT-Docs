@@ -1,5 +1,7 @@
 var a31571 =
 [
-    [ "ComponentSpaceFlags", "a31571.html#a98b852aa1ce7fa3569f76ab2d4b86d32", null ],
-    [ "UnknownData00", "a31571.html#a043d3a0f2db1c3dde7a7cf6266759c1b", null ]
+    [ "bDistributionEnabled", "a31571.html#a3ab42daf3178af65e5f73e3e714f32db", null ],
+    [ "bForceContentExport", "a31571.html#acaf9725459af140e03f89af6034d32e1", null ],
+    [ "bInitialized", "a31571.html#a1b6745091119d50305d046f4fecff41d", null ],
+    [ "UnknownData00", "a31571.html#a8ba587451fc7edc9887b9a7a127d51d3", null ]
 ];

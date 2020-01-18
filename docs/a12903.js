@@ -1,6 +1,5 @@
 var a12903 =
 [
-    [ "PassengerIntoSitting", "a12903.html#aed6848e1d91ad3a86c4ec115f1ec554a", null ],
-    [ "PassengerSittingIdle", "a12903.html#adb80d3f663118f12e4811d09b0c53a95", null ],
-    [ "PassengerStand", "a12903.html#ad85ad7ee2af9bbaa6b547d751d3d583e", null ]
+    [ "AlternateContinuousActions", "a12903.html#add85bc7d788f0cbc7f6b65f95f34a12c", null ],
+    [ "MainContinuousActions", "a12903.html#a8edd9a96f3c9892c12a66705d12eb4bb", null ]
 ];

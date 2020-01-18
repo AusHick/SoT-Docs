@@ -1,10 +1,14 @@
 var a12099 =
 [
-    [ "StaticClass", "a12099.html#a9df1b71ed9f95e97a0529fcb3a96bb6f", null ],
-    [ "CoolDownDuration", "a12099.html#add4627ba8b646261a89e18219a6d9fbf", null ],
-    [ "MechanismGroups", "a12099.html#aa62474915e2f3214f8f72029c7f47ecd", null ],
-    [ "MechanismGroupsToSelect", "a12099.html#aea8c0a65fea1f01f741756dd2e12d911", null ],
-    [ "SelectedMechanismGroups", "a12099.html#a20d0278a6faec5a4e5ae65df86ba2abe", null ],
-    [ "UnknownData00", "a12099.html#afa90b6df2a462549b93fc3afd5de735d", null ],
-    [ "UnknownData01", "a12099.html#a2f5188c2fea3b3a2c27c40824cd8035a", null ]
+    [ "StaticClass", "a12099.html#aab1dae6bd03fc84113eaedefb6cbb438", null ],
+    [ "AwayEscapeSectorAngleAtMaxDistance", "a12099.html#a38cfbcb683a5af1f312c3ddd860c923e", null ],
+    [ "AwayEscapeSectorAngleAtMinDistance", "a12099.html#a2814e60152f2fe7ef80e55e9c9d3f0f3", null ],
+    [ "EscapeRadiusAtMaxDistance", "a12099.html#a06245dcf0be66087e231d7c526f121b7", null ],
+    [ "EscapeRadiusAtMinDistance", "a12099.html#add9cb056bae0245b903fb5dc931273b9", null ],
+    [ "FakeOutDistancePercentage", "a12099.html#a2f2fe4d7a9c40386d72bd3bfbfce1ca3", null ],
+    [ "LeftRightEscapeSectorAngleAtMaxDistance", "a12099.html#a1d679595d7253cc43f37d537653726c6", null ],
+    [ "LeftRightEscapeSectorAngleAtMinDistance", "a12099.html#a850d755d1702e82e9d42e6fd30308a1a", null ],
+    [ "PercentageOfEscapeRadiusToKeepFishFacingOutwards", "a12099.html#ac571ae1a512b51bfe4e3d250908f1beb", null ],
+    [ "TimeToNextAngleChangeWithinSector", "a12099.html#af5b40dd689c45d182fd67bf3486d7889", null ],
+    [ "UnknownData00", "a12099.html#a603fe50f7661af0fef3148a075cf5c77", null ]
 ];

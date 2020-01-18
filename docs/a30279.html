@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FRichCurve Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FBodyInstance Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,59 +87,192 @@ $(document).ready(function(){initNavTree('a30279.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30276.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FRichCurve Struct Reference</div>  </div>
+<div class="title">SDK::FBodyInstance Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FRichCurve:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBodyInstance:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30278.svg" width="170" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
-<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRichCurve:</div>
-<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
-</div>
-<div id="dynsection-1-content" class="dyncontent" style="display:none;">
 <div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30277.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a47416682e1cd73415a264f23e65eb282"><td class="memItemLeft" align="right" valign="top"><a id="a47416682e1cd73415a264f23e65eb282"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ERichCurveExtrapolation &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PreInfinityExtrap</b></td></tr>
-<tr class="separator:a47416682e1cd73415a264f23e65eb282"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a762c6f95122852bec8eb9c15c1c4b17b"><td class="memItemLeft" align="right" valign="top"><a id="a762c6f95122852bec8eb9c15c1c4b17b"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; ERichCurveExtrapolation &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PostInfinityExtrap</b></td></tr>
-<tr class="separator:a762c6f95122852bec8eb9c15c1c4b17b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4418e23bb05e236a561bbc0e2769d83c"><td class="memItemLeft" align="right" valign="top"><a id="a4418e23bb05e236a561bbc0e2769d83c"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x6]</td></tr>
-<tr class="separator:a4418e23bb05e236a561bbc0e2769d83c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3bd5f4de1cc221a4d7bd642718465f35"><td class="memItemLeft" align="right" valign="top"><a id="a3bd5f4de1cc221a4d7bd642718465f35"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a30275.html">FRichCurveKey</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Keys</b></td></tr>
-<tr class="separator:a3bd5f4de1cc221a4d7bd642718465f35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8920eee7aca4d908607c400f16632ffe"><td class="memItemLeft" align="right" valign="top"><a id="a8920eee7aca4d908607c400f16632ffe"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>DefaultValue</b></td></tr>
-<tr class="separator:a8920eee7aca4d908607c400f16632ffe"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a67b222c29fef1e310fd819f97cecd203"><td class="memItemLeft" align="right" valign="top"><a id="a67b222c29fef1e310fd819f97cecd203"></a>
+<tr class="memitem:a8d98a360432c3daeb48fa5944510c77d"><td class="memItemLeft" align="right" valign="top"><a id="a8d98a360432c3daeb48fa5944510c77d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:a8d98a360432c3daeb48fa5944510c77d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae70dac81ff9bc118c56dbcf5d121c8cd"><td class="memItemLeft" align="right" valign="top"><a id="ae70dac81ff9bc118c56dbcf5d121c8cd"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Scale3D</b></td></tr>
+<tr class="separator:ae70dac81ff9bc118c56dbcf5d121c8cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b9cf8ec6b8888d4185177435210baee"><td class="memItemLeft" align="right" valign="top"><a id="a9b9cf8ec6b8888d4185177435210baee"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
-<tr class="separator:a67b222c29fef1e310fd819f97cecd203"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a30271"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a30271')"><img src="closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="a30271.html">SDK::FIndexedCurve</a></td></tr>
-<tr class="memitem:a66fcbd4ed0f982ec63276b3817eefa3f inherit pub_attribs_a30271"><td class="memItemLeft" align="right" valign="top"><a id="a66fcbd4ed0f982ec63276b3817eefa3f"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
-<tr class="separator:a66fcbd4ed0f982ec63276b3817eefa3f inherit pub_attribs_a30271"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add6cd3fcba1b0e6ce90acb494b94f2f7 inherit pub_attribs_a30271"><td class="memItemLeft" align="right" valign="top"><a id="add6cd3fcba1b0e6ce90acb494b94f2f7"></a>
-struct <a class="el" href="a30267.html">FKeyHandleMap</a>&#160;</td><td class="memItemRight" valign="bottom"><b>KeyHandlesToIndices</b></td></tr>
-<tr class="separator:add6cd3fcba1b0e6ce90acb494b94f2f7 inherit pub_attribs_a30271"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a9b9cf8ec6b8888d4185177435210baee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed6c73b1763055e41a2988fdd427d8a9"><td class="memItemLeft" align="right" valign="top"><a id="aed6c73b1763055e41a2988fdd427d8a9"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CollisionProfileName</b></td></tr>
+<tr class="separator:aed6c73b1763055e41a2988fdd427d8a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a479f3aacc88f8544d0eb5d5d4ef5af6a"><td class="memItemLeft" align="right" valign="top"><a id="a479f3aacc88f8544d0eb5d5d4ef5af6a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x4]</td></tr>
+<tr class="separator:a479f3aacc88f8544d0eb5d5d4ef5af6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9921016efae32c75fdddcb76a6452f2a"><td class="memItemLeft" align="right" valign="top"><a id="a9921016efae32c75fdddcb76a6452f2a"></a>
+struct <a class="el" href="a30267.html">FCollisionResponse</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CollisionResponses</b></td></tr>
+<tr class="separator:a9921016efae32c75fdddcb76a6452f2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a799827cfc7390ab62f384c984648fd9b"><td class="memItemLeft" align="right" valign="top"><a id="a799827cfc7390ab62f384c984648fd9b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bUseCCD</b>: 1</td></tr>
+<tr class="separator:a799827cfc7390ab62f384c984648fd9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7d72c3e676bfc156dc4786f82f2fb36e"><td class="memItemLeft" align="right" valign="top"><a id="a7d72c3e676bfc156dc4786f82f2fb36e"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bNotifyRigidBodyCollision</b>: 1</td></tr>
+<tr class="separator:a7d72c3e676bfc156dc4786f82f2fb36e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67351e76c80e1d19029c56478fb45c2a"><td class="memItemLeft" align="right" valign="top"><a id="a67351e76c80e1d19029c56478fb45c2a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bSimulatePhysics</b>: 1</td></tr>
+<tr class="separator:a67351e76c80e1d19029c56478fb45c2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e6cef2244887f68c54a5656e3d9f5b6"><td class="memItemLeft" align="right" valign="top"><a id="a8e6cef2244887f68c54a5656e3d9f5b6"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideMass</b>: 1</td></tr>
+<tr class="separator:a8e6cef2244887f68c54a5656e3d9f5b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39e22e03bf3ed24f1827faa41d9cff87"><td class="memItemLeft" align="right" valign="top"><a id="a39e22e03bf3ed24f1827faa41d9cff87"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideMassProperties</b>: 1</td></tr>
+<tr class="separator:a39e22e03bf3ed24f1827faa41d9cff87"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa606615d5b9ea29c3f9baa14f3a5c8dc"><td class="memItemLeft" align="right" valign="top"><a id="aa606615d5b9ea29c3f9baa14f3a5c8dc"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bEnableGravity</b>: 1</td></tr>
+<tr class="separator:aa606615d5b9ea29c3f9baa14f3a5c8dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b069a71b267baf891280705abb830a2"><td class="memItemLeft" align="right" valign="top"><a id="a5b069a71b267baf891280705abb830a2"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bAutoWeld</b>: 1</td></tr>
+<tr class="separator:a5b069a71b267baf891280705abb830a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf67fed8dc30cab1ab06e230675b1a97"><td class="memItemLeft" align="right" valign="top"><a id="adf67fed8dc30cab1ab06e230675b1a97"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b>: 1</td></tr>
+<tr class="separator:adf67fed8dc30cab1ab06e230675b1a97"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e9c81f53f2037df48ab21b2c20a3bc1"><td class="memItemLeft" align="right" valign="top"><a id="a9e9c81f53f2037df48ab21b2c20a3bc1"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bStartAwake</b>: 1</td></tr>
+<tr class="separator:a9e9c81f53f2037df48ab21b2c20a3bc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6c988c98a6c28f146dc047886adc4c4"><td class="memItemLeft" align="right" valign="top"><a id="ac6c988c98a6c28f146dc047886adc4c4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateWakeEvents</b>: 1</td></tr>
+<tr class="separator:ac6c988c98a6c28f146dc047886adc4c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebc02d9c8a2386199f8092c631b2d4a2"><td class="memItemLeft" align="right" valign="top"><a id="aebc02d9c8a2386199f8092c631b2d4a2"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bUpdateMassWhenScaleChanges</b>: 1</td></tr>
+<tr class="separator:aebc02d9c8a2386199f8092c631b2d4a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48db6b95bc3ea9a5a9d7ded1999e9491"><td class="memItemLeft" align="right" valign="top"><a id="a48db6b95bc3ea9a5a9d7ded1999e9491"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockTranslation</b>: 1</td></tr>
+<tr class="separator:a48db6b95bc3ea9a5a9d7ded1999e9491"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15f4247a009063ce04e4e198d5d39d08"><td class="memItemLeft" align="right" valign="top"><a id="a15f4247a009063ce04e4e198d5d39d08"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockRotation</b>: 1</td></tr>
+<tr class="separator:a15f4247a009063ce04e4e198d5d39d08"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a240b2a26bd5e97435d74da8f44387945"><td class="memItemLeft" align="right" valign="top"><a id="a240b2a26bd5e97435d74da8f44387945"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockXTranslation</b>: 1</td></tr>
+<tr class="separator:a240b2a26bd5e97435d74da8f44387945"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73a2727f916debc32b158877858f6fbe"><td class="memItemLeft" align="right" valign="top"><a id="a73a2727f916debc32b158877858f6fbe"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockYTranslation</b>: 1</td></tr>
+<tr class="separator:a73a2727f916debc32b158877858f6fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53f7b38fe52c9259803b08c50817b9a9"><td class="memItemLeft" align="right" valign="top"><a id="a53f7b38fe52c9259803b08c50817b9a9"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockZTranslation</b>: 1</td></tr>
+<tr class="separator:a53f7b38fe52c9259803b08c50817b9a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc07cb95efe1b628e8dad667fcd61aec"><td class="memItemLeft" align="right" valign="top"><a id="adc07cb95efe1b628e8dad667fcd61aec"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockXRotation</b>: 1</td></tr>
+<tr class="separator:adc07cb95efe1b628e8dad667fcd61aec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62678dc1f9f28331bca538a73d3f1527"><td class="memItemLeft" align="right" valign="top"><a id="a62678dc1f9f28331bca538a73d3f1527"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockYRotation</b>: 1</td></tr>
+<tr class="separator:a62678dc1f9f28331bca538a73d3f1527"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a681c56519a0376fb902a94c9d6d77244"><td class="memItemLeft" align="right" valign="top"><a id="a681c56519a0376fb902a94c9d6d77244"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bLockZRotation</b>: 1</td></tr>
+<tr class="separator:a681c56519a0376fb902a94c9d6d77244"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a56997688fb3f680b3f198c02a074a324"><td class="memItemLeft" align="right" valign="top"><a id="a56997688fb3f680b3f198c02a074a324"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideMaxAngularVelocity</b>: 1</td></tr>
+<tr class="separator:a56997688fb3f680b3f198c02a074a324"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7e9e58195b437aa6e917c34584f50a8"><td class="memItemLeft" align="right" valign="top"><a id="ab7e9e58195b437aa6e917c34584f50a8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData04</b>: 1</td></tr>
+<tr class="separator:ab7e9e58195b437aa6e917c34584f50a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae613c6c962af197571bfde083de535d4"><td class="memItemLeft" align="right" valign="top"><a id="ae613c6c962af197571bfde083de535d4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bUseAsyncScene</b>: 1</td></tr>
+<tr class="separator:ae613c6c962af197571bfde083de535d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4cb762cef87a4e5ef0f63d33f481d8cd"><td class="memItemLeft" align="right" valign="top"><a id="a4cb762cef87a4e5ef0f63d33f481d8cd"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideMaxDepenetrationVelocity</b>: 1</td></tr>
+<tr class="separator:a4cb762cef87a4e5ef0f63d33f481d8cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a93cbe7035533d7f97912364b6b486aaf"><td class="memItemLeft" align="right" valign="top"><a id="a93cbe7035533d7f97912364b6b486aaf"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideWalkableSlopeOnInstance</b>: 1</td></tr>
+<tr class="separator:a93cbe7035533d7f97912364b6b486aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4eaf1ec7cddfab7f2837648de3327b9d"><td class="memItemLeft" align="right" valign="top"><a id="a4eaf1ec7cddfab7f2837648de3327b9d"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData05</b> [0x1]</td></tr>
+<tr class="separator:a4eaf1ec7cddfab7f2837648de3327b9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f5f747a6348aaadf3849ddb56fe904b"><td class="memItemLeft" align="right" valign="top"><a id="a2f5f747a6348aaadf3849ddb56fe904b"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxDepenetrationVelocity</b></td></tr>
+<tr class="separator:a2f5f747a6348aaadf3849ddb56fe904b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affaa73bb5e24a4931899202204e88cd9"><td class="memItemLeft" align="right" valign="top"><a id="affaa73bb5e24a4931899202204e88cd9"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MassInKg</b></td></tr>
+<tr class="separator:affaa73bb5e24a4931899202204e88cd9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8096a84dccbf1731801bcba8e21a5134"><td class="memItemLeft" align="right" valign="top"><a id="a8096a84dccbf1731801bcba8e21a5134"></a>
+struct <a class="el" href="a30271.html">FMassPropertiesOverride</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MassPropertiesOverride</b></td></tr>
+<tr class="separator:a8096a84dccbf1731801bcba8e21a5134"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a076f6818c640052958a577f25e2ddfa0"><td class="memItemLeft" align="right" valign="top"><a id="a076f6818c640052958a577f25e2ddfa0"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LinearDamping</b></td></tr>
+<tr class="separator:a076f6818c640052958a577f25e2ddfa0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0bfb692a349072c7bf472d821e5f14a5"><td class="memItemLeft" align="right" valign="top"><a id="a0bfb692a349072c7bf472d821e5f14a5"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AngularDamping</b></td></tr>
+<tr class="separator:a0bfb692a349072c7bf472d821e5f14a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a128dbae68488fc3a03bdfd6bbd52e234"><td class="memItemLeft" align="right" valign="top"><a id="a128dbae68488fc3a03bdfd6bbd52e234"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>COMNudge</b></td></tr>
+<tr class="separator:a128dbae68488fc3a03bdfd6bbd52e234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade104aaa19862b458157f84490dfb62a"><td class="memItemLeft" align="right" valign="top"><a id="ade104aaa19862b458157f84490dfb62a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MassScale</b></td></tr>
+<tr class="separator:ade104aaa19862b458157f84490dfb62a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac86a7811dbf72e2505bea315af56531f"><td class="memItemLeft" align="right" valign="top"><a id="ac86a7811dbf72e2505bea315af56531f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData06</b> [0x10]</td></tr>
+<tr class="separator:ac86a7811dbf72e2505bea315af56531f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a548ac9bba3fbe0143d47a4236cbfd497"><td class="memItemLeft" align="right" valign="top"><a id="a548ac9bba3fbe0143d47a4236cbfd497"></a>
+struct <a class="el" href="a30275.html">FWalkableSlopeOverride</a>&#160;</td><td class="memItemRight" valign="bottom"><b>WalkableSlopeOverride</b></td></tr>
+<tr class="separator:a548ac9bba3fbe0143d47a4236cbfd497"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9cdf37992a2b2fc0d9774e21462d090d"><td class="memItemLeft" align="right" valign="top"><a id="a9cdf37992a2b2fc0d9774e21462d090d"></a>
+class <a class="el" href="a29759.html">UPhysicalMaterial</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>PhysMaterialOverride</b></td></tr>
+<tr class="separator:a9cdf37992a2b2fc0d9774e21462d090d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60a3118005ee33ecd3cdb8c03b3f529e"><td class="memItemLeft" align="right" valign="top"><a id="a60a3118005ee33ecd3cdb8c03b3f529e"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>MaxAngularVelocity</b></td></tr>
+<tr class="separator:a60a3118005ee33ecd3cdb8c03b3f529e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45ed1ea72aa1ae45d3982f6651af2daf"><td class="memItemLeft" align="right" valign="top"><a id="a45ed1ea72aa1ae45d3982f6651af2daf"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CustomSleepThresholdMultiplier</b></td></tr>
+<tr class="separator:a45ed1ea72aa1ae45d3982f6651af2daf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0299a0cf771536421bb2ec57701a24ff"><td class="memItemLeft" align="right" valign="top"><a id="a0299a0cf771536421bb2ec57701a24ff"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsBlendWeight</b></td></tr>
+<tr class="separator:a0299a0cf771536421bb2ec57701a24ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9b463a2baaa625dd174f22f38eaad63"><td class="memItemLeft" align="right" valign="top"><a id="ad9b463a2baaa625dd174f22f38eaad63"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>PositionSolverIterationCount</b></td></tr>
+<tr class="separator:ad9b463a2baaa625dd174f22f38eaad63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a449e24b59c2675d44375def499f08eeb"><td class="memItemLeft" align="right" valign="top"><a id="a449e24b59c2675d44375def499f08eeb"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EDominanceGroup &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DominanceGroup</b></td></tr>
+<tr class="separator:a449e24b59c2675d44375def499f08eeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa222f48bace88586974ab288fd7bacdc"><td class="memItemLeft" align="right" valign="top"><a id="aa222f48bace88586974ab288fd7bacdc"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData07</b> [0x37]</td></tr>
+<tr class="separator:aa222f48bace88586974ab288fd7bacdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83e083b886ccb08165c0f2f57cf7754e"><td class="memItemLeft" align="right" valign="top"><a id="a83e083b886ccb08165c0f2f57cf7754e"></a>
+uint64_t&#160;</td><td class="memItemRight" valign="bottom"><b>RigidActorSyncId</b></td></tr>
+<tr class="separator:a83e083b886ccb08165c0f2f57cf7754e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a057e0a2c899f775095701fee63eab03b"><td class="memItemLeft" align="right" valign="top"><a id="a057e0a2c899f775095701fee63eab03b"></a>
+uint64_t&#160;</td><td class="memItemRight" valign="bottom"><b>RigidActorAsyncId</b></td></tr>
+<tr class="separator:a057e0a2c899f775095701fee63eab03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea994fa488fc779fdb8e3e140529c921"><td class="memItemLeft" align="right" valign="top"><a id="aea994fa488fc779fdb8e3e140529c921"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>VelocitySolverIterationCount</b></td></tr>
+<tr class="separator:aea994fa488fc779fdb8e3e140529c921"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab4db1420f32d01a11779c02e68642db"><td class="memItemLeft" align="right" valign="top"><a id="aab4db1420f32d01a11779c02e68642db"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData08</b> [0x68]</td></tr>
+<tr class="separator:aab4db1420f32d01a11779c02e68642db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abef9c69f2716161c21574f37b5024e05"><td class="memItemLeft" align="right" valign="top"><a id="abef9c69f2716161c21574f37b5024e05"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ESleepFamily &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SleepFamily</b></td></tr>
+<tr class="separator:abef9c69f2716161c21574f37b5024e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea5ff3201b4eac333607e7db33999347"><td class="memItemLeft" align="right" valign="top"><a id="aea5ff3201b4eac333607e7db33999347"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EDOFMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>DOFMode</b></td></tr>
+<tr class="separator:aea5ff3201b4eac333607e7db33999347"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4c8b347746d800ed215d3b11ebcea331"><td class="memItemLeft" align="right" valign="top"><a id="a4c8b347746d800ed215d3b11ebcea331"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionEnabled &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CollisionEnabled</b></td></tr>
+<tr class="separator:a4c8b347746d800ed215d3b11ebcea331"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0491dba99e494af69a7a1bd569b095fd"><td class="memItemLeft" align="right" valign="top"><a id="a0491dba99e494af69a7a1bd569b095fd"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECollisionChannel &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ObjectType</b></td></tr>
+<tr class="separator:a0491dba99e494af69a7a1bd569b095fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30279.html">FRichCurve</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:28 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30279.html">FBodyInstance</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:32 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

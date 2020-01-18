@@ -1,15 +1,15 @@
 var a35779 =
 [
-    [ "Height", "a35779.html#a39c62c09ae502e6b52a1eb7a16053836", null ],
-    [ "LocalOffset", "a35779.html#adff7524e3fc9313e1214594c7a1f9568", null ],
-    [ "LocalOffsetAdjustment", "a35779.html#af97d969d541551a180b757ce2f645a52", null ],
-    [ "LocalOffsetAdjustmentDuration", "a35779.html#ab337d7ee2c61d197fc25b975c20a451a", null ],
-    [ "Pitch", "a35779.html#a6e32d690d8857efb38a0d72ee170575a", null ],
-    [ "ProbeDebugName", "a35779.html#a17c6d588660f9ec1776831f7f174d369", null ],
-    [ "RateOfChangeThreshold", "a35779.html#a7bbcc438f03521644997f853c7782cdf", null ],
-    [ "Roll", "a35779.html#a82922970857243cf4cc395f177ee6e8e", null ],
-    [ "Type", "a35779.html#ac32ac9ef72b646826325c3814305d4df", null ],
-    [ "UnknownData00", "a35779.html#a4125f554bb95cba7a09c31483fbaa923", null ],
-    [ "UnknownData01", "a35779.html#a7304ec56cdcd9cf0c14697b45bced458", null ],
-    [ "Yaw", "a35779.html#a12e63647778e9a08371ffea0f881ec3e", null ]
+    [ "GetMousePositionScaledByDPI", "a35779.html#a475bffb9a3a6f491f9efe9095e5b615c", null ],
+    [ "GetViewportScale", "a35779.html#a6f9f8ce1b4eb54e05e4b93ad5e23a5a8", null ],
+    [ "GetViewportSize", "a35779.html#a02e2a40e6b89392ce531152bdfde3b32", null ],
+    [ "ProjectWorldLocationToWidgetPosition", "a35779.html#a875b61e6fe7af54b1a31e3eae9fbfc79", null ],
+    [ "RemoveAllWidgets", "a35779.html#a487d9a6dc611345c46c2bc94ed71e723", null ],
+    [ "SlotAsCanvasSlot", "a35779.html#a0a9f58a9c38197aa81dea8dc4f5a6dcd", null ],
+    [ "SlotAsGridSlot", "a35779.html#a2868fa93ddce9428780acafd2444e1d6", null ],
+    [ "SlotAsHorizontalBoxSlot", "a35779.html#afe1200c7a3d52b6cae256d0f5f41dc11", null ],
+    [ "SlotAsOverlaySlot", "a35779.html#ab9329da022111749ac1313cfc8125558", null ],
+    [ "SlotAsUniformGridSlot", "a35779.html#aa5ca236656b4bde52fec075f75c1e863", null ],
+    [ "SlotAsVerticalBoxSlot", "a35779.html#a871a98e15823b9e50273e5016c740f2c", null ],
+    [ "StaticClass", "a35779.html#ad3d3f2ce68337b87a10a64a4f903d506", null ]
 ];

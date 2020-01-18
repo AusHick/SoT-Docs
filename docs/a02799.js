@@ -1,5 +1,10 @@
 var a02799 =
 [
-    [ "StaticClass", "a02799.html#a6014c8cb5141a75a79984c1800a9e52c", null ],
-    [ "UnknownData00", "a02799.html#a35f627d98981fd34a2454a2c54b56183", null ]
+    [ "StaticClass", "a02799.html#afc2fe81b3add25086859d527b3b60a0a", null ],
+    [ "MaxSwimmingIterations", "a02799.html#adb612e36967f83d489b68225f145ddcd", null ],
+    [ "MaxSwimmingTimeStep", "a02799.html#abb3751075d1af178e81c319406a3dae6", null ],
+    [ "RebaseToServerErrorSqrDist", "a02799.html#a7e4286460eb53d9d71a3472300a39303", null ],
+    [ "StandardError", "a02799.html#a8f3d7bad4d1979348458fa4a308a04a7", null ],
+    [ "SwimmingClientTrustThreshold", "a02799.html#a6a85844764e9e243f408ae73d0f034d4", null ],
+    [ "SwimmingError", "a02799.html#a49ee54e4b581f7dccba8e818eb52a754", null ]
 ];

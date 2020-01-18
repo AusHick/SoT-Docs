@@ -1,7 +1,6 @@
 var a14843 =
 [
-    [ "FireCellsActive", "a14843.html#a38e5d7f96c2a544c4816f2e4731c1855", null ],
-    [ "InternalWaterLevel", "a14843.html#a6950ea836b93bed26243aea0dd12b2e0", null ],
-    [ "Speed", "a14843.html#a6d302243966449aa89fcf5251e99562d", null ],
-    [ "Yaw", "a14843.html#a54eacacfe3fbaab31fb093c3c5473218", null ]
+    [ "PhysMaterial", "a14843.html#aef55b78da112130a56550762644abb52", null ],
+    [ "StunDuration", "a14843.html#a9f95d5df1fe6b997730aa3cfe7577863", null ],
+    [ "UnknownData00", "a14843.html#a7b9d4a42a918a39905785c12b057a1e5", null ]
 ];

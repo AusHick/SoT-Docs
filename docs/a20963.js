@@ -1,6 +1,8 @@
 var a20963 =
 [
-    [ "NumFullScreenUIFrames", "a20963.html#afc748ee9404dca837ceddb6ed244e32b", null ],
-    [ "NumFullyOccludedFrames", "a20963.html#aec69cc4d8fd0b7c254d5a21769bb9c72", null ],
-    [ "NumLoadingScreenFrames", "a20963.html#ad9b3e3a404de0de85e0ec4c0697ee218", null ]
+    [ "ForcingShutdown", "a20963.html#aef8faf27ed8be163bf7936bfd078ca78", null ],
+    [ "ServerAddress", "a20963.html#aadf4f929018ff34eccf00148d53c4352", null ],
+    [ "ServerTimeToLive", "a20963.html#aeefdbcf559247d360f785a2c66f7929c", null ],
+    [ "ServerUpTime", "a20963.html#af5ca0a807b0a183b5277caa257188cb1", null ],
+    [ "UnknownData00", "a20963.html#ac2bf2fd0b8533cd4f4f137ed321faac9", null ]
 ];

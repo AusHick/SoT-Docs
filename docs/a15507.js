@@ -1,7 +1,6 @@
 var a15507 =
 [
-    [ "ItemInfo", "a15507.html#ab5c5cce833e7d1cf482805e778e36773", null ],
-    [ "ItemProxy", "a15507.html#a17b78a2a44b1c5939a250ce95ea2a20d", null ],
-    [ "Tracked", "a15507.html#a811ed45778af87060aeca7296efee5ef", null ],
-    [ "UnknownData00", "a15507.html#a0c86aba005a78eb691765d574ccf0b67", null ]
+    [ "AIProxPlayerTracker", "a15507.html#a1fce21d657264c6d8b91911d787eaa52", null ],
+    [ "AISpawner", "a15507.html#afa954c9644a1fe8f04d98c409b85b1cd", null ],
+    [ "UnknownData00", "a15507.html#a51aeb5ac4de3cfc922c2e7f2fb751c01", null ]
 ];

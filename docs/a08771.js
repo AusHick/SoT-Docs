@@ -1,6 +1,7 @@
 var a08771 =
 [
-    [ "StaticClass", "a08771.html#a68c54ee2e4bb60b14f53ce32f82b1af4", null ],
-    [ "Desc", "a08771.html#a636a0642c7f974582337b1e30f1a6f15", null ],
-    [ "ParticipatingCrewIds", "a08771.html#a014a0ffe19552d004b4537a006b3639a", null ]
+    [ "StaticClass", "a08771.html#a843404d592c7165b2edf4a4f4535c150", null ],
+    [ "StepDesc", "a08771.html#a2688b1fae311cc9c5275fa131ff64970", null ],
+    [ "UnknownData00", "a08771.html#a4bf708046a9e75c84d9c2d65d36c826b", null ],
+    [ "VaultReleased", "a08771.html#a2e34309ecdd375c47bf679ef915bd4b4", null ]
 ];

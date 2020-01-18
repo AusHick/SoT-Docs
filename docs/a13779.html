@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCarouselPirateClothingItem Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FLiquidContents Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,51 @@ $(document).ready(function(){initNavTree('a13779.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a13776.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCarouselPirateClothingItem Struct Reference</div>  </div>
+<div class="title">SDK::FLiquidContents Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCarouselPirateClothingItem:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLiquidContents:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a13777.svg" width="596" height="442"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a13777.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af96cbfee1b53f4695ca668377203180e"><td class="memItemLeft" align="right" valign="top"><a id="af96cbfee1b53f4695ca668377203180e"></a>
-class <a class="el" href="a25915.html">UClass</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Item</b></td></tr>
-<tr class="separator:af96cbfee1b53f4695ca668377203180e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49a23848bf07bb740bc269d99c116a83"><td class="memItemLeft" align="right" valign="top"><a id="a49a23848bf07bb740bc269d99c116a83"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EIPGEthnicity &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EthnicityFilter</b></td></tr>
-<tr class="separator:a49a23848bf07bb740bc269d99c116a83"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc7df355863cde8520452eb0f4551c8e"><td class="memItemLeft" align="right" valign="top"><a id="afc7df355863cde8520452eb0f4551c8e"></a>
+<tr class="memitem:a176a4738604a8fd12dc7bbe42dea13dc"><td class="memItemLeft" align="right" valign="top"><a id="a176a4738604a8fd12dc7bbe42dea13dc"></a>
+class <a class="el" href="a03479.html">AShip</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>LiquidSource</b></td></tr>
+<tr class="separator:a176a4738604a8fd12dc7bbe42dea13dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1f7a7cdcd65fe1e9ea669e4bce7527f0"><td class="memItemLeft" align="right" valign="top"><a id="a1f7a7cdcd65fe1e9ea669e4bce7527f0"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; class <a class="el" href="a03479.html">AShip</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>LiquidTargets</b></td></tr>
+<tr class="separator:a1f7a7cdcd65fe1e9ea669e4bce7527f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95501db5f3aa27f6d867c2fac6af4e05"><td class="memItemLeft" align="right" valign="top"><a id="a95501db5f3aa27f6d867c2fac6af4e05"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Container</b></td></tr>
+<tr class="separator:a95501db5f3aa27f6d867c2fac6af4e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a355a59ff6c5f58da3b1895dc12f92d83"><td class="memItemLeft" align="right" valign="top"><a id="a355a59ff6c5f58da3b1895dc12f92d83"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LiquidVolume</b></td></tr>
+<tr class="separator:a355a59ff6c5f58da3b1895dc12f92d83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adab9955b30722f6df3740a8f9bbc9ad2"><td class="memItemLeft" align="right" valign="top"><a id="adab9955b30722f6df3740a8f9bbc9ad2"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ScoopID</b></td></tr>
+<tr class="separator:adab9955b30722f6df3740a8f9bbc9ad2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7cb4b7f1af94b81df768201571ae625"><td class="memItemLeft" align="right" valign="top"><a id="af7cb4b7f1af94b81df768201571ae625"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LiquidTransferFillAmountModifier</b></td></tr>
+<tr class="separator:af7cb4b7f1af94b81df768201571ae625"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdab782833a562a8c8bf5b934323e574"><td class="memItemLeft" align="right" valign="top"><a id="abdab782833a562a8c8bf5b934323e574"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EContainerType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ContainerType</b></td></tr>
+<tr class="separator:abdab782833a562a8c8bf5b934323e574"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afab0ec482144fe9ca765885a6ddba383"><td class="memItemLeft" align="right" valign="top"><a id="afab0ec482144fe9ca765885a6ddba383"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:afc7df355863cde8520452eb0f4551c8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:afab0ec482144fe9ca765885a6ddba383"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13779.html">FCarouselPirateClothingItem</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13779.html">FLiquidContents</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

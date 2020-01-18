@@ -1,6 +1,6 @@
 var a31179 =
 [
-    [ "bIsExternalCurve", "a31179.html#a8921025a6f9ec9da7f7323993221a6ed", null ],
-    [ "TrackName", "a31179.html#a275756a52ae36a5a6df0ab96bc3033b5", null ],
-    [ "UnknownData00", "a31179.html#ac8865aab71c1d0ed8c42025a8fc89213", null ]
+    [ "Total", "a31179.html#a54d5298d9210b8c07ccde71f98f05338", null ],
+    [ "Type", "a31179.html#a47822091eb6e93f311708c28f7ef9a55", null ],
+    [ "UnknownData00", "a31179.html#abf9169dcd0ef1c1546d52699bd10d458", null ]
 ];

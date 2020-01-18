@@ -1,7 +1,11 @@
 var a27935 =
 [
-    [ "StaticClass", "a27935.html#abba91f6dbdf5adf577b306d5d9ea07d4", null ],
-    [ "bCanBeBaked", "a27935.html#a6c29205ae402b2f13b6f3ac704f5a361", null ],
-    [ "bIsDirty", "a27935.html#a428fa78c7679f74d9299d34b4ac2078f", null ],
-    [ "UnknownData00", "a27935.html#a8279013c0e303ad95fdb1a868feee4cc", null ]
+    [ "StaticClass", "a27935.html#a2e5604b0f0095da3ee732d2829d1094c", null ],
+    [ "AnimNotifies", "a27935.html#adb6fb57ca8fc2c809282a508748faa23", null ],
+    [ "BakedStateMachines", "a27935.html#aa91fcef3e28fc63040357885b847517b", null ],
+    [ "Groups", "a27935.html#a7a19dd811e8683cade6362fc1a9b1dcd", null ],
+    [ "RootAnimNodeIndex", "a27935.html#a0011a2a764cce1de3c52a66d81aee6c6", null ],
+    [ "SkeletonSlotNames", "a27935.html#a1440ea820409539b95d9bf7344daef58", null ],
+    [ "TargetSkeleton", "a27935.html#ad78a3ac5e3fdb8b1db7e1d48b11c1c2f", null ],
+    [ "UnknownData00", "a27935.html#a8d081d5616e3b9d5845b2df1954a0b7d", null ]
 ];

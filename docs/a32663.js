@@ -1,6 +1,7 @@
 var a32663 =
 [
-    [ "NumberOfTentaclesSpawned", "a32663.html#aa4eeed53cc93a096ecbce3c28c846983", null ],
-    [ "ProbabilityRange", "a32663.html#aaa48cd5e8e005246de8577ac3ea68a95", null ],
-    [ "UnknownData00", "a32663.html#aa7d16d33a653f08eb64462fcef85a5ad", null ]
+    [ "StaticClass", "a32663.html#ad697953d37b7aed7bbe2bf576f51ba14", null ],
+    [ "InteractableAreas", "a32663.html#ac86a3e96590586edd0c6ebb7417a9034", null ],
+    [ "UnknownData00", "a32663.html#a775b1d784cf3ee41e93b6ca26d2a7e7f", null ],
+    [ "UnknownData01", "a32663.html#aaf7c41db817a6a047c84f423cf845a0f", null ]
 ];

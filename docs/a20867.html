@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FContestCrewPositionTelemetryFragment Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAllianceRewardRequestMessage Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,60 @@ $(document).ready(function(){initNavTree('a20867.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20864.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FContestCrewPositionTelemetryFragment Struct Reference</div>  </div>
+<div class="title">SDK::FAllianceRewardRequestMessage Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FContestCrewPositionTelemetryFragment:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAllianceRewardRequestMessage:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20865.svg" width="375" height="486"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a20865.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6b6740269f1c97b5125fbe0c3cd634f7"><td class="memItemLeft" align="right" valign="top"><a id="a6b6740269f1c97b5125fbe0c3cd634f7"></a>
-struct <a class="el" href="a26071.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CrewId</b></td></tr>
-<tr class="separator:a6b6740269f1c97b5125fbe0c3cd634f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae5e735ccceb68597447587c4b12993e3"><td class="memItemLeft" align="right" valign="top"><a id="ae5e735ccceb68597447587c4b12993e3"></a>
-int&#160;</td><td class="memItemRight" valign="bottom"><b>CrewPositionInLastContest</b></td></tr>
-<tr class="separator:ae5e735ccceb68597447587c4b12993e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4665c5da4bf1a7d49d923061403ab86d"><td class="memItemLeft" align="right" valign="top"><a id="a4665c5da4bf1a7d49d923061403ab86d"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RequestID</b></td></tr>
+<tr class="separator:a4665c5da4bf1a7d49d923061403ab86d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a152dec4d43b98edf9b874177fd782a0c"><td class="memItemLeft" align="right" valign="top"><a id="a152dec4d43b98edf9b874177fd782a0c"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AllianceId</b></td></tr>
+<tr class="separator:a152dec4d43b98edf9b874177fd782a0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6d325f4be9b0f09c0bb48978387d082"><td class="memItemLeft" align="right" valign="top"><a id="ac6d325f4be9b0f09c0bb48978387d082"></a>
+struct <a class="el" href="a20863.html">FRewardRequestCrew</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PrimaryRecipient</b></td></tr>
+<tr class="separator:ac6d325f4be9b0f09c0bb48978387d082"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad94c88956a7828e184d5096b6ccdd438"><td class="memItemLeft" align="right" valign="top"><a id="ad94c88956a7828e184d5096b6ccdd438"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a20863.html">FRewardRequestCrew</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SecondaryRecipients</b></td></tr>
+<tr class="separator:ad94c88956a7828e184d5096b6ccdd438"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa96c993836d2fac4b2234b1c66e4209b"><td class="memItemLeft" align="right" valign="top"><a id="aa96c993836d2fac4b2234b1c66e4209b"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RewardId</b></td></tr>
+<tr class="separator:aa96c993836d2fac4b2234b1c66e4209b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaae54df09f6626153a911522845dcdf1"><td class="memItemLeft" align="right" valign="top"><a id="aaae54df09f6626153a911522845dcdf1"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CompanyAffiliation</b></td></tr>
+<tr class="separator:aaae54df09f6626153a911522845dcdf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ae36cb7c6e73668de6bf6f09f7f9cac"><td class="memItemLeft" align="right" valign="top"><a id="a3ae36cb7c6e73668de6bf6f09f7f9cac"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BootyId</b></td></tr>
+<tr class="separator:a3ae36cb7c6e73668de6bf6f09f7f9cac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a590061d3d41fbacb66bb786a64906a25"><td class="memItemLeft" align="right" valign="top"><a id="a590061d3d41fbacb66bb786a64906a25"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>NotifyPlayer</b></td></tr>
+<tr class="separator:a590061d3d41fbacb66bb786a64906a25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51a55cdad32a064450b919affa262d41"><td class="memItemLeft" align="right" valign="top"><a id="a51a55cdad32a064450b919affa262d41"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EPlayMode &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PlayMode</b></td></tr>
+<tr class="separator:a51a55cdad32a064450b919affa262d41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a731e0247b7ebdc5801a74e8aaee85d61"><td class="memItemLeft" align="right" valign="top"><a id="a731e0247b7ebdc5801a74e8aaee85d61"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EPlayModeVariant &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PlayModeVariant</b></td></tr>
+<tr class="separator:a731e0247b7ebdc5801a74e8aaee85d61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0ed95153fdf81d8356322cb945d03c34"><td class="memItemLeft" align="right" valign="top"><a id="a0ed95153fdf81d8356322cb945d03c34"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x5]</td></tr>
+<tr class="separator:a0ed95153fdf81d8356322cb945d03c34"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20867.html">FContestCrewPositionTelemetryFragment</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20867.html">FAllianceRewardRequestMessage</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:30 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

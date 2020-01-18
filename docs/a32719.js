@@ -1,22 +1,8 @@
 var a32719 =
 [
-    [ "ActiveCannonSideSpawnQueryTemplate", "a32719.html#a8ead58a3eafad22ba4662b1035a49b7a", null ],
-    [ "ActiveNonCannonSideSpawnQueryTemplate", "a32719.html#ad81e430009468489e5b1ff66badf3c33", null ],
-    [ "ChanceOfCannonSideSpawn", "a32719.html#a357c18cb0e9ac4cc3cf23f9ec5f12be1", null ],
-    [ "InactiveSpawnQueryTemplate", "a32719.html#a4c7852067e68db001dadb3a0742297ae", null ],
-    [ "MaxPlayRateScale", "a32719.html#a2722a9c454be73ca750d2cfa6273a751", null ],
-    [ "MaxScale", "a32719.html#a408c6716f355ef595a4bf74549ce59df", null ],
-    [ "MinPlayRateScale", "a32719.html#ab33d65c81c74651c23b01e1e4eb71ce7", null ],
-    [ "MinScale", "a32719.html#a8560e944f57db14c2d33a204349306b6", null ],
-    [ "OnDamageActionChances", "a32719.html#a4e32725272228a4452d940466dc73413", null ],
-    [ "PanicDespawnAnimationPlayRateScale", "a32719.html#aae7ef16836655bcfa22102f2f808af29", null ],
-    [ "PanicDespawnShipRangeRadius", "a32719.html#a957588e4bfbd38237810eb6936467557", null ],
-    [ "PanicDespawnTentacleRadius", "a32719.html#af435de891a134958257b3abe52583c67", null ],
-    [ "PanicDespawnWatercraftRangeRadius", "a32719.html#a6cfd6c8c7cccd85b3b21f7d62a9c41f5", null ],
-    [ "PreDeathAnimationPlayRateScale", "a32719.html#a33923da09c413cb2fe15c64720549f99", null ],
-    [ "TentacleClass", "a32719.html#a918c101baef0709250d6b9d4ea653b78", null ],
-    [ "TimeToSpendInActiveState", "a32719.html#a2992e5839403c24c7e171a790cec5c6c", null ],
-    [ "TimeToSpendInInactiveState", "a32719.html#ab701957d69c9136318a0a675c86203e4", null ],
-    [ "UnknownData00", "a32719.html#a816d9204dc605bbf174499ed16350dce", null ],
-    [ "UnknownData01", "a32719.html#a4e30552ae923fba1880530ced726b549", null ]
+    [ "TestBool", "a32719.html#ab8673e8601210add5ab12caf4dd4e5da", null ],
+    [ "TestGuid", "a32719.html#a031aea10e4f0409124fcbf9e034a0e00", null ],
+    [ "TestInt", "a32719.html#a19791d059e0d5de26daeca11cf380385", null ],
+    [ "TestString", "a32719.html#acfff0acfd0f9fb259e4a03093b65039e", null ],
+    [ "UnknownData00", "a32719.html#a3021e5027fa2f7bcb2cd9d25e920c518", null ]
 ];

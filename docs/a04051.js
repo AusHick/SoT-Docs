@@ -1,10 +1,11 @@
 var a04051 =
 [
-    [ "OnReadyForBindings", "a04051.html#a747828ff651114cb6210f343abb0db67", null ],
-    [ "OnScriptingReady", "a04051.html#ad144615e58452187a9af9b8559b1a314", null ],
-    [ "StaticClass", "a04051.html#a2f42dc7e813996b759668fba7c0796b2", null ],
-    [ "HealthUI", "a04051.html#aa64bc0f8d5540da70d51ef586b3d8bb0", null ],
-    [ "ShipNames", "a04051.html#ab7db1a67295220bbd1fa3102b2b9f0bb", null ],
-    [ "UnknownData00", "a04051.html#ae32bede40a8c71fa7ceac932b9c56398", null ],
-    [ "UnknownData01", "a04051.html#a7933e146b74ad23cc0b5f002409c9218", null ]
+    [ "HasInitializationErrorOccurred", "a04051.html#ad63a37cf6cb64654f97fb953009887c1", null ],
+    [ "OnReadyForBindings", "a04051.html#a8d8478bca57d639ab194a1fb1e7b1b22", null ],
+    [ "OnScriptingReady", "a04051.html#a8d3a7c5112a2dec7967797517e4a8274", null ],
+    [ "StaticClass", "a04051.html#a793ad3b9d045e7e2bdfaadec2711ee81", null ],
+    [ "AudioComponent", "a04051.html#a7a2e1ade3e63fa13f4d251283809c111", null ],
+    [ "CurrentPawn", "a04051.html#aa41de68d6a928845dffc0ccd7d6b1e1b", null ],
+    [ "UnknownData00", "a04051.html#a2128b477d40f0630b424a3a5bc0d1a53", null ],
+    [ "UnknownData01", "a04051.html#adffd4394d2e2e7718f1f9427f86a91ad", null ]
 ];

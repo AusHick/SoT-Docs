@@ -1,6 +1,6 @@
 var a15163 =
 [
-    [ "AimData", "a15163.html#a700aafc2c5c25e099affb0b259562e94", null ],
-    [ "UnknownData00", "a15163.html#a8cbe531dbf08a483cfe4876309188f3b", null ],
-    [ "UnknownData01", "a15163.html#a289498b8cfd7befde52efdac02431c03", null ]
+    [ "PlayerStatId", "a15163.html#ae4ed30f7a6e0a47006cee96c4cc0f3bb", null ],
+    [ "SessionTotal", "a15163.html#a7809673924f5c9ec81a6f3115cc20a28", null ],
+    [ "UnknownData00", "a15163.html#ada3857346f8dd9aaf4cec9167263c062", null ]
 ];

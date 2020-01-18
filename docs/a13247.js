@@ -1,13 +1,11 @@
 var a13247 =
 [
-    [ "MaxDistanceFromAlliedShipToApplyPenalty", "a13247.html#a637aac668e1ccd18e9e19809d24ea7c9", null ],
-    [ "MaxDistanceFromEnemyShipToApplyPenalty", "a13247.html#af8d42282768c4013f2aacc7f5e32098f", null ],
-    [ "MaxDistanceFromIslandWeHaveMapForToApplyPenalty", "a13247.html#a2bcb422ee943730234678ac889893479", null ],
-    [ "MaxScorePenaltyForAlliedShipProximity", "a13247.html#a1dd2f34f1e215e297ec8d6f432f057bc", null ],
-    [ "MaxScorePenaltyForEnemyShipProximity", "a13247.html#abce54e8ceb440ed03e9c8edaf9c60593", null ],
-    [ "MinRespawnLocDistanceFromSunkShip", "a13247.html#a8f813560af441a735264006d9db6d5e3", null ],
-    [ "MinScorePenaltyForAlliedShipProximity", "a13247.html#afd270d54f0060112a4d8f8a5109e840a", null ],
-    [ "MinScorePenaltyForEnemyShipProximity", "a13247.html#aab26e469bc0257fd6e34eb35a1c3caac", null ],
-    [ "ScorePenaltyForEachMeterAwayFromShipwreck", "a13247.html#a099d6716af0830d7c3b439eb8c1c684c", null ],
-    [ "ScorePenaltyForIslandsWeHaveMapFor", "a13247.html#a077aac8b5a0e86ee7f3aa986a7b7a4d4", null ]
+    [ "AICanEmote", "a13247.html#aed938d3c762d29791fece555338b997c", null ],
+    [ "AICanFlee", "a13247.html#ae4f2fb43d65b5baf6fbfb1fb6826252c", null ],
+    [ "AIControllingCaptainWheel", "a13247.html#a173d6b7924cd5064e20e22bf92449e04", null ],
+    [ "AIShadowStunActive", "a13247.html#a21f151eac75a5703d48ffb931693b94c", null ],
+    [ "ArmOverlayAISensingCanActivate", "a13247.html#a7fbe15411a9350ebc17765672f074a6a", null ],
+    [ "CanBeKnockedBack", "a13247.html#ab4f1357b6033ba543b1117e09fa3a23d", null ],
+    [ "FullBodyAISensingCanActivate", "a13247.html#ac4d3d182b947ca652043700f3b1c05d7", null ],
+    [ "UnknownData00", "a13247.html#a5f340fdedd371cf6c03da2e1ba01d2ba", null ]
 ];

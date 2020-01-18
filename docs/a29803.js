@@ -1,7 +1,11 @@
 var a29803 =
 [
-    [ "StaticClass", "a29803.html#afe3bc271e19d118d97999f69d67fc330", null ],
-    [ "DefaultedText", "a29803.html#a14a7dda5a842a35e2169e38cd2ed4fc2", null ],
-    [ "TransientText", "a29803.html#ac24ffa45af2e7b5674027c2be9417ad3", null ],
-    [ "UndefaultedText", "a29803.html#ad5da230d96e2a04e4cb86c2c5c7dcd4b", null ]
+    [ "AuthorizeAccounts", "a29803.html#afd1be120f62111a7ffc1411a8ac3a7fe", null ],
+    [ "CanShowTweetUI", "a29803.html#a611be684103bb9f0a78b1b68d63a8eb1", null ],
+    [ "GetAccountName", "a29803.html#a703f8d1396eb2388d8195346ae55b065", null ],
+    [ "GetNumAccounts", "a29803.html#aed1b6d81eb06b9a50f3482f0190f9d72", null ],
+    [ "Init", "a29803.html#a761cd04d1730e4c2c633257a8672342a", null ],
+    [ "ShowTweetUI", "a29803.html#a00c00a4278ececaca37b7c799f68e234", null ],
+    [ "StaticClass", "a29803.html#a22bb908a2b183af5703bb0d3e6da8275", null ],
+    [ "TwitterRequest", "a29803.html#a9f1acdca267030d4bffa8e68a59ceeb1", null ]
 ];

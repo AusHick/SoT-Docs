@@ -1,5 +1,5 @@
 var a32187 =
 [
-    [ "Mesh", "a32187.html#a8be29e8c5b3d1f0e3d58335232b2ce84", null ],
-    [ "UnknownData00", "a32187.html#ae77d0026bb75629aa1ca481abb716069", null ]
+    [ "bCanEnterTransition", "a32187.html#a0769836a5c44b97f5345efeacb7aa8ef", null ],
+    [ "UnknownData00", "a32187.html#ae0864aae49403cd973b11d2d476f7120", null ]
 ];

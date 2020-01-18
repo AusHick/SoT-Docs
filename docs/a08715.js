@@ -1,5 +1,7 @@
 var a08715 =
 [
-    [ "StaticClass", "a08715.html#a997ddb5f5f81bb6366908d6ceb41a222", null ],
-    [ "Desc", "a08715.html#ae5fe9b0bfc22fa001a42bcd0968ef934", null ]
+    [ "StaticClass", "a08715.html#a38a77d956b106baf66f704e50aabcee6", null ],
+    [ "Notification", "a08715.html#a2824147852e8658240261ee381e2d250", null ],
+    [ "Player", "a08715.html#a25d21415fa11565ee5dd6bc9c847aa2c", null ],
+    [ "PreventNotificationForPlayer", "a08715.html#aa6cc7671ff7fe6defc98ee0dc23a7358", null ]
 ];

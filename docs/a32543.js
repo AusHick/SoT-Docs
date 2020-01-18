@@ -1,11 +1,8 @@
 var a32543 =
 [
-    [ "OnDamageToTentacle", "a32543.html#a6394871e6e6aadf747232b3ca8c5b83b", null ],
-    [ "StaticClass", "a32543.html#a0776abf29ce0454f47a0489058b5f278", null ],
-    [ "DamageableComponent", "a32543.html#ab27ad69d6d6516c401abd50167c03c05", null ],
-    [ "HealthComponent", "a32543.html#ad4bcaa067f70051f521afb427905957d", null ],
-    [ "UnknownData00", "a32543.html#aa39edc92e887b43b55a867822b7a95ed", null ],
-    [ "UnknownData01", "a32543.html#a55c9d8bcd3b56516aa3c12a2b65b11fa", null ],
-    [ "VenomChance", "a32543.html#a187a5c48a784e293bdb0128ebf86b1af", null ],
-    [ "VenomComponent", "a32543.html#a02bb21c29c9050eca7f5eb71ec1229be", null ]
+    [ "RequestGameplayTag", "a32543.html#a54ca4edbf5f43e1f2d7fbd511b2cbd22", null ],
+    [ "StaticClass", "a32543.html#ac6fdec93a20aa6eaab37a7df7a5805de", null ],
+    [ "GameplayTagTables", "a32543.html#ad3e33444b8dd19ccdb88e182ec6f597c", null ],
+    [ "UnknownData00", "a32543.html#a7d03593b1ffff097d45de1d5853b235f", null ],
+    [ "UnknownData01", "a32543.html#a85db587e9f5daa962c16592817e97b50", null ]
 ];

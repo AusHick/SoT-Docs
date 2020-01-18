@@ -1,4 +1,5 @@
 var a25595 =
 [
-    [ "UnknownData00", "a25595.html#a8de661bbc166431cf3c5c678c05a7b27", null ]
+    [ "ForceFeedbackEffect", "a25595.html#a46c2c05f867bb567a1642241680bcc1b", null ],
+    [ "Tag", "a25595.html#a63931b69959237165e2475d7e67d75d8", null ]
 ];

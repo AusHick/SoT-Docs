@@ -1,9 +1,7 @@
 var a12843 =
 [
-    [ "Action1", "a12843.html#a76a1135ea37c1e111f2100f631290a83", null ],
-    [ "Action1Water", "a12843.html#a0a3ab8902032439a0c9388ea672907b0", null ],
-    [ "Action2", "a12843.html#ae4e1f09e74f703a8f342fa9745850773", null ],
-    [ "Action2Water", "a12843.html#a8db0ecbbf8c6c8a66dc10d9ea0ebe373", null ],
-    [ "StandardPassive", "a12843.html#a716693f7987dcb342be4ee5328d58f51", null ],
-    [ "StandardWater", "a12843.html#af47e541935df7296bfb4a47ec180c11b", null ]
+    [ "AdditionalEventsToTrigger", "a12843.html#a1ba5d7bb76709fa04a1db6fde572b644", null ],
+    [ "OnEventPosted", "a12843.html#a0cda496284925c3f0a01cff8ff38a110", null ],
+    [ "PreventPlayingPostedEvent", "a12843.html#ab2917155b58eaf726069af68ad0d098b", null ],
+    [ "UnknownData00", "a12843.html#a428da3d54a1cd6deb91a32b5be3fcbb3", null ]
 ];

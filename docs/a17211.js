@@ -1,5 +1,5 @@
 var a17211 =
 [
-    [ "ChapterCount", "a17211.html#a6b1fdee376454cf16cd3404fa9c75909", null ],
-    [ "ChapterIndex", "a17211.html#ae9bcfa64532916f102ac9d8392e3c75a", null ]
+    [ "CrewId", "a17211.html#a166ccf4098a2c65aee881471df633225", null ],
+    [ "WieldableItemSold", "a17211.html#a152d3c1cf8ae930a7028a3cfd688750f", null ]
 ];

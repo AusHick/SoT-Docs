@@ -1,5 +1,25 @@
 var a31635 =
 [
-    [ "CurveName", "a31635.html#a820df721a2a206886632497feb242feb", null ],
-    [ "CurveWeights", "a31635.html#ae4ec24b1a60cfdefa3afd44e2e80f41e", null ]
+    [ "bBakeFoliageToLandscape", "a31635.html#a234b3802c7f43d422357186693f1e370", null ],
+    [ "bBakeGrassToLandscape", "a31635.html#a4988d69fa1c7d441678fbfacf32b50d5", null ],
+    [ "bCreatePackagePerAsset", "a31635.html#a9177170582f08f421d880c3f8cdd21cd", null ],
+    [ "bGenerateLandscapeMetallicMap", "a31635.html#a0e8724e713436d68e8e4dc47923c2cd3", null ],
+    [ "bGenerateLandscapeNormalMap", "a31635.html#a1e48fb0e41c6407a7c46f8d8b73dc9cc", null ],
+    [ "bGenerateLandscapeRoughnessMap", "a31635.html#a079dbd11aa2e36d532b4049c49421e88", null ],
+    [ "bGenerateLandscapeSpecularMap", "a31635.html#a5b99a5ff4e26d16230f9312835ea1bd2", null ],
+    [ "bGenerateMeshMetallicMap", "a31635.html#a06c4de95dbbeadbc161ea64fa9d5560f", null ],
+    [ "bGenerateMeshNormalMap", "a31635.html#a6b7d8f75e240e6fc08cb42d2c169ffc3", null ],
+    [ "bGenerateMeshRoughnessMap", "a31635.html#a04928a6397e89828e2102e1d07048fdd", null ],
+    [ "bGenerateMeshSpecularMap", "a31635.html#a58a71f1e97e9288dcf7bf43441e4039a", null ],
+    [ "bOverrideLandscapeExportLOD", "a31635.html#a2678cd5246e0e94d68dbf0a8619d775f", null ],
+    [ "bRemoveDownwardFacingTriangles", "a31635.html#a9e112ac721139bd0a1c39e4ab8e12182", null ],
+    [ "CullAngleThreshold", "a31635.html#ae26fa8f4e20b6172f9fbe26fb7e03c8c", null ],
+    [ "LandscapeExportLOD", "a31635.html#a79903ed32bc4ec609f53819cf706ab99", null ],
+    [ "LandscapeMaterial", "a31635.html#a08fd9adc2148e159944febdc38f6d1b0", null ],
+    [ "ProxyPixelSize", "a31635.html#a1caa536c1bb8fbf20032d0d529d6b0d7", null ],
+    [ "StaticMeshMaterial", "a31635.html#a4e361f9326bbafe30e8a36382e5f3e9b", null ],
+    [ "UnknownData00", "a31635.html#a62b216d3d28f58e06ab9e319abee64c8", null ],
+    [ "UnknownData01", "a31635.html#a9ff7b07844c70a51212603536b09d8c6", null ],
+    [ "UnknownData02", "a31635.html#ad41576807e63702e7d17942010ec198f", null ],
+    [ "UnknownData03", "a31635.html#a6e0d5734025a12aa5de09ad1bea1dfd2", null ]
 ];

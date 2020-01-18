@@ -1,10 +1,9 @@
 var a24007 =
 [
-    [ "OnRep_ReplicatedAIPartsData", "a24007.html#ae1aae8dd8fa69fc5ffe721601eade265", null ],
-    [ "RequestNewAIParts", "a24007.html#a87f654ab2506e0e126b4af52d4c74c4d", null ],
-    [ "StaticClass", "a24007.html#a840ceb161f2858af9d9ad0333a785bdd", null ],
-    [ "PartsCategory", "a24007.html#a44a9c9d7941c4474bffc53a3ccd8bde3", null ],
-    [ "ReplicatedAIPartsData", "a24007.html#a86e2897f1e34de206bdbc317e0f854a4", null ],
-    [ "UnknownData00", "a24007.html#a72fdb8018d24bfc42ab864d6ec58f467", null ],
-    [ "UnknownData01", "a24007.html#a23536dc5e27076f69ffb4be30599c804", null ]
+    [ "StaticClass", "a24007.html#afbec5c7bada1e17e3bf3e6f1fd37d7f8", null ],
+    [ "Boxes", "a24007.html#a8a3e4bce3d34060ebb2819dc4edefd37", null ],
+    [ "Cones", "a24007.html#a96896709d3fca6e4b924d4ca151d8cc6", null ],
+    [ "Cylinders", "a24007.html#a6bd65795a01e0720d0ca36ffc6c3efa7", null ],
+    [ "Lines", "a24007.html#a25af1a49a87b3498299ab3ce9b7c9b38", null ],
+    [ "Spheres", "a24007.html#a2d5797b2ad0d3a19adb0cc5ab6d07e88", null ]
 ];

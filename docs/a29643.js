@@ -1,15 +1,9 @@
 var a29643 =
 [
-    [ "StaticClass", "a29643.html#a494222053ed4b164358590c5b7af2d71", null ],
-    [ "AttachToName", "a29643.html#a53998b2107df6e2480c2aad8c2ba2eba", null ],
-    [ "bIsParentComponentNative", "a29643.html#a9004b01a90dd52675cb9162223bcc6b1", null ],
-    [ "ChildNodes", "a29643.html#adc52f7706d02b4769fdb3b7007c0f058", null ],
-    [ "ComponentTemplate", "a29643.html#aaf48c0d66f622a9b9fe6a6b22fc92046", null ],
-    [ "MetaDataArray", "a29643.html#af37f55e9ae5ad218ee0664d778691853", null ],
-    [ "ParentComponentOrVariableName", "a29643.html#aa984a39d70fc3400e81057b53bb15912", null ],
-    [ "ParentComponentOwnerClassName", "a29643.html#a95405240aa3c7a362e40879e4ed3e2de", null ],
-    [ "ServerMigrationFlagSet", "a29643.html#aab1e6c52b5efc4404ddcb79552411021", null ],
-    [ "UnknownData00", "a29643.html#a87e03bae51b298f3b42e84ca44c9c0b6", null ],
-    [ "VariableGuid", "a29643.html#a6e604d498b771e1c5f503e02975c5592", null ],
-    [ "VariableName", "a29643.html#acf7bc2f8de73bb529c223a7f45cccdc6", null ]
+    [ "StaticClass", "a29643.html#ae8f24cc3e57c369ca20d663b0fa65cd0", null ],
+    [ "bUseEmitterTime", "a29643.html#a8ad8f7fc6281601653aec80909e2182e", null ],
+    [ "FrameRate", "a29643.html#a16d26d0aea8948c4aa0609a079372d29", null ],
+    [ "StartingFrame", "a29643.html#ad1f617093e37904f373dba843fa15ed8", null ],
+    [ "UnknownData00", "a29643.html#a6e82bda77f772362aa748e09e58db0a3", null ],
+    [ "UnknownData01", "a29643.html#a884c11806111cdbbb770473ba276a33d", null ]
 ];

@@ -1,5 +1,4 @@
 var a13679 =
 [
-    [ "MinDistanceBetweenObjects", "a13679.html#aff874272cdbc078617789f9bd67ebf47", null ],
-    [ "ObjectDistanceFromSpawnCentre", "a13679.html#af3e326a4edadb2c034b46ae9de0e64a7", null ]
+    [ "Text", "a13679.html#a4a2d2ce25a5a649f84598a1ed4326b7a", null ]
 ];

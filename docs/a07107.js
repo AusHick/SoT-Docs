@@ -1,7 +1,9 @@
 var a07107 =
 [
-    [ "StaticClass", "a07107.html#ae106565bee160a9185e0553e9a57d3aa", null ],
-    [ "RequiredAction", "a07107.html#ac5eed954a073f1231e5575b879770df1", null ],
-    [ "RequiredTrackId", "a07107.html#a8eabb954678c89dfd02725c36e15eb79", null ],
-    [ "UnknownData00", "a07107.html#a9ce84aafe534ad8bdd143f3fea27b06b", null ]
+    [ "OnRep_Loadout", "a07107.html#a617f0ed183331f7b47e9f51fbe99eaf4", null ],
+    [ "StaticClass", "a07107.html#ad4365ce877eb175592fea2a0de2f241f", null ],
+    [ "LoadoutContainer", "a07107.html#acd790fc18114fe21bb7e87cca028841d", null ],
+    [ "OwningPlayer", "a07107.html#ab7cea56418d7c101302a53b389be42f9", null ],
+    [ "UnknownData00", "a07107.html#a527f3f9735ca63eca6ff9f93e8abf389", null ],
+    [ "UnknownData01", "a07107.html#a03af9b31f9fad20cc605396aa8d04273", null ]
 ];

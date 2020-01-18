@@ -1,10 +1,7 @@
 var a29791 =
 [
-    [ "StaticClass", "a29791.html#a96752aefa69eeae2c6206de0832500bd", null ],
-    [ "RelativeLocation", "a29791.html#afa16c046f5f0748e8968c84cb823e1c7", null ],
-    [ "RelativeRotation", "a29791.html#a32acb973d2e23df49ff4d9e43991d7b8", null ],
-    [ "RelativeScale", "a29791.html#a341e87dc6c32a0a03bcc1ff97acea9d0", null ],
-    [ "SocketName", "a29791.html#af1370290ac93f8e9676389d485b666f5", null ],
-    [ "Tag", "a29791.html#a3f2d8ba463c308ffec8ed9916eee40e4", null ],
-    [ "UnknownData00", "a29791.html#a8504d1d81f40c6541d8911ca5336c3bb", null ]
+    [ "StaticClass", "a29791.html#ae2beb75373b8b122e9aed96563e99672", null ],
+    [ "bSuppressDelegateCalls", "a29791.html#ab660246550bad4c5d324d8deec73025a", null ],
+    [ "LocalCloudFiles", "a29791.html#a5100e30b41d4d4d57979c27ba930aa39", null ],
+    [ "UnknownData00", "a29791.html#a5b80ca00d4fe3476be027d5c4fe60c1e", null ]
 ];

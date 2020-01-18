@@ -1,6 +1,5 @@
 var a13295 =
 [
-    [ "NumQuests", "a13295.html#abe88a522a006dd27db93313e6a6fe389", null ],
-    [ "PerChapterRewardAsset", "a13295.html#adbc738ed9c784f92a4e495e19916003d", null ],
-    [ "UnknownData00", "a13295.html#a67c5e2d6f1ace9352c546fe5855d8771", null ]
+    [ "AIStrategyMovementPropertiesOverrides", "a13295.html#a7dfd57c6e69b13f639e097f9282ff36e", null ],
+    [ "ItemCategory", "a13295.html#a4cc482cded9a69f5ede7e67d1c9a56d1", null ]
 ];

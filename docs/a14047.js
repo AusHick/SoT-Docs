@@ -1,7 +1,7 @@
 var a14047 =
 [
-    [ "ScoreInfoIcon", "a14047.html#a670dcfbae14ec4c5dde887b6191cf8c3", null ],
-    [ "ScoreInfoText", "a14047.html#ab9cee158fe6c25e1195755a7582f37de", null ],
-    [ "ScoreReason", "a14047.html#af27687d5aaedceda5abdbc030abdec98", null ],
-    [ "UnknownData00", "a14047.html#aa84f461f3a3ab01ed62c5171bd1a76ec", null ]
+    [ "Company", "a14047.html#a3209f1e864409f9a36ca5d3795b14af3", null ],
+    [ "ShouldHaveEmblems", "a14047.html#ae3d766c72d89880c609c3041f0130b19", null ],
+    [ "ShouldHaveLevels", "a14047.html#afb9eeb68b200345f21dc143c2f456ff1", null ],
+    [ "UnknownData00", "a14047.html#a767b4418fa34f1883dee7dfc2eb46e78", null ]
 ];

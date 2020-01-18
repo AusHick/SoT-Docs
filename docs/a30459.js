@@ -1,14 +1,20 @@
 var a30459 =
 [
-    [ "DecayHeight", "a30459.html#a340c8032aaafa80739d8aad69b376971", null ],
-    [ "DensityHeight", "a30459.html#a9f685e0cf27665c5587ec61d2623083b", null ],
-    [ "InscatterAltitudeSampleNum", "a30459.html#ae61c60c50f9414374f1dd64ae44642de", null ],
-    [ "InscatterMuNum", "a30459.html#a490c0e1f5e5e555a8d955ac02b76aef0", null ],
-    [ "InscatterMuSNum", "a30459.html#ac0b9f5b98362746a4c734e62f4d1dda1", null ],
-    [ "InscatterNuNum", "a30459.html#a1d03f72b1306298947233c0b846ae0b2", null ],
-    [ "IrradianceTexHeight", "a30459.html#a22c1812eb4bfd96c6f5b50e4a8878102", null ],
-    [ "IrradianceTexWidth", "a30459.html#ab0186fd5adb9e7159262b861f1a28b2a", null ],
-    [ "MaxScatteringOrder", "a30459.html#aeb405a43e143bff966b385de14c2e1d3", null ],
-    [ "TransmittanceTexHeight", "a30459.html#a136b5d63b74fb7a3fd2aa9d159015759", null ],
-    [ "TransmittanceTexWidth", "a30459.html#abb752af67cc9885d5a8b486f810e5c90", null ]
+    [ "bSupportsAgent0", "a30459.html#a3e256ab8bd2271974274d407946ae989", null ],
+    [ "bSupportsAgent1", "a30459.html#ac1e335368e58863e95e20355710b61a9", null ],
+    [ "bSupportsAgent10", "a30459.html#ae4d125eb69fe2e5f280d35383a92a7d1", null ],
+    [ "bSupportsAgent11", "a30459.html#af6770cab7b2f2ccd7aa73a28455969c2", null ],
+    [ "bSupportsAgent12", "a30459.html#a0a5c39196973d243b634524456a56cd2", null ],
+    [ "bSupportsAgent13", "a30459.html#a448713de61fdb3f255969ee2a4f57a9d", null ],
+    [ "bSupportsAgent14", "a30459.html#a15abf2ab8a2f63149a22511347b226d7", null ],
+    [ "bSupportsAgent15", "a30459.html#af6c4a3c0b9ddf6ec3b3ddb6cab33486f", null ],
+    [ "bSupportsAgent2", "a30459.html#af88c34982a258a2430b71a9a956e8fad", null ],
+    [ "bSupportsAgent3", "a30459.html#ac4bf8652df98c2916f823a2fcc13d119", null ],
+    [ "bSupportsAgent4", "a30459.html#ac446f9bfed6cb71bff69eb8a80067ac8", null ],
+    [ "bSupportsAgent5", "a30459.html#a09e04b83e3aeea45db46009c530193d7", null ],
+    [ "bSupportsAgent6", "a30459.html#a6890789c0048c43ed33cf4e1814681b1", null ],
+    [ "bSupportsAgent7", "a30459.html#acd4292f54c5124d509928a82e9f97239", null ],
+    [ "bSupportsAgent8", "a30459.html#a35d3239231cd68328131e6ea9e71b623", null ],
+    [ "bSupportsAgent9", "a30459.html#a546a1565ef836de2f873d915406f0aa9", null ],
+    [ "UnknownData00", "a30459.html#a93c24209a2ace15dc4c28eac2bdc5dbd", null ]
 ];

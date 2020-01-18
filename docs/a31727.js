@@ -1,4 +1,5 @@
 var a31727 =
 [
-    [ "NodeTemplate", "a31727.html#aa72efe3b6069f7b2706a5d5315cf2c3b", null ]
+    [ "PoseName", "a31727.html#a1cde2fb81d4d426f4c050aa828b318e6", null ],
+    [ "ReferencePose", "a31727.html#a4474aaed3e4bd92726bf9c293b99c3e4", null ]
 ];

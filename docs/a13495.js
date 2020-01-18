@@ -1,4 +1,5 @@
 var a13495 =
 [
-    [ "UnknownData00", "a13495.html#ada1ebb1bac85530c97a7a65e1986488d", null ]
+    [ "Max", "a13495.html#a0003ac15215846df9b48b1b24975c8b5", null ],
+    [ "Min", "a13495.html#ae472701466e1ef035f9eeaa169235a89", null ]
 ];

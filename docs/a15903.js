@@ -1,7 +1,7 @@
 var a15903 =
 [
-    [ "GenericPopupAllianceIcon", "a15903.html#a0164f6068f7b53d35bfa23c546a10233", null ],
-    [ "MapFlagIcon", "a15903.html#a538ecd3030bee9853a95138424bc5ce0", null ],
-    [ "PennantDesc", "a15903.html#ac40df9f097b4aeac9111af9f08942a0c", null ],
-    [ "PopUpNotificationDescs", "a15903.html#a5fd170a64ecc44a6fd81b0fffdb46991", null ]
+    [ "JumpCycle", "a15903.html#ae2adb9722f20a15ca3cc0002d321d3f9", null ],
+    [ "JumpStart", "a15903.html#a6d2883ed05decefb41446aaa281ece9f", null ],
+    [ "LandLight", "a15903.html#a92adf6133199a78b307e8a2e4a5f1552", null ],
+    [ "PreImpact", "a15903.html#aa841345e3f824eb794cdd2e957855961", null ]
 ];

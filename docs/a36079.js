@@ -1,5 +1,4 @@
 var a36079 =
 [
-    [ "StaticClass", "a36079.html#a89bfe44bb6c4f41718cc3604f6bb8524", null ],
-    [ "UnknownData00", "a36079.html#a539c58e3789e558f20ebaf4f357aebf5", null ]
+    [ "StaticClass", "a36079.html#a8db0bf99cd866c19f7d29427d9ba7017", null ]
 ];

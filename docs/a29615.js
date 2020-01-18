@@ -1,5 +1,6 @@
 var a29615 =
 [
-    [ "StaticClass", "a29615.html#af7bc34f17b11515176c84ee33ac6e302", null ],
-    [ "UnknownData00", "a29615.html#a6564ab847c755f9b5bfeaca88c7c392b", null ]
+    [ "StaticClass", "a29615.html#a28a75b950440f744c7bfef89ff422a2d", null ],
+    [ "MaxScale", "a29615.html#a204504d1b2edd69f5b347b7529e423ab", null ],
+    [ "SpeedScale", "a29615.html#a2a919b94b5491d748a16d8dfcd1c804f", null ]
 ];

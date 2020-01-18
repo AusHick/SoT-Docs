@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FInitRHIDiagnosticTelemetryEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FFailedToFindPlayerSpawnLocationTelemetryEvent Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,51 @@ $(document).ready(function(){initNavTree('a20387.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20384.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FInitRHIDiagnosticTelemetryEvent Struct Reference</div>  </div>
+<div class="title">SDK::FFailedToFindPlayerSpawnLocationTelemetryEvent Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FInitRHIDiagnosticTelemetryEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FFailedToFindPlayerSpawnLocationTelemetryEvent:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20385.svg" width="232" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a20385.svg" width="100%" height="592"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:abfc4edd6b9354ce228c031a0093e4d25"><td class="memItemLeft" align="right" valign="top"><a id="abfc4edd6b9354ce228c031a0093e4d25"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ErrorMessage</b></td></tr>
-<tr class="separator:abfc4edd6b9354ce228c031a0093e4d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa7eea474d5e3a5124ed151f4dad017d2"><td class="memItemLeft" align="right" valign="top"><a id="aa7eea474d5e3a5124ed151f4dad017d2"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECrewSpawnState &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>SpawnState</b></td></tr>
+<tr class="separator:aa7eea474d5e3a5124ed151f4dad017d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4daf698124339ce9a5499a265bf7a049"><td class="memItemLeft" align="right" valign="top"><a id="a4daf698124339ce9a5499a265bf7a049"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsInBrig</b></td></tr>
+<tr class="separator:a4daf698124339ce9a5499a265bf7a049"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff1fe1e4a39857528eea7c371a4c5305"><td class="memItemLeft" align="right" valign="top"><a id="aff1fe1e4a39857528eea7c371a4c5305"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsInHideout</b></td></tr>
+<tr class="separator:aff1fe1e4a39857528eea7c371a4c5305"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5829cf0bf1cb458106dd66b9f65e3f9c"><td class="memItemLeft" align="right" valign="top"><a id="a5829cf0bf1cb458106dd66b9f65e3f9c"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsFirstTimePlaying</b></td></tr>
+<tr class="separator:a5829cf0bf1cb458106dd66b9f65e3f9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac541a0dee1a9ca363a02e0a7358a63ba"><td class="memItemLeft" align="right" valign="top"><a id="ac541a0dee1a9ca363a02e0a7358a63ba"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsOnContestServer</b></td></tr>
+<tr class="separator:ac541a0dee1a9ca363a02e0a7358a63ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a182e8ab9db1fab9e7724a789c12ee946"><td class="memItemLeft" align="right" valign="top"><a id="a182e8ab9db1fab9e7724a789c12ee946"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsInContestTavern</b></td></tr>
+<tr class="separator:a182e8ab9db1fab9e7724a789c12ee946"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8afa6b069d8e9d3db5e63363913e792"><td class="memItemLeft" align="right" valign="top"><a id="ac8afa6b069d8e9d3db5e63363913e792"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x2]</td></tr>
+<tr class="separator:ac8afa6b069d8e9d3db5e63363913e792"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a94402e7e1339e2553baed7d5b1373d7f"><td class="memItemLeft" align="right" valign="top"><a id="a94402e7e1339e2553baed7d5b1373d7f"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a20383.html">FFailedToFindPlayerSpawnLocationPotentialLocation</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>PotentialLocations</b></td></tr>
+<tr class="separator:a94402e7e1339e2553baed7d5b1373d7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20387.html">FInitRHIDiagnosticTelemetryEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:25 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20387.html">FFailedToFindPlayerSpawnLocationTelemetryEvent</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:38 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

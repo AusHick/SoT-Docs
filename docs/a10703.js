@@ -1,13 +1,12 @@
 var a10703 =
 [
-    [ "Multicast_TriggerOneShotUse", "a10703.html#ad9170f8fdac9ffc0465e3b42333f8793", null ],
-    [ "Server_TriggerOneShotUse", "a10703.html#a769613dd4d0e013f38f5c74f7a22173e", null ],
-    [ "StaticClass", "a10703.html#a3fc5b272085578d3afbbe398552209a6", null ],
-    [ "ContinuousUseNotification", "a10703.html#ad4b439ad306517e22f2c294e0a33618d", null ],
-    [ "CurrentlyActiveNotifications", "a10703.html#a7350c3f03085fd1b21e31e9a17c83fc7", null ],
-    [ "NotificationIdsToIgnore", "a10703.html#af7a2c986ee6edae7aeb28c8903fc9116", null ],
-    [ "OneShotInputNotifications", "a10703.html#aa2fc2b6a498a3855ca4442d1b5e9b449", null ],
-    [ "PreventOverlappingContinuousUses", "a10703.html#ae5e2bb3893e039432311460eac00b2ef", null ],
-    [ "UnknownData00", "a10703.html#a519e47c1fd9743a25026876cad844d36", null ],
-    [ "UnknownData01", "a10703.html#aba310fe907e6c0b8d95eb51ccfc00e84", null ]
+    [ "IsEquipAnimationPlaying", "a10703.html#a96348302aac31112782d4bda28f0ebc7", null ],
+    [ "ReturnToIdle", "a10703.html#a08ec9f3c3d423c7db51421dd80a1d3c7", null ],
+    [ "StartContinuousAnimation", "a10703.html#ad1ebeac08178aff9562b0d028842f959", null ],
+    [ "StartEquipAnimation", "a10703.html#a8f42cd5b64787d8e63e9847efe724332", null ],
+    [ "StartIntoContinuousAnimation", "a10703.html#a82f35c0811ae9ee01d171c9362f87ff2", null ],
+    [ "StartOutOfContinuousUseAnimation", "a10703.html#a08cdaf87ebadfda70ab65112fab52d30", null ],
+    [ "StartUnequipAnimation", "a10703.html#a25a4b54557047c4dcd284feb2f2d2657", null ],
+    [ "StaticClass", "a10703.html#a4a32b12dc3989b2ff146d5cbcc88bff3", null ],
+    [ "TriggerOneShotAnimation", "a10703.html#aadd147dd2f3ff0a8728c0e1781d78a68", null ]
 ];

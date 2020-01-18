@@ -1,5 +1,5 @@
 var a03295 =
 [
-    [ "StaticClass", "a03295.html#acd7d6b1d6baf595cf72a6a4a2fce6d21", null ],
-    [ "RankEntries", "a03295.html#aaf1d5c9fd9f064dfaf0c3da998f1d805", null ]
+    [ "StaticClass", "a03295.html#ab6329f4022cf5c0584c5f2ac19c734df", null ],
+    [ "ActorNearIsland", "a03295.html#a6ea2db4f2eb907f987a64446d09c7628", null ]
 ];

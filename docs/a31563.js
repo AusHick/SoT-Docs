@@ -1,4 +1,5 @@
 var a31563 =
 [
-    [ "BoneBlendWeights", "a31563.html#ac636d6c3380b856b9715150fc1572049", null ]
+    [ "Direction", "a31563.html#a1edc64d3402066ba0a6092f77fd74f9b", null ],
+    [ "Distance", "a31563.html#a2cbc1b1ecb1b2f2abcc6790113ddd97c", null ]
 ];

@@ -1,7 +1,5 @@
 var a30911 =
 [
-    [ "AxisName", "a30911.html#a0fd225f3984778d73fb82ed1c1aa31fd", null ],
-    [ "Key", "a30911.html#aaaca5bf9e447c7f8fdc3c898c1406230", null ],
-    [ "Scale", "a30911.html#aa17622ff285f4a73de7be87512612183", null ],
-    [ "UnknownData00", "a30911.html#a9e4dff68b82da6e976c12dcdac0c1aab", null ]
+    [ "Speaker", "a30911.html#ad43f27fc26655f23bf4effab2b137042", null ],
+    [ "Targets", "a30911.html#acb6b680803c1c6df2ef548c3c953df93", null ]
 ];

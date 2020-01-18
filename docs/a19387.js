@@ -1,5 +1,4 @@
 var a19387 =
 [
-    [ "InteractionProxy", "a19387.html#ad8e6a6405f54464bf6dddfe341deb5ab", null ],
-    [ "UnknownData00", "a19387.html#ab6ee32a07ae1b9565e37f0704306ab2f", null ]
+    [ "PlayerCharacter", "a19387.html#ac6c1c5f65d7795f9e4be0e3410d7c1a5", null ]
 ];

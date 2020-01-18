@@ -1,11 +1,11 @@
 var a29595 =
 [
-    [ "AuthorizeAccounts", "a29595.html#afd1be120f62111a7ffc1411a8ac3a7fe", null ],
-    [ "CanShowTweetUI", "a29595.html#a611be684103bb9f0a78b1b68d63a8eb1", null ],
-    [ "GetAccountName", "a29595.html#a703f8d1396eb2388d8195346ae55b065", null ],
-    [ "GetNumAccounts", "a29595.html#aed1b6d81eb06b9a50f3482f0190f9d72", null ],
-    [ "Init", "a29595.html#a761cd04d1730e4c2c633257a8672342a", null ],
-    [ "ShowTweetUI", "a29595.html#a00c00a4278ececaca37b7c799f68e234", null ],
-    [ "StaticClass", "a29595.html#a22bb908a2b183af5703bb0d3e6da8275", null ],
-    [ "TwitterRequest", "a29595.html#a9f1acdca267030d4bffa8e68a59ceeb1", null ]
+    [ "StaticClass", "a29595.html#af00c4f58146f92313bc2a96a25e31127", null ],
+    [ "AdditionalStartSizes", "a29595.html#afb4602e95ad2153850bbff313e299e8a", null ],
+    [ "bIgnoreComponentScale", "a29595.html#af2117aa89b4de834b1736a427d75ac4e", null ],
+    [ "bKeepAspectRatio", "a29595.html#a2e40e5699ae11f0493901c2f0cb99d01", null ],
+    [ "bUseGroupAForAll", "a29595.html#a5bc075fcd03c4f60fa328559755b97d5", null ],
+    [ "StartSize", "a29595.html#a06dfc216326c29bd49a142944582f68d", null ],
+    [ "UnknownData00", "a29595.html#ae958f8daf48bc1c3a0ab1beb9e61ba0f", null ],
+    [ "UnknownData01", "a29595.html#a2d3ed7c525a8fcf55a87e27b6c21dbd5", null ]
 ];

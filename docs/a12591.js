@@ -1,5 +1,5 @@
 var a12591 =
 [
-    [ "WalkSpeedMultiplier", "a12591.html#ab3ddb5ac83c46e755c8c58d0965eb16e", null ],
-    [ "WalkStopThreshold", "a12591.html#a9d9601e564f7b91ce4328e642e14c683", null ]
+    [ "StaticClass", "a12591.html#a544303d0ef2060d693e67e3a6688014c", null ],
+    [ "UnknownData00", "a12591.html#a0eb71057a4222ab0ea63667323a80d03", null ]
 ];

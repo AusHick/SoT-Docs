@@ -1,7 +1,28 @@
 var a21319 =
 [
-    [ "HasPlayerVotedInFavour", "a21319.html#afaf698b1d074b307867c4a424db2a0c7", null ],
-    [ "UnknownData00", "a21319.html#ac645fe5b330ab6c325f809fdf4680a86", null ],
-    [ "VoteCount", "a21319.html#a46d5783b4a83ba499de772be5fe217f1", null ],
-    [ "VoteLimit", "a21319.html#a696e6efd0541744513c31f06a7cba703", null ]
+    [ "BooleanField", "a21319.html#aaed7dbc374b59f04f37ee2b8dd0df2d0", null ],
+    [ "DateTimeField", "a21319.html#a9194f926ef3fa983a769111e40b50309", null ],
+    [ "DoubleField", "a21319.html#a8a4f127e319b4083fee812634e602ed7", null ],
+    [ "FloatField", "a21319.html#a1d34d9112157b33d9695d0ba6d895ece", null ],
+    [ "GuidField", "a21319.html#aeb8b13503bd1a75a4037000127bea514", null ],
+    [ "Int16Field", "a21319.html#afb610b3712ca2f48b681cdd8a9ea0a3b", null ],
+    [ "Int32Field", "a21319.html#a56c1b97769bac73b982bc82ce81a5508", null ],
+    [ "Int64Field", "a21319.html#a3db266148d48a35175c35ea5498569dc", null ],
+    [ "Int8Field", "a21319.html#a948775bf6f12455c1e3356c29c74781c", null ],
+    [ "IntegerField", "a21319.html#aec78ef2e215813def81c519e3c40f8b7", null ],
+    [ "NumberField", "a21319.html#a9acf53d8671aefef3d419aa8469d11c6", null ],
+    [ "ObjectField", "a21319.html#adc9641ff61537648c45be39ee6ff8443", null ],
+    [ "PositionField", "a21319.html#abd2a0e5f19cdacdd1c09922cd90109c9", null ],
+    [ "StringArrayField", "a21319.html#abf39ff03cd8a0054270c99f20bb47793", null ],
+    [ "StringField", "a21319.html#a15ffa9113fed4068edd02188c41048ae", null ],
+    [ "UEnumField", "a21319.html#a03e1fbb79a2845331848017676680570", null ],
+    [ "UInt16Field", "a21319.html#a531f8140bf63177c4dc1d6570fba86ef", null ],
+    [ "UInt32Field", "a21319.html#a08b35268d6a7a7d3e326cb3f870c27f4", null ],
+    [ "UInt64Field", "a21319.html#a7bf5889201977136b64d1e9b2ce978d6", null ],
+    [ "UInt8Field", "a21319.html#ac50efb052ec67d4121babdd3fe4d8625", null ],
+    [ "UnknownData00", "a21319.html#afc06a5bd37f61713ee8eb1415313459e", null ],
+    [ "UnknownData01", "a21319.html#aaa221902427f2f49aad8191b53d67355", null ],
+    [ "UnknownData02", "a21319.html#a87af37128956363887f95e5a62fcfebc", null ],
+    [ "UnknownData03", "a21319.html#a09195736e21c41032fdd764ff1c865de", null ],
+    [ "UnknownData04", "a21319.html#ab9e3079f04fbe1df0a1f0ae41b0989a5", null ]
 ];

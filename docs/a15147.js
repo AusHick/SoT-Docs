@@ -1,6 +1,7 @@
 var a15147 =
 [
-    [ "IsPurchasable", "a15147.html#a04e806bf6208dfa6c158cf48a9ef6409", null ],
-    [ "Offer", "a15147.html#ab45f5afa17ceaed900f6bfa2b3f59f54", null ],
-    [ "UnknownData00", "a15147.html#a76ff06bc26e7555b80fc5beb3b8b4bb3", null ]
+    [ "Entitlements", "a15147.html#a7cbf63815bf962131daf47d8855af85a", null ],
+    [ "PreCachedEntitlementTypes", "a15147.html#a65e7f86f5b3ca5fc9234d4feb755893c", null ],
+    [ "UnknownData00", "a15147.html#addba1ce13d7edb9c359d3a2e785025c1", null ],
+    [ "UnknownData01", "a15147.html#a5174e41651728eecb20819f9753ba516", null ]
 ];

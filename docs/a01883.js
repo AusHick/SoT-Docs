@@ -1,5 +1,5 @@
 var a01883 =
 [
-    [ "StaticClass", "a01883.html#ade4695cc0f087e00c426155d43cc1c86", null ],
-    [ "NamedFirstPersonAnimatics", "a01883.html#ad17fc4155a3c71d26a1a51971518c6f5", null ]
+    [ "BattlesData", "a01883.html#a0591bb2cffae950b347098036e7f828a", null ],
+    [ "CampaignParams", "a01883.html#a0ceb31dd6d011bf9c1f58475e24e78a6", null ]
 ];

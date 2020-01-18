@@ -1,7 +1,9 @@
 var a07319 =
 [
-    [ "StaticClass", "a07319.html#a4bbfa5204507c9c2a4b811ca7eba3e20", null ],
-    [ "ShroudBreakerActive", "a07319.html#ac5a9f3b3e7a54e406e6a2b3ab127ae62", null ],
-    [ "UnknownData00", "a07319.html#a80d8e728307f948e88c2281b1db8dc72", null ],
-    [ "UnknownData01", "a07319.html#a5338eb4f48bcf7019282eb0aee47d2a0", null ]
+    [ "StaticClass", "a07319.html#ae5de04db6129f3b6965f69f2afc27d8c", null ],
+    [ "CutSceneActor", "a07319.html#a10221126b1bedde19079811cebc7a69a", null ],
+    [ "NPCDialogComponent", "a07319.html#a0117bb50413bb23c908e83dec6889d51", null ],
+    [ "StepDesc", "a07319.html#ae1cdd8594afa31b05a3ed076b9241eaa", null ],
+    [ "UnknownData00", "a07319.html#a572deb0dd45a8b5bf7d066644d4e4f2e", null ],
+    [ "UnknownData01", "a07319.html#ad7f3003a818f5fcda7909940416ad30a", null ]
 ];

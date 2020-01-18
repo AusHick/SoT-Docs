@@ -1,9 +1,9 @@
 var a04479 =
 [
-    [ "StaticClass", "a04479.html#aed1d2d334059dd87cf733bd3903ffaed", null ],
-    [ "TriggerPlayerImpactDamageFromLocationAndDirection", "a04479.html#afc7ac0ea2ab06f362899c59e1f6ae730", null ],
-    [ "TriggerPlayerImpactDamageFromLookAt", "a04479.html#a4c1e4b1325b2c8459d1a467e3d778313", null ],
-    [ "TriggerShipImpactDamageAtLocation", "a04479.html#aba342037eed1c108ebca1d760f669ceb", null ],
-    [ "TriggerShipImpactDamageFromLocationAndDirection", "a04479.html#a893cbc0275166c139f51a9c205b6b567", null ],
-    [ "TriggerShipImpactDamageFromLookAt", "a04479.html#abf3875c67ff490869aa23d294caeb5d2", null ]
+    [ "OnPlayerStateDestroyed", "a04479.html#a3dcad5748bc044f94176807a3b502292", null ],
+    [ "OnPlayerStateEndPlay", "a04479.html#ade73e82cd3345d3bfaf8001283fad762", null ],
+    [ "StaticClass", "a04479.html#a9c1cd0c4e4bb86e4b8fa6968351118f2", null ],
+    [ "PlayerState", "a04479.html#a8a69e4a213c55d0b3d981f04c8c12343", null ],
+    [ "UnknownData00", "a04479.html#ad5f7de3a5934386b635c45e25af64a8e", null ],
+    [ "UnknownData01", "a04479.html#aea1af6ba3fe389538302950336474d09", null ]
 ];

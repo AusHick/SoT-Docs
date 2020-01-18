@@ -1,7 +1,11 @@
 var a35259 =
 [
-    [ "GetLinearValue", "a35259.html#a529a1252001aee9a359379a25cec90cb", null ],
-    [ "GetSlateValue", "a35259.html#ad2a871c70fc7e324e35d0696dd142803", null ],
-    [ "StaticClass", "a35259.html#ae3b64566e31326bbc44d37c4d01cfa6a", null ],
-    [ "UnknownData00", "a35259.html#afaa3c491c46f2a9c4a35080608712dfc", null ]
+    [ "StaticClass", "a35259.html#ab0305bc0fc702884640c53095d6292bb", null ],
+    [ "DeliverByTime", "a35259.html#a5cdc6f4601885f9b10524c75918b417e", null ],
+    [ "DeliveryLocation", "a35259.html#ab5cdc1ac76f55e3a295eba97dd467510", null ],
+    [ "Haul", "a35259.html#ab209df3d3766cb33f4a6d4cad125830c", null ],
+    [ "IslandName", "a35259.html#ab7f1122ebfa1626f77f6498e460bdafc", null ],
+    [ "Items", "a35259.html#a38ec090ac98ac1b4fb6022a1aa826607", null ],
+    [ "Layout", "a35259.html#ae7e32a9806f9d1ddd717cfc964efcd38", null ],
+    [ "MapId", "a35259.html#a2bc0c7c4246f5708941149c9918783b9", null ]
 ];

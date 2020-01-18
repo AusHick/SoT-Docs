@@ -1,12 +1,9 @@
 var a20739 =
 [
-    [ "CompanyAffiliation", "a20739.html#af6a6b73fb67deafe6d1cd6d77c01f9f5", null ],
-    [ "CrewId", "a20739.html#a02b8c1dc3fb60163e765e7f9ea531e2a", null ],
-    [ "NotifyPlayer", "a20739.html#a6af825a77be2279e9c1acf66504ddcc4", null ],
-    [ "Pirates", "a20739.html#ad29d0c0ef423c92e2db097d60e00c501", null ],
-    [ "PlayMode", "a20739.html#ab03a63ca9213a1b20cc800db02e68e43", null ],
-    [ "PlayModeVariant", "a20739.html#adcac79b626eef3544abe4948280bd793", null ],
-    [ "RequestID", "a20739.html#abca83857b6a90496008046dadebcff9f", null ],
-    [ "RewardId", "a20739.html#a777e58d43e954b304d6d7f5bd8b6540c", null ],
-    [ "UnknownData00", "a20739.html#a221e0b77901697835f120aeea6f2e813", null ]
+    [ "ActorDetails", "a20739.html#a8938fee4bd86130ba506eaa15a5ee279", null ],
+    [ "ActorSerialisationBytes", "a20739.html#aa34948a43a5536476995494d78ebb133", null ],
+    [ "MigrationId", "a20739.html#a24008023d9d87c0d47e7ea5c2952f49b", null ],
+    [ "NumActorsMigrated", "a20739.html#a4de7624ad74bed6a9f436c6936928589", null ],
+    [ "NumClients", "a20739.html#a71dd8adcffb6901d9eb9f713cde31ebf", null ],
+    [ "TotalTime", "a20739.html#a1b98961eaf909ac05f0b734340c547ca", null ]
 ];

@@ -1,6 +1,9 @@
 var a14359 =
 [
-    [ "Name", "a14359.html#af382e3a35fad509b8cdc2f0a71e7f9f8", null ],
-    [ "Params", "a14359.html#a7e531f826f189cd1a86b2d6aa29a6c9e", null ],
-    [ "UnknownData00", "a14359.html#ab9a5c0a4b45690b2e819ab60d62c6148", null ]
+    [ "ParticleSystem", "a14359.html#a79a7fb4d12d7f2514beae6889169ef65", null ],
+    [ "VFXAttachSocket", "a14359.html#a17b5f4f30e5266d0301a712a03ccc053", null ],
+    [ "VFXDrivingCurveValue", "a14359.html#a68d3095d0ee349da32bfc6663c4310d4", null ],
+    [ "VFXRelativeOffset", "a14359.html#a572c461db05ec4ca3c2bdd5100dd9b05", null ],
+    [ "VFXRotationOffset", "a14359.html#ac2482e9feaccbac3241d97f7eae4e1f4", null ],
+    [ "VFXScale", "a14359.html#a2f3d90f226badab318177b6a1937d178", null ]
 ];

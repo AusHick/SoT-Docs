@@ -1,5 +1,5 @@
 var a24431 =
 [
-    [ "StaticClass", "a24431.html#a47890932ee431b259ab7b38f69798e32", null ],
-    [ "NewStrategy", "a24431.html#aa2c12d98a3183fa3129bf39e0df28468", null ]
+    [ "StaticClass", "a24431.html#a663917c6d286f1e95ded8ad1d25e3b71", null ],
+    [ "ReferencePointKey", "a24431.html#a601e00ec6e65426a3152b68b30043d05", null ]
 ];

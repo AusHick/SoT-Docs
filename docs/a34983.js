@@ -1,5 +1,5 @@
 var a34983 =
 [
-    [ "StaticClass", "a34983.html#afb9bce9684b0b3f1fc5d33ec8c5fe356", null ],
-    [ "Desc", "a34983.html#a1447806862e45fe3f0fd55768ffbf674", null ]
+    [ "Feature", "a34983.html#ac3017ba29989ba43972506278d9b1157", null ],
+    [ "ResponseAssets", "a34983.html#ab6828d96c4cf251123bf827550660a00", null ]
 ];

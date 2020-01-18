@@ -1,10 +1,4 @@
 var a23251 =
 [
-    [ "ItemId", "a23251.html#a626a3dc24ce933ca811ec20d6db2058d", null ],
-    [ "Source", "a23251.html#a60fa7d226e3ac1ad7c00932383e56679", null ],
-    [ "SourceId", "a23251.html#a47689b0fd301ca65d54b0ff80952ea59", null ],
-    [ "SpawnedClass", "a23251.html#a078383892e3bb0820dfd17bf306cf121", null ],
-    [ "SpawnLocation", "a23251.html#abe62116f80b67e89e57dee07767a4197", null ],
-    [ "UnknownData00", "a23251.html#aa374a8b6eeba063baff49a275a44cae4", null ],
-    [ "UnknownData01", "a23251.html#a3fe9965e8f8a03faaef9178900a415b0", null ]
+    [ "CrewId", "a23251.html#a471ad5c61f610e8437a6b20cea1637f2", null ]
 ];

@@ -1,11 +1,12 @@
 var a33255 =
 [
-    [ "StaticClass", "a33255.html#ab08ec2beca3c5d7a715304dce43b12b9", null ],
-    [ "DestroyAfterDeactivationDelay", "a33255.html#af819c7c11666d9d2901d7f012283f55b", null ],
-    [ "DormantDuration", "a33255.html#a4da8b30c9703b03a78eeb7b26fb292fb", null ],
-    [ "InitialWarningDuration", "a33255.html#aa4e0ed5cacf9e121915c8faae6277661", null ],
-    [ "NumSpurtsPerActivation", "a33255.html#a1fc362894a30a0fc4d307cd430bfec3e", null ],
-    [ "ShouldDestroyOnDeactivation", "a33255.html#a3f2f9cd53c8ad73d8fb3b3e23e2a9c37", null ],
-    [ "TimeBetweenSpurts", "a33255.html#a92f034c2da8573c1971f1bec50b69358", null ],
-    [ "UnknownData00", "a33255.html#a7d7a4893141d25644f549d92ffd36add", null ]
+    [ "StaticClass", "a33255.html#ad79e082d2a527cc45c23e3214a12ece6", null ],
+    [ "bFollow", "a33255.html#a919300b5fd8288db8bd820b6e14f5ecc", null ],
+    [ "bForceUpright", "a33255.html#af67b6dc8716c9861f0ea2d08148239a2", null ],
+    [ "bReverse", "a33255.html#aa1162dd9d9941a99779e97cb2c762b69", null ],
+    [ "FrontAxisEnum", "a33255.html#ae7e6353ff8b1101a4c7c7a47c3222bb5", null ],
+    [ "TimingCurve", "a33255.html#a4615cbbb52d5ef82a87f60c3876d0030", null ],
+    [ "UnknownData00", "a33255.html#a14871d7394e3dd20c1a19856ce1cc1ab", null ],
+    [ "UnknownData01", "a33255.html#ad730b562deb5b9140dc40c176f4e1532", null ],
+    [ "UpAxisEnum", "a33255.html#a26f33d2620ce19d37611e666e1c0c4f6", null ]
 ];

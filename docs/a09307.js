@@ -1,7 +1,8 @@
 var a09307 =
 [
-    [ "StaticClass", "a09307.html#ad8e6d573c0fe82068288ba6dafa67e69", null ],
-    [ "HasPlayedWakeupAnim", "a09307.html#adbbf0609bcf3595d59005cab485b9b37", null ],
-    [ "MainTutorial", "a09307.html#ad599d97c9dfcc6813575667b1d70f5e5", null ],
-    [ "UnknownData00", "a09307.html#a5d98192967d16dd9928d48ac177abc16", null ]
+    [ "StaticClass", "a09307.html#abb948c521e6ca151194eaf21835440f0", null ],
+    [ "StartUnderwaterSfx", "a09307.html#ab6bea9b0ce9a56a2f0032ca0c11d9ee1", null ],
+    [ "StopUnderwaterSfx", "a09307.html#a27f2c5b786370ba0892d9b9c0eb00dfe", null ],
+    [ "UnderwaterVfx", "a09307.html#ac025682c2524bd8c007cd89a8b02018e", null ],
+    [ "UnderwaterVfxSocketName", "a09307.html#ab990dff35c4f33c7c0bbba0063a0f6eb", null ]
 ];

@@ -1,7 +1,11 @@
 var a07831 =
 [
-    [ "InitialiseMast", "a07831.html#a1c2d34152612e5bb7465e5b8f638441c", null ],
-    [ "InitialiseSail", "a07831.html#a070fdeef4d9fc8b0fbaf10520370f7eb", null ],
-    [ "StaticClass", "a07831.html#afe36f927d9e66ab604b77124c7d4a844", null ],
-    [ "UpdateParameters", "a07831.html#accf17ad1db47c8526fd2af387e12f7f9", null ]
+    [ "Start", "a07831.html#a2b48152b9b2fd43f51ef9c34f88ba872", null ],
+    [ "StaticClass", "a07831.html#ab40779e1d5a60b1bd18e51928f82b9e6", null ],
+    [ "DefaultMessageDistance", "a07831.html#a025012ae8cf14638c0af4791692e1258", null ],
+    [ "DialogueData", "a07831.html#a417623ea8f7caac0b9618f35c133b88a", null ],
+    [ "LinkedActors", "a07831.html#aaa1d120157bbcd19d9eedf9b4530c24c", null ],
+    [ "LocalisableNames", "a07831.html#a0e706fcc5ea9fa34fd4887a43d48d8e5", null ],
+    [ "UnknownData00", "a07831.html#ae0d0e811f762ae1b662fd9210264a2df", null ],
+    [ "UnknownData01", "a07831.html#a983c4494ea917da6dd0e38545b298225", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FServerHeartbeatTelemetryEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FRemoteRewardRequestModel Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,42 +87,48 @@ $(document).ready(function(){initNavTree('a20831.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a20828.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FServerHeartbeatTelemetryEvent Struct Reference</div>  </div>
+<div class="title">SDK::FRemoteRewardRequestModel Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FServerHeartbeatTelemetryEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRemoteRewardRequestModel:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a20829.svg" width="550" height="456"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a20829.svg" width="100%" height="548"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af5ca0a807b0a183b5277caa257188cb1"><td class="memItemLeft" align="right" valign="top"><a id="af5ca0a807b0a183b5277caa257188cb1"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerUpTime</b></td></tr>
-<tr class="separator:af5ca0a807b0a183b5277caa257188cb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeefdbcf559247d360f785a2c66f7929c"><td class="memItemLeft" align="right" valign="top"><a id="aeefdbcf559247d360f785a2c66f7929c"></a>
-struct <a class="el" href="a26203.html">FTimespan</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerTimeToLive</b></td></tr>
-<tr class="separator:aeefdbcf559247d360f785a2c66f7929c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aadf4f929018ff34eccf00148d53c4352"><td class="memItemLeft" align="right" valign="top"><a id="aadf4f929018ff34eccf00148d53c4352"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ServerAddress</b></td></tr>
-<tr class="separator:aadf4f929018ff34eccf00148d53c4352"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aef8faf27ed8be163bf7936bfd078ca78"><td class="memItemLeft" align="right" valign="top"><a id="aef8faf27ed8be163bf7936bfd078ca78"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>ForcingShutdown</b></td></tr>
-<tr class="separator:aef8faf27ed8be163bf7936bfd078ca78"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2bf2fd0b8533cd4f4f137ed321faac9"><td class="memItemLeft" align="right" valign="top"><a id="ac2bf2fd0b8533cd4f4f137ed321faac9"></a>
+<tr class="memitem:aaec5ff52d4a818dcc29f1e1cf03fcc7f"><td class="memItemLeft" align="right" valign="top"><a id="aaec5ff52d4a818dcc29f1e1cf03fcc7f"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a13375.html">FPirateIdentity</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Pirates</b></td></tr>
+<tr class="separator:aaec5ff52d4a818dcc29f1e1cf03fcc7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab262f4f2fd4c178a5abbcb84bc2f3a16"><td class="memItemLeft" align="right" valign="top"><a id="ab262f4f2fd4c178a5abbcb84bc2f3a16"></a>
+struct <a class="el" href="a26283.html">FGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RequestID</b></td></tr>
+<tr class="separator:ab262f4f2fd4c178a5abbcb84bc2f3a16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9823c7779586f3a979244ae623110f2f"><td class="memItemLeft" align="right" valign="top"><a id="a9823c7779586f3a979244ae623110f2f"></a>
+class <a class="el" href="a25843.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CrewId</b></td></tr>
+<tr class="separator:a9823c7779586f3a979244ae623110f2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee7812816d913d891c393947e98a05d1"><td class="memItemLeft" align="right" valign="top"><a id="aee7812816d913d891c393947e98a05d1"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>RewardId</b></td></tr>
+<tr class="separator:aee7812816d913d891c393947e98a05d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a935394badfae5ae6c35655703d371124"><td class="memItemLeft" align="right" valign="top"><a id="a935394badfae5ae6c35655703d371124"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Company</b></td></tr>
+<tr class="separator:a935394badfae5ae6c35655703d371124"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6349db1d4a12ad6886c603fdd7b1cf47"><td class="memItemLeft" align="right" valign="top"><a id="a6349db1d4a12ad6886c603fdd7b1cf47"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>NotifyPlayer</b></td></tr>
+<tr class="separator:a6349db1d4a12ad6886c603fdd7b1cf47"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1b84cc303a0718f55d755599a92546c3"><td class="memItemLeft" align="right" valign="top"><a id="a1b84cc303a0718f55d755599a92546c3"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:ac2bf2fd0b8533cd4f4f137ed321faac9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a1b84cc303a0718f55d755599a92546c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20831.html">FServerHeartbeatTelemetryEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:29 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a20831.html">FRemoteRewardRequestModel</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:45 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

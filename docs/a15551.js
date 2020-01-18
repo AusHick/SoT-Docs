@@ -1,5 +1,28 @@
 var a15551 =
 [
-    [ "ResourceHandle", "a15551.html#aac4b08ef8370dc56d951c4e0e2046d09", null ],
-    [ "ValidationId", "a15551.html#a6ac6f047757019029d49a6a8f7ff1060", null ]
+    [ "CollisionChannel", "a15551.html#a3afa09895247e6573505178212e93dc8", null ],
+    [ "HighPriorityLightningBaseDamage", "a15551.html#a9ac0a21e3fcb0587ceca35f4c61e60af", null ],
+    [ "InactiveTimePerTest", "a15551.html#acedac143177c8026780da4535d023a28", null ],
+    [ "LightningMaterial", "a15551.html#a73d9ba67ab5ae6681570d4965273d532", null ],
+    [ "LightningSourcePosParam", "a15551.html#a2214d2d23e0768db36901f25c6d58051", null ],
+    [ "LightningStrikeEvent", "a15551.html#a3a5fb37a9e306f8b8659834d90c37a24", null ],
+    [ "LightningStrikeFrequency", "a15551.html#abf83828c5b1ef7c04910b68ebe95198f", null ],
+    [ "LightningStrikePool", "a15551.html#ac1b362568d7b32fd32460d655abf6889", null ],
+    [ "LightningTag", "a15551.html#a74f636c2d1472ccf1b3ac2e500e82a0a", null ],
+    [ "LightningTimingParam", "a15551.html#a387c8ad037eb3edbd5abff6cf908cb5e", null ],
+    [ "NearPlayerMaxRadius", "a15551.html#aa011119d5b1f91ae695183e38d9faa70", null ],
+    [ "NearPlayerMinRadius", "a15551.html#aecd96c2bc8a1bb913b4f92ac117826ab", null ],
+    [ "RadiusPercentage", "a15551.html#a0bce4bb77812ec449776d8f976b58183", null ],
+    [ "ShipNearMissMaxX", "a15551.html#a8e6861e1e84079768e1c9cd63505b8e5", null ],
+    [ "ShipNearMissMaxY", "a15551.html#a21da7d4864f14a2c3be5af1a3c402f7e", null ],
+    [ "StandardLightningBaseDamage", "a15551.html#aec48a7b7f70cd3b0318faed975f6ce14", null ],
+    [ "StormHeight", "a15551.html#af549ab51f44e33df8c312d004b5e87e1", null ],
+    [ "StrikeCompleteTime", "a15551.html#a24c86e3ae8a526a4a2375e562611ca8e", null ],
+    [ "StrikeHitTime", "a15551.html#a9059f7d807917ecea21f7f04e470cd1a", null ],
+    [ "StrikeWaterEvent", "a15551.html#ad02d0441a258dab7a17b6be38bf8bda9", null ],
+    [ "StrikeWaterParticleSystem", "a15551.html#ac8760df28dca443f73a78630f20e76d1", null ],
+    [ "StrikeWaterPool", "a15551.html#a73c80b02a1010c23ead27b3f7fcb48c9", null ],
+    [ "TargetSelector", "a15551.html#a45de438ab933a04a89076900bd519efd", null ],
+    [ "UnknownData00", "a15551.html#a6d4aecc1b2438d540e5e8168315e3de2", null ],
+    [ "UnknownData01", "a15551.html#ac57e35b6d4b06ec905d238cc8e7f9f50", null ]
 ];

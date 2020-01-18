@@ -1,6 +1,7 @@
 var a07847 =
 [
-    [ "SetupAngleControl", "a07847.html#a8b6d218f00d3e1433687c6afeae25141", null ],
-    [ "SetupHoistControl", "a07847.html#aacf2700a646584519892050bf830d544", null ],
-    [ "StaticClass", "a07847.html#a2582ce57850c2cfdf0bce62c18920514", null ]
+    [ "FadeIn", "a07847.html#a8348d695de795ee4fa0dd76f9760073c", null ],
+    [ "FadeOut", "a07847.html#af2c36d1620ba8a056ca7884a4d8d1df8", null ],
+    [ "Multicast_DismissSeagulls", "a07847.html#afb469c3e34ab814dd3d02b928d46f5b6", null ],
+    [ "StaticClass", "a07847.html#a55dc1b13cb41981b4eed502518b514f8", null ]
 ];

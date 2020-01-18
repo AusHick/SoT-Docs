@@ -1,7 +1,6 @@
 var a08439 =
 [
-    [ "StaticClass", "a08439.html#a09b502b12a466860e3b8a4d96c332c18", null ],
-    [ "HealthChangeAmount", "a08439.html#a5d6116dbdfa748071b4cc842b3cb0ec9", null ],
-    [ "HealthChangedReason", "a08439.html#a38e9d5ebf318fbb7154087cba839d0df", null ],
-    [ "UnknownData00", "a08439.html#adc58c4a5cfb75b2296d29020c86163e6", null ]
+    [ "StaticClass", "a08439.html#afceb7f3105ac824faae6ebca145220bb", null ],
+    [ "StartLoopEvent", "a08439.html#a15d5ca2e2ce0e73e58a72392e85d5303", null ],
+    [ "StopLoopEvent", "a08439.html#aa9396377b6ac01ab306b2aa954b017b1", null ]
 ];

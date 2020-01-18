@@ -1,4 +1,5 @@
 var a02099 =
 [
-    [ "Owner", "a02099.html#ab5a6eb878b6fd69895aed9db0dea81ca", null ]
+    [ "AnimDataId", "a02099.html#af2f287efac9a13496e0e17002e551aef", null ],
+    [ "UnknownData00", "a02099.html#aa11d238c62ff3c33aab0d19dad4bdca6", null ]
 ];

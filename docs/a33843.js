@@ -1,5 +1,5 @@
 var a33843 =
 [
-    [ "StaticClass", "a33843.html#a19baec90f88f8e89d7879b739444a02c", null ],
-    [ "MaterialReferences", "a33843.html#a119472ecc871d008f75e4813debf9f0e", null ]
+    [ "PetInfo", "a33843.html#ab7f6b9b49055db65476988267d03a021", null ],
+    [ "UnknownData00", "a33843.html#aec48c54b4cda62a739422ea171b534c8", null ]
 ];

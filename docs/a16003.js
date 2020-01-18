@@ -1,6 +1,6 @@
 var a16003 =
 [
-    [ "EncounterListenerLocations", "a16003.html#a73786d7a63850b7f50d0de192996d730", null ],
-    [ "EncounterListeners", "a16003.html#ab51966aeac24921d0b6672618af4f96d", null ],
-    [ "EncounterListenerTypes", "a16003.html#ae9c56ee0a00ecd477cd2f752fc3f3221", null ]
+    [ "AirDragPerSailPerMPS", "a16003.html#abe5c55ac1ba624d15bff8d8d75b26068", null ],
+    [ "ForceGeneratedByWindSpeedPerMPS", "a16003.html#a2fdbf993d281a6713f387ec0b70dd826", null ],
+    [ "PowerRatioOfSailForwardForceToFullForce", "a16003.html#a0327d7b4a71be8139870ead0bd217682", null ]
 ];

@@ -1,8 +1,7 @@
 var a08419 =
 [
-    [ "StaticClass", "a08419.html#a28a655f390001a919f0859b0be9b3700", null ],
-    [ "RotationsBlendTime", "a08419.html#a50bd6f61ed37b4402ee5898fe8679021", null ],
-    [ "TargetPitchAngle", "a08419.html#a75f49d4a9b780d38ce7e107d2dc65101", null ],
-    [ "TargetYawAngle", "a08419.html#a3641ea17ff17c8da4b06366fb89a51dc", null ],
-    [ "UnknownData00", "a08419.html#a7e8d5066b1682aa6e0823cc4d3129c74", null ]
+    [ "StaticClass", "a08419.html#a09b502b12a466860e3b8a4d96c332c18", null ],
+    [ "HealthChangeAmount", "a08419.html#a5d6116dbdfa748071b4cc842b3cb0ec9", null ],
+    [ "HealthChangedReason", "a08419.html#a38e9d5ebf318fbb7154087cba839d0df", null ],
+    [ "UnknownData00", "a08419.html#adc58c4a5cfb75b2296d29020c86163e6", null ]
 ];

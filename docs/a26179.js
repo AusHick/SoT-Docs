@@ -1,7 +1,5 @@
 var a26179 =
 [
-    [ "bIsLooped", "a26179.html#a9ae05bfcc6d04e9b6032230a62b19603", null ],
-    [ "LoopKeyOffset", "a26179.html#a52d4b3adbb952e5f06b70d9698827f7b", null ],
-    [ "Points", "a26179.html#a462f19c3723ca252586a62bbf1e3ac63", null ],
-    [ "UnknownData00", "a26179.html#a4bf943c4e36bd6030befacf5e2d66692", null ]
+    [ "StaticClass", "a26179.html#ad47c1ef30d624935cf2f3b81e72f31f3", null ],
+    [ "UnknownData00", "a26179.html#a499acc46a92d8b1b1dbf40ec2c2af2f4", null ]
 ];

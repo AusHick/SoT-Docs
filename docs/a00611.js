@@ -1,4 +1,5 @@
 var a00611 =
 [
-    [ "StaticClass", "a00611.html#a62bb16df2503ea4e4fead6f9a0cc42d6", null ]
+    [ "UnknownData00", "a00611.html#a194465d024cbd328f169f8148804d18f", null ],
+    [ "Weightings", "a00611.html#aa159a4f9180b8e374292798198fca744", null ]
 ];

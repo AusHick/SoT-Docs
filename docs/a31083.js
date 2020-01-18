@@ -1,7 +1,5 @@
 var a31083 =
 [
-    [ "DisplayDescription", "a31083.html#a307070a7efd2888832932c3cdaf2998b", null ],
-    [ "DisplayName", "a31083.html#afad1417a7f2b6d16c3e04fd97e4a639b", null ],
-    [ "DisplayPrice", "a31083.html#a02f659ae0f75f60b67c4ceb40af9ee63", null ],
-    [ "Identifier", "a31083.html#a215ce1a81b04fef6565153ca9e4c6e97", null ]
+    [ "Amplitude", "a31083.html#aaaa8135b1506b1efc12446455659ba8d", null ],
+    [ "Frequency", "a31083.html#a60707420053af3c9f5047c483460817b", null ]
 ];

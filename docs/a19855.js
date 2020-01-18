@@ -1,4 +1,5 @@
 var a19855 =
 [
-    [ "Definition", "a19855.html#acc88616c4c4f33c7e34ab6f0b43f686c", null ]
+    [ "MapTexture", "a19855.html#ac083f16e06dc9c5839bc06f24e3c0858", null ],
+    [ "Marks", "a19855.html#a29f0c08406e494e771bb10d0c35a30a7", null ]
 ];

@@ -1,7 +1,7 @@
 var a35287 =
 [
-    [ "StaticClass", "a35287.html#a731c79d81e57652ec23af7da33c2d051", null ],
-    [ "bReveal", "a35287.html#a08d30e083d1bae1d36ddddc5c5e2eb1e", null ],
-    [ "RevealedIndex", "a35287.html#ae72e6b2500730511c1c4282b6ee9829e", null ],
-    [ "UnknownData00", "a35287.html#a1bb0394583a7cd646de4d74fff2c8349", null ]
+    [ "StaticClass", "a35287.html#af3938f2d1eda7f4bf6b577ca606e61ab", null ],
+    [ "Company", "a35287.html#a2aa882c14fca432f1fac44f1a3c399ef", null ],
+    [ "Id", "a35287.html#a03015658d33dc104affb606f673b5fe0", null ],
+    [ "RewardId", "a35287.html#a4f2b2bbe907c35c7ac4e5897936e95c4", null ]
 ];

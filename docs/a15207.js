@@ -1,6 +1,7 @@
 var a15207 =
 [
-    [ "HitResults", "a15207.html#a7e6660a265c277af82fbff2ce6f65834", null ],
-    [ "Instigator", "a15207.html#ad90096cc621c9166d43d278cbe295ece", null ],
-    [ "RemoteAimData", "a15207.html#a716dc8ebd0c6c9813ad34f66267c8ec5", null ]
+    [ "InputID", "a15207.html#ab18c24479f9c607e4e492ea4f8ef0bb6", null ],
+    [ "Into", "a15207.html#a11e29a413dd2fda399874c39470c8758", null ],
+    [ "Loop", "a15207.html#a99991a062313c5777cb2beb26b3c362a", null ],
+    [ "Outof", "a15207.html#a05edb185b612a67f946b163a10541fb0", null ]
 ];

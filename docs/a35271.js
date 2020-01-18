@@ -1,5 +1,5 @@
 var a35271 =
 [
-    [ "GetValue", "a35271.html#aee38bfa6406cfccbb056bb6e347bb2a4", null ],
-    [ "StaticClass", "a35271.html#aafeb3ab65bcf8fbb59011adbbd8e274f", null ]
+    [ "StaticClass", "a35271.html#a7944a5f80977655dbe14b8cc96145944", null ],
+    [ "TextVariable", "a35271.html#a68cd5a1072e338b6d0db16ac07303aa4", null ]
 ];

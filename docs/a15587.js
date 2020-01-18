@@ -1,5 +1,6 @@
 var a15587 =
 [
-    [ "Pattern", "a15587.html#a40637386454f81b1aba4db106d52700b", null ],
-    [ "Substitutions", "a15587.html#a394f75a47a6d4e96851faa196c332721", null ]
+    [ "Actor", "a15587.html#a4136d83148655ed282d0ec589ac5ea5f", null ],
+    [ "MapActor", "a15587.html#a2fbd0b586e0e0c7b9daea0b15e8d80da", null ],
+    [ "UnknownData00", "a15587.html#a8e5bdb308b5518257abb07331df3ac10", null ]
 ];

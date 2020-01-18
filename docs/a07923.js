@@ -1,7 +1,7 @@
 var a07923 =
 [
-    [ "StaticClass", "a07923.html#ad4f2bc08e0de53e51ca2f006d3c9fe28", null ],
-    [ "Action", "a07923.html#aeaaab1a0e8dd833c41ec0669a9eef695", null ],
-    [ "ActivationMode", "a07923.html#ae6bfcf01fc7a91c1ea674862dc1e7225", null ],
-    [ "UnknownData00", "a07923.html#ab4d79b65ada5ccb74e971861a5146bd8", null ]
+    [ "StaticClass", "a07923.html#a3c64b802bf27b8a94ff111c87d5db1d0", null ],
+    [ "CachedStrategyID", "a07923.html#a9aefe86d3ef1cd1fad94b5a624723a72", null ],
+    [ "UnknownData00", "a07923.html#adb1b7e38dbf5f9af29f72102a227d6b0", null ],
+    [ "UnknownData01", "a07923.html#ae12ca4a5a813d6e50698aabf915a5b97", null ]
 ];

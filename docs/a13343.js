@@ -1,9 +1,11 @@
 var a13343 =
 [
-    [ "CategoryGroupBounds", "a13343.html#abdb1bb545419b7c5a51549d194f0eab5", null ],
-    [ "NumberOfGroups", "a13343.html#a8eeb2a87ffd503a9ba5c6e1e5ebbc0c3", null ],
-    [ "NumberOfRequiredItems", "a13343.html#adf3d8432c7ab45e16e21e65855b71554", null ],
-    [ "RandomRequiredItemsDataAsset", "a13343.html#aeffdaf8eaf0f8455b55d9549bfbfcdea", null ],
-    [ "RequiredItemsDataAsset", "a13343.html#a0b62930001551135861450c5e79108c6", null ],
-    [ "TimeLimitInMinutes", "a13343.html#a0847af3b770bfaf955a33b0175f84e86", null ]
+    [ "DigAINoiseRange", "a13343.html#a2e2db06da365b8b0c85a82ae450dcf50", null ],
+    [ "DigHoleClass", "a13343.html#abec178ed2ad498c2fd15d2935da4854b", null ],
+    [ "DigType", "a13343.html#adada58aac41bf9d2cc6ab168c0fe6e3d", null ],
+    [ "EnterGroundFx", "a13343.html#a343121874c468cdd0e684fc28285d28b", null ],
+    [ "LeaveGroundFx", "a13343.html#a3260918c23d87f86011ef1b111530d47", null ],
+    [ "SurfaceType", "a13343.html#a52eb85f56f7664dc3593ce2da10ce86e", null ],
+    [ "UnknownData00", "a13343.html#acb4c5d700239b3ac9db310a7ed1e226a", null ],
+    [ "UnknownData01", "a13343.html#a4a8f95036554365a2a57d9c4e22ea253", null ]
 ];

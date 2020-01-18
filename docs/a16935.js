@@ -1,6 +1,7 @@
 var a16935 =
 [
-    [ "FootIndex", "a16935.html#a50120d44d05d35cf549cc7adabb50eb8", null ],
-    [ "Position", "a16935.html#a61df24ed804fecd808d6dab882e94178", null ],
-    [ "SocketVelocity", "a16935.html#a68a03bd68953c87c3972c86f5e98e2d5", null ]
+    [ "AngleThreshold", "a16935.html#a8ffdad90a5b2767a7543312626d9dae7", null ],
+    [ "CurseTag", "a16935.html#a7720375f5b373323ed48166a6ef01a3c", null ],
+    [ "Duration", "a16935.html#a92019f023faba8be1aa3a0f208d5673f", null ],
+    [ "UnknownData00", "a16935.html#a4ba1e54e57e3b0a8e4972e96f7e2ca54", null ]
 ];

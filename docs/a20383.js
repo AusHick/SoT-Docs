@@ -1,4 +1,6 @@
 var a20383 =
 [
-    [ "GhostShipDoor", "a20383.html#aad01f3b418c8c27547fa92e845be4242", null ]
+    [ "Description", "a20383.html#adf52511177a0323e73aea9002532d5c2", null ],
+    [ "Position", "a20383.html#a46d55ff8bc491a414e7db5a0a683de88", null ],
+    [ "UnknownData00", "a20383.html#a993a391253d8cc7cdc99444dabfb9b97", null ]
 ];

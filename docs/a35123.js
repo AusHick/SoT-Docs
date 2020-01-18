@@ -1,4 +1,4 @@
 var a35123 =
 [
-    [ "StaticClass", "a35123.html#a2b78abb77724cedae7f635784c5536e0", null ]
+    [ "MaxMemory", "a35123.html#ae7b1f9545040d32c4f354698f1b777dc", null ]
 ];

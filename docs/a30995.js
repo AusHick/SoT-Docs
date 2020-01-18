@@ -1,4 +1,5 @@
 var a30995 =
 [
-    [ "DefaultValue", "a30995.html#a52ab43ea19f433793b77cbe2fb1bca40", null ]
+    [ "BlendDepth", "a30995.html#af010bf1951a7f4d6e6a8a98b086017e1", null ],
+    [ "BoneName", "a30995.html#afb9890794a9ea3a405b8ed2187b6a780", null ]
 ];

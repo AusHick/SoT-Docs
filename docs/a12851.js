@@ -1,7 +1,7 @@
 var a12851 =
 [
-    [ "ContinuousUse", "a12851.html#aba9fc6743b02a8d02ef406b5f35648ae", null ],
-    [ "InvTurnDelayAngle", "a12851.html#a6b5451ee336d1d3119f67c0abc890eca", null ],
-    [ "PassiveState", "a12851.html#a87cb2d2df6baabb17311cda5706e3058", null ],
-    [ "TurnDelayAngle", "a12851.html#aff3444a05126494d01b89d3bf1106f4e", null ]
+    [ "EffectTime", "a12851.html#a4d2bbad25ec1769e1ce0662c9fddb9ca", null ],
+    [ "OneShotSequence", "a12851.html#a698f90366dcf5998045d36ed185fc9c7", null ],
+    [ "SequenceName", "a12851.html#a4ee2d4bef55af652e72cfd484b6d712c", null ],
+    [ "UnknownData00", "a12851.html#abd05cf31959cb225f252b1a2f3c2960d", null ]
 ];

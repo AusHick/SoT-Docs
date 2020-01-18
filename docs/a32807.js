@@ -1,8 +1,5 @@
 var a32807 =
 [
-    [ "AttackDuration", "a32807.html#a27da311f8267491bad8d748f9911cc64", null ],
-    [ "ChanceOfEnteringHeavyAttack", "a32807.html#a560ab1d23f1404efefad8a25de3a6003", null ],
-    [ "ExteriorKnockbackParams", "a32807.html#a82a7c45fb9818be9f7a6552857d261dd", null ],
-    [ "InteriorKnockbackParams", "a32807.html#a5e3d8aec50831b1b3bd2bea37cc053d0", null ],
-    [ "UnknownData00", "a32807.html#a05fefb648fbc2dbf7221ec74987faf53", null ]
+    [ "StaticClass", "a32807.html#a7c8b83ec52a4a80b2acc36f9aa44ae53", null ],
+    [ "Bones", "a32807.html#a9c3a335f993ac3f4e4b1e1296279ced4", null ]
 ];

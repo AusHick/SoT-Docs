@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FReapersMarkCurseStatInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FRemoteProjectileAim Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,39 @@ $(document).ready(function(){initNavTree('a15287.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15284.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FReapersMarkCurseStatInfo Struct Reference</div>  </div>
+<div class="title">SDK::FRemoteProjectileAim Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FReapersMarkCurseStatInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FRemoteProjectileAim:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a15285.svg" width="516" height="456"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a15285.svg" width="575" height="368"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ac028127867a91cf96c28bd712ce91d2c"><td class="memItemLeft" align="right" valign="top"><a id="ac028127867a91cf96c28bd712ce91d2c"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EPlayerCurseTag &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Curse</b></td></tr>
-<tr class="separator:ac028127867a91cf96c28bd712ce91d2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b9a374e9812a8af39aee9162696cbd8"><td class="memItemLeft" align="right" valign="top"><a id="a6b9a374e9812a8af39aee9162696cbd8"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:a6b9a374e9812a8af39aee9162696cbd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a274fa52755a211119808810a82d0a671"><td class="memItemLeft" align="right" valign="top"><a id="a274fa52755a211119808810a82d0a671"></a>
-struct <a class="el" href="a00567.html">FPlayerStat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StatToFire</b></td></tr>
-<tr class="separator:a274fa52755a211119808810a82d0a671"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf2608ca669a31548b4b9b3add240ca9"><td class="memItemLeft" align="right" valign="top"><a id="acf2608ca669a31548b4b9b3add240ca9"></a>
+struct <a class="el" href="a13787.html">FProjectileAim</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AimData</b></td></tr>
+<tr class="separator:acf2608ca669a31548b4b9b3add240ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a21a30d1891d53a049b976db09ad3811d"><td class="memItemLeft" align="right" valign="top"><a id="a21a30d1891d53a049b976db09ad3811d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsRelativeAim</b></td></tr>
+<tr class="separator:a21a30d1891d53a049b976db09ad3811d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af77f2e8a55e2a0ec31d1da8d9ab203de"><td class="memItemLeft" align="right" valign="top"><a id="af77f2e8a55e2a0ec31d1da8d9ab203de"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:af77f2e8a55e2a0ec31d1da8d9ab203de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa048e36bdfc3d6db703689ca1fcce239"><td class="memItemLeft" align="right" valign="top"><a id="aa048e36bdfc3d6db703689ca1fcce239"></a>
+struct <a class="el" href="a15283.html">FProjectileTimeStamp</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TimeStamp</b></td></tr>
+<tr class="separator:aa048e36bdfc3d6db703689ca1fcce239"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15287.html">FReapersMarkCurseStatInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:28 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15287.html">FRemoteProjectileAim</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:45 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

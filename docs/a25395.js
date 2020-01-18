@@ -1,5 +1,7 @@
 var a25395 =
 [
-    [ "StaticClass", "a25395.html#a6583caefd08c9bed2ef64471801fd73c", null ],
-    [ "UnknownData00", "a25395.html#a2886c7ac6a4281938516ddecf88471c7", null ]
+    [ "AIPartId", "a25395.html#a63d94a7f653e23faef7d5af0320b7c16", null ],
+    [ "ColorTextureIndex", "a25395.html#a24673676387a53e3bd61f8a263e7e115", null ],
+    [ "PartsCategory", "a25395.html#a7bc04885e69a04cc185e59abee3f35e9", null ],
+    [ "PartsIndexToUse", "a25395.html#a4c8c0c0bcccc35a1852b687e66ea79d5", null ]
 ];

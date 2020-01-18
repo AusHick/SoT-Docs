@@ -1,4 +1,5 @@
 var a26319 =
 [
-    [ "UnknownData00", "a26319.html#a0b9b564d2ea3ec316988e6b766de0355", null ]
+    [ "X", "a26319.html#a9984e1e97cecf580df65163e014fc1f7", null ],
+    [ "Y", "a26319.html#a3c25ee4c2136ee5b91c911daaec9abc1", null ]
 ];

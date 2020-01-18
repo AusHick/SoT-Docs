@@ -1,4 +1,4 @@
 var a16367 =
 [
-    [ "Ship", "a16367.html#a0573d2994fdcbde98aa9452e2ddaf5ab", null ]
+    [ "CurveAsset", "a16367.html#a81646d83de22b0ce7a07e8d682b17154", null ]
 ];

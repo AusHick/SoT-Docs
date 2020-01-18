@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCurveTrack Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FLevelSimplificationDetails Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,93 @@ $(document).ready(function(){initNavTree('a31635.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31632.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCurveTrack Struct Reference</div>  </div>
+<div class="title">SDK::FLevelSimplificationDetails Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCurveTrack:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLevelSimplificationDetails:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31633.svg" width="320" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31633.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a820df721a2a206886632497feb242feb"><td class="memItemLeft" align="right" valign="top"><a id="a820df721a2a206886632497feb242feb"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>CurveName</b></td></tr>
-<tr class="separator:a820df721a2a206886632497feb242feb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae4ec24b1a60cfdefa3afd44e2e80f41e"><td class="memItemLeft" align="right" valign="top"><a id="ae4ec24b1a60cfdefa3afd44e2e80f41e"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>CurveWeights</b></td></tr>
-<tr class="separator:ae4ec24b1a60cfdefa3afd44e2e80f41e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9177170582f08f421d880c3f8cdd21cd"><td class="memItemLeft" align="right" valign="top"><a id="a9177170582f08f421d880c3f8cdd21cd"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bCreatePackagePerAsset</b></td></tr>
+<tr class="separator:a9177170582f08f421d880c3f8cdd21cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62b216d3d28f58e06ab9e319abee64c8"><td class="memItemLeft" align="right" valign="top"><a id="a62b216d3d28f58e06ab9e319abee64c8"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a62b216d3d28f58e06ab9e319abee64c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1caa536c1bb8fbf20032d0d529d6b0d7"><td class="memItemLeft" align="right" valign="top"><a id="a1caa536c1bb8fbf20032d0d529d6b0d7"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>ProxyPixelSize</b></td></tr>
+<tr class="separator:a1caa536c1bb8fbf20032d0d529d6b0d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e361f9326bbafe30e8a36382e5f3e9b"><td class="memItemLeft" align="right" valign="top"><a id="a4e361f9326bbafe30e8a36382e5f3e9b"></a>
+struct <a class="el" href="a31527.html">FMaterialSimplificationSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StaticMeshMaterial</b></td></tr>
+<tr class="separator:a4e361f9326bbafe30e8a36382e5f3e9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2678cd5246e0e94d68dbf0a8619d775f"><td class="memItemLeft" align="right" valign="top"><a id="a2678cd5246e0e94d68dbf0a8619d775f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bOverrideLandscapeExportLOD</b></td></tr>
+<tr class="separator:a2678cd5246e0e94d68dbf0a8619d775f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ff7b07844c70a51212603536b09d8c6"><td class="memItemLeft" align="right" valign="top"><a id="a9ff7b07844c70a51212603536b09d8c6"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:a9ff7b07844c70a51212603536b09d8c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79903ed32bc4ec609f53819cf706ab99"><td class="memItemLeft" align="right" valign="top"><a id="a79903ed32bc4ec609f53819cf706ab99"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>LandscapeExportLOD</b></td></tr>
+<tr class="separator:a79903ed32bc4ec609f53819cf706ab99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a08fd9adc2148e159944febdc38f6d1b0"><td class="memItemLeft" align="right" valign="top"><a id="a08fd9adc2148e159944febdc38f6d1b0"></a>
+struct <a class="el" href="a31527.html">FMaterialSimplificationSettings</a>&#160;</td><td class="memItemRight" valign="bottom"><b>LandscapeMaterial</b></td></tr>
+<tr class="separator:a08fd9adc2148e159944febdc38f6d1b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e112ac721139bd0a1c39e4ab8e12182"><td class="memItemLeft" align="right" valign="top"><a id="a9e112ac721139bd0a1c39e4ab8e12182"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bRemoveDownwardFacingTriangles</b></td></tr>
+<tr class="separator:a9e112ac721139bd0a1c39e4ab8e12182"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad41576807e63702e7d17942010ec198f"><td class="memItemLeft" align="right" valign="top"><a id="ad41576807e63702e7d17942010ec198f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x3]</td></tr>
+<tr class="separator:ad41576807e63702e7d17942010ec198f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae26fa8f4e20b6172f9fbe26fb7e03c8c"><td class="memItemLeft" align="right" valign="top"><a id="ae26fa8f4e20b6172f9fbe26fb7e03c8c"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CullAngleThreshold</b></td></tr>
+<tr class="separator:ae26fa8f4e20b6172f9fbe26fb7e03c8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a234b3802c7f43d422357186693f1e370"><td class="memItemLeft" align="right" valign="top"><a id="a234b3802c7f43d422357186693f1e370"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bBakeFoliageToLandscape</b></td></tr>
+<tr class="separator:a234b3802c7f43d422357186693f1e370"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4988d69fa1c7d441678fbfacf32b50d5"><td class="memItemLeft" align="right" valign="top"><a id="a4988d69fa1c7d441678fbfacf32b50d5"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bBakeGrassToLandscape</b></td></tr>
+<tr class="separator:a4988d69fa1c7d441678fbfacf32b50d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b7d8f75e240e6fc08cb42d2c169ffc3"><td class="memItemLeft" align="right" valign="top"><a id="a6b7d8f75e240e6fc08cb42d2c169ffc3"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateMeshNormalMap</b></td></tr>
+<tr class="separator:a6b7d8f75e240e6fc08cb42d2c169ffc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06c4de95dbbeadbc161ea64fa9d5560f"><td class="memItemLeft" align="right" valign="top"><a id="a06c4de95dbbeadbc161ea64fa9d5560f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateMeshMetallicMap</b></td></tr>
+<tr class="separator:a06c4de95dbbeadbc161ea64fa9d5560f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04928a6397e89828e2102e1d07048fdd"><td class="memItemLeft" align="right" valign="top"><a id="a04928a6397e89828e2102e1d07048fdd"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateMeshRoughnessMap</b></td></tr>
+<tr class="separator:a04928a6397e89828e2102e1d07048fdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a58a71f1e97e9288dcf7bf43441e4039a"><td class="memItemLeft" align="right" valign="top"><a id="a58a71f1e97e9288dcf7bf43441e4039a"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateMeshSpecularMap</b></td></tr>
+<tr class="separator:a58a71f1e97e9288dcf7bf43441e4039a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e48fb0e41c6407a7c46f8d8b73dc9cc"><td class="memItemLeft" align="right" valign="top"><a id="a1e48fb0e41c6407a7c46f8d8b73dc9cc"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateLandscapeNormalMap</b></td></tr>
+<tr class="separator:a1e48fb0e41c6407a7c46f8d8b73dc9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0e8724e713436d68e8e4dc47923c2cd3"><td class="memItemLeft" align="right" valign="top"><a id="a0e8724e713436d68e8e4dc47923c2cd3"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateLandscapeMetallicMap</b></td></tr>
+<tr class="separator:a0e8724e713436d68e8e4dc47923c2cd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a079dbd11aa2e36d532b4049c49421e88"><td class="memItemLeft" align="right" valign="top"><a id="a079dbd11aa2e36d532b4049c49421e88"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateLandscapeRoughnessMap</b></td></tr>
+<tr class="separator:a079dbd11aa2e36d532b4049c49421e88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b99a5ff4e26d16230f9312835ea1bd2"><td class="memItemLeft" align="right" valign="top"><a id="a5b99a5ff4e26d16230f9312835ea1bd2"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>bGenerateLandscapeSpecularMap</b></td></tr>
+<tr class="separator:a5b99a5ff4e26d16230f9312835ea1bd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e0d5734025a12aa5de09ad1bea1dfd2"><td class="memItemLeft" align="right" valign="top"><a id="a6e0d5734025a12aa5de09ad1bea1dfd2"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData03</b> [0x2]</td></tr>
+<tr class="separator:a6e0d5734025a12aa5de09ad1bea1dfd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31635.html">FCurveTrack</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31635.html">FLevelSimplificationDetails</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

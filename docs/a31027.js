@@ -1,7 +1,6 @@
 var a31027 =
 [
-    [ "bLock", "a31027.html#aa893bd6dc45fec6bdbca128dc4479570", null ],
-    [ "bModify", "a31027.html#a4abf66be509a7dce30cdcb70cffc746b", null ],
-    [ "bScale", "a31027.html#a8d22a0855a4eef90253e1e75de4c2862", null ],
-    [ "UnknownData00", "a31027.html#a62e467f9628cf6fc06c8dbbada2d4d62", null ]
+    [ "Name", "a31027.html#a240b74e20aea438a229498e06ca5929f", null ],
+    [ "Type", "a31027.html#a3816f6df1820ac8429d31597691fcbd0", null ],
+    [ "UnknownData00", "a31027.html#adfb387450492758c84383058b9194ea3", null ]
 ];

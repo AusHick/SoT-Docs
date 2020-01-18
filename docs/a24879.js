@@ -1,5 +1,5 @@
 var a24879 =
 [
-    [ "CaptainItemSpawn", "a24879.html#ae9994604c0cabec35ac20babcb3b6995", null ],
-    [ "CrewItemSpawn", "a24879.html#a3407fd9e15e58038cd5aca5e88b191dd", null ]
+    [ "StaticClass", "a24879.html#aa25fb99580965aa090fe4faa29103fc7", null ],
+    [ "UnknownData00", "a24879.html#a9d4d8c249de43ec44ec23943f413cfe5", null ]
 ];

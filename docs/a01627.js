@@ -1,5 +1,31 @@
 var a01627 =
 [
-    [ "StaticClass", "a01627.html#a8e5f570d089b3a3afe7d47794a51ac47", null ],
-    [ "UnknownData00", "a01627.html#a3523d7df45611737b2d11bed462ca8f8", null ]
+    [ "StaticClass", "a01627.html#a8c83d2dbeb4689282729d2d425737495", null ],
+    [ "DistForMaxXYAIInteractableUtility", "a01627.html#a229237f130b2f8d37000b94ef3937e32", null ],
+    [ "DistForMaxZAIInteractableUtility", "a01627.html#a2db0d052a9fdaeab4037e529321add04", null ],
+    [ "DistForMinXYAIInteractableUtility", "a01627.html#af18fc208d3ef1baec637c055574afc04", null ],
+    [ "DistForMinZAIInteractableUtility", "a01627.html#a1ca71ae16d755f57368a29e689da98c9", null ],
+    [ "EnableShipSurfacingMusic", "a01627.html#a6d323a6f929daefd088a57af79381e5c", null ],
+    [ "ForceAIToAlwaysSpawn", "a01627.html#a31e2a2ad0a1471efef41a692505f2526", null ],
+    [ "IntervalBetweenRepairDamageAssignments", "a01627.html#a41aec85f08401277332f5d6a80b75c41", null ],
+    [ "IntervalBetweenUseCannonAssignments", "a01627.html#ad53db3747b11b81484464edfd3341478", null ],
+    [ "MaxDistanceFromEncounter", "a01627.html#a78d97986d9edcf108af1aba9e0ea37c6", null ],
+    [ "MaxInactiveRepairSpawnDelay", "a01627.html#add3761629d21f8fb16e6794cd21444c1", null ],
+    [ "MaxXYAIInteractableUtility", "a01627.html#a3fc98a166d38191d6e9f27bdcd84d886", null ],
+    [ "MaxZAIInteractableUtility", "a01627.html#a2971cf1edea03a97bc497289833da94d", null ],
+    [ "MinCannonAttackersWhenBoarded", "a01627.html#a91cebfc710c770033ec0755db5ed8e00", null ],
+    [ "MinInactiveRepairSpawnDelay", "a01627.html#a1535102d9d32cec676d41225cb6c476b", null ],
+    [ "MinXYAIInteractableUtility", "a01627.html#a7ddd104004c20ee540dc0ddfa1f913c5", null ],
+    [ "MinZAIInteractableUtility", "a01627.html#a5830d5649005903908cec64dac1ffd5c", null ],
+    [ "SecondsDelayForAIShipDefeatedNotification", "a01627.html#a551e5432fb475ec3fa097ae02e3e5b39", null ],
+    [ "SecondsUntilKillAIAfterShipDefeated", "a01627.html#a34c32518186826e930f41320be7ff933", null ],
+    [ "ShipFlippedAngle", "a01627.html#a2f870db71971b0eac4b9828645b50df3", null ],
+    [ "SinkSfxDistance", "a01627.html#a8dbe251839ee3edd01dc3fbd7c3068e3", null ],
+    [ "SpawnSfxDistance", "a01627.html#af8d3405c7450ddc0f18ed041dc70afaa", null ],
+    [ "StuckCheckDistance", "a01627.html#a7b383eb0e2bcb812e0935b08fc57b153", null ],
+    [ "StuckCheckInterval", "a01627.html#ad3cfc4c0e9bcfd08bd77357839b96d89", null ],
+    [ "TimeSpentEmotingOnInitialSpawn", "a01627.html#a864474d2a96e283e293c2cd7c488961a", null ],
+    [ "TopDeckPlayerTrackerRadius", "a01627.html#a518d28e2d1c49b1f29e69bd0714402b3", null ],
+    [ "UnknownData00", "a01627.html#a5afef4d431a56153e046a54930e78947", null ],
+    [ "UnknownData01", "a01627.html#acc09448d7f55fb98fb0d3b5f031f93a9", null ]
 ];

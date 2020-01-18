@@ -1,4 +1,4 @@
 var a32255 =
 [
-    [ "OnFire", "a32255.html#a4f2948bc6e1b90962b40718fbf6e346c", null ]
+    [ "StaticClass", "a32255.html#a89b83b990f564cca5ba8155f3e1bdeb7", null ]
 ];

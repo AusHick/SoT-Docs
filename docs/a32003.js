@@ -1,7 +1,8 @@
 var a32003 =
 [
-    [ "PackedTimeStamp", "a32003.html#aaa695bf3dccde93ae95117ea8b2b4d43", null ],
-    [ "TimesWrapped", "a32003.html#a5b2e49e80f3c4b725957f1fa90c2babc", null ],
-    [ "UnknownData00", "a32003.html#a8809da83b00c60f80dda54da2a15bf05", null ],
-    [ "UnknownData01", "a32003.html#a1fe256df3350617a729f3d5f1216baa7", null ]
+    [ "bIsCollapsed", "a32003.html#a77d857dc31afc174a649db8f33a7a0e0", null ],
+    [ "bIsSelected", "a32003.html#a436ef99ac4a780f68b29e409c826009a", null ],
+    [ "GroupName", "a32003.html#a67eacd2c849dc7c6fe0be86a3a9b346d", null ],
+    [ "TrackIndices", "a32003.html#a1f06a588c0f98784759a71a43b5789a0", null ],
+    [ "UnknownData00", "a32003.html#af087a877ed6e83b9646b52d019fc1563", null ]
 ];

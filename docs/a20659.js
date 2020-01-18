@@ -1,4 +1,25 @@
 var a20659 =
 [
-    [ "Pirates", "a20659.html#ae6249186ee2d96d035e95bb2ebf2b6c2", null ]
+    [ "ActiveFrom", "a20659.html#a38c4ce4aeefd6ad231a3200f29f2e339", null ],
+    [ "ActiveUntil", "a20659.html#aab4e2b8ddd33741d61bc77a174b34a78", null ],
+    [ "CampaignDescription", "a20659.html#a34a51fe66d46dce1ae042f80913f205c", null ],
+    [ "CampaignId", "a20659.html#ad958e00a5c2fe16dc54ac8908b3ab83b", null ],
+    [ "CampaignImagePath", "a20659.html#ad5275b3f424800cfd91b4463bd792406", null ],
+    [ "CampaignTitle", "a20659.html#abcd5fd188f23f2070e94ec402c6fd03c", null ],
+    [ "Company", "a20659.html#a8b4c7b6ca1e151adb6b9dfe83a4d27da", null ],
+    [ "CompanyId", "a20659.html#abecc34b1663a1a1e2da83394335776cc", null ],
+    [ "EmblemSet", "a20659.html#aa358eb17c5e90dbd22d24ccc7f2c5671", null ],
+    [ "FriendlyName", "a20659.html#a9187361c12c2519a55d0b9c9547cc1fb", null ],
+    [ "HasActiveDuration", "a20659.html#a7f655c7357d2b5cfc1e9a910453fc657", null ],
+    [ "Id", "a20659.html#ac04cc9936acee7ad526e31f5645ae788", null ],
+    [ "MarkAsNew", "a20659.html#a0d1e7f13ed4b8c9f72233bafdbe8141d", null ],
+    [ "MoreInfoFirst", "a20659.html#a8a04030c53decb8094f727e619db01f2", null ],
+    [ "MoreInfoFirstLocked", "a20659.html#a4ae17a93b71ea4a2641926c1c9dee3f0", null ],
+    [ "MoreInfoSecond", "a20659.html#a39b4f3de6bad8a2b496c9410c6624d66", null ],
+    [ "MoreInfoSecondLocked", "a20659.html#aa9032eb55dec6c171b4d954f3f165bdd", null ],
+    [ "Name", "a20659.html#a9e3b22ca4c731b7c9579b4a731d390cd", null ],
+    [ "RewardId", "a20659.html#a7905d6822c38912d76f75ee482a9a324", null ],
+    [ "UnknownData00", "a20659.html#a21143dde1fc06da4dd97a89c1f4ecce8", null ],
+    [ "UnknownData01", "a20659.html#aea48efe19cce14a600e0e2fb8c877c8b", null ],
+    [ "UnlockAtNumCriteriaCompleted", "a20659.html#a4b271933dcd27b997db58fba1bf71299", null ]
 ];

@@ -1,10 +1,13 @@
 var a01415 =
 [
-    [ "AllowedTypes", "a01415.html#a3f6db9b8c6e5d5c3237113e737298c8c", null ],
-    [ "bNoneIsAllowedValue", "a01415.html#a2d084177014fde2edd3fe2ea15e734fb", null ],
-    [ "SelectedKeyID", "a01415.html#ade7415d4e9edf030e341d1f01fde8dd3", null ],
-    [ "SelectedKeyName", "a01415.html#abb4d0d3f2412a0c0fc7f66ee240c2571", null ],
-    [ "SelectedKeyType", "a01415.html#a7e6d4b282dec01f2197fdb11358691a0", null ],
-    [ "UnknownData00", "a01415.html#af455c4cbf88ce9491dfccf3c931a03e5", null ],
-    [ "UnknownData01", "a01415.html#ad8d32c065dffe2cf18e31db8251c1133", null ]
+    [ "StaticClass", "a01415.html#acdf31f095502ca7d18bae50695b0d8c6", null ],
+    [ "SuspendCrowdSteering", "a01415.html#a7b6603dce9ea92997a2b4604abfaa938", null ],
+    [ "AvoidanceGroup", "a01415.html#aa0a9bde19989a95dfcf9b96c52ab54ce", null ],
+    [ "CharacterMovement", "a01415.html#a4810e5b72646c881529c1017ef22d46c", null ],
+    [ "CrowdAgentMoveDirection", "a01415.html#ac228bb0f38fdecb189e6663a4ae8f38a", null ],
+    [ "GroupsToAvoid", "a01415.html#a8d9476ac09c320e35fe43f7443761fc8", null ],
+    [ "GroupsToIgnore", "a01415.html#ae034b17053be01f96d21a638b43987ae", null ],
+    [ "UnknownData00", "a01415.html#ae107aa2d8d9858cf0fe26c27fe562d0b", null ],
+    [ "UnknownData01", "a01415.html#afddb380466a363955482cbc5f4d15218", null ],
+    [ "UnknownData02", "a01415.html#accedb07a70eaa38a5925ab0a02eb4bfa", null ]
 ];

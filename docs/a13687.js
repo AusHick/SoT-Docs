@@ -1,7 +1,8 @@
 var a13687 =
 [
-    [ "Items", "a13687.html#af5d6748a3999c99c048010134b9aff17", null ],
-    [ "NumberOfItems", "a13687.html#a112308525adc05e2ec40364faae91c9f", null ],
-    [ "UnknownData00", "a13687.html#a457f05f46ff9c50de4c712d607dee326", null ],
-    [ "Weight", "a13687.html#aa96d234b4d6eb84bd66d6e5e55e911cf", null ]
+    [ "FemaleCaptainMugShot", "a13687.html#a681798ec2a1e7aab2a54663560c6f59e", null ],
+    [ "FemaleCrewMugShot", "a13687.html#a1d4995f659e974b87a6a3ed3a1a0e59a", null ],
+    [ "Form", "a13687.html#ac3521bdd225af4e6f5894c0007f802bd", null ],
+    [ "MaleCaptainMugShot", "a13687.html#a9373c14caf5f59c40989e456e284fa41", null ],
+    [ "MaleCrewMugShot", "a13687.html#ad935f4fd0a992d50744bec919c7a1119", null ]
 ];

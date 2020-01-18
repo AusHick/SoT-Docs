@@ -1,8 +1,7 @@
 var a33227 =
 [
-    [ "Multicast_FireProjectile", "a33227.html#a63ab1018216c70a7f305f1d573496eec", null ],
-    [ "StaticClass", "a33227.html#a0e51fb7d2f647690391ce049aa088e63", null ],
-    [ "ClientVolcanoSetupData", "a33227.html#a9ac6ae63288b14055572892f9045b5ef", null ],
-    [ "ServerVolcanoSetupData", "a33227.html#a682fd443a76af59025f0564125caf2da", null ],
-    [ "UnknownData00", "a33227.html#a4837d530f76aca4a73c18526cc48947b", null ]
+    [ "GeneratedClass", "a33227.html#ac0663cdc0b70f9c9177222364ea7ab43", null ],
+    [ "Guid", "a33227.html#addecf177458a8d977bc4908217ebf08a", null ],
+    [ "Name", "a33227.html#ab3206a5a98c9f1648df6e580e5e2c962", null ],
+    [ "UnknownData00", "a33227.html#ad5a1d54d8bb3d08a70a5b256af1ef334", null ]
 ];

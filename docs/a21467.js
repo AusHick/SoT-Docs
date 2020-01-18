@@ -1,4 +1,5 @@
 var a21467 =
 [
-    [ "Loadout", "a21467.html#a4ab1bd9ef8030cbd396881377def9693", null ]
+    [ "SwitchGroup", "a21467.html#aef527153a4d211a7077dd96c290c2921", null ],
+    [ "SwitchValue", "a21467.html#a0fbdef0830427d0789a37212546dbede", null ]
 ];

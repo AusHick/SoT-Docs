@@ -1,7 +1,12 @@
 var a14935 =
 [
-    [ "CrewId", "a14935.html#a30228c01cc8df9ca2dfb42e2acd6c5f0", null ],
-    [ "NetPlayerState", "a14935.html#a6f14735c2200c6da22fb4bf04f7db732", null ],
-    [ "Player", "a14935.html#a07338f3dca80f3ee4eb336f059e8e074", null ],
-    [ "UnknownData00", "a14935.html#a0faf37da333c12a6976ebb9a66f686a2", null ]
+    [ "DistanceToClosestOpponent", "a14935.html#a69ec743f46ecb88149b342028d464792", null ],
+    [ "IslandName", "a14935.html#a6587ccb99e0d78a74ce8d04d202da6fc", null ],
+    [ "PlayersCrewSize", "a14935.html#ae1fdb607afe7d45c1ee7e9be802fd0ed", null ],
+    [ "SpawnCount", "a14935.html#aa0cbf9058477c0af05956bd2eed5b38c", null ],
+    [ "SpawnDuration", "a14935.html#a52264f14b4d7a643ae1545fb13a8de89", null ],
+    [ "SpawnPointName", "a14935.html#a7a9b1f5f2a4619ad94061012b3234595", null ],
+    [ "SpawnType", "a14935.html#aba2a4eae4a82d1c63fef5682095f4eef", null ],
+    [ "UnknownData00", "a14935.html#af4e20645d7b0ddd12ea73361a53b2004", null ],
+    [ "UnknownData01", "a14935.html#ad2dfe4ea88a09e3c862b4c8bba70f405", null ]
 ];

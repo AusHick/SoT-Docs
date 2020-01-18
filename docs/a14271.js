@@ -1,6 +1,6 @@
 var a14271 =
 [
-    [ "IslandType", "a14271.html#af7d5d54d5b4dc88bdb85da5e27d7170d", null ],
-    [ "MinimumDistanceFromIslandInKm", "a14271.html#a1224151ba3f869d199fad8ef8465e755", null ],
-    [ "UnknownData00", "a14271.html#a4cba2688e11b8f67908a11eefef34dce", null ]
+    [ "RequiredClothing", "a14271.html#ac50897746e356fd8a45d11246ca151c0", null ],
+    [ "RequiredNumberToMatch", "a14271.html#a2dd318420af4f916c2c8729f77c81712", null ],
+    [ "UnknownData00", "a14271.html#a49ce4fc56a30c66fcc6075e00ff1a856", null ]
 ];

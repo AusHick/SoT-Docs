@@ -1,6 +1,9 @@
 var a13215 =
 [
-    [ "EncounterList", "a13215.html#a9862e788cdc17cd871b6096ef5d82bfb", null ],
-    [ "EncountersToCheckPerCycle", "a13215.html#abf93562506f1b1a1dc782c403af83676", null ],
-    [ "UnknownData00", "a13215.html#a2a3c62efaea565e7d9a20d76570591a9", null ]
+    [ "AIKnockbackDirection", "a13215.html#a9dee3155e1eeba24b33cf27812f4f893", null ],
+    [ "KnockbackActive", "a13215.html#aff662c25f59606e4a93aec306381e93d", null ],
+    [ "KnockbackAnimations", "a13215.html#acd99893dfaafac4ca20c6721963ec3f6", null ],
+    [ "KnockbackAnimToUse", "a13215.html#ae6f6e7bcc9da68a37b133acf88a4dfab", null ],
+    [ "UnknownData00", "a13215.html#a3e7d6b3d3bea494d62ee452e98e34cbb", null ],
+    [ "UnknownData01", "a13215.html#a0c2e3386b8168056b1164acd692d4cb9", null ]
 ];

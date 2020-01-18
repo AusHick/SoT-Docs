@@ -1,13 +1,10 @@
 var a06499 =
 [
-    [ "StaticClass", "a06499.html#a7776e8b370b2ad179d126f0f1b142b0a", null ],
-    [ "AllFauna", "a06499.html#a1a84f27d6688855d7a255e49ea4af9c4", null ],
-    [ "AllMerchantCargo", "a06499.html#a2f5f097d690b68d65014e5440dfbfbcb", null ],
-    [ "AllMerchantCrates", "a06499.html#a2edbe932945f60769bef6b406bce4cbd", null ],
-    [ "CollectCratesFromTraderPopupDesc", "a06499.html#aea35468dad020fa4794c80124f8b849a", null ],
-    [ "DeliverByTimeDayFormat", "a06499.html#a3fc3584d9209bb07c8e079389f78e40d", null ],
-    [ "DeliverByTimeHourFormat", "a06499.html#adae4db2b2b49ef923458dc2d23fdb337", null ],
-    [ "DeliverByTimeTextFormat", "a06499.html#a808987032189b33eaf0fa1a03a97d2c5", null ],
-    [ "MerchantCompany", "a06499.html#a31cc3a746fc8c02a4d4748c0b7453b6c", null ],
-    [ "MerchantMapLayouts", "a06499.html#a05db037a1ded0a5c17d5b36406a5d5e7", null ]
+    [ "StaticClass", "a06499.html#a29413732655664884e3e6d50ca59c9f1", null ],
+    [ "BeaconActorClasses", "a06499.html#a70c37a845ab2763e8a85299b9fd5e1a2", null ],
+    [ "BeaconRange", "a06499.html#a4f6d5d9177c1beb7f6d9b61d62e82b9f", null ],
+    [ "CollectedActorClasses", "a06499.html#a919bd0e1e6b4e8e4880e35dd34426e50", null ],
+    [ "MigrationSetupRequestTimeoutInSeconds", "a06499.html#a10bbce384e47f59fae76ccc08587173f", null ],
+    [ "UnknownData00", "a06499.html#a9bba22a4ebf834a3d7280de7adf06e0a", null ],
+    [ "UnknownData01", "a06499.html#ae2f537d966b52d47b680df3893a25cf2", null ]
 ];

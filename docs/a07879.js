@@ -1,5 +1,6 @@
 var a07879 =
 [
-    [ "StaticClass", "a07879.html#a71ab939b9d52d020d6ac7ae343fa8567", null ],
-    [ "AllSeaIds", "a07879.html#ac0ed249cabc29e5ddccce6c090d2aca0", null ]
+    [ "StaticClass", "a07879.html#ad0ece1d3edce40911f7c89c2ba99ee45", null ],
+    [ "TestGetServiceUnregistered", "a07879.html#aa3349bffa8f7974a8a59683475597ea6", null ],
+    [ "TestRegisterAndGetService", "a07879.html#a75ebb755f68047cba82f3eb3e63098c2", null ]
 ];

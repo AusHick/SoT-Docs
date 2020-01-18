@@ -1,5 +1,5 @@
 var a31655 =
 [
-    [ "NewAsset", "a31655.html#a3c7fd4b96d78334f4b66e8e0b3a9a330", null ],
-    [ "ParentNodeGuid", "a31655.html#a5bed3fe6fcfb74df252066eb27efc0c0", null ]
+    [ "Time", "a31655.html#a8cd47f8fdce3f15e66a9bac347b40610", null ],
+    [ "Value", "a31655.html#afe380dfa7343a11c6db8446294733d62", null ]
 ];

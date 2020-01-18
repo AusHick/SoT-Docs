@@ -1,10 +1,9 @@
 var a34535 =
 [
-    [ "ActiveFillBrush", "a34535.html#ad86d97236c160fbe332acd2639c1fb31", null ],
-    [ "ArrowsImage", "a34535.html#a98056f5651ee904fe3f35438b3ecc55a", null ],
-    [ "BackgroundBrush", "a34535.html#a9d9cbcd5f9067fee3f0dc3f9cab0d03e", null ],
-    [ "ForegroundColor", "a34535.html#ae8bd8d746dea14b5bb33abc71ce93111", null ],
-    [ "HoveredBackgroundBrush", "a34535.html#a7ac1a539e44d62fbf6aa9d395984a825", null ],
-    [ "InactiveFillBrush", "a34535.html#addcaf70f352e952dfea64d548c55671f", null ],
-    [ "TextPadding", "a34535.html#ac2cc65f4abe5b951bedf3650b6867cf8", null ]
+    [ "Position", "a34535.html#a409ebc98bb353a849b07bc48756810e1", null ],
+    [ "Repairable", "a34535.html#aa5167c1149350ae48cd52257b9e15c24", null ],
+    [ "RepairerActor", "a34535.html#a60a33d9bf4ef63141e2c11604ee9a427", null ],
+    [ "RepairPercentage", "a34535.html#a17d616df1230a72e2ec9a6ea738b5ff6", null ],
+    [ "UnknownData00", "a34535.html#af98e76d441ff70d159191e6e4be37ba8", null ],
+    [ "UnknownData01", "a34535.html#aeb6a20f7b320af0c12ca0296e6657563", null ]
 ];

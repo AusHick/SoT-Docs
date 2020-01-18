@@ -1,4 +1,5 @@
 var a25103 =
 [
-    [ "UnknownData00", "a25103.html#a5680a146c919711f9b25992c3a1623b7", null ]
+    [ "ClassId", "a25103.html#ad58ae6065d51e696e0a1404ab584bde6", null ],
+    [ "PartsCategory", "a25103.html#a6be5e77db18c8c4699763968069517d4", null ]
 ];

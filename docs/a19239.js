@@ -1,9 +1,7 @@
 var a19239 =
 [
-    [ "PenetratedActor", "a19239.html#a99e37c3553bef69dd6fa7ade0aec8d6a", null ],
-    [ "PenetrationT3D", "a19239.html#a2b761b32b8175ee98d353485b30b22f2", null ],
-    [ "PenetrationTHorizontal", "a19239.html#aa707893d28a0b3fc770ed0bb38710464", null ],
-    [ "PenetrationTVertical", "a19239.html#a8843e5673f738a292877ad133f3279a2", null ],
-    [ "Player", "a19239.html#aa843dd2e0b22c04c05de1abfef43e2fa", null ],
-    [ "UnknownData00", "a19239.html#ac41be2985f89209d6c71594ac6a6e5cf", null ]
+    [ "PreserveSession", "a19239.html#a00e44ac25598b046807e2a8631f1c2ed", null ],
+    [ "ResubmitTicket", "a19239.html#ad298973a93e1b439560aa5cb0e923473", null ],
+    [ "TimeoutSeconds", "a19239.html#a60e2dc0af43680ee21ad3a91486cea48", null ],
+    [ "UnknownData00", "a19239.html#a95ad43e231bba8900866f2b30edc9f41", null ]
 ];

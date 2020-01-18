@@ -1,5 +1,11 @@
 var a02203 =
 [
-    [ "StaticClass", "a02203.html#a37d5dcb9cf5131e64420b27523e4cd47", null ],
-    [ "ActorToHide", "a02203.html#aa563cb21dc1529fd8d82731c70224081", null ]
+    [ "StaticClass", "a02203.html#a897c25f9c8dec51300b0fa31d9d9de23", null ],
+    [ "PlayAudio", "a02203.html#a849d956bfee64515f70fc0b36675cad5", null ],
+    [ "Rigging", "a02203.html#a0b42902ef68de5414af717f35aeb9af5", null ],
+    [ "RiggingRopeIndex", "a02203.html#ab7329beebe04148e7126f58edc1b5dc0", null ],
+    [ "RopeUVSpeed", "a02203.html#a52126e005066da2f10f4620c49fcacbc", null ],
+    [ "UnknownData00", "a02203.html#afd7aeea509c8bff1e6dbcad1316d125c", null ],
+    [ "UnknownData01", "a02203.html#ac6986843be5108548052d1a9b6865839", null ],
+    [ "UnknownData02", "a02203.html#a0187706898d5ed9bd9868798d0588e6d", null ]
 ];

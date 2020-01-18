@@ -1,16 +1,7 @@
 var a35531 =
 [
-    [ "SetAnimateHorizontally", "a35531.html#a111baca1094d034ef6a23542b109e5e2", null ],
-    [ "SetAnimateOpacity", "a35531.html#a554657e280f5ec019ede2dfafa13ee69", null ],
-    [ "SetAnimateVertically", "a35531.html#a3d10bb6815c712d54464b15f22f59ee2", null ],
-    [ "SetNumberOfPieces", "a35531.html#a0545adee932604169b0eda3309a8bbc7", null ],
-    [ "StaticClass", "a35531.html#aff5bed2276e0e7555917043e0e4cc2f3", null ],
-    [ "bAnimateHorizontally", "a35531.html#aabc1d12a935954e01882cbc7f078735a", null ],
-    [ "bAnimateOpacity", "a35531.html#abe8419a570d50806e49c8aa9c3d14fcc", null ],
-    [ "bAnimateVertically", "a35531.html#a4e16441b476fa02447bca82914f1bb3a", null ],
-    [ "Image", "a35531.html#ac7d204a413d4e4816668d569bc2e51cf", null ],
-    [ "NumberOfPieces", "a35531.html#ab289cafa93f02d46b14f894ac53e1cd8", null ],
-    [ "PieceImage", "a35531.html#a86352ad5631d2015d0815791e5398cbf", null ],
-    [ "UnknownData00", "a35531.html#ab81556e0d4233b6c3aefe081661b306a", null ],
-    [ "UnknownData01", "a35531.html#a9e042560e466fa083ba9e3b0cc48a9c1", null ]
+    [ "StaticClass", "a35531.html#ac3bf9196c6b937e738f8797919b567a4", null ],
+    [ "Animation", "a35531.html#ae17555f48809cc7863003f2f6709e9ff", null ],
+    [ "UnknownData00", "a35531.html#a824e83ac37ec3aae1d2b6c6d5a3ba1fc", null ],
+    [ "UnknownData01", "a35531.html#a65c2529487e6a200657cfc77e2c2c404", null ]
 ];

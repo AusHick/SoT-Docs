@@ -1,5 +1,6 @@
 var a15247 =
 [
-    [ "Id", "a15247.html#a1619be3aa21617f5c4d3b72a10c2906d", null ],
-    [ "Phrase", "a15247.html#ac51b70aca4be01f7caa526e1e33f42e6", null ]
+    [ "AimData", "a15247.html#a700aafc2c5c25e099affb0b259562e94", null ],
+    [ "UnknownData00", "a15247.html#a8cbe531dbf08a483cfe4876309188f3b", null ],
+    [ "UnknownData01", "a15247.html#a289498b8cfd7befde52efdac02431c03", null ]
 ];

@@ -1,10 +1,10 @@
 var a14747 =
 [
-    [ "MapPins", "a14747.html#a2dde9b110bc8440c548cdce647775341", null ],
-    [ "MaxMapPins", "a14747.html#ad226b0d46487e20e8a8d1785e9fdcc0f", null ],
-    [ "SelectedPin", "a14747.html#a10ba009420bd1be3af6d3a95d3870bf0", null ],
-    [ "UnknownData00", "a14747.html#a28a2ded2e88310b3ca8ad63e7614aea2", null ],
-    [ "WorldX", "a14747.html#a60742201aebfee1072ababd15298a125", null ],
-    [ "WorldY", "a14747.html#a6034cc24712313d4685110f10856af39", null ],
-    [ "Zoom", "a14747.html#aa05793cd1c8a7bf6c9e85f6f0df28c57", null ]
+    [ "InitialDay", "a14747.html#ac17f7e3af4d3f40f20b5065b7d19d296", null ],
+    [ "InitialTimeOfDay", "a14747.html#aff0f6df2f11344f20eb2b11982cd7c69", null ],
+    [ "ReflectionCaptureTimeOfDay", "a14747.html#a06ae5294796b17587e1e6386be70d6ca", null ],
+    [ "SunRiseTime", "a14747.html#aee2c122c2751f981c2088375197fe14a", null ],
+    [ "SunSetTime", "a14747.html#a9fdcb42fce5e96cd151e66b0d2ba25a2", null ],
+    [ "TimeScalerCurve", "a14747.html#a13afb7ce28f5b6442c7ff23b8611cd86", null ],
+    [ "TutorialTimeOfDay", "a14747.html#a9a4806ad87546f0ccf7a452534507b59", null ]
 ];

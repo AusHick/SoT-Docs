@@ -1,6 +1,7 @@
 var a26315 =
 [
-    [ "EmoteIdentifier", "a26315.html#a5bc83a670d42de42044339bb9976eed6", null ],
-    [ "EndForcedEmote", "a26315.html#af2bbf41ef38e0cf50dd70939783b6331", null ],
-    [ "UnknownData00", "a26315.html#aaa089c539d46a8231882df7c288989bb", null ]
+    [ "W", "a26315.html#afe23edbb32d1744cc931fe3a6b90cd98", null ],
+    [ "X", "a26315.html#af6fa7614fe0029cfe3eb03a3ab60b6a7", null ],
+    [ "Y", "a26315.html#aada95006250a31e30fc5d137f449713c", null ],
+    [ "Z", "a26315.html#ad4a23889fbe6063b17f8d3766c7ce62f", null ]
 ];

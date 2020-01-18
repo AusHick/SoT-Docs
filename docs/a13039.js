@@ -1,11 +1,21 @@
 var a13039 =
 [
-    [ "DockedIdles", "a13039.html#a29a59c16cb1cc2193095986f772ebed6", null ],
-    [ "EnterDockedPose", "a13039.html#a330dbd1d49f7a0f9315867d81d014067", null ],
-    [ "ExitDockedPose", "a13039.html#a0fcbb5b610956af67987b88aeca979e4", null ],
-    [ "RamCycle", "a13039.html#af339ac454fe8a9c75083759de69b8256", null ],
-    [ "RamImpact", "a13039.html#afdec4ab93bd7c542aa8a2a9d65114924", null ],
-    [ "RamInto", "a13039.html#a9fc5043d12bfc3d08af5199f9a03fafb", null ],
-    [ "RamOutOf", "a13039.html#a6aa210be9148c706b7ab9301a70f55de", null ],
-    [ "Taunt", "a13039.html#ac94bd7b954013a4bbe4eade6eb9d2dc6", null ]
+    [ "CastFailed", "a13039.html#a04da6b9095a860d0e5e5a0e5cf2ceac1", null ],
+    [ "FishingJIPState", "a13039.html#aa5f8bcd952df74f5e6e0582394446f10", null ],
+    [ "FishingState", "a13039.html#a3c90de823af790d936a1c26c6b8d5f7d", null ],
+    [ "IKBlendInSpeed", "a13039.html#a0145fabbb9789f3df75ededb3d99215d", null ],
+    [ "IKBlendIOutSpeed", "a13039.html#a47991eaa4319ebab9031daf42117b60d", null ],
+    [ "IKIsActive", "a13039.html#a6986b31424c06d935ead70dea5acdd8a", null ],
+    [ "InFishing", "a13039.html#a7bba196140efb90e12d8df927288d13c", null ],
+    [ "IsComedyItem", "a13039.html#a34622a95f3a1bbaf0e01df02391c2add", null ],
+    [ "IsFishHookedAndVisible", "a13039.html#af7518378a3dcb6e688a3ff68295217d3", null ],
+    [ "LineSnapShake", "a13039.html#a66afc45ac4414e22bbf25a727b4e4d62", null ],
+    [ "PlayerInputForce", "a13039.html#aec6c9b10e2f99ea07e70d18dcd465893", null ],
+    [ "ReelSpeed", "a13039.html#a3fb6a7d0d4b88485a8a7d6ad3366b78f", null ],
+    [ "RodBend", "a13039.html#ab5e978413aeb55b953f002d7188bea6e", null ],
+    [ "TensionShake", "a13039.html#a7d9d65725f6cc86f7c143104072f7059", null ],
+    [ "UnknownData00", "a13039.html#aebf9d7e46ffe5a167e39d7a95301f9e4", null ],
+    [ "UnknownData01", "a13039.html#adaa013a0c3f2ec479b6febb733ec8c89", null ],
+    [ "UnknownData02", "a13039.html#a65994032a23ffbb3e9c21f33ada47635", null ],
+    [ "UnknownData03", "a13039.html#aaea3642cf023eb61eecc24cac09e2c03", null ]
 ];

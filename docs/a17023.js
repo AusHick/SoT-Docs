@@ -1,5 +1,4 @@
 var a17023 =
 [
-    [ "Level", "a17023.html#ab804d9482a74d961e4c49e705398a2aa", null ],
-    [ "XpRequiredToAttain", "a17023.html#a1fd177d82bf2530ae676549fb1355a7c", null ]
+    [ "CrewId", "a17023.html#a78e090dfa0f3294807426d4d777e9b12", null ]
 ];

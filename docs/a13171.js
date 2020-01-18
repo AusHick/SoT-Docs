@@ -1,8 +1,10 @@
 var a13171 =
 [
-    [ "TeleportBase", "a13171.html#a2993816818bc1024829f5bcb5e23e49c", null ],
-    [ "TeleportLocation", "a13171.html#a7df1a996eaf6f30b7face327cd069a51", null ],
-    [ "TeleportRotation", "a13171.html#a825c2182c564967e93d8c7f1382011b0", null ],
-    [ "UnknownData00", "a13171.html#afb8bad1cb32346b2743e049ed380507e", null ],
-    [ "Valid", "a13171.html#a14f1b3426d081ac4d0b88d7fe465fcdd", null ]
+    [ "Idle", "a13171.html#aeb333492f801ea7c527bc1ea860b3841", null ],
+    [ "MainMovement", "a13171.html#a3e8f40d7477c6eb58989d217ea484ac3", null ],
+    [ "RunStop", "a13171.html#ad190a6d4d71e9af83ebaf7977c7197d2", null ],
+    [ "StairsLocomotion", "a13171.html#ae64c364bd40ceedc9bc4f8cc367b055c", null ],
+    [ "TurningLeft", "a13171.html#a8d66d1b48b418d96271e0bd2fe26bfab", null ],
+    [ "TurningRight", "a13171.html#a8bdcc1863c366ca957d845a268c1250e", null ],
+    [ "TurnOut", "a13171.html#ab7a6591c9e4304ce78fc339e18476c36", null ]
 ];

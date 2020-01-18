@@ -1,6 +1,8 @@
 var a28555 =
 [
-    [ "StaticClass", "a28555.html#a5ec0227d9ba5b29287f917f171e08a85", null ],
-    [ "NotShadow", "a28555.html#a64926c07c2cfc73c4ba954feabcb5bd7", null ],
-    [ "Shadow", "a28555.html#a3e1a2c1042c8e3b51e6f4a649e8c8785", null ]
+    [ "StaticClass", "a28555.html#a79087e76170fdf2965b9d51779ce4f23", null ],
+    [ "A", "a28555.html#a1f18b34aed906265d5c0b0776b690d80", null ],
+    [ "B", "a28555.html#a41e40df1329630b0c46819bdda51e61b", null ],
+    [ "ConstA", "a28555.html#ad07c5f57540786346384a39e7664a4bd", null ],
+    [ "ConstB", "a28555.html#a9be98a68893d74c15994c78f346d0dba", null ]
 ];

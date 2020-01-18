@@ -1,4 +1,5 @@
 var a33291 =
 [
-    [ "ForceFeedback", "a33291.html#a1ad96416f2a8b1bbf8f1e1357d3fd6a7", null ]
+    [ "StaticClass", "a33291.html#a6969b75db1981ed32a3b856c07907144", null ],
+    [ "ByteCurve", "a33291.html#a50287188aa6953b81becf38b79327172", null ]
 ];

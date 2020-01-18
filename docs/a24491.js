@@ -1,5 +1,6 @@
 var a24491 =
 [
-    [ "StaticClass", "a24491.html#a5157722d11eca7ae32d483ae34b4dfb7", null ],
-    [ "UnknownData00", "a24491.html#a447f56d686e1967ddd7a4c66b51b6681", null ]
+    [ "StaticClass", "a24491.html#aec8d9de405bd941cd70918dd5f64f6d6", null ],
+    [ "DisableUpdateMoveFocusForCurrentPathOnExit", "a24491.html#a86ca659eb93a751e340c7b7ff8d297fd", null ],
+    [ "UnknownData00", "a24491.html#adffa4e5a517ad4ed4c144f1f4710d1bf", null ]
 ];

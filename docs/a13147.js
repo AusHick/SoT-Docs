@@ -1,5 +1,6 @@
 var a13147 =
 [
-    [ "ShowIntroBanners", "a13147.html#a6d79f47bc3a8d3ba71dd5f9c4a707385", null ],
-    [ "ShowOutroBanners", "a13147.html#a08686c414655b5e1a8aede8bccdefac9", null ]
+    [ "Cheer", "a13147.html#afe990c3a04ac8600ebc8db0251a3b13f", null ],
+    [ "Taunt", "a13147.html#acbabe8b8d6abeadea27e948d22fd0ac9", null ],
+    [ "UseWithObject", "a13147.html#a8f1ad4bc7e89bad90039de352ab77b4a", null ]
 ];

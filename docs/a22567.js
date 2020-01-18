@@ -1,12 +1,7 @@
 var a22567 =
 [
-    [ "AllianceId", "a22567.html#a12a5253641b67ff90373850c5dc2cc23", null ],
-    [ "BootyId", "a22567.html#a11bc2ee130e15884d937b4e149e317e4", null ],
-    [ "CompanyAffiliation", "a22567.html#ac26e52c75ae6182b036808663272be8c", null ],
-    [ "NotifyPlayer", "a22567.html#a5a77969546db35abe57a725a631d3269", null ],
-    [ "PrimaryRecipient", "a22567.html#a76daedbc8dcee72eff0e3089c15870b8", null ],
-    [ "RequestID", "a22567.html#a83a03e0c8fa01e136fce760eaaa9a5b9", null ],
-    [ "RewardId", "a22567.html#ac68cc2e4cc8f725822734fceac9eaafe", null ],
-    [ "SecondaryRecipients", "a22567.html#af4ad267375db95ae9c48d288d5410583", null ],
-    [ "UnknownData00", "a22567.html#a1f83f905251fc9cfa8571538bc531d4a", null ]
+    [ "NewCustomMovementMode", "a22567.html#ac7cafd2176c5d31a0d2075cedd68ab04", null ],
+    [ "NewMovementMode", "a22567.html#af3d22bbfb82006443035a83235c43f47", null ],
+    [ "PreviousCustomMovementMode", "a22567.html#a96502701fea2d52540c7ca260814de4b", null ],
+    [ "PreviousMovementMode", "a22567.html#a16e4fb3fb14b09cfbc6eb780abec832b", null ]
 ];

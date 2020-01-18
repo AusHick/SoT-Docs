@@ -1,6 +1,5 @@
 var a05087 =
 [
-    [ "BeginPreloading", "a05087.html#aad51676cc982145c7605408e57800f33", null ],
-    [ "StaticClass", "a05087.html#a7d57be5d4829c6a61afee264cdb54bbf", null ],
-    [ "UnknownData00", "a05087.html#ab9ace487f44264e5b2d383adcec12de1", null ]
+    [ "StaticClass", "a05087.html#affeda71846f214d6f713de096d2e44f8", null ],
+    [ "FootstepName", "a05087.html#a8be32a19e6943775a7f7cc09ae9c811a", null ]
 ];

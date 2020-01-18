@@ -1,13 +1,13 @@
 var a04271 =
 [
-    [ "GetNumShips", "a04271.html#aa26138b7ddeefe615cf536f0ab50da70", null ],
-    [ "IsWorldPosInsideCabin", "a04271.html#a5ff5f839715dba3f1e750b38e47cdd6f", null ],
-    [ "IsWorldPosInsideHull", "a04271.html#a87e651afeffc61a6a5c8da4fae8fc820", null ],
-    [ "StaticClass", "a04271.html#ac24854a8361f610a878da880caabc86d", null ],
-    [ "CrewedShips", "a04271.html#a7d2b8f22586069604480b3fa3eaf18f3", null ],
-    [ "PersistentCrewShipData", "a04271.html#aa1cce323322098b970da1a10fffee095", null ],
-    [ "ShipList", "a04271.html#a62110357c6b43850ce15b199c1f3efe1", null ],
-    [ "UnknownData00", "a04271.html#a8c5e330e03f7d727d98c3f673c02ca2a", null ],
-    [ "UnknownData01", "a04271.html#a97265c26fd786f168ccffb7fb5d9fda6", null ],
-    [ "UnknownData02", "a04271.html#a6e69af5322fa23aa18ab86c5a5330300", null ]
+    [ "OnRep_CrewContestInfoList", "a04271.html#a65ba57e80e48772bda4a054102736852", null ],
+    [ "StaticClass", "a04271.html#aa43b0dc304d3adde023ee07fb8bbf557", null ],
+    [ "ContestManagerService", "a04271.html#af04eae5a32909f9062ca7ab95cd5b70f", null ],
+    [ "ContestState", "a04271.html#a0b46be00bab8d027d61f663f6cfe6c06", null ],
+    [ "ContestVoyageString", "a04271.html#a838f1f32e9dab5cb3cc8540c8e499e34", null ],
+    [ "CrewContestInfoList", "a04271.html#acf59139d6f4d57867af1b06e99d347ab", null ],
+    [ "CurrentTimerTime", "a04271.html#aa4a1154623338b61fd5829944123599c", null ],
+    [ "UnknownData00", "a04271.html#a9e6bff5f12a3f57ae58c05747881fd54", null ],
+    [ "UnknownData01", "a04271.html#a57402b27dabf4129882adf97ac0693af", null ],
+    [ "UnknownData02", "a04271.html#a424887d79b173c2a49a7b4933065a713", null ]
 ];

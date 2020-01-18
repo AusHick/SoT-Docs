@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FLocationBoneSocketInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FTextureLODGroup Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,33 +87,63 @@ $(document).ready(function(){initNavTree('a31039.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31036.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FLocationBoneSocketInfo Struct Reference</div>  </div>
+<div class="title">SDK::FTextureLODGroup Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLocationBoneSocketInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FTextureLODGroup:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31037.svg" width="283" height="346"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a31037.svg" width="100%" height="581"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ad9b63113578b1c8ebfdce27b686d1bf6"><td class="memItemLeft" align="right" valign="top"><a id="ad9b63113578b1c8ebfdce27b686d1bf6"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>BoneSocketName</b></td></tr>
-<tr class="separator:ad9b63113578b1c8ebfdce27b686d1bf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad5f216bbdbeb5599f0ad4a2cdf7d099b"><td class="memItemLeft" align="right" valign="top"><a id="ad5f216bbdbeb5599f0ad4a2cdf7d099b"></a>
-struct <a class="el" href="a26075.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Offset</b></td></tr>
-<tr class="separator:ad5f216bbdbeb5599f0ad4a2cdf7d099b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0c592917639fe6388d9ea954bc3f9cc"><td class="memItemLeft" align="right" valign="top"><a id="af0c592917639fe6388d9ea954bc3f9cc"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ETextureGroup &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Group</b></td></tr>
+<tr class="separator:af0c592917639fe6388d9ea954bc3f9cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d8bf3ca61255136a1cecbc47f217549"><td class="memItemLeft" align="right" valign="top"><a id="a6d8bf3ca61255136a1cecbc47f217549"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0xB]</td></tr>
+<tr class="separator:a6d8bf3ca61255136a1cecbc47f217549"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa1d1c9f11fbb9c1252a7cee8b08beb76"><td class="memItemLeft" align="right" valign="top"><a id="aa1d1c9f11fbb9c1252a7cee8b08beb76"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>LODBias</b></td></tr>
+<tr class="separator:aa1d1c9f11fbb9c1252a7cee8b08beb76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96731d253dfe4df225f8e5f52d021080"><td class="memItemLeft" align="right" valign="top"><a id="a96731d253dfe4df225f8e5f52d021080"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a96731d253dfe4df225f8e5f52d021080"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a48bbb5915eb6008d55aa706a0e3979e1"><td class="memItemLeft" align="right" valign="top"><a id="a48bbb5915eb6008d55aa706a0e3979e1"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>NumStreamedMips</b></td></tr>
+<tr class="separator:a48bbb5915eb6008d55aa706a0e3979e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13d611906b1a2333f1af4e1ea93cb614"><td class="memItemLeft" align="right" valign="top"><a id="a13d611906b1a2333f1af4e1ea93cb614"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ETextureMipGenSettings &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>MipGenSettings</b></td></tr>
+<tr class="separator:a13d611906b1a2333f1af4e1ea93cb614"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72540e954d57b911967f49b2c708a01b"><td class="memItemLeft" align="right" valign="top"><a id="a72540e954d57b911967f49b2c708a01b"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x3]</td></tr>
+<tr class="separator:a72540e954d57b911967f49b2c708a01b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa43cf74a91b9f0b1b8938184f0180eac"><td class="memItemLeft" align="right" valign="top"><a id="aa43cf74a91b9f0b1b8938184f0180eac"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MinLODSize</b></td></tr>
+<tr class="separator:aa43cf74a91b9f0b1b8938184f0180eac"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada5235d7d9926a951eb81ecdb99e2d9a"><td class="memItemLeft" align="right" valign="top"><a id="ada5235d7d9926a951eb81ecdb99e2d9a"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>MaxLODSize</b></td></tr>
+<tr class="separator:ada5235d7d9926a951eb81ecdb99e2d9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d530440c20b5941e751358a76d85858"><td class="memItemLeft" align="right" valign="top"><a id="a0d530440c20b5941e751358a76d85858"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MinMagFilter</b></td></tr>
+<tr class="separator:a0d530440c20b5941e751358a76d85858"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af2f682fd8d30890db81be0de360bb778"><td class="memItemLeft" align="right" valign="top"><a id="af2f682fd8d30890db81be0de360bb778"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>MipFilter</b></td></tr>
+<tr class="separator:af2f682fd8d30890db81be0de360bb778"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae377f277f8c4ba7d5bbe432eb4bae055"><td class="memItemLeft" align="right" valign="top"><a id="ae377f277f8c4ba7d5bbe432eb4bae055"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>TextureQualityReduction</b></td></tr>
+<tr class="separator:ae377f277f8c4ba7d5bbe432eb4bae055"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31039.html">FLocationBoneSocketInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:26 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31039.html">FTextureLODGroup</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:48 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

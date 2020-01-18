@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FTelemetryStepContext Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FLightningImpact Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,48 @@ $(document).ready(function(){initNavTree('a15559.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a15556.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FTelemetryStepContext Struct Reference</div>  </div>
+<div class="title">SDK::FLightningImpact Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FTelemetryStepContext:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FLightningImpact:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15557.svg" width="100%" height="471"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a15557.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a5c845d9ec3683738b92f4fd33c1dc378"><td class="memItemLeft" align="right" valign="top"><a id="a5c845d9ec3683738b92f4fd33c1dc378"></a>
-struct <a class="el" href="a14503.html">FQuestVariableDataAsset</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Asset</b></td></tr>
-<tr class="separator:a5c845d9ec3683738b92f4fd33c1dc378"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a842e8ffd76b53a3e4bd23a1a226e9a3e"><td class="memItemLeft" align="right" valign="top"><a id="a842e8ffd76b53a3e4bd23a1a226e9a3e"></a>
-struct <a class="el" href="a12699.html">FQuestVariableAsset</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AssetRef</b></td></tr>
-<tr class="separator:a842e8ffd76b53a3e4bd23a1a226e9a3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae1a5b360d03e41171d600948b44084d"><td class="memItemLeft" align="right" valign="top"><a id="aae1a5b360d03e41171d600948b44084d"></a>
-struct <a class="el" href="a12731.html">FQuestVariableClass</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Type</b></td></tr>
-<tr class="separator:aae1a5b360d03e41171d600948b44084d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5251bd89a7eea9c2bae4f05e6693a072"><td class="memItemLeft" align="right" valign="top"><a id="a5251bd89a7eea9c2bae4f05e6693a072"></a>
-struct <a class="el" href="a12631.html">FQuestVariableActor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Actor</b></td></tr>
-<tr class="separator:a5251bd89a7eea9c2bae4f05e6693a072"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26ea2809fdd5a64d94d9a40705bca230"><td class="memItemLeft" align="right" valign="top"><a id="a26ea2809fdd5a64d94d9a40705bca230"></a>
+int64_t&#160;</td><td class="memItemRight" valign="bottom"><b>TimeInTicks</b></td></tr>
+<tr class="separator:a26ea2809fdd5a64d94d9a40705bca230"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afcffeabf191511e7a983620dba3a8abd"><td class="memItemLeft" align="right" valign="top"><a id="afcffeabf191511e7a983620dba3a8abd"></a>
+struct <a class="el" href="a26295.html">FVector2D</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Location</b></td></tr>
+<tr class="separator:afcffeabf191511e7a983620dba3a8abd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac493498bd94efde43eeed509bcabd484"><td class="memItemLeft" align="right" valign="top"><a id="ac493498bd94efde43eeed509bcabd484"></a>
+class <a class="el" href="a26555.html">AActor</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>AttachActor</b></td></tr>
+<tr class="separator:ac493498bd94efde43eeed509bcabd484"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0a830c76bdcc1274983374c58ec119f"><td class="memItemLeft" align="right" valign="top"><a id="aa0a830c76bdcc1274983374c58ec119f"></a>
+class <a class="el" href="a02295.html">AAthenaCharacter</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TargetCharacter</b></td></tr>
+<tr class="separator:aa0a830c76bdcc1274983374c58ec119f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82c29c278926aeeb50925a6143e99b4a"><td class="memItemLeft" align="right" valign="top"><a id="a82c29c278926aeeb50925a6143e99b4a"></a>
+class <a class="el" href="a26727.html">UStaticMeshComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MeshUsed</b></td></tr>
+<tr class="separator:a82c29c278926aeeb50925a6143e99b4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea0fa8191c0cc2030d2f0556d1f307ab"><td class="memItemLeft" align="right" valign="top"><a id="aea0fa8191c0cc2030d2f0556d1f307ab"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TargetedHighPriorityTarget</b></td></tr>
+<tr class="separator:aea0fa8191c0cc2030d2f0556d1f307ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af92e71fa41417c6e932cc1871ea5374f"><td class="memItemLeft" align="right" valign="top"><a id="af92e71fa41417c6e932cc1871ea5374f"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
+<tr class="separator:af92e71fa41417c6e932cc1871ea5374f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15559.html">FTelemetryStepContext</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:30 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a15559.html">FLightningImpact</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:41 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

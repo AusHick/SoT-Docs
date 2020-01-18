@@ -1,4 +1,4 @@
 var a33055 =
 [
-    [ "StaticClass", "a33055.html#a1c0b5002e7e99cc3e564e5f58b8177ed", null ]
+    [ "KrakenId", "a33055.html#a9be88849dbcc5ecc33da3f85cc765861", null ]
 ];

@@ -1,10 +1,10 @@
 var a26935 =
 [
-    [ "StaticClass", "a26935.html#a830799503b381da9aa0f234c2d8071ea", null ],
-    [ "LODDrawDistance", "a26935.html#a9d74645a66d7bc5f1def9d23c51ad4ff", null ],
-    [ "LodLevel", "a26935.html#a26204d2e021a856824d7c12e3da18edb", null ],
-    [ "StaticMeshComponent", "a26935.html#a000d47d4bfcdb982c777ec4c78ec82f1", null ],
-    [ "SubActors", "a26935.html#ac5f94525f6d15bbf27d27593d2ba116b", null ],
-    [ "SubObjects", "a26935.html#ad338c94f20a2040fd0b64e995e631c79", null ],
-    [ "UnknownData00", "a26935.html#a4290253305bb4971341f8652be7d2774", null ]
+    [ "StaticClass", "a26935.html#ac6da671c9c80e1f213dcf433d2f7c33a", null ],
+    [ "bDisabled", "a26935.html#a393d426e08c5de162c233addee224834", null ],
+    [ "bEditorPreVisOnly", "a26935.html#aac2dc2f18ff9c8ebeaec418054c87526", null ],
+    [ "StreamingLevelNames", "a26935.html#a0d79786515cc27422cbda033b50ca1f2", null ],
+    [ "StreamingUsage", "a26935.html#ac4aa814958a677dccf9d3bad2f5a187d", null ],
+    [ "UnknownData00", "a26935.html#a724779a9281b3c737d7d731edee5905f", null ],
+    [ "UnknownData01", "a26935.html#affdf6c765fbb4781e6e779fb8e69c01b", null ]
 ];

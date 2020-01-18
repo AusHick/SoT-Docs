@@ -1,6 +1,8 @@
 var a30067 =
 [
-    [ "UnknownData00", "a30067.html#ae0e20bfca037354e4a217fa80e24d63f", null ],
-    [ "WalkableSlopeAngle", "a30067.html#ac539ea886e28e8e1493c1aee2dd8a9b8", null ],
-    [ "WalkableSlopeBehavior", "a30067.html#a15415b114741201783501e400e835147", null ]
+    [ "StaticClass", "a30067.html#afbffae24042133e947eb51af485fed3e", null ],
+    [ "SizeX", "a30067.html#a021ad5acab7bc70b1659eae6b474fea3", null ],
+    [ "SizeY", "a30067.html#af21f6d4f77710b1d3707de7b0a448fd5", null ],
+    [ "SizeZ", "a30067.html#a123f85285f92e24dd4c0c99fc616635f", null ],
+    [ "UnknownData00", "a30067.html#a1f3871b7801048f969b4192cac5bcb1e", null ]
 ];

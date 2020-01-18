@@ -1,8 +1,6 @@
 var a06795 =
 [
-    [ "StaticClass", "a06795.html#a40aeef5e6f838e095289f3a0aa4b0009", null ],
-    [ "LinkedDialog", "a06795.html#a709f230783830f720b5a771ac191ce22", null ],
-    [ "LinkedDialogOption", "a06795.html#a898d65925ecb9378201056c29632e8b1", null ],
-    [ "NumberOfUses", "a06795.html#ade7d8e5f3cedf63cbe36264cf5fa60bf", null ],
-    [ "UnknownData00", "a06795.html#ab17a7007244b807f6d30788772e10a5d", null ]
+    [ "StaticClass", "a06795.html#a23c7282ab07ac7142f34d2c10207a918", null ],
+    [ "DefaultText", "a06795.html#afd6f79d5b7f55656e7436fffa50a5d88", null ],
+    [ "Text", "a06795.html#ad3e959cd72717ee00ce1d8f641ad18d3", null ]
 ];

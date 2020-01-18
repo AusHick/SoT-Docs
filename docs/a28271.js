@@ -1,6 +1,7 @@
 var a28271 =
 [
-    [ "StaticClass", "a28271.html#a4c82d36a671ef2f82d2028152692c0bd", null ],
-    [ "ResetColor", "a28271.html#ac2e099ac8f8339c50588edc08e9f148b", null ],
-    [ "UnknownData00", "a28271.html#a5b3ed8423476638038aaf895ee1fc9eb", null ]
+    [ "StaticClass", "a28271.html#a66080f76c55308a891a61ea83fd0a49c", null ],
+    [ "ActiveTab", "a28271.html#ae4f4df43a747764525e9fb788596010f", null ],
+    [ "Tabs", "a28271.html#a31d3eff286da9ae39f521b4922c857bc", null ],
+    [ "UnknownData00", "a28271.html#a6afa3a5b7ccddb1d57924204ae76f575", null ]
 ];

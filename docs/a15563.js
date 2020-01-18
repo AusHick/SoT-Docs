@@ -1,5 +1,5 @@
 var a15563 =
 [
-    [ "Loadout", "a15563.html#ab3737ba74c0c0ecefbfd1df5c2659d63", null ],
-    [ "PirateId", "a15563.html#aa168c446d44ee78f70462d5dab131d56", null ]
+    [ "Impact", "a15563.html#a1e2fca7e854c9d84f4f391390ec93a91", null ],
+    [ "UnknownData00", "a15563.html#a0f08a079f70eb94337d376cb17499df2", null ]
 ];

@@ -1,5 +1,5 @@
 var a04143 =
 [
-    [ "StaticClass", "a04143.html#a7570ca8905f5bf677dc651c47b7a0f31", null ],
-    [ "CompaniesToValidate", "a04143.html#a28aae9089d9738985386502c12660ece", null ]
+    [ "StaticClass", "a04143.html#a60fd5763d8324ec7060b726b5e03b947", null ],
+    [ "CompanyLevelData", "a04143.html#a85c96be383dad774f86ecfb0ecccb448", null ]
 ];

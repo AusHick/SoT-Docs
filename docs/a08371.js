@@ -1,5 +1,6 @@
 var a08371 =
 [
-    [ "GetStatusEffectComponent", "a08371.html#a89789995cd1fc3fc8dfacc0c7ee286c2", null ],
-    [ "StaticClass", "a08371.html#a33f38b304d06e900a78007e838e3fe8f", null ]
+    [ "StaticClass", "a08371.html#a6ff8e50bb09a6ce17d9fb79fcd48a907", null ],
+    [ "ClampedMaxTurnAngle", "a08371.html#abd5bd53f4733f608371dbb53c772b970", null ],
+    [ "UnknownData00", "a08371.html#a2b143adc7d0d2760165cb3fddba59dc0", null ]
 ];

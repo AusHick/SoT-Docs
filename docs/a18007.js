@@ -1,7 +1,5 @@
 var a18007 =
 [
-    [ "Animation", "a18007.html#af30fa1df276d57f9c2b70792e54b38ee", null ],
-    [ "PropSocketName", "a18007.html#a1222c5500c9b51a3bafd87d22ed33a4b", null ],
-    [ "SkeletalMeshProp", "a18007.html#a2b516b3157d157e423b5d68e0ec73de5", null ],
-    [ "StaticMeshProp", "a18007.html#a82f7128b6bd702044e9d0b719cfb11a4", null ]
+    [ "ResolutionX", "a18007.html#a060cd77134daaf3563440fdeb1cad802", null ],
+    [ "ResolutionY", "a18007.html#a63d3b23a7bf9a240c544cc7e7054bacb", null ]
 ];

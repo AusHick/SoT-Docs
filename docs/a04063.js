@@ -1,10 +1,21 @@
 var a04063 =
 [
-    [ "StaticClass", "a04063.html#a4209395e328a6874bad4189ca02aad52", null ],
-    [ "DistanceScalingCurve", "a04063.html#ab62b8dceeac135a193376dea7a98730a", null ],
-    [ "MaxElements", "a04063.html#a2b42549030e40d7b2a1fec0093b4b3e7", null ],
-    [ "NormalizedScreenSpaceVisibilityMargin", "a04063.html#af7a23a8afd3cc2897c3e7a82494a3fe0", null ],
-    [ "TitleFadeDistance", "a04063.html#a66b05bf13b20531644541c2be6ab860e", null ],
-    [ "UnknownData00", "a04063.html#a9f08b198cca4bc7598e3ae2f41eb0771", null ],
-    [ "VisibilityFactors", "a04063.html#ad666b9c4de2a60061c7be49234465009", null ]
+    [ "AttachToBootFlowMessagingDispatcher", "a04063.html#aa46d295732734b84f825eef8dab38f7a", null ],
+    [ "DeletePirate", "a04063.html#abbf3019f7e02c9dc0712d9d6c6e95a76", null ],
+    [ "GetBootFlowMessagingDispatcher", "a04063.html#a0922b86fcf503fd1f4c0b4ebab9124e7", null ],
+    [ "SetBootFlowMessagingDispatcher", "a04063.html#a8e9dd7c8b61008f8eccebc32e4c9b4c7", null ],
+    [ "StaticClass", "a04063.html#af619eb963295743c26687750d9b4a3ca", null ],
+    [ "CoherentToWwiseEventComponent", "a04063.html#ab0087dc1900c455ced31fb74511070e6", null ],
+    [ "FrontendCameraComponent", "a04063.html#abd53998b1a79ca01086324315e6b0071", null ],
+    [ "FrontendHudComponent", "a04063.html#ae8bb9c760d8e03de28ec9450766e30d7", null ],
+    [ "FrontendTelemetryComponent", "a04063.html#a8f6659dd46807f3f47a1ce71124bcdb3", null ],
+    [ "InputForwardComponent", "a04063.html#a968d7be612a5478ac09464787d2288b8", null ],
+    [ "ItemPreviewComponent", "a04063.html#a21fbe2b1c68f7c82158403c6bdaf63e5", null ],
+    [ "ObjectMessagingDispatcher", "a04063.html#a5b371e3359168b151d92935a470762ee", null ],
+    [ "PiratePreviewComponent", "a04063.html#a92a2d17c12a9a537529b0ab37c966264", null ],
+    [ "PirateSelectorComponent", "a04063.html#a3db62590005dadf388b3133c7af630ec", null ],
+    [ "PremiumShopViewModelComponent", "a04063.html#aade3235bddcd55f892e7ec7170a06adb", null ],
+    [ "PressAnyButtonSFX", "a04063.html#a9c07ff08f675a6277b1019b288b45385", null ],
+    [ "UnknownData00", "a04063.html#aa2bd1f055f2c9ae90d785562a24bced2", null ],
+    [ "UnknownData01", "a04063.html#a2d788d471303e9437445a54503d04037", null ]
 ];

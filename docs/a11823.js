@@ -1,5 +1,6 @@
 var a11823 =
 [
-    [ "StaticClass", "a11823.html#a10ecdc43af186f3fc60fcff99633b977", null ],
-    [ "IslandTypeStateGroup", "a11823.html#aa24127e2b1adf9600518ec90525b2b6e", null ]
+    [ "GetInheritedLaunchVelocity", "a11823.html#ad667f96eb8986033af70b74f59747fcb", null ],
+    [ "GetProjectileIgnoreActors", "a11823.html#a84ca2b5cc436b9776d97bd50878d012e", null ],
+    [ "StaticClass", "a11823.html#a7ea85c3dc52d0c4300a51b405ae25e48", null ]
 ];

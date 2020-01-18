@@ -1,6 +1,9 @@
 var a33303 =
 [
-    [ "Direction", "a33303.html#a52f0114f6eee29ee6043c2dd0159a417", null ],
-    [ "Range", "a33303.html#ade78a8b947dfa9d31b55ac0bc20f9183", null ],
-    [ "Weight", "a33303.html#a9c6fa8ae84e835cfa807b02b8a334e2d", null ]
+    [ "StaticClass", "a33303.html#aaa3d92542274eecdcda0b9b2fe038a13", null ],
+    [ "bFireEventsWhenBackwards", "a33303.html#a1a174ac000060113253bd2760a67b884", null ],
+    [ "bFireEventsWhenForwards", "a33303.html#a119594b811e9ab9aeabaf2688d1a4587", null ],
+    [ "Sections", "a33303.html#a9d6db570e016210a3493adf283342915", null ],
+    [ "TrackName", "a33303.html#a185eaa745cd5d52d83cbb410fe27614b", null ],
+    [ "UnknownData00", "a33303.html#adeabf00a9222da92872ca45a4de5edf4", null ]
 ];

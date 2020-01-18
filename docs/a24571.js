@@ -1,7 +1,6 @@
 var a24571 =
 [
-    [ "StaticClass", "a24571.html#afa2145cd4a67bbe0c836f69e3fe2ebfd", null ],
-    [ "HealthComponent", "a24571.html#a3fdcb8bbbddf7622e39884ac26632d6c", null ],
-    [ "StrategyVulnerabilities", "a24571.html#aa93dfa20e478a52a88e0a7bdb840f39d", null ],
-    [ "UnknownData00", "a24571.html#a36421eb4dde70f786dc9b7b34647b66d", null ]
+    [ "StaticClass", "a24571.html#abe9ca99229f0f42252a63905ef75f1ee", null ],
+    [ "Max", "a24571.html#a6d12a8bf16fd35fc4cd2993b807ed35b", null ],
+    [ "Min", "a24571.html#a9eb61df33fd9d15b03d856321a0a010b", null ]
 ];

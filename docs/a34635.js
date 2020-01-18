@@ -1,4 +1,5 @@
 var a34635 =
 [
-    [ "UnknownData00", "a34635.html#a33e90bbf3cff839c9e53ff3e596f4d26", null ]
+    [ "StaticClass", "a34635.html#aed550d0629b210f84f896683407e0e50", null ],
+    [ "EditableTextBoxStyle", "a34635.html#a4045e07072df2c72c68a8a496752e41f", null ]
 ];

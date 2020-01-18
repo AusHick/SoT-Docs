@@ -1,4 +1,5 @@
 var a25459 =
 [
-    [ "StaticClass", "a25459.html#a59592155d2674502fba15632d7c40900", null ]
+    [ "AIPawn", "a25459.html#a25a92e60e0d242c05e01d5edc127898b", null ],
+    [ "UnknownData00", "a25459.html#ad692f6117110ba1ffe696763e6fac329", null ]
 ];

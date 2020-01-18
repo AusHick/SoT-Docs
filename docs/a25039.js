@@ -1,6 +1,5 @@
 var a25039 =
 [
-    [ "CastShadows", "a25039.html#a2bf5e5ba653f162f7b546e8462db53a8", null ],
-    [ "MaterialInstance", "a25039.html#ad5f9509afd2f2f4d9951173cff048488", null ],
-    [ "UnknownData00", "a25039.html#a5a3cc16c62a912197a8a6bdc8322c724", null ]
+    [ "DistanceInMToProjectileHitChanceCurve", "a25039.html#a38892c7e5f0dd8475e00ba2a3796a770", null ],
+    [ "ItemCategory", "a25039.html#abb9d288f71c8b8b543a6959324bf4641", null ]
 ];

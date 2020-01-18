@@ -1,8 +1,4 @@
 var a05651 =
 [
-    [ "StaticClass", "a05651.html#ab52eca03862b40454ceb2369ff4f6a56", null ],
-    [ "ImpulseMultiplier", "a05651.html#a86adf614771244306b80ce0cc09cd292", null ],
-    [ "MinimumTimeBetweenImpulses", "a05651.html#a8f6fccba6f650fb76eb851381234ca43", null ],
-    [ "UnknownData00", "a05651.html#a2c640a1c6490aa884b61dfdbc01e95bc", null ],
-    [ "UnknownData01", "a05651.html#a2e55fe49c3d96795c2f47a1da0488b01", null ]
+    [ "StaticClass", "a05651.html#abb8c3eddd88b1ab55615259e006d334c", null ]
 ];

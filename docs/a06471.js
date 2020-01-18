@@ -1,9 +1,7 @@
 var a06471 =
 [
-    [ "OnOpenEscapeMenu", "a06471.html#a0fbe78baff521531a5caa143f82f2566", null ],
-    [ "OnOpenQuickMenu", "a06471.html#a6e4e75d21c7c865a0566e1ed6e0ba815", null ],
-    [ "OnToggleOtherCrewNameplates", "a06471.html#a28dba305c685f41f037e15e9b525df92", null ],
-    [ "OnTogglePhotoMode", "a06471.html#afc8a6efc285bdc7855365e4e3595786b", null ],
-    [ "StaticClass", "a06471.html#aa4cd9d0aef22fece1f60759eb7673086", null ],
-    [ "UnknownData00", "a06471.html#a8674d1c1b0568d23c2bcf57cc91a168f", null ]
+    [ "StaticClass", "a06471.html#a9b049bfc06f04cb683c1bddf987816e4", null ],
+    [ "Mesh", "a06471.html#a43a8fb7085a892be5705413bc7a4fa2e", null ],
+    [ "PlaySongEvent", "a06471.html#ac9fc9932604aff64e95e236c241e7ce5", null ],
+    [ "StopSongEvent", "a06471.html#aeb36069d3dfdd95ef21c7f952940b8eb", null ]
 ];

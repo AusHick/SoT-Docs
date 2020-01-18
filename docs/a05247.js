@@ -1,9 +1,5 @@
 var a05247 =
 [
-    [ "OnInteract_Client_Implementation", "a05247.html#a474c4692f13908fe1b2a999f2d1409f2", null ],
-    [ "StaticClass", "a05247.html#ae6d3068854a8f4d82e01cb41c25b4c3e", null ],
-    [ "HalfSkellyName", "a05247.html#a6f0dea0553ddbc97e4673a8340d49541", null ],
-    [ "InteractableComponent", "a05247.html#a2aa4c9ee90f94e98bca4aa5cef76f554", null ],
-    [ "SkeletalMeshComponent", "a05247.html#aac061fc86eb8cbdcfe739284f60281d3", null ],
-    [ "UnknownData00", "a05247.html#ae882b5aab6a8632ade7c31ab21cea1b5", null ]
+    [ "StaticClass", "a05247.html#a5e8cf4c21570965b420afe3a4dd746d1", null ],
+    [ "Pages", "a05247.html#abf9dc00f4453b4737e3a4b9003610305", null ]
 ];

@@ -1,6 +1,6 @@
 var a35003 =
 [
-    [ "StaticClass", "a35003.html#acdf21c4ef700676b66dd1eac0179b869", null ],
-    [ "Desc", "a35003.html#a6a10fe4a779f4df0f30bffb50ed43593", null ],
-    [ "UnknownData00", "a35003.html#a38afd58d8d6de4bc210658c66da75333", null ]
+    [ "CanShowMaterialParam", "a35003.html#a08c0e95481fe5fd1c2edcc33aa3a5044", null ],
+    [ "FadeOutAcceleration", "a35003.html#a07836c845c026f2e43a49bc5cfd31a69", null ],
+    [ "MaterialParamName", "a35003.html#a4df95d33faf9ee687cdb6e69dfdb89cd", null ]
 ];

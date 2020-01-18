@@ -1,8 +1,10 @@
 var a14827 =
 [
-    [ "ActiveDuration", "a14827.html#ac2867b549e9ac2fefa6b5d564fb5c0f1", null ],
-    [ "IdleDuration", "a14827.html#a96e2e768d5ab33ef4587ec6cc54edbbd", null ],
-    [ "IsMigration", "a14827.html#a897591c200d0b3d1f3eabc6fc3ad756a", null ],
-    [ "UnknownData00", "a14827.html#a92891745424138e4f5caf8a7882b15fa", null ],
-    [ "VoiceChatDuration", "a14827.html#a17d84fca18a4fb0978e007fd14edb198", null ]
+    [ "MapPins", "a14827.html#a2dde9b110bc8440c548cdce647775341", null ],
+    [ "MaxMapPins", "a14827.html#ad226b0d46487e20e8a8d1785e9fdcc0f", null ],
+    [ "SelectedPin", "a14827.html#a10ba009420bd1be3af6d3a95d3870bf0", null ],
+    [ "UnknownData00", "a14827.html#a28a2ded2e88310b3ca8ad63e7614aea2", null ],
+    [ "WorldX", "a14827.html#a60742201aebfee1072ababd15298a125", null ],
+    [ "WorldY", "a14827.html#a6034cc24712313d4685110f10856af39", null ],
+    [ "Zoom", "a14827.html#aa05793cd1c8a7bf6c9e85f6f0df28c57", null ]
 ];

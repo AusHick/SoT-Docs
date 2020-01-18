@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FAIBountySpawnerWaveLocation Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAIDebugVisualisationCone Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,39 +87,51 @@ $(document).ready(function(){initNavTree('a25079.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a25076.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FAIBountySpawnerWaveLocation Struct Reference</div>  </div>
+<div class="title">SDK::FAIDebugVisualisationCone Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIBountySpawnerWaveLocation:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAIDebugVisualisationCone:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a25077.svg" width="503" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a25077.svg" width="620" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a02b29d2a8e6e1ccb730aabe4cf2eff72"><td class="memItemLeft" align="right" valign="top"><a id="a02b29d2a8e6e1ccb730aabe4cf2eff72"></a>
-struct <a class="el" href="a26075.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Location</b></td></tr>
-<tr class="separator:a02b29d2a8e6e1ccb730aabe4cf2eff72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac5edb378d4a90d936884e00fa32f8646"><td class="memItemLeft" align="right" valign="top"><a id="ac5edb378d4a90d936884e00fa32f8646"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>SelectionWeight</b></td></tr>
-<tr class="separator:ac5edb378d4a90d936884e00fa32f8646"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0962894011c7c2c188ab2b7b4dcd4e1a"><td class="memItemLeft" align="right" valign="top"><a id="a0962894011c7c2c188ab2b7b4dcd4e1a"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>AllowForTarget</b></td></tr>
-<tr class="separator:a0962894011c7c2c188ab2b7b4dcd4e1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd4cb0885803d897a2d85e85d3a6f73d"><td class="memItemLeft" align="right" valign="top"><a id="acd4cb0885803d897a2d85e85d3a6f73d"></a>
+<tr class="memitem:a8274b101620524e98656cc70e19a2566"><td class="memItemLeft" align="right" valign="top"><a id="a8274b101620524e98656cc70e19a2566"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Origin</b></td></tr>
+<tr class="separator:a8274b101620524e98656cc70e19a2566"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d30df8fa673807621ca79ac119d3dd1"><td class="memItemLeft" align="right" valign="top"><a id="a9d30df8fa673807621ca79ac119d3dd1"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Direction</b></td></tr>
+<tr class="separator:a9d30df8fa673807621ca79ac119d3dd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5aa041c121f7bc2cba0c273bef6d252"><td class="memItemLeft" align="right" valign="top"><a id="ab5aa041c121f7bc2cba0c273bef6d252"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Length</b></td></tr>
+<tr class="separator:ab5aa041c121f7bc2cba0c273bef6d252"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2280b94a03800626f3d0b3b1b5afe9a"><td class="memItemLeft" align="right" valign="top"><a id="ad2280b94a03800626f3d0b3b1b5afe9a"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AngleWidthRadians</b></td></tr>
+<tr class="separator:ad2280b94a03800626f3d0b3b1b5afe9a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8efbd4eb8c2875fc605278e147e24307"><td class="memItemLeft" align="right" valign="top"><a id="a8efbd4eb8c2875fc605278e147e24307"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>AngleHeightRadians</b></td></tr>
+<tr class="separator:a8efbd4eb8c2875fc605278e147e24307"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aedf47ebcd15c8d05e2c9a3a23c45a628"><td class="memItemLeft" align="right" valign="top"><a id="aedf47ebcd15c8d05e2c9a3a23c45a628"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>LifeTime</b></td></tr>
+<tr class="separator:aedf47ebcd15c8d05e2c9a3a23c45a628"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ee94e7e0710e9e18bd9d197bdf23c2d"><td class="memItemLeft" align="right" valign="top"><a id="a3ee94e7e0710e9e18bd9d197bdf23c2d"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EAIDebugColour &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Colour</b></td></tr>
+<tr class="separator:a3ee94e7e0710e9e18bd9d197bdf23c2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ef816c06645d3cc8ca7bd9888a9841d"><td class="memItemLeft" align="right" valign="top"><a id="a3ef816c06645d3cc8ca7bd9888a9841d"></a>
 unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:acd4cb0885803d897a2d85e85d3a6f73d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a3ef816c06645d3cc8ca7bd9888a9841d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25079.html">FAIBountySpawnerWaveLocation</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a25079.html">FAIDebugVisualisationCone</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:29 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

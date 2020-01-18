@@ -1,6 +1,7 @@
 var a13719 =
 [
-    [ "ItemLocation", "a13719.html#a67cda122f2a7d1dcdf735fc68ada4285", null ],
-    [ "ItemType", "a13719.html#addaa13212e4fa661b0b8cdc3e4063760", null ],
-    [ "UnknownData00", "a13719.html#a61567dc123af1313fc3c2f9984b09b30", null ]
+    [ "AudioLoop", "a13719.html#aefc629625a96cd9f020c0da33dcb6392", null ],
+    [ "ShipCurseTag", "a13719.html#a8e40bfbae0e1bb487c1be2134b73714d", null ],
+    [ "UnknownData00", "a13719.html#adf801f00113ae00efe2bfd2f6e5d6519", null ],
+    [ "VFXTemplates", "a13719.html#ad681cbe51c60f6682b4eb602f506645d", null ]
 ];

@@ -1,6 +1,5 @@
 var a21923 =
 [
-    [ "ItemBuried", "a21923.html#a1d933bedc49aec007e62ab7983597701", null ],
-    [ "Location", "a21923.html#adee83f17dc353b21e15b13128d8a60d0", null ],
-    [ "UnknownData00", "a21923.html#a69d89c6abae07423dddfc9f12dd6e640", null ]
+    [ "BootyId", "a21923.html#a7ea4d40ad9886b2de93ccb7f9716b047", null ],
+    [ "Rarity", "a21923.html#a7d6105fac9edb95bb6e4268e91805117", null ]
 ];

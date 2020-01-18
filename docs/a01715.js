@@ -1,7 +1,7 @@
 var a01715 =
 [
-    [ "AmmoType", "a01715.html#a6392fc1cf6643be3c4009bcafb14385b", null ],
-    [ "IconIndex", "a01715.html#a12d8e14d394f3a848d6a724a666fea82", null ],
-    [ "IconType", "a01715.html#a19fc69ca2fc73972c9ff819eacfa764a", null ],
-    [ "UnknownData00", "a01715.html#a58fb64c50e2f1c71322109ef97f65285", null ]
+    [ "Location", "a01715.html#a2c0b4f0296d178fdc55a9ce3bf2eb79b", null ],
+    [ "Name", "a01715.html#aa13bd46e5bf362d27d834d12418d9ec5", null ],
+    [ "Radius", "a01715.html#af78d00eb0589ec4bb6d69c8765bf5165", null ],
+    [ "UnknownData00", "a01715.html#ab6f4e88973367fd440fee2c1117a0654", null ]
 ];

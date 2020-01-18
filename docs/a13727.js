@@ -1,6 +1,6 @@
 var a13727 =
 [
-    [ "DamageMultiplier", "a13727.html#a116af5791740adf0ed339806dd81584f", null ],
-    [ "DamagerType", "a13727.html#ad3620da1b121fc53ea33053162f07508", null ],
-    [ "UnknownData00", "a13727.html#ad09395e94e194b1f1de7518859135be3", null ]
+    [ "TargetMaterial", "a13727.html#aac8b4d850f4debbb08ab32b457cb2d97", null ],
+    [ "TargetParameterName", "a13727.html#a21fa76af3fd155b8a0be73607688b4e8", null ],
+    [ "TargetTexture", "a13727.html#a116d4251af51c202449e6ed779e163e1", null ]
 ];

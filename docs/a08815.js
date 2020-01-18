@@ -1,8 +1,13 @@
 var a08815 =
 [
-    [ "StaticClass", "a08815.html#a6e08aa750e8e1a419e79229beeec58e4", null ],
-    [ "CurrentStep", "a08815.html#ad135d76d3fa913ff6589fa79c881454a", null ],
-    [ "Desc", "a08815.html#a5748f77dab3f6830a548575653a14098", null ],
-    [ "ForkedSteps", "a08815.html#ae7d760c0ec393c4cfc79fd11081d01b2", null ],
-    [ "UnknownData00", "a08815.html#a01f2d3f816051f77945585536c7361aa", null ]
+    [ "AddTool", "a08815.html#abc29e4aa94d67099dff2713882344181", null ],
+    [ "AddTools", "a08815.html#a29cfc7532a6d35dc2de16cd7a628347b", null ],
+    [ "GiveToolsToAllParticipants", "a08815.html#a0709fad96ce090bd95adb9ee27008619", null ],
+    [ "GiveToolsToAllParticipantsAndInstantlyWieldByPlayer", "a08815.html#a9139ab0a217b00b39b04bb5873240112", null ],
+    [ "GiveToolToAllParticipants", "a08815.html#aa4725e24765594e52cd8de81722d3a41", null ],
+    [ "RemoveToolsFromAllParticipants", "a08815.html#ad91270a488e3b7397a23371f8de7741a", null ],
+    [ "StaticClass", "a08815.html#a2f625a6028a7d1caefb164d92cdcd9fc", null ],
+    [ "ServiceDesc", "a08815.html#a17b4d58f2c8ea633e32475c9def5bdfa", null ],
+    [ "UnknownData00", "a08815.html#a7e9ce48bf0e2b5c26b1c145b4fd1f7f6", null ],
+    [ "WieldableDescs", "a08815.html#a33a692321284e2ce06a6908511f883e7", null ]
 ];

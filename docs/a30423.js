@@ -1,7 +1,8 @@
 var a30423 =
 [
-    [ "CurveTypeFlags", "a30423.html#a6e399bc017695388f65064f1274a7ff9", null ],
-    [ "LastObservedName", "a30423.html#a17a3c3255af27304fd314a9c764e8aa6", null ],
-    [ "UnknownData00", "a30423.html#adfbf51124f0ddb92ce0f5fd1322d1d8a", null ],
-    [ "UnknownData01", "a30423.html#a74508d5b997f9306d5de553ee4fe5370", null ]
+    [ "ExpressionGUID", "a30423.html#a60bca0115fe0a982fb1708289c1e09f7", null ],
+    [ "FontPage", "a30423.html#a9dcc8ac164028f586fa3e5c4d963aee6", null ],
+    [ "FontValue", "a30423.html#a310b2dfa2e9bd5866e5a5d6e9f231106", null ],
+    [ "ParameterName", "a30423.html#af0126e885c25a30081e6ab556d6ffbc4", null ],
+    [ "UnknownData00", "a30423.html#a4653d03358b54c062bd0c94dec99bc54", null ]
 ];

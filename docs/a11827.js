@@ -1,5 +1,6 @@
 var a11827 =
 [
-    [ "StaticClass", "a11827.html#a30de50aedd23193dda5d56272c069f81", null ],
-    [ "SeaName", "a11827.html#a54e5c08eeefb98813791928528155b5e", null ]
+    [ "GetPitch", "a11827.html#a80a6b756091b44f19982b72a133b9c1e", null ],
+    [ "GetYaw", "a11827.html#a215599c429cd8bf9e40a1aabf1b1ce7e", null ],
+    [ "StaticClass", "a11827.html#a8385d738d083557016f696a98c587879", null ]
 ];

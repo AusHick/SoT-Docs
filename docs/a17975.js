@@ -1,6 +1,7 @@
 var a17975 =
 [
-    [ "Status", "a17975.html#a853282d1cc8dddab8910681621e89c0f", null ],
-    [ "UnknownData00", "a17975.html#a3441a88134d84c95645eafc142663965", null ],
-    [ "UnknownData01", "a17975.html#a486f6b34dabe558ff6c51d298dd0d9c0", null ]
+    [ "ForceRebuild", "a17975.html#a66d1d61b55daae9149846b91ce2b1818", null ],
+    [ "PirateDescription", "a17975.html#a136ef1d6696a83a3684576c90fe0fe51", null ],
+    [ "UnknownData00", "a17975.html#add703c17f51ea626d3b6fba432186d08", null ],
+    [ "View", "a17975.html#ad221e5312f381f503f7ce6a3bb1fa492", null ]
 ];

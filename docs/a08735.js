@@ -1,5 +1,5 @@
 var a08735 =
 [
-    [ "StaticClass", "a08735.html#a7dd8ae06c7511697b47682f893f13a65", null ],
-    [ "Desc", "a08735.html#a97a9aefc78bdb54fb05c7327578f25c0", null ]
+    [ "StaticClass", "a08735.html#a37b1c33d165bab7cfadd1a191974a35d", null ],
+    [ "Descs", "a08735.html#ad139fa4fe24501333b7f1b429cca8c3d", null ]
 ];

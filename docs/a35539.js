@@ -1,9 +1,11 @@
 var a35539 =
 [
-    [ "GetEndTime", "a35539.html#ab72faba8bf73a1ab3b55a36ef9390d3c", null ],
-    [ "GetStartTime", "a35539.html#ab54546cd6af5cd2f9463f40fa5faf1a9", null ],
-    [ "StaticClass", "a35539.html#ac1e999e1499d03cb606e955ab672534f", null ],
-    [ "AnimationBindings", "a35539.html#a59bfe7ce2182d9d2ebb4af531b40cf78", null ],
-    [ "MovieScene", "a35539.html#abc0493b3897d063bd351a0558fa99ffa", null ],
-    [ "UnknownData00", "a35539.html#a7e6784222cb1019b0d79ef8c5a4496cc", null ]
+    [ "SetHorizontalAlignment", "a35539.html#a5e3391d4fc42dcc389a495cab8544b77", null ],
+    [ "SetPadding", "a35539.html#a8c2e0fbba811785f19e728c90455b927", null ],
+    [ "SetVerticalAlignment", "a35539.html#a9fee35856c1c32680a5af1f317120716", null ],
+    [ "StaticClass", "a35539.html#afee07b02fe445e04d12a1376b6ecda8e", null ],
+    [ "HorizontalAlignment", "a35539.html#afb745d644be85ca57851d87d437079fb", null ],
+    [ "Padding", "a35539.html#ab2a1f2ab69137a67da031238b4bfcbfa", null ],
+    [ "UnknownData00", "a35539.html#ab5f677a168fcc427d56032d1e12dd19d", null ],
+    [ "VerticalAlignment", "a35539.html#a149777f2df1b2983caa8d9e0055a6b7f", null ]
 ];

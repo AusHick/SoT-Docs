@@ -1,4 +1,7 @@
 var a12499 =
 [
-    [ "StaticClass", "a12499.html#ab62adb17fdb5b434ef9e5c61d8083434", null ]
+    [ "StaticClass", "a12499.html#a662cb2b5a6ef3bc6e8b19ef0c7995b72", null ],
+    [ "OpenableItemComponent", "a12499.html#ab9af134a84e463d41e5727b3518ced87", null ],
+    [ "UnknownData00", "a12499.html#aa9185f9bb3e2c409a895c937a9f9054f", null ],
+    [ "UnknownData01", "a12499.html#ac3bd9390c606259405832b0a0a0d16a1", null ]
 ];

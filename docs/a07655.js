@@ -1,8 +1,5 @@
 var a07655 =
 [
-    [ "StaticClass", "a07655.html#ae2b2ff6fdcf062c8a462081b2a233929", null ],
-    [ "Settings", "a07655.html#a88fd98351e482b5a14e49ff1d50c30e5", null ],
-    [ "TrackedBootyItems", "a07655.html#a0260d7134472ecd843a4b6aff2fc406c", null ],
-    [ "UnknownData00", "a07655.html#a3f23393bee3c589b2ac0b3f7d6fc6636", null ],
-    [ "UnknownData01", "a07655.html#a96c82ffc8fe1f9b27f1a53b309ef80d1", null ]
+    [ "StaticClass", "a07655.html#a60f7aabb116610810e6301bfc21d80b6", null ],
+    [ "ActorVar", "a07655.html#ade1b5c6c9b466549ff700dfe3aa9a91b", null ]
 ];

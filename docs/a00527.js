@@ -1,4 +1,4 @@
 var a00527 =
 [
-    [ "WieldableItemSizesDisablePickup", "a00527.html#a75ca7832709b6ef368fc21414466e52f", null ]
+    [ "StaticClass", "a00527.html#a62bb16df2503ea4e4fead6f9a0cc42d6", null ]
 ];

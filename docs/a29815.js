@@ -1,6 +1,5 @@
 var a29815 =
 [
-    [ "StaticClass", "a29815.html#a2ca6ef28382a80487b774d5c896ad62e", null ],
-    [ "Brightness", "a29815.html#ae5c704b56a4b800b5bcaafddfad60557", null ],
-    [ "TextureMultiplier", "a29815.html#a6347c4003ecb657d25327625f8e7198d", null ]
+    [ "StaticClass", "a29815.html#ad6689461a10e5c17dd76c1928b53803b", null ],
+    [ "Parent", "a29815.html#a05f6a032f9182a7b329aa154af8926c9", null ]
 ];

@@ -1,4 +1,4 @@
 var a13523 =
 [
-    [ "RewardId", "a13523.html#a81b009cb798bbf1905cd5158bd1b68bc", null ]
+    [ "WeightedContestZones", "a13523.html#a8cfab489db63a9d705a88048876bc75c", null ]
 ];

@@ -1,5 +1,5 @@
 var a16563 =
 [
-    [ "CurrentScreen", "a16563.html#ad4ba264b0f649a85761fd1d0075c4fd3", null ],
-    [ "PreviousScreen", "a16563.html#abfe0ad66c0cd8e5371c801aa3f57b3de", null ]
+    [ "Formations", "a16563.html#abafc85d7f42a06436fbf47d3ec97e405", null ],
+    [ "PoolEntries", "a16563.html#a98f0106660f86ed278e875e4ffa6cb0d", null ]
 ];

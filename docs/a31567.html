@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FA2Pose Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FOverlapResult Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,37 +87,42 @@ $(document).ready(function(){initNavTree('a31567.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31564.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FA2Pose Struct Reference</div>  </div>
+<div class="title">SDK::FOverlapResult Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Inheritance diagram for SDK::FA2Pose:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FOverlapResult:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31566.svg" width="180" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
-</div>
-<div id="dynsection-1" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-1-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FA2Pose:</div>
-<div id="dynsection-1-summary" class="dynsummary" style="display:block;">
-</div>
-<div id="dynsection-1-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31565.svg" width="151" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a31565.svg" width="503" height="316"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a9aaee59d90122f94b6a6240935c49696"><td class="memItemLeft" align="right" valign="top"><a id="a9aaee59d90122f94b6a6240935c49696"></a>
-<a class="el" href="a25611.html">TArray</a>&lt; struct <a class="el" href="a26191.html">FTransform</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Bones</b></td></tr>
-<tr class="separator:a9aaee59d90122f94b6a6240935c49696"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba62b437572babaec5254c8e53fc5bc5"><td class="memItemLeft" align="right" valign="top"><a id="aba62b437572babaec5254c8e53fc5bc5"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a26555.html">AActor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Actor</b></td></tr>
+<tr class="separator:aba62b437572babaec5254c8e53fc5bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf1c125805b8a44f9e6f374c97144f89"><td class="memItemLeft" align="right" valign="top"><a id="abf1c125805b8a44f9e6f374c97144f89"></a>
+<a class="el" href="a25879.html">TWeakObjectPtr</a>&lt; class <a class="el" href="a26631.html">UPrimitiveComponent</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Component</b></td></tr>
+<tr class="separator:abf1c125805b8a44f9e6f374c97144f89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac3dc5b98d94bbfed390dbac8de62dd5a"><td class="memItemLeft" align="right" valign="top"><a id="ac3dc5b98d94bbfed390dbac8de62dd5a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x4]</td></tr>
+<tr class="separator:ac3dc5b98d94bbfed390dbac8de62dd5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac54552e5568218265a4428b01dc42fa"><td class="memItemLeft" align="right" valign="top"><a id="aac54552e5568218265a4428b01dc42fa"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>bBlockingHit</b>: 1</td></tr>
+<tr class="separator:aac54552e5568218265a4428b01dc42fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a49219a272e69d26907ecaa080baed008"><td class="memItemLeft" align="right" valign="top"><a id="a49219a272e69d26907ecaa080baed008"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:a49219a272e69d26907ecaa080baed008"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31567.html">FA2Pose</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:18 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31567.html">FOverlapResult</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:43 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

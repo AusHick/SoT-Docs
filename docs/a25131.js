@@ -1,4 +1,5 @@
 var a25131 =
 [
-    [ "UnknownData00", "a25131.html#aeb81137c1b7dbd28be8350a8584d7296", null ]
+    [ "SpawnWaveSequence", "a25131.html#a3293b041dbfd8fc64263b7186bfbf6aa", null ],
+    [ "Weights", "a25131.html#a9b1fbf1906b46bd5f5f6a8d898913be0", null ]
 ];

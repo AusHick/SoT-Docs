@@ -1,7 +1,7 @@
 var a12727 =
 [
-    [ "AdditionalEventsToTrigger", "a12727.html#a1ba5d7bb76709fa04a1db6fde572b644", null ],
-    [ "OnEventPosted", "a12727.html#a0cda496284925c3f0a01cff8ff38a110", null ],
-    [ "PreventPlayingPostedEvent", "a12727.html#ab2917155b58eaf726069af68ad0d098b", null ],
-    [ "UnknownData00", "a12727.html#a428da3d54a1cd6deb91a32b5be3fcbb3", null ]
+    [ "Character", "a12727.html#ae37867b98c5597dba0abfac8e39c8ec0", null ],
+    [ "DrinkConsumedVolumeThreshold", "a12727.html#a799ffa409099ab1801752909c1a1d52d", null ],
+    [ "RangeOfCheckInMetres", "a12727.html#a47e2f474e797f37d52ec7b596821bc17", null ],
+    [ "UnknownData00", "a12727.html#ad14c9a5cd65aa2d987e2158b4902a70a", null ]
 ];

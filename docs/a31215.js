@@ -1,6 +1,5 @@
 var a31215 =
 [
-    [ "bSuccessful", "a31215.html#a5734e1651250e80c72d35b4f05541010", null ],
-    [ "Data", "a31215.html#a5ced8387f947c5aba16a72496f15b1c9", null ],
-    [ "UnknownData00", "a31215.html#abfe9f16646726ef64a433ea559185726", null ]
+    [ "Extent", "a31215.html#a6b0413cf2e4d5b4eee03b9fbd95ea0d9", null ],
+    [ "Offset", "a31215.html#af71d5f3a7298d24c5513480288c00fe1", null ]
 ];

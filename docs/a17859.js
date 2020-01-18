@@ -1,6 +1,6 @@
 var a17859 =
 [
-    [ "Pitch", "a17859.html#aeb50a77ff13ac0ecb424e25d0fc10f1d", null ],
-    [ "Rotation", "a17859.html#adf4d79b4275d3801d9be86f1f2bf3a03", null ],
-    [ "Zoom", "a17859.html#a03e3bb1014a5f4f54dffcad506d5a931", null ]
+    [ "CrewId", "a17859.html#ae28aaa1f1683db4fcb06b18dc46a2e5c", null ],
+    [ "MatchmakingAttemptId", "a17859.html#afdec8f47e0b91abf22525c120eca80e9", null ],
+    [ "SessionType", "a17859.html#abcb0d547227ad299a185c353fcc7c344", null ]
 ];

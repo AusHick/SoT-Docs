@@ -1,4 +1,4 @@
 var a19947 =
 [
-    [ "Balances", "a19947.html#a6a782c117a0770706e95acb3edee6b3b", null ]
+    [ "Sender", "a19947.html#ab5dff9900d2aa4635c2cf37eff38c913", null ]
 ];

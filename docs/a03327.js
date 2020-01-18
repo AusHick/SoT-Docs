@@ -1,8 +1,10 @@
 var a03327 =
 [
-    [ "StaticClass", "a03327.html#abecfd97af9fc029d5635e2a8fd177133", null ],
-    [ "AmbienceEmitter", "a03327.html#a768ab40aacc5ccad69027ca6b3f710b6", null ],
-    [ "AmbiencePlay", "a03327.html#a2895c2d3526b2852aeefc1dfa2393816", null ],
-    [ "AmbiencePool", "a03327.html#a554d2e95cc2ab721b6ea73d975b7c9c4", null ],
-    [ "AmbienceStop", "a03327.html#af58548d4de2eef126a0d7630950b7201", null ]
+    [ "AssignTargetLight", "a03327.html#acbe1ed9b9cbd344cd2a949628eaf449f", null ],
+    [ "GetTargetLight", "a03327.html#a71e87a0291713e5910cc81100696b263", null ],
+    [ "StaticClass", "a03327.html#a7cd4191b8bde6f93e615a9fc7c1de02d", null ],
+    [ "BaseLightIntensity", "a03327.html#a7424771d2232532bf398ba86e7dad726", null ],
+    [ "HourOfDayToIntensityMultiplierCurve", "a03327.html#a6300aa512300fb74ac9b2f6d0e4e546c", null ],
+    [ "IntensitySpringAccel", "a03327.html#a4c6a45e3976b3f59e002d13832702d22", null ],
+    [ "UnknownData00", "a03327.html#a6247725764a99892b9f30bbbc761d6aa", null ]
 ];

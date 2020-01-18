@@ -1,5 +1,5 @@
 var a18323 =
 [
-    [ "CatalogName", "a18323.html#a09c70730fb8aee5827a6c57e36cb2d8f", null ],
-    [ "OfferId", "a18323.html#a9cecb00ffc9c01db2d5efe92b3652b4d", null ]
+    [ "CatalogName", "a18323.html#af67d12c33d9a5bf70ebd3d2e7098adda", null ],
+    [ "OfferId", "a18323.html#aef7160cf1a9d3fb0a9ac6bb1b1f1249b", null ]
 ];

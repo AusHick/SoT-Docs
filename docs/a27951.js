@@ -1,9 +1,7 @@
 var a27951 =
 [
-    [ "StaticClass", "a27951.html#a2170a1dcf542904c0eeb69b26e47aeab", null ],
-    [ "bLockAxes", "a27951.html#a13017d0234ce07002868c35e4d7c33b3", null ],
-    [ "ConstantCurve", "a27951.html#ab4852e3464994dcf413bf28d17590986", null ],
-    [ "LockedAxes", "a27951.html#aa234260e6d704cc9eabdd22f0af9cc33", null ],
-    [ "UnknownData00", "a27951.html#a9a1f21ff90ccd546c029e0f7d838aee3", null ],
-    [ "UnknownData01", "a27951.html#a72b0d3b5fb5ba2cebadea1539218ccca", null ]
+    [ "StaticClass", "a27951.html#a7878da8910c040a9a727a63984f71b97", null ],
+    [ "HiddenLevels", "a27951.html#a5a3470899fb990bbe58ff808ab701150", null ],
+    [ "Location", "a27951.html#abb29b3bd6ff7650d317f2becd8c12ae6", null ],
+    [ "Rotation", "a27951.html#a6b635c9aeb4d18592866919caa2bb16c", null ]
 ];

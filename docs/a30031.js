@@ -1,5 +1,5 @@
 var a30031 =
 [
-    [ "NewStructName", "a30031.html#a0efee6834280f294eda1e321e6785391", null ],
-    [ "OldStructName", "a30031.html#a6983cee2b8ac275d42d3a18592a23db1", null ]
+    [ "StaticClass", "a30031.html#a74f39031826c061c1eceb3930b32d447", null ],
+    [ "UnknownData00", "a30031.html#a8bc7a5261be07f55b90d1faafc64f69f", null ]
 ];

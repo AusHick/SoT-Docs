@@ -1,9 +1,9 @@
 var a03775 =
 [
-    [ "StaticClass", "a03775.html#a4744ae39c44ec43713f40baca83aa924", null ],
-    [ "CurrencyType", "a03775.html#a2c6886f9e8b4152552d8c76a1794eb19", null ],
-    [ "DiscountId", "a03775.html#aa59477c91bc5859e776d574c9b702b2e", null ],
-    [ "DisplayName", "a03775.html#a8a80bea227a758da7809d79f80c94434", null ],
-    [ "PercentOff", "a03775.html#ab7d03d77c34d0965e1ac6149f81c0953", null ],
-    [ "UnknownData00", "a03775.html#a31e7c02e9f58cbdc324263afc974ed9c", null ]
+    [ "StaticClass", "a03775.html#ad9578c798204da9f7648f4421d7f3c3f", null ],
+    [ "PiratePreviewAnim", "a03775.html#a502c69e40eb6998049cd3f5d9c447f2d", null ],
+    [ "PiratePreviewCamera", "a03775.html#a5de11925d1b533217560fcb07a96b7cc", null ],
+    [ "PiratePreviewRemovals", "a03775.html#a35ba53070584e67fcfeb7bd5fcc16a2c", null ],
+    [ "PiratePreviewSpin", "a03775.html#aea2102de97d103ec7273c9ca44744d78", null ],
+    [ "UnknownData00", "a03775.html#a6857a769be8dfb8394ec8d3556d76513", null ]
 ];

@@ -1,4 +1,4 @@
 var a14191 =
 [
-    [ "DamageLevels", "a14191.html#a519da58a1ad3e6d745fde236de2570a4", null ]
+    [ "ShipSpawnLocations", "a14191.html#a25a40210637ff86d24b2552ab1897394", null ]
 ];

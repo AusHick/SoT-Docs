@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCrewMutePlayerPhrasesEvent Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCharacterFootImpactResult Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,45 @@ $(document).ready(function(){initNavTree('a17083.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a17080.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCrewMutePlayerPhrasesEvent Struct Reference</div>  </div>
+<div class="title">SDK::FCharacterFootImpactResult Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCrewMutePlayerPhrasesEvent:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCharacterFootImpactResult:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a17081.svg" width="319" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a17081.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a603a525d2a69a7a786fe21b59e572f19"><td class="memItemLeft" align="right" valign="top"><a id="a603a525d2a69a7a786fe21b59e572f19"></a>
-class <a class="el" href="a25631.html">FString</a>&#160;</td><td class="memItemRight" valign="bottom"><b>XUID</b></td></tr>
-<tr class="separator:a603a525d2a69a7a786fe21b59e572f19"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7be646d236cb4ff7436f5f9c0b4dec8b"><td class="memItemLeft" align="right" valign="top"><a id="a7be646d236cb4ff7436f5f9c0b4dec8b"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsMuted</b></td></tr>
-<tr class="separator:a7be646d236cb4ff7436f5f9c0b4dec8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5786312258fbaa74f564dcf2f4bbd15c"><td class="memItemLeft" align="right" valign="top"><a id="a5786312258fbaa74f564dcf2f4bbd15c"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a5786312258fbaa74f564dcf2f4bbd15c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d7f38f758d53140fb45042733785b7e"><td class="memItemLeft" align="right" valign="top"><a id="a5d7f38f758d53140fb45042733785b7e"></a>
+struct <a class="el" href="a30127.html">FHitResult</a>&#160;</td><td class="memItemRight" valign="bottom"><b>HitResult</b></td></tr>
+<tr class="separator:a5d7f38f758d53140fb45042733785b7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a765f976823d580129a86666c0217a89c"><td class="memItemLeft" align="right" valign="top"><a id="a765f976823d580129a86666c0217a89c"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; ECharacterFootImpactType &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>FootImpactType</b></td></tr>
+<tr class="separator:a765f976823d580129a86666c0217a89c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf2111b58992fbbdf8c55b9e4409242c"><td class="memItemLeft" align="right" valign="top"><a id="aaf2111b58992fbbdf8c55b9e4409242c"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0xF]</td></tr>
+<tr class="separator:aaf2111b58992fbbdf8c55b9e4409242c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa21776e093eee5d7022728930340aed6"><td class="memItemLeft" align="right" valign="top"><a id="aa21776e093eee5d7022728930340aed6"></a>
+struct <a class="el" href="a26403.html">FTransform</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SocketTransform</b></td></tr>
+<tr class="separator:aa21776e093eee5d7022728930340aed6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9452a402db9aa8ec5bac1464f6cbad8"><td class="memItemLeft" align="right" valign="top"><a id="ad9452a402db9aa8ec5bac1464f6cbad8"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SocketVelocity</b></td></tr>
+<tr class="separator:ad9452a402db9aa8ec5bac1464f6cbad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a39653f3e59a5d9b846903094b3d39aaf"><td class="memItemLeft" align="right" valign="top"><a id="a39653f3e59a5d9b846903094b3d39aaf"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>FootIndex</b></td></tr>
+<tr class="separator:a39653f3e59a5d9b846903094b3d39aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17083.html">FCrewMutePlayerPhrasesEvent</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a17083.html">FCharacterFootImpactResult</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,7 +1,7 @@
 var a34355 =
 [
-    [ "GetDamageableParts", "a34355.html#a8a075357f985d330a6510cbd2212358f", null ],
-    [ "RegisterDamageablePart", "a34355.html#a8b6c1491452ff5f11feaede111aed0b1", null ],
-    [ "StaticClass", "a34355.html#af1b94e339588a1bfe43fdfada4b52282", null ],
-    [ "UnregisterDamageablePart", "a34355.html#a4debb3c3846ee8cf499ff3c57fff77a7", null ]
+    [ "StaticClass", "a34355.html#a5a29d1f6b3cbce3657d9a5be61c4f2be", null ],
+    [ "Emitter", "a34355.html#a9f0de076dfccb606a2d667e6ce74c303", null ],
+    [ "UnknownData00", "a34355.html#a91c31909263f22db78895f743ba8a377", null ],
+    [ "WwiseObjectPoolWrapper", "a34355.html#a96fafa035449d4fddea64e7df04b0bc6", null ]
 ];

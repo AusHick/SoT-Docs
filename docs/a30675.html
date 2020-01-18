@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FOpenTestAsset Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAudioComponentParam Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,36 +87,48 @@ $(document).ready(function(){initNavTree('a30675.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30672.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FOpenTestAsset Struct Reference</div>  </div>
+<div class="title">SDK::FAudioComponentParam Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FOpenTestAsset:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAudioComponentParam:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30673.svg" width="447" height="228"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><div class="zoom"><iframe scrolling="no" frameborder="0" src="a30673.svg" width="100%" height="600"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af7a6cd7b88ba1f054608202b7ceace6b"><td class="memItemLeft" align="right" valign="top"><a id="af7a6cd7b88ba1f054608202b7ceace6b"></a>
-struct <a class="el" href="a30627.html">FFilePath</a>&#160;</td><td class="memItemRight" valign="bottom"><b>AssetToOpen</b></td></tr>
-<tr class="separator:af7a6cd7b88ba1f054608202b7ceace6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa828ae3980ee5a2cd0150647dbd7f59a"><td class="memItemLeft" align="right" valign="top"><a id="aa828ae3980ee5a2cd0150647dbd7f59a"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>bSkipTestWhenUnAttended</b></td></tr>
-<tr class="separator:aa828ae3980ee5a2cd0150647dbd7f59a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a380281fb5aef37a728e06b4122314409"><td class="memItemLeft" align="right" valign="top"><a id="a380281fb5aef37a728e06b4122314409"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:a380281fb5aef37a728e06b4122314409"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac012336156b4f6ced083616fb859cc10"><td class="memItemLeft" align="right" valign="top"><a id="ac012336156b4f6ced083616fb859cc10"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ParamName</b></td></tr>
+<tr class="separator:ac012336156b4f6ced083616fb859cc10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44b8ed3a4b36692fa79973e96d289e89"><td class="memItemLeft" align="right" valign="top"><a id="a44b8ed3a4b36692fa79973e96d289e89"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>FloatParam</b></td></tr>
+<tr class="separator:a44b8ed3a4b36692fa79973e96d289e89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae6e4251618e5a8136d4ba558ac0f5f29"><td class="memItemLeft" align="right" valign="top"><a id="ae6e4251618e5a8136d4ba558ac0f5f29"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>BoolParam</b></td></tr>
+<tr class="separator:ae6e4251618e5a8136d4ba558ac0f5f29"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d7a8d63c0cb20be0e835a6d58a30bf0"><td class="memItemLeft" align="right" valign="top"><a id="a3d7a8d63c0cb20be0e835a6d58a30bf0"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a3d7a8d63c0cb20be0e835a6d58a30bf0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83d385406b6d89b2ca6304647ab67a6d"><td class="memItemLeft" align="right" valign="top"><a id="a83d385406b6d89b2ca6304647ab67a6d"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>IntParam</b></td></tr>
+<tr class="separator:a83d385406b6d89b2ca6304647ab67a6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65260f56c880dfff2f8bd56bf6d15212"><td class="memItemLeft" align="right" valign="top"><a id="a65260f56c880dfff2f8bd56bf6d15212"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x4]</td></tr>
+<tr class="separator:a65260f56c880dfff2f8bd56bf6d15212"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae9096a65d8b50a1bc2eed637974b2a21"><td class="memItemLeft" align="right" valign="top"><a id="ae9096a65d8b50a1bc2eed637974b2a21"></a>
+class <a class="el" href="a29887.html">USoundWave</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SoundWaveParam</b></td></tr>
+<tr class="separator:ae9096a65d8b50a1bc2eed637974b2a21"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30675.html">FOpenTestAsset</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:27 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30675.html">FAudioComponentParam</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:32 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

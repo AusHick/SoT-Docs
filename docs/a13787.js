@@ -1,5 +1,6 @@
 var a13787 =
 [
-    [ "AvailableItems", "a13787.html#a84fab2b72612ac62ed6f16fd2db82ca3", null ],
-    [ "Probabilities", "a13787.html#a493e7fa14e362b25ae9cccab39f26644", null ]
+    [ "AimBase", "a13787.html#a0425916f5d43a90ba467038ab9a118e3", null ],
+    [ "AimDirection", "a13787.html#ae82757ceb2acdbf51a6b7ba635a71952", null ],
+    [ "AimPosition", "a13787.html#a8ae68933aa363bf40a6c9e1346a2c00c", null ]
 ];

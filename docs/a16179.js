@@ -1,6 +1,5 @@
 var a16179 =
 [
-    [ "JumpingLoopAnimations", "a16179.html#ab6adcd6566d7efe4a22f3b37e0379115", null ],
-    [ "TurnLeftLoopAnimations", "a16179.html#a94430460c45cc61e2e78c60acb1dae0d", null ],
-    [ "TurnRightLoopAnimations", "a16179.html#a810f9677696411110c2e05cfcdd946f6", null ]
+    [ "Locations", "a16179.html#a4287586c4a93ce681d32d7ef773819e3", null ],
+    [ "LocationType", "a16179.html#a9927123f73a7b9cadfe240a8f29155eb", null ]
 ];

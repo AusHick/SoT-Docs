@@ -1,7 +1,7 @@
 var a14215 =
 [
-    [ "BiteStanceAttack", "a14215.html#a4f53df4a7e98be793e7b2ee8874bbc7d", null ],
-    [ "BiteStanceIn", "a14215.html#a5917ae1b79e8675ea72440dfe91951c4", null ],
-    [ "BiteStanceLoopIdle", "a14215.html#a84c6ff9aa53200f98d44671a9f881446", null ],
-    [ "BiteStanceOut", "a14215.html#abcb238ddd38585578c25d337b2b0426a", null ]
+    [ "CanStartTale", "a14215.html#a7b5b5c276f9e88913c8d49cac67c2fa4", null ],
+    [ "ProposingObject", "a14215.html#af985114fe6cabb4298bc693c844c46fa", null ],
+    [ "TaleData", "a14215.html#a820ad2a0bbe071023961fad5023ff7db", null ],
+    [ "UnknownData00", "a14215.html#aa012c010e16ca64217aab9410e1707d4", null ]
 ];

@@ -1,8 +1,7 @@
 var a14331 =
 [
-    [ "FeatureFlag", "a14331.html#a5d89c0fb9082c9151fcc85a06872e1c5", null ],
-    [ "ItemDesc", "a14331.html#a1aba323472ecbe5cc1135d897038628a", null ],
-    [ "RestrictToSurface", "a14331.html#a5c3c8da0cbd4708546bb5dd2121c83a6", null ],
-    [ "UnknownData00", "a14331.html#a87af014d3d3836731b4a4e89a1c0b087", null ],
-    [ "Weight", "a14331.html#ad7159ca1c335812a26a589697644eda3", null ]
+    [ "BiteStanceAttack", "a14331.html#a4f53df4a7e98be793e7b2ee8874bbc7d", null ],
+    [ "BiteStanceIn", "a14331.html#a5917ae1b79e8675ea72440dfe91951c4", null ],
+    [ "BiteStanceLoopIdle", "a14331.html#a84c6ff9aa53200f98d44671a9f881446", null ],
+    [ "BiteStanceOut", "a14331.html#abcb238ddd38585578c25d337b2b0426a", null ]
 ];

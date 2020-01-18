@@ -1,5 +1,6 @@
 var a15359 =
 [
-    [ "SharkDefeatStat", "a15359.html#af2e70923a253115b91b35e89e6865928", null ],
-    [ "SharkDefeatStatLegend", "a15359.html#a25b93b04f786577352c70dc71fcd0a0b", null ]
+    [ "PhraseDataAsset", "a15359.html#a54829fcdb43f03dfdfde30c3e8a6b007", null ],
+    [ "PlayModeKey", "a15359.html#adac33492b4aad3bc00640077db43192e", null ],
+    [ "UnknownData00", "a15359.html#a8b267cee8c5a615def1636d8e6100344", null ]
 ];

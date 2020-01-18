@@ -1,6 +1,7 @@
 var a06219 =
 [
-    [ "StaticClass", "a06219.html#a5f46863058ad52aec5f1e9ea939bb06c", null ],
-    [ "RegisteredLightingZones", "a06219.html#a5eff9f01e9d5a95aa67dec865b1dcb21", null ],
-    [ "UnknownData00", "a06219.html#a6de02cbd93b8a1794506827e53e62058", null ]
+    [ "StaticClass", "a06219.html#a33d03b395b45c788cd9f2bdf94025f79", null ],
+    [ "LoadoutEntries", "a06219.html#a03b3ee497ad6bd02b54d0487993a274d", null ],
+    [ "UnknownData00", "a06219.html#a522771b8536f282ba23a4d31b5cd6f80", null ],
+    [ "UnknownData01", "a06219.html#ac11ec21d8eb6c38d9f6525e5100068e0", null ]
 ];

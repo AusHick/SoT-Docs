@@ -1,9 +1,11 @@
 var a13199 =
 [
-    [ "GhostPawns", "a13199.html#a3407521a0156a5448b4168d45806ea06", null ],
-    [ "GhostShipDoor", "a13199.html#a4fb6313e89c305e14c38035d41fd7241", null ],
-    [ "Parent", "a13199.html#a0568e7cd1736d39e2326c8316c5b123b", null ],
-    [ "SpawnLocation", "a13199.html#a42d787d84bafb3ac2fc25052f93ca5bd", null ],
-    [ "UnknownData00", "a13199.html#a2aa8e927f38bdbf0c669374bba4bc6f4", null ],
-    [ "UnknownData01", "a13199.html#a2c50c938f162d9564a36670aee59694d", null ]
+    [ "ContinuousCycle", "a13199.html#ae7d58af39c2446f1979cfb6f594fa847", null ],
+    [ "ContinuousIn", "a13199.html#ab64c94e6c53c5b8eebd96458abd40aa6", null ],
+    [ "EmoteName", "a13199.html#a76b938027fe9bbf067c9e913c73d1a11", null ],
+    [ "EmotePreviewSequence", "a13199.html#a1d5b8c7be8385830f0147100e8450b38", null ],
+    [ "EmoteSequenceType", "a13199.html#a5d3b5e70a3bbb96b299268772757d4ba", null ],
+    [ "OneShotSequence", "a13199.html#aae0894e84880d0d9233a0d29d7493ac1", null ],
+    [ "UnknownData00", "a13199.html#a38310c6ac271ac7b53c0512bafc5ab3e", null ],
+    [ "UseWithObject", "a13199.html#a42252a913368142d34c82b973a8ddcfa", null ]
 ];

@@ -1,26 +1,4 @@
 var a29679 =
 [
-    [ "StaticClass", "a29679.html#a09d18c257b0acb937b7b3df91ee546b9", null ],
-    [ "bLooping", "a29679.html#a859c239d49e28e7f58ae895b575fcab5", null ],
-    [ "bManualWordWrap", "a29679.html#af5c4121c028632888a71d7b7dc9a4e8b", null ],
-    [ "bMature", "a29679.html#a2b37bbcfbc3b484562ca2398449c83cb", null ],
-    [ "bSingleLine", "a29679.html#ae7888ea0bc29ed65373cd5f653bef361", null ],
-    [ "bStreaming", "a29679.html#a4ad1c425d59fa83dc295ada470e6bdac", null ],
-    [ "CompressionQuality", "a29679.html#ae6e10caa46300fb13856be51144dafcb", null ],
-    [ "LocalizedSubtitles", "a29679.html#a8ac1e9a75fb6e2a4b3654cfa4e72ea2f", null ],
-    [ "NumChannels", "a29679.html#a7fa001396b0eca45d297cbdff8c78c2d", null ],
-    [ "Pitch", "a29679.html#a713eed15c2d37f1ea8a200ca55bdb97f", null ],
-    [ "RawPCMDataSize", "a29679.html#a94dd469e3bfccc4eef7f84481b807312", null ],
-    [ "SampleRate", "a29679.html#a260754745de85e7df66cb1d7f4c618f7", null ],
-    [ "SoundGroup", "a29679.html#a5d2266733709a0be37abbe8034e4cbd2", null ],
-    [ "SpokenText", "a29679.html#a3b5b4bf98cd83c187edb0d9a4fec820b", null ],
-    [ "StreamingPriority", "a29679.html#a2034f837a8b5be91de2306f613757252", null ],
-    [ "Subtitles", "a29679.html#adf68b85d8da2b378c62baa46d279c752", null ],
-    [ "UnknownData00", "a29679.html#a4781da71d2615b0ec1ef7a3677f7093d", null ],
-    [ "UnknownData01", "a29679.html#a9178b128fef20df09b3cdcf15baecf8b", null ],
-    [ "UnknownData02", "a29679.html#a9ca176c0d975c0f710170a6fa2c7d63f", null ],
-    [ "UnknownData03", "a29679.html#aa20d81fc41e7b71ff764001e16afb4cc", null ],
-    [ "UnknownData04", "a29679.html#a277a87196d5e768a9659569a5adc62dd", null ],
-    [ "UnknownData05", "a29679.html#a593add82383cf065ada8a93898925d68", null ],
-    [ "Volume", "a29679.html#a3f18359af8d1bcf343aef9a552d48fb2", null ]
+    [ "StaticClass", "a29679.html#a157d3da659b4cd7a4ec701f990a9a3e1", null ]
 ];

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FBatchedPoint Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCollisionImpactData Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,45 +87,36 @@ $(document).ready(function(){initNavTree('a31587.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a31584.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FBatchedPoint Struct Reference</div>  </div>
+<div class="title">SDK::FCollisionImpactData Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FBatchedPoint:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCollisionImpactData:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a31585.svg" width="530" height="544"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a31585.svg" width="347" height="360"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1e95050b4c78fd6993426ed1fb27cc8d"><td class="memItemLeft" align="right" valign="top"><a id="a1e95050b4c78fd6993426ed1fb27cc8d"></a>
-struct <a class="el" href="a26075.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Position</b></td></tr>
-<tr class="separator:a1e95050b4c78fd6993426ed1fb27cc8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a293ab39b4aa65742c23bc467daef916e"><td class="memItemLeft" align="right" valign="top"><a id="a293ab39b4aa65742c23bc467daef916e"></a>
-struct <a class="el" href="a26119.html">FLinearColor</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Color</b></td></tr>
-<tr class="separator:a293ab39b4aa65742c23bc467daef916e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac00a92ea20ceb4e4b1b9fd48124f34f1"><td class="memItemLeft" align="right" valign="top"><a id="ac00a92ea20ceb4e4b1b9fd48124f34f1"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>PointSize</b></td></tr>
-<tr class="separator:ac00a92ea20ceb4e4b1b9fd48124f34f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4be988f368d7505cf83dff514b8c060a"><td class="memItemLeft" align="right" valign="top"><a id="a4be988f368d7505cf83dff514b8c060a"></a>
-float&#160;</td><td class="memItemRight" valign="bottom"><b>RemainingLifeTime</b></td></tr>
-<tr class="separator:a4be988f368d7505cf83dff514b8c060a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa90a0829bb3b91e2df2a5132f0d3cca0"><td class="memItemLeft" align="right" valign="top"><a id="aa90a0829bb3b91e2df2a5132f0d3cca0"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>DepthPriority</b></td></tr>
-<tr class="separator:aa90a0829bb3b91e2df2a5132f0d3cca0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abc89156047db0c485eee9f53099fe920"><td class="memItemLeft" align="right" valign="top"><a id="abc89156047db0c485eee9f53099fe920"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
-<tr class="separator:abc89156047db0c485eee9f53099fe920"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacfe738558e71ad617d85800dfdb8351"><td class="memItemLeft" align="right" valign="top"><a id="aacfe738558e71ad617d85800dfdb8351"></a>
+<a class="el" href="a25823.html">TArray</a>&lt; struct <a class="el" href="a31583.html">FRigidBodyContactInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ContactInfos</b></td></tr>
+<tr class="separator:aacfe738558e71ad617d85800dfdb8351"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad24d84ee663f7e2d68e348761f577efb"><td class="memItemLeft" align="right" valign="top"><a id="ad24d84ee663f7e2d68e348761f577efb"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TotalNormalImpulse</b></td></tr>
+<tr class="separator:ad24d84ee663f7e2d68e348761f577efb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac4f7a50e7116595e5e0811c38eac9f63"><td class="memItemLeft" align="right" valign="top"><a id="ac4f7a50e7116595e5e0811c38eac9f63"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TotalFrictionImpulse</b></td></tr>
+<tr class="separator:ac4f7a50e7116595e5e0811c38eac9f63"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31587.html">FBatchedPoint</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:20 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a31587.html">FCollisionImpactData</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,9 +1,9 @@
 var a03715 =
 [
-    [ "StaticClass", "a03715.html#a96f0cbe0353b76a5b2cce631935aa9d4", null ],
-    [ "GeneralText", "a03715.html#afcd768e72fa4f804ef34ed8bfa3ebda2", null ],
-    [ "Images", "a03715.html#a187a4bd8ebf7e504f45753a74fdf9b58", null ],
-    [ "IslandNameDescription", "a03715.html#a03d02e2961c9cfcc7c63219a7c3ad3ae", null ],
-    [ "NPCNameDescription", "a03715.html#a502053c12b9e16619a3aff9883b51e24", null ],
-    [ "NumOfItemsDescription", "a03715.html#a9595f41a1ad94f63ac40e3ce674cb714", null ]
+    [ "ForceSetCapstanRatio", "a03715.html#ad0fe6a72868c695643e0cfbc673807ca", null ],
+    [ "GetCapstanArm", "a03715.html#acb966c9dcb8d07f4d2faa2b891a671e0", null ],
+    [ "SetCapstanSpeed", "a03715.html#af756515e965401c8fcc35f2b61e0ecd9", null ],
+    [ "SetupCapstanTestClientSide", "a03715.html#a2da5436a53f4b622ae8107b50d46cd33", null ],
+    [ "SetupCapstanTestServerSide", "a03715.html#a37257efdc89a3e1b3ee3c2c2c385c093", null ],
+    [ "StaticClass", "a03715.html#abd4206e2fc233f6495969441249ff0f6", null ]
 ];

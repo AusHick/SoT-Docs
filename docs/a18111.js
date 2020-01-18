@@ -1,6 +1,4 @@
 var a18111 =
 [
-    [ "Items", "a18111.html#aaff50da00bf072a9bcc1cf313d111435", null ],
-    [ "Offer", "a18111.html#ab5194ff84dd3e0dae2d405666a01a5c2", null ],
-    [ "Title", "a18111.html#a965649eafd150d03b2eb75f67095d00e", null ]
+    [ "UnknownData00", "a18111.html#a6d382206d8c47bd0b36ab2a1247baaf8", null ]
 ];

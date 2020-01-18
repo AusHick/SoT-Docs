@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FDockableInfo Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FCharacterAnimationIKUpdateParams Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a02083.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a02080.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FDockableInfo Struct Reference</div>  </div>
+<div class="title">SDK::FCharacterAnimationIKUpdateParams Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FDockableInfo:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCharacterAnimationIKUpdateParams:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,26 +100,44 @@ $(document).ready(function(){initNavTree('a02083.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:add9862816531f5741bb50be34b908969"><td class="memItemLeft" align="right" valign="top"><a id="add9862816531f5741bb50be34b908969"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>SocketName</b></td></tr>
-<tr class="separator:add9862816531f5741bb50be34b908969"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a836e48c3b23fae751b1059925d40e424"><td class="memItemLeft" align="right" valign="top"><a id="a836e48c3b23fae751b1059925d40e424"></a>
-class <a class="el" href="a26363.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>SceneComponent</b></td></tr>
-<tr class="separator:a836e48c3b23fae751b1059925d40e424"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cef78c477424d401b2fa28529af36dc"><td class="memItemLeft" align="right" valign="top"><a id="a1cef78c477424d401b2fa28529af36dc"></a>
-<a class="el" href="a25635.html">TEnumAsByte</a>&lt; EDockableSocketOverlapUpdates &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ShouldOverlapsUpdateOnParentUpdate</b></td></tr>
-<tr class="separator:a1cef78c477424d401b2fa28529af36dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae7323c6567fba080a0f012689dedd923"><td class="memItemLeft" align="right" valign="top"><a id="ae7323c6567fba080a0f012689dedd923"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:ae7323c6567fba080a0f012689dedd923"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af3642c59dddd1a55e162dcebe7253099"><td class="memItemLeft" align="right" valign="top"><a id="af3642c59dddd1a55e162dcebe7253099"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>CurrentAlpha</b></td></tr>
+<tr class="separator:af3642c59dddd1a55e162dcebe7253099"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad28de1465fa61a9f3e03046148ddb54d"><td class="memItemLeft" align="right" valign="top"><a id="ad28de1465fa61a9f3e03046148ddb54d"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>TranslationStrength</b></td></tr>
+<tr class="separator:ad28de1465fa61a9f3e03046148ddb54d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5562545716277c2d13083059321595ad"><td class="memItemLeft" align="right" valign="top"><a id="a5562545716277c2d13083059321595ad"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>RotationStrength</b></td></tr>
+<tr class="separator:a5562545716277c2d13083059321595ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a025cb4c8c7e16c562cbe8890fea8b0fc"><td class="memItemLeft" align="right" valign="top"><a id="a025cb4c8c7e16c562cbe8890fea8b0fc"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Location</b></td></tr>
+<tr class="separator:a025cb4c8c7e16c562cbe8890fea8b0fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5636d03aab5bc0858d48fbfbad17b4f1"><td class="memItemLeft" align="right" valign="top"><a id="a5636d03aab5bc0858d48fbfbad17b4f1"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x8]</td></tr>
+<tr class="separator:a5636d03aab5bc0858d48fbfbad17b4f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4da657f5813b62a55e347465ebac688e"><td class="memItemLeft" align="right" valign="top"><a id="a4da657f5813b62a55e347465ebac688e"></a>
+struct <a class="el" href="a26311.html">FQuat</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Orientation</b></td></tr>
+<tr class="separator:a4da657f5813b62a55e347465ebac688e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add04417ebe591bce0af1f1647c916927"><td class="memItemLeft" align="right" valign="top"><a id="add04417ebe591bce0af1f1647c916927"></a>
+<a class="el" href="a25847.html">TEnumAsByte</a>&lt; EHIKEffectorSpace &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>EffectorSpace</b></td></tr>
+<tr class="separator:add04417ebe591bce0af1f1647c916927"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a43e2b4c3d856dd6034c8d2f33ca94209"><td class="memItemLeft" align="right" valign="top"><a id="a43e2b4c3d856dd6034c8d2f33ca94209"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:a43e2b4c3d856dd6034c8d2f33ca94209"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acac61a5b14290f4f24f4a93bc602e4ae"><td class="memItemLeft" align="right" valign="top"><a id="acac61a5b14290f4f24f4a93bc602e4ae"></a>
+struct <a class="el" href="a25839.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>ParentBone</b></td></tr>
+<tr class="separator:acac61a5b14290f4f24f4a93bc602e4ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad490ae2ed8dffada86ebc3121cb8b0c4"><td class="memItemLeft" align="right" valign="top"><a id="ad490ae2ed8dffada86ebc3121cb8b0c4"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData02</b> [0x4]</td></tr>
+<tr class="separator:ad490ae2ed8dffada86ebc3121cb8b0c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a02083.html">FDockableInfo</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:22 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a02083.html">FCharacterAnimationIKUpdateParams</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:33 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

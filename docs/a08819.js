@@ -1,5 +1,5 @@
 var a08819 =
 [
-    [ "StaticClass", "a08819.html#a2d0babca578cf187f420001b7db4c569", null ],
-    [ "Descs", "a08819.html#a75ef1a2b33f065cccd55bcf8f7050675", null ]
+    [ "StaticClass", "a08819.html#a327a8fe1240323609f1dd8f09a2751bb", null ],
+    [ "BookContents", "a08819.html#a111eadf575a6f26c25519ad242312365", null ]
 ];

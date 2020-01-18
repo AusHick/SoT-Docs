@@ -1,10 +1,4 @@
 var a27231 =
 [
-    [ "SetNavigationRelevancy", "a27231.html#a49a8696fa764f6610a23795fbe6782d8", null ],
-    [ "StaticClass", "a27231.html#ab6601a5dac8afa41731eaf354f196f81", null ],
-    [ "bAttachToOwnersRoot", "a27231.html#a348279182c3546a65a1291740fac179f", null ],
-    [ "bNavigationRelevant", "a27231.html#a06f75c87030d351753dec6a1e65d7fa4", null ],
-    [ "CachedNavParent", "a27231.html#a3e76ee8d12807c0edadbd5c85ae9b3c9", null ],
-    [ "UnknownData00", "a27231.html#a6c59713af9f02a4a342c3ef1616287c1", null ],
-    [ "UnknownData01", "a27231.html#a78ad47a0d11e899894ab08e86d5d6cc1", null ]
+    [ "StaticClass", "a27231.html#a1ff6470df700c829eb58fb70928b2ab7", null ]
 ];

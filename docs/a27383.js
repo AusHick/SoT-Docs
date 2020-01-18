@@ -1,10 +1,10 @@
 var a27383 =
 [
-    [ "StaticClass", "a27383.html#a58ba9245eb62d8f7d1fa3affb443dce1", null ],
-    [ "CollisionChannelRedirects", "a27383.html#a85fe43df4a98ec695d16d53c208ba926", null ],
-    [ "DefaultChannelResponses", "a27383.html#ab729a1ccb779eb4c659096a46f2be94f", null ],
-    [ "EditProfiles", "a27383.html#afbbd2fe595b496d4916faf1942c7e6ea", null ],
-    [ "ProfileRedirects", "a27383.html#a59143733409ed4fea804edc1a922b816", null ],
-    [ "Profiles", "a27383.html#ac817ce489560519b1fe8f720579b8548", null ],
-    [ "UnknownData00", "a27383.html#a5794f7bb0f65d6489a2af03b61fd7cfa", null ]
+    [ "ApplicationLifetimeDelegate__DelegateSignature", "a27383.html#a68ca1c56fbb564b6feff32dcc992cf43", null ],
+    [ "StaticClass", "a27383.html#a7b88a4d18d6f59a8cc0bbe66c678c057", null ],
+    [ "ApplicationHasEnteredForegroundDelegate", "a27383.html#a74d5066c5a947889a6d680289616ba12", null ],
+    [ "ApplicationHasReactivatedDelegate", "a27383.html#a8b8633dbf815388580067277df300003", null ],
+    [ "ApplicationWillDeactivateDelegate", "a27383.html#ae4c3483a57fb9c7fe8368c37001c0f2f", null ],
+    [ "ApplicationWillEnterBackgroundDelegate", "a27383.html#a824d67593524318ccf3e4f3520170442", null ],
+    [ "ApplicationWillTerminateDelegate", "a27383.html#ac09e1d008c5d5fd42b815cc169bccbde", null ]
 ];

@@ -1,10 +1,8 @@
 var a14447 =
 [
-    [ "FadeAudio", "a14447.html#a51c0be7291de549393662c20c720dbd1", null ],
-    [ "FadeColour", "a14447.html#aff875530d2fde51a6b1752a37b591e43", null ],
-    [ "FadeDelay", "a14447.html#ac076f921e01d2d0cbf92e2bff4766222", null ],
-    [ "FadeDuration", "a14447.html#a462f6d0c4deb00f593f16db10e001bc4", null ],
-    [ "FadeEventTimeout", "a14447.html#ac0d67a6fa8ac7c5f7811d5cf9b65efc8", null ],
-    [ "FadeServerTimeout", "a14447.html#ad65380c535270369e3e96da91e3d8cf1", null ],
-    [ "UnknownData00", "a14447.html#aa044300a16730bb3484dadd30df09cb9", null ]
+    [ "FeatureFlag", "a14447.html#a5d89c0fb9082c9151fcc85a06872e1c5", null ],
+    [ "ItemDesc", "a14447.html#a1aba323472ecbe5cc1135d897038628a", null ],
+    [ "RestrictToSurface", "a14447.html#a5c3c8da0cbd4708546bb5dd2121c83a6", null ],
+    [ "UnknownData00", "a14447.html#a87af014d3d3836731b4a4e89a1c0b087", null ],
+    [ "Weight", "a14447.html#ad7159ca1c335812a26a589697644eda3", null ]
 ];

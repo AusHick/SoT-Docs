@@ -1,6 +1,8 @@
 var a14287 =
 [
-    [ "HealthChangePropagated", "a14287.html#a75a1fadce91489f06aa5d3efd6a579fc", null ],
-    [ "ShipDamagerType", "a14287.html#ac89e5b342191c48315aa49381cac0336", null ],
-    [ "UnknownData00", "a14287.html#a4f5440a2f74f7c89d11c9d58056b2f65", null ]
+    [ "DamageLevel", "a14287.html#abff968df13fbc7386b139423b04d540d", null ],
+    [ "ForceFeedbackEffect", "a14287.html#a45632a0ad7948c9de7ec4cd4e275c3ea", null ],
+    [ "NumZonesToDamage", "a14287.html#abac67436d0f49d5b4a7ef27f42219a3d", null ],
+    [ "PhysicalSurface", "a14287.html#ae53d691714e97cdfbddb9e5f6e4da454", null ],
+    [ "UnknownData00", "a14287.html#a93e021726b0ddb1facdea5162696f0c6", null ]
 ];

@@ -1,10 +1,11 @@
 var a35559 =
 [
-    [ "StaticClass", "a35559.html#adf0f357e061c66191abb020f1c7154aa", null ],
-    [ "Down", "a35559.html#a776d0601c74d50a71c7feedf88e03aeb", null ],
-    [ "Left", "a35559.html#a8fa69c2545eb480b6c471c1964803b99", null ],
-    [ "Next", "a35559.html#ae17deff67a0cfee68730e1bcf75b2699", null ],
-    [ "Previous", "a35559.html#a4644e16a5964beb3faed41b217e12f0a", null ],
-    [ "Right", "a35559.html#a511602e415702227b675b37ddb990223", null ],
-    [ "Up", "a35559.html#a14f1a06e318d39ec4ade0ebe8ad3c391", null ]
+    [ "SetHorizontalAlignment", "a35559.html#af1b0a5838c1c9787219b62dec734f821", null ],
+    [ "SetPadding", "a35559.html#ab93ccc5a489710970e60e727540a0cbe", null ],
+    [ "SetVerticalAlignment", "a35559.html#abba0184eebd0852bb48bd7aa85c489ab", null ],
+    [ "StaticClass", "a35559.html#ab3ad0fcd0870776aed87cb97bdace9e1", null ],
+    [ "HorizontalAlignment", "a35559.html#aa9e4013fae735c2dc514648b0279e43e", null ],
+    [ "Padding", "a35559.html#af3d2f435f69573a39bff7d398df2aff4", null ],
+    [ "UnknownData00", "a35559.html#afb2ac99ae2b5200265c8ebdc0dffb97c", null ],
+    [ "VerticalAlignment", "a35559.html#a839d335b9eb1a6a0c4ecd4bd6f2acc74", null ]
 ];

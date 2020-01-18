@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FCollisionProfileName Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FMurkyRegion Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,30 +87,51 @@ $(document).ready(function(){initNavTree('a30711.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a30708.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FCollisionProfileName Struct Reference</div>  </div>
+<div class="title">SDK::FMurkyRegion Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FCollisionProfileName:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FMurkyRegion:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
-<div class="center"><iframe scrolling="no" frameborder="0" src="a30709.svg" width="195" height="302"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
+<div class="center"><iframe scrolling="no" frameborder="0" src="a30709.svg" width="520" height="530"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a47d54c6bee6e44cfdffbd61a9e4b1af2"><td class="memItemLeft" align="right" valign="top"><a id="a47d54c6bee6e44cfdffbd61a9e4b1af2"></a>
-struct <a class="el" href="a25627.html">FName</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b></td></tr>
-<tr class="separator:a47d54c6bee6e44cfdffbd61a9e4b1af2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8cb194b301b44a5ce38c5afd6615c890"><td class="memItemLeft" align="right" valign="top"><a id="a8cb194b301b44a5ce38c5afd6615c890"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>Enabled</b></td></tr>
+<tr class="separator:a8cb194b301b44a5ce38c5afd6615c890"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a44e494de54be3675dd89fa77f241049a"><td class="memItemLeft" align="right" valign="top"><a id="a44e494de54be3675dd89fa77f241049a"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x3]</td></tr>
+<tr class="separator:a44e494de54be3675dd89fa77f241049a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2e5d61fa1bfb1d48bb9eecf15787e5d"><td class="memItemLeft" align="right" valign="top"><a id="ac2e5d61fa1bfb1d48bb9eecf15787e5d"></a>
+struct <a class="el" href="a26287.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Position</b></td></tr>
+<tr class="separator:ac2e5d61fa1bfb1d48bb9eecf15787e5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a68fad5d76c0566de281e21aa0fb07b63"><td class="memItemLeft" align="right" valign="top"><a id="a68fad5d76c0566de281e21aa0fb07b63"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>InnerRadius</b></td></tr>
+<tr class="separator:a68fad5d76c0566de281e21aa0fb07b63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a78710245558fcf45e3773bacaa2fda91"><td class="memItemLeft" align="right" valign="top"><a id="a78710245558fcf45e3773bacaa2fda91"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>OuterRadius</b></td></tr>
+<tr class="separator:a78710245558fcf45e3773bacaa2fda91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98a9be53f56ee9bd1eb31d554505ecbe"><td class="memItemLeft" align="right" valign="top"><a id="a98a9be53f56ee9bd1eb31d554505ecbe"></a>
+float&#160;</td><td class="memItemRight" valign="bottom"><b>Density</b></td></tr>
+<tr class="separator:a98a9be53f56ee9bd1eb31d554505ecbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb6eb1982e28a3e888aadd369844a60d"><td class="memItemLeft" align="right" valign="top"><a id="abb6eb1982e28a3e888aadd369844a60d"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsSuperHeatedWater</b></td></tr>
+<tr class="separator:abb6eb1982e28a3e888aadd369844a60d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7add02b13ad1c067cfffa5d0323e43e"><td class="memItemLeft" align="right" valign="top"><a id="af7add02b13ad1c067cfffa5d0323e43e"></a>
+unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData01</b> [0x3]</td></tr>
+<tr class="separator:af7add02b13ad1c067cfffa5d0323e43e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30711.html">FCollisionProfileName</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:21 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a30711.html">FMurkyRegion</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:42 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

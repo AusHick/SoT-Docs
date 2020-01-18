@@ -1,10 +1,7 @@
 var a30515 =
 [
-    [ "bStaticObject", "a30515.html#a3238e5859c7eb6521c55711ac0fd71f4", null ],
-    [ "bTraceType", "a30515.html#a45f661a4383fa094282322a63d468853", null ],
-    [ "Channel", "a30515.html#a72d98f7d96c130bd3a309cf22b9be7c0", null ],
-    [ "DefaultResponse", "a30515.html#a30ecdc7416ce279e84e13cf69c17391f", null ],
-    [ "Name", "a30515.html#a996bdeb3cb96eff6a2f75c02c35795aa", null ],
-    [ "UnknownData00", "a30515.html#a5ac2779fd109d0a9c53670221204a766", null ],
-    [ "UnknownData01", "a30515.html#aae552cbca529b80fcb530ac408a19aa2", null ]
+    [ "Color", "a30515.html#ab254b420b908a2e683c3fbbba245485d", null ],
+    [ "DefaultQueryExtent", "a30515.html#a35df3310e9193aa8a701b4f4f86c65c1", null ],
+    [ "NavigationDataClass", "a30515.html#a322805048c50d654d7fcaddb146b9d7f", null ],
+    [ "NavigationDataClassName", "a30515.html#a97714c1a39624d06b56be8cc3fb70382", null ]
 ];

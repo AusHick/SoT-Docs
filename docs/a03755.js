@@ -1,6 +1,6 @@
 var a03755 =
 [
-    [ "StaticClass", "a03755.html#aca47dbb1b955dd6db19abdf81310e44f", null ],
-    [ "ToOutfit", "a03755.html#a39b6455fb785d5dde777b007b8d9f1f7", null ],
-    [ "ToPirateDescriptor", "a03755.html#af0e50640328b73788668fd7c74202105", null ]
+    [ "StaticClass", "a03755.html#adb0c68ccae554ccfd848737d56f9a0c0", null ],
+    [ "Companies", "a03755.html#a3525cb65ff6761e8bb5a572b2cf15cf4", null ],
+    [ "Layout", "a03755.html#ad5901e0120a84c809777974f42af2363", null ]
 ];

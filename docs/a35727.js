@@ -1,8 +1,12 @@
 var a35727 =
 [
-    [ "StartMovingVolumeSamplesLocally", "a35727.html#a79d1adb74ed85089eed67f3b1ec4d30d", null ],
-    [ "StartMovingVolumeSamplesLocallyByConfigurationIndex", "a35727.html#a9bd272a69d9a2f14d04713ea3757e999", null ],
-    [ "StartMovingVolumeSamplesLocallyByRandomConfigurationIndex", "a35727.html#ade48cb98e3d069d88f5b2d713c7b66fa", null ],
-    [ "StaticClass", "a35727.html#aee461555cd394929d198bcef3f0db9b8", null ],
-    [ "TickLocalSampleMovement", "a35727.html#a04882b47ddbf75ba752017c93ff763c3", null ]
+    [ "SetState", "a35727.html#a5c501aa103716a675696692fe3ed74dd", null ],
+    [ "StaticClass", "a35727.html#a2305fe492847d7c0a19511eb7e9fd347", null ],
+    [ "bAlwaysShowScrollbar", "a35727.html#a108847d794a0910530a43038072fd336", null ],
+    [ "Orientation", "a35727.html#a164bb8c5a7f45d4fe14e816e2ef82601", null ],
+    [ "Style", "a35727.html#a51e6bb7af0830637c5916af929b1b266", null ],
+    [ "Thickness", "a35727.html#a3a3967fe1c823487d40ae10400686346", null ],
+    [ "UnknownData00", "a35727.html#af00df90365e49e484025453dfd6b5666", null ],
+    [ "UnknownData01", "a35727.html#a486548b4c5ec1ddd95f93e6d8ae4bc89", null ],
+    [ "WidgetStyle", "a35727.html#ab976f388b5f34e14650c85f36adf5ecf", null ]
 ];

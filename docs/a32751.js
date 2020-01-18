@@ -1,11 +1,11 @@
 var a32751 =
 [
-    [ "CancellationThreshold", "a32751.html#ac42df6812c2b5c81aef83f46da9d1828", null ],
-    [ "Configurations", "a32751.html#a5672de979da093546e8e5672eb5b2e21", null ],
-    [ "DamageRequiredToCancelImpact", "a32751.html#a5bef9243d10d0e18832cf7ba9cb28cb9", null ],
-    [ "ImpactTime", "a32751.html#a035c2569fc2b61f7e81527b18eb0991d", null ],
-    [ "LevelsOfDamage", "a32751.html#a055b96e1035e36779011cf4a5f68049b", null ],
-    [ "ShipSize", "a32751.html#a65de8c93857abc0c092ee9a17783082d", null ],
-    [ "TentacleType", "a32751.html#ab76cca1c1f7d003366c621eb5716dab1", null ],
-    [ "UnknownData00", "a32751.html#a0016244c49b90f4d94e7c8ba3091d2b8", null ]
+    [ "OnDamageToTentacle", "a32751.html#a6394871e6e6aadf747232b3ca8c5b83b", null ],
+    [ "StaticClass", "a32751.html#a0776abf29ce0454f47a0489058b5f278", null ],
+    [ "DamageableComponent", "a32751.html#ab27ad69d6d6516c401abd50167c03c05", null ],
+    [ "HealthComponent", "a32751.html#ad4bcaa067f70051f521afb427905957d", null ],
+    [ "UnknownData00", "a32751.html#aa39edc92e887b43b55a867822b7a95ed", null ],
+    [ "UnknownData01", "a32751.html#a55c9d8bcd3b56516aa3c12a2b65b11fa", null ],
+    [ "VenomChance", "a32751.html#a187a5c48a784e293bdb0128ebf86b1af", null ],
+    [ "VenomComponent", "a32751.html#a02bb21c29c9050eca7f5eb71ec1229be", null ]
 ];

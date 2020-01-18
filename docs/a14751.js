@@ -1,4 +1,5 @@
 var a14751 =
 [
-    [ "DummyVFXValue", "a14751.html#a761a8d317fabe960b28515215848e926", null ]
+    [ "IslandDangerSpringAcceleration", "a14751.html#adfd7c7a43e466530af6316a4ad67c11a", null ],
+    [ "MaxDangerValue", "a14751.html#ae56d0f9f1f526dd37a318af3f10a0257", null ]
 ];

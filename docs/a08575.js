@@ -1,19 +1,5 @@
 var a08575 =
 [
-    [ "Multicast_WasDefeated", "a08575.html#a7d0de96ee6ae8c59e304201541eee215", null ],
-    [ "StaticClass", "a08575.html#a24b36f814a85d8e06c3e68ebf4576696", null ],
-    [ "ArtefactColour", "a08575.html#a2344fa6f3999e097a7ab17e3df6ff2ca", null ],
-    [ "AudioComponent", "a08575.html#afc5779337bd8b46fbfec5060e782870d", null ],
-    [ "DamageableComponent", "a08575.html#a1125b5ca59cbd238b1ba2a39678ce75b", null ],
-    [ "DamageMaterialComponent", "a08575.html#aada0ff69421af15f107abd013c699bb0", null ],
-    [ "DefeatedStat", "a08575.html#ad5dded0cca89c35e8d390d7518af91d2", null ],
-    [ "DespawnDelay", "a08575.html#acd687f7967254ca273aa9409300a33d0", null ],
-    [ "HealingPerSecond", "a08575.html#aafaeeca215177db77894521890170567", null ],
-    [ "HealthComponent", "a08575.html#a04082a7a2d481d7ec522abf97a103f95", null ],
-    [ "OffsetFromOrigin", "a08575.html#ac6493ba7ff2b2406842ceb7069fdb9ea", null ],
-    [ "RadialDamageComponent", "a08575.html#a83ee15d3fbaf7f8fde4921c41a2043ee", null ],
-    [ "StaticMeshComponent", "a08575.html#ad3b07a49f57ff6a95287a87e9479060c", null ],
-    [ "UnknownData00", "a08575.html#a554c7c06572cd006444d9ce1b4d92b40", null ],
-    [ "UnknownData01", "a08575.html#a7a44d2abbf8d173f3e9bc532da3311ec", null ],
-    [ "VfxComponent", "a08575.html#a17b0eebb8d02abc6da99a46df13703e2", null ]
+    [ "StaticClass", "a08575.html#a5c9a4a8d665a2bd72478b3e616291eb7", null ],
+    [ "SpawnLocations", "a08575.html#a15fc76ec7b95c319671ba60a9aec23b9", null ]
 ];

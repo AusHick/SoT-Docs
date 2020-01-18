@@ -1,9 +1,7 @@
 var a10067 =
 [
-    [ "StaticClass", "a10067.html#a0146c13b55e018d4651204d1cb8fd8f9", null ],
-    [ "BrakeForceScalar", "a10067.html#ac4b304dcbc65a2cba3ffd230689cfc94", null ],
-    [ "LocalProbePos", "a10067.html#a241a2f74a882f958fe2e93c08ad24fd8", null ],
-    [ "ProbeHeight", "a10067.html#a146bc6603168e606f0f252806b6b40ec", null ],
-    [ "SubmersionVsBrakeFactorCurve", "a10067.html#ad7f48c06ebf7b974a235145aee1a4826", null ],
-    [ "UnknownData00", "a10067.html#af07d316586d96e5f87de27760aad8e2a", null ]
+    [ "StaticClass", "a10067.html#a708c2292c9fa94a1a953acbedacafe0a", null ],
+    [ "MaxDefaultEffectParams", "a10067.html#a468d57035448b3abddd0c90f7b267682", null ],
+    [ "MinDefaultEffectParams", "a10067.html#a9d4c720eb4df70aa62b06e97244c6014", null ],
+    [ "Ranges", "a10067.html#a4c021b99b2566e24bf3c45915c30b503", null ]
 ];

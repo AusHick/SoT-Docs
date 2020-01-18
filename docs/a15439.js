@@ -1,7 +1,7 @@
 var a15439 =
 [
-    [ "DamageId", "a15439.html#a79d87d7b64695124f73cc7bf255b7c1b", null ],
-    [ "DamageOverTimeDuration", "a15439.html#a563148513eb70fc9cc08e1cf1ba3f3a1", null ],
-    [ "DamagePerSecond", "a15439.html#a4e51a960bc6412bf708c965c24d7550f", null ],
-    [ "InitialDamage", "a15439.html#a3273177dbb8b27acc2fafce6281221e0", null ]
+    [ "CustomEvents", "a15439.html#a8e0b67437cc20cf23d6abd9c8082fa25", null ],
+    [ "DoQuickDeathTestWhenLessThanTimeLeftInState", "a15439.html#ae637c722f968d6d5b6e4b8ce5ff7addb", null ],
+    [ "QuickDeathTime", "a15439.html#a23db8fd6504305b4ac05d49f0250da8f", null ],
+    [ "StartDitheringTimeIntoState", "a15439.html#ad49e517272958f1f03cfedfbfcace312", null ]
 ];

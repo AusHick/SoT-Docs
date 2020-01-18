@@ -1,6 +1,9 @@
 var a13439 =
 [
-    [ "Material", "a13439.html#a664b6feaf8db8eaf9eb44593da936dce", null ],
-    [ "MaterialIndex", "a13439.html#aaa5cd51bc8b3fb5506f4b3bafc86ac54", null ],
-    [ "UnknownData00", "a13439.html#a269616ede6c671c04e5ee0021ada3389", null ]
+    [ "ClassId", "a13439.html#a12011658b41469b6d684816dca4668ec", null ],
+    [ "Form", "a13439.html#ad36318ef50dff3bee738981033493b29", null ],
+    [ "ItemDropComponentClass", "a13439.html#aa6c2d451569530225e9e8867f25176b5", null ],
+    [ "Loadout", "a13439.html#aa2b66507fb83e2e039579032a4e96d25", null ],
+    [ "NameplateOverride", "a13439.html#a9cd40ac66d9833049411db26eb50081e", null ],
+    [ "Skillset", "a13439.html#a49a0654866f0dae0ef67884c76a9644c", null ]
 ];

@@ -1,9 +1,7 @@
 var a01263 =
 [
-    [ "ProvideActorsSet", "a01263.html#a653bf6076a199eff320d273816d358ec", null ],
-    [ "ProvideLocationsSet", "a01263.html#a2c2d67bf18c5d4212ee02324fb9e23e7", null ],
-    [ "ProvideSingleActor", "a01263.html#aa620cfe353ea3cb03a396410d6479e5a", null ],
-    [ "ProvideSingleLocation", "a01263.html#afe01b8739cc7991a429bed97e0289557", null ],
-    [ "StaticClass", "a01263.html#ac460b9651940b816c38e431c1832ce07", null ],
-    [ "UnknownData00", "a01263.html#a25c461bc85c3128426bd6f62495e1e80", null ]
+    [ "StaticClass", "a01263.html#a04a5dcec71e6a10296f6c7ec32101d5d", null ],
+    [ "BehaviorAsset", "a01263.html#a108c908526940d0b801fa5cd00c9a6cb", null ],
+    [ "DefaultBehaviorAsset", "a01263.html#a3636b8f0955e038e27a527ea9211e6ce", null ],
+    [ "InjectionTag", "a01263.html#a8429e3020baf4ba19cb82f9f5dad3e83", null ]
 ];

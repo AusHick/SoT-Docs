@@ -1,8 +1,6 @@
 var a34111 =
 [
-    [ "BasePriority", "a34111.html#a7d6a54f8c27e0250b060c6973a6a9836", null ],
-    [ "Key", "a34111.html#a21e003a1acf74209825879b01e64c94e", null ],
-    [ "Message", "a34111.html#abf884991aacb8c426d161d1471702424", null ],
-    [ "PopUpMessageDesc", "a34111.html#a2b9a4ce86d62295a174ac925c8834b1e", null ],
-    [ "UnknownData00", "a34111.html#a8ae1e5e886b0576f4957f1c865d20938", null ]
+    [ "StaticClass", "a34111.html#a2f348181066d3dc55b7ab4f83affbe41", null ],
+    [ "Entries", "a34111.html#a9fb35486fa072108e7578aec623fdbec", null ],
+    [ "FallbackTexture", "a34111.html#a01074089eec1746ed4289a510d30033c", null ]
 ];

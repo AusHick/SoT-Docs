@@ -1,10 +1,8 @@
 var a07219 =
 [
-    [ "StaticClass", "a07219.html#a5b8277412d842a61e50e07052b93cb73", null ],
-    [ "RainStrengthToGetWet", "a07219.html#afd8831a9632fd269e2843d192cbd4699", null ],
-    [ "RelativeWaterLevelToGetWet", "a07219.html#a57bb608fe7e20a8f68f98d7fa611f3c0", null ],
-    [ "UnknownData00", "a07219.html#af1612f23b21e9df4b4e4099f1c40eddb", null ],
-    [ "WeakMovementSpeedMultiplier", "a07219.html#abe10982513584f0ea73d83e15dd8546d", null ],
-    [ "WetCooldown", "a07219.html#a3921c73341e645b19a461792ed28956d", null ],
-    [ "WetHealPerSecond", "a07219.html#a1bea828255e688a8fb2288679d53cfd1", null ]
+    [ "GetEntitlements", "a07219.html#a2e955058a505f253feebedaf46f3c8b7", null ],
+    [ "HasBoughtVoyage", "a07219.html#a81f2cb01bbd511e012fb8e54aabda2b4", null ],
+    [ "HasCompanyRank", "a07219.html#a8537027ec3415f2457aa968588efd852", null ],
+    [ "HasCompletedTale", "a07219.html#a94e5a197ec6f12e5d319dae4ec1bed19", null ],
+    [ "StaticClass", "a07219.html#ae7a63d30fcbab73826ba34514144dd18", null ]
 ];

@@ -1,8 +1,7 @@
 var a24555 =
 [
-    [ "StaticClass", "a24555.html#af936df6bb218cdb98c9b9587ab14dcd7", null ],
-    [ "LineA", "a24555.html#a4dc0fc78e07e1c6cb8356db7586890d2", null ],
-    [ "LineB", "a24555.html#aedb823d40b47ce512291a26614ef4502", null ],
-    [ "MaxAngleDegrees", "a24555.html#ae147f50b8926c1299aafb3bd371b6881", null ],
-    [ "MinAngleDegrees", "a24555.html#a9c12cf4c889f416a239fc6d432dc4cda", null ]
+    [ "StaticClass", "a24555.html#a8f50fe56d89b092afa2ce0fcd319ce77", null ],
+    [ "FailDistance", "a24555.html#a52b73ad5e0a11171eae7b9ab589603d5", null ],
+    [ "FailOnDistanceBeingLess", "a24555.html#a4a1133aa69ad7409534fd240beb38dc0", null ],
+    [ "UnknownData00", "a24555.html#a5992dd9b8139c1f42d0e0be28c818fb3", null ]
 ];

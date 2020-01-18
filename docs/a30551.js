@@ -1,6 +1,6 @@
 var a30551 =
 [
-    [ "Enabled", "a30551.html#a4f3394c3f722b91ba0f6ae92342dd8d6", null ],
-    [ "ShowFlagName", "a30551.html#a060ebc2a4d4ed949ad5cca33efcc19d5", null ],
-    [ "UnknownData00", "a30551.html#a1595e68002837eaeaa60dc2dd88f9fab", null ]
+    [ "BoneFlipAxis", "a30551.html#a2ac757e364b73ede2670f479e96d5a86", null ],
+    [ "SourceIndex", "a30551.html#a0408e6d4ffd438d7c1a7b14d369585f6", null ],
+    [ "UnknownData00", "a30551.html#a9ef26d43fa31c630343ba62d78ddcc6b", null ]
 ];

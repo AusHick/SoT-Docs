@@ -1,7 +1,6 @@
 var a16107 =
 [
-    [ "MaxPredictionTimeDelta", "a16107.html#a2b1d2f968fa760b6e752081ab9dffa89", null ],
-    [ "MaxTimeSpan", "a16107.html#ac7e00027f0e52c2738951a7c547b7085", null ],
-    [ "TimeStampEstimationForwardVectorDistance", "a16107.html#a1c5ae6042574fcbaaec7f1031fddce71", null ],
-    [ "TimeStampModifier", "a16107.html#a73b8f0183e12deb21c1d06a21b219057", null ]
+    [ "Entries", "a16107.html#aa3dc679a4c3d96c300b7323bb068eff7", null ],
+    [ "UnknownData00", "a16107.html#a9562c645002220770f022ac086da1191", null ],
+    [ "Weight", "a16107.html#ae7a25d8bf87d308b9a7dd6152cf3e743", null ]
 ];

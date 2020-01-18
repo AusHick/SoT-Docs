@@ -1,6 +1,7 @@
 var a10771 =
 [
-    [ "StaticClass", "a10771.html#a4d99da26ae793a533532e17308948e67", null ],
-    [ "RegisteredRainZones", "a10771.html#aa52dc5ed733dafdfa2f2e4a5b17888ad", null ],
-    [ "UnknownData00", "a10771.html#a1a3f969923868db16f767a06ce184bc6", null ]
+    [ "StaticClass", "a10771.html#a107ca1977c2acfeaf7bce55977d7e0c0", null ],
+    [ "ExhumeStepSfx", "a10771.html#a725e594a7b682d82985bd2a09105b219", null ],
+    [ "FullyDugUpSfx", "a10771.html#aa2de2dcdc7429a777844b18bde5e865f", null ],
+    [ "ShovelEnterSurfaceSfx", "a10771.html#a6ee2614160a3be3150c47e8a2d0cfa60", null ]
 ];

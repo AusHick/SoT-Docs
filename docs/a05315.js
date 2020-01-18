@@ -1,10 +1,26 @@
 var a05315 =
 [
-    [ "OnPlayerInViewOfHideout", "a05315.html#a05a6f14c8a13b66ef392bca8cccdc05b", null ],
-    [ "StaticClass", "a05315.html#a58724699e2e54df0282f57d24b3c3d3a", null ],
-    [ "AssociatedSpawnLocations", "a05315.html#acf5c67198b7b77e0cecbee4472e93828", null ],
-    [ "HideoutName", "a05315.html#a8ab9ac4f1f62c2f5045c74abaee7e54e", null ],
-    [ "Players", "a05315.html#a7764ec9277dcc1d84cd8dc8792fead80", null ],
-    [ "RevealTriggerVolume", "a05315.html#a94d5d78391acf091ad667169a220a46a", null ],
-    [ "UnknownData00", "a05315.html#ad31a4812e5d8de87cbe60ab903084cf8", null ]
+    [ "StaticClass", "a05315.html#a793da41ad20c44b42613e3875dfff985", null ],
+    [ "AttachedSpoolingSpeedClampValue", "a05315.html#a551bef06701e15031c14546fdc4ef726", null ],
+    [ "AudioEmitterOffset", "a05315.html#a888559ed9e22eb5b6fedab72d97bbf2d", null ],
+    [ "AudioEmitterPool", "a05315.html#a1c042284624514eb39ed2cc6cc7a117f", null ],
+    [ "FireAudioEvent", "a05315.html#aec0317fcfd3bbc3feaa58c786710de18", null ],
+    [ "MovePitchRateRTPCName", "a05315.html#aabf265a63c31ca21c45c792feff38b74", null ],
+    [ "MoveYawRateRTPCName", "a05315.html#adb9a0a6bdbde2d13639644b21722ef23", null ],
+    [ "ReelLockInputPressedAudioEvent", "a05315.html#a5a792bbaa4a5c9450792e1d8d73a425d", null ],
+    [ "ReelLockInputReleasedAudioEvent", "a05315.html#a7cbc500cc9379f848767ef0663cff800", null ],
+    [ "ReleaseRetractableAudioEvent", "a05315.html#a15f1cf750683afd08ecb7f984ffc5d33", null ],
+    [ "RetractFinishedAudioEvent", "a05315.html#adc0b2fcbd7431d63d9b82cec91c1b425", null ],
+    [ "RetractTriggeredAudioEvent", "a05315.html#a4f2edee85394e65f5ceb5196dc45e1a1", null ],
+    [ "SpoolingSpeedClampValue", "a05315.html#ab3d9c5387d1f7a83c46a84ac91322d0c", null ],
+    [ "SpoolingSpeedRTPCName", "a05315.html#a80d3611a29308021eaf77e9f09080fee", null ],
+    [ "StartMovePitchAudioLoopEvent", "a05315.html#a71f8f4872cf43fc5631cd485b97d1438", null ],
+    [ "StartMoveYawAudioLoopEvent", "a05315.html#a5f7017134e9c71bf13a06ae788d468e0", null ],
+    [ "StartSpoolingAudioEvent", "a05315.html#aeaf946e97b6bff1206110e591c065b86", null ],
+    [ "StopMovePitchAudioLoopEvent", "a05315.html#ab11b47cf6b05a84b63250b4b5547d9b6", null ],
+    [ "StopMoveYawAudioLoopEvent", "a05315.html#aef996518aa8d56df9184c16ef19f24c2", null ],
+    [ "StoppedAimAtEdgeOfRangeAudioEvent", "a05315.html#ab10a2170358efcdacacb10e9367d9239", null ],
+    [ "StopSpoolingAudioEvent", "a05315.html#a1972c82e037346d5d6f8498b78fe9075", null ],
+    [ "TetherExtentReachedAudioEvent", "a05315.html#a70188e041d8e373cb4fa82375d7a5e06", null ],
+    [ "UnknownData00", "a05315.html#af7c7378a9b5c417ed55e73689195d48b", null ]
 ];

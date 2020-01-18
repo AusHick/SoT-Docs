@@ -1,5 +1,5 @@
 var a01539 =
 [
-    [ "Actor", "a01539.html#aeff2304280220e3966c48f49a1bc378f", null ],
-    [ "TimeRemaining", "a01539.html#aea1247c151779afbda6f61b00fdd8bba", null ]
+    [ "Template", "a01539.html#aa3911206b62522b60c0e389531c0e5d9", null ],
+    [ "UnknownData00", "a01539.html#a6a95823087c4ef2256736a1b7df88d15", null ]
 ];

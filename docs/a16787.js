@@ -1,6 +1,5 @@
 var a16787 =
 [
-    [ "Status", "a16787.html#a7bbaced93066044ea0d8b1d975b144e2", null ],
-    [ "UnknownData00", "a16787.html#aff13fa61f2f9e9ad52bdfeb44fcce6f6", null ],
-    [ "UnknownData01", "a16787.html#ad1c9a380888419a231fbdedf5aee9213", null ]
+    [ "Active", "a16787.html#ac894f9752ae81574565504977aec3f8f", null ],
+    [ "Type", "a16787.html#ad409268f5b6db47c3f8e782dd6711e4e", null ]
 ];

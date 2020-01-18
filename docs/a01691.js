@@ -1,6 +1,5 @@
 var a01691 =
 [
-    [ "OscillationTime", "a01691.html#a873102bc65b8d41dc2b296c5d767b6d6", null ],
-    [ "ParallelOffsetCurve", "a01691.html#a9207adbdebabd408f0d344d6221d95b5", null ],
-    [ "UnknownData00", "a01691.html#a2b405ef40f909c450e267cd2c0f216ca", null ]
+    [ "StaticClass", "a01691.html#ab79ed293d319c66a4dc4299e0acf2d4d", null ],
+    [ "UnknownData00", "a01691.html#a57e07d52042cc0365bd8b7070fe4ed85", null ]
 ];

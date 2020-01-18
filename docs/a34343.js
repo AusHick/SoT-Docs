@@ -1,6 +1,6 @@
 var a34343 =
 [
-    [ "AdjustPitch", "a34343.html#a760419fb7d0383bd6088b7e477bb6936", null ],
-    [ "AdjustRoll", "a34343.html#a71514e2caadfd8c966d4fcbcc7cc28fc", null ],
-    [ "AdjustYaw", "a34343.html#a4621b173651be01c5c2548a6ca54e869", null ]
+    [ "Prompt", "a34343.html#a12d2c5ff4744a14c2bbec2baf3654c63", null ],
+    [ "PromptType", "a34343.html#ab79a27df5878da687c077cc10bf7f662", null ],
+    [ "UnknownData00", "a34343.html#a5eb9913be71fac449721b3367f19a7c6", null ]
 ];

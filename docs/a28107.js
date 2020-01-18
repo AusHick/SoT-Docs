@@ -1,19 +1,9 @@
 var a28107 =
 [
-    [ "StaticClass", "a28107.html#ade1c7b6d6cbee5e06b3fb18cbfc421b2", null ],
-    [ "ActiveCondition", "a28107.html#a3bd433c0671543eba88507b015c0b5c8", null ],
-    [ "bDirGroupOnly", "a28107.html#a8a1d46426e145cd36dcdb102530138c3", null ],
-    [ "bDisableTrack", "a28107.html#a75f930b05f60b45a83a4362303dfe4a0", null ],
-    [ "bIsAnimControlTrack", "a28107.html#a8362fbd9af8060fb57822775defa6055", null ],
-    [ "bIsRecording", "a28107.html#ae3f7778311aad5a958ee350f87c025ee", null ],
-    [ "bIsSelected", "a28107.html#a1a947d36a8cb6482c40fc47a4f432f1f", null ],
-    [ "bOnePerGroup", "a28107.html#a73286873177dff3b99ebd9791f89fa46", null ],
-    [ "bSubTrackOnly", "a28107.html#ad01f01ddb42ccd9d10ded239005625ca", null ],
-    [ "bVisible", "a28107.html#aecbd467fb8e71ce85541015c488f832d", null ],
-    [ "SubTracks", "a28107.html#afd12a7b0724e2436e62365a5eb974d39", null ],
-    [ "TrackInstClass", "a28107.html#a9f5d3a89367e897b26bc465713b20b04", null ],
-    [ "TrackTitle", "a28107.html#a8bb61ddce4632415d56bf990fd2e9627", null ],
-    [ "UnknownData00", "a28107.html#a2318cdef1f1087a43cd977b0ec79e05a", null ],
-    [ "UnknownData01", "a28107.html#a067c7ef44593b5b6dff6156bb33f40f6", null ],
-    [ "UnknownData02", "a28107.html#acc9f451f7d8c93f4c8de51346794ef12", null ]
+    [ "StaticClass", "a28107.html#a8fdb4874ea638efa6515bfc5f0aa1e65", null ],
+    [ "bMature", "a28107.html#a66a6cc6836ab4c4ca844a6771eab0771", null ],
+    [ "ContextMappings", "a28107.html#a5e86a0de84f021bdfdc6e3f6d1fce370", null ],
+    [ "LocalizationGUID", "a28107.html#adbf278d2eb36cb4d0923d9b35490b91b", null ],
+    [ "SpokenText", "a28107.html#a8852dcd694a609bc9e67fcd42481f690", null ],
+    [ "UnknownData00", "a28107.html#a0337d4c08e7d85980b88a911e15df2df", null ]
 ];

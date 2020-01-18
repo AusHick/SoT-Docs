@@ -1,5 +1,5 @@
 var a26299 =
 [
-    [ "StaticClass", "a26299.html#af810e3a4402180c0897c0b0f5df157f4", null ],
-    [ "UnknownData00", "a26299.html#a5e8f80cbc1718b8f7d70876a7bdb9520", null ]
+    [ "v1", "a26299.html#a4d87b923b1614f17a0b959846bbc8445", null ],
+    [ "v2", "a26299.html#a13330cc5061a5ec3ebdd986d189f73cf", null ]
 ];

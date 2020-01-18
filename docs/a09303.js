@@ -1,8 +1,6 @@
 var a09303 =
 [
-    [ "OnRep_HasBegun", "a09303.html#a4222b31791dde84f187b404a862443f6", null ],
-    [ "StaticClass", "a09303.html#a3a73e0610dcec235b3e0d685cffc3ac9", null ],
-    [ "HasBegun", "a09303.html#ad07b3d148a20af2e77686d752d65f02b", null ],
-    [ "UnknownData00", "a09303.html#a74f8f4b928205845106adc795f605ca4", null ],
-    [ "UnknownData01", "a09303.html#a58d2f4ea6cddc4f56b471bb1e5d7b835", null ]
+    [ "StaticClass", "a09303.html#a66a2a9a3549f8c57d349887d4a551b25", null ],
+    [ "SpawnedVfx", "a09303.html#a81d7bd3f6cab0faea5a709c3f4f0500e", null ],
+    [ "UnknownData00", "a09303.html#a7381ad32c85853f9e9726999b0c92dd6", null ]
 ];

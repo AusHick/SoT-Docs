@@ -1,5 +1,6 @@
 var a33983 =
 [
-    [ "CategoryName", "a33983.html#a74652fee31585cb53083f1c7489cdd1a", null ],
-    [ "EmptyProbability", "a33983.html#abb342a3f9a3533275a358397ad404ed0", null ]
+    [ "FeedingInteractionId", "a33983.html#a36e09ffc28021de9ce1476e5fb8e694f", null ],
+    [ "FeedingReaction", "a33983.html#ad91bba7a42409a2ec32096463108d523", null ],
+    [ "UnknownData00", "a33983.html#a9479ebf069ed989a169e61924ff086ba", null ]
 ];

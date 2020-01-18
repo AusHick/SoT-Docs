@@ -1,5 +1,5 @@
 var a10967 =
 [
-    [ "PushCharacterIntoControlObjectActionState", "a10967.html#a162d298c5333f9af91aae56854c3c6c3", null ],
-    [ "StaticClass", "a10967.html#ae1fec6451dc7bd5fa810120be7525515", null ]
+    [ "StaticClass", "a10967.html#a85aaea509054079e8f98309e6afcfd49", null ],
+    [ "ConsumptionStatuses", "a10967.html#a7ce2be91ab2f3fd949b3371f72a541eb", null ]
 ];

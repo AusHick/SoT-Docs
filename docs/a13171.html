@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.17"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Sea of Thieves SDK: SDK::FTeleportLocation Struct Reference</title>
+<title>Sea of Thieves SDK: SDK::FAthenaAnimationLocomotionAlternateAnimData Struct Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -27,7 +27,7 @@
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">Sea of Thieves SDK
-   &#160;<span id="projectnumber">2.0.10</span>
+   &#160;<span id="projectnumber">2.0.11</span>
    </div>
   </td>
  </tr>
@@ -87,11 +87,11 @@ $(document).ready(function(){initNavTree('a13171.html',''); initResizable(); });
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="a13168.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">SDK::FTeleportLocation Struct Reference</div>  </div>
+<div class="title">SDK::FAthenaAnimationLocomotionAlternateAnimData Struct Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 <div id="dynsection-0" onclick="return toggleVisibility(this)" class="dynheader closed" style="cursor:pointer;">
-  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FTeleportLocation:</div>
+  <img id="dynsection-0-trigger" src="closed.png" alt="+"/> Collaboration diagram for SDK::FAthenaAnimationLocomotionAlternateAnimData:</div>
 <div id="dynsection-0-summary" class="dynsummary" style="display:block;">
 </div>
 <div id="dynsection-0-content" class="dyncontent" style="display:none;">
@@ -100,29 +100,35 @@ $(document).ready(function(){initNavTree('a13171.html',''); initResizable(); });
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a14f1b3426d081ac4d0b88d7fe465fcdd"><td class="memItemLeft" align="right" valign="top"><a id="a14f1b3426d081ac4d0b88d7fe465fcdd"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Valid</b></td></tr>
-<tr class="separator:a14f1b3426d081ac4d0b88d7fe465fcdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb8bad1cb32346b2743e049ed380507e"><td class="memItemLeft" align="right" valign="top"><a id="afb8bad1cb32346b2743e049ed380507e"></a>
-unsigned char&#160;</td><td class="memItemRight" valign="bottom"><b>UnknownData00</b> [0x7]</td></tr>
-<tr class="separator:afb8bad1cb32346b2743e049ed380507e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2993816818bc1024829f5bcb5e23e49c"><td class="memItemLeft" align="right" valign="top"><a id="a2993816818bc1024829f5bcb5e23e49c"></a>
-class <a class="el" href="a26363.html">USceneComponent</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TeleportBase</b></td></tr>
-<tr class="separator:a2993816818bc1024829f5bcb5e23e49c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7df1a996eaf6f30b7face327cd069a51"><td class="memItemLeft" align="right" valign="top"><a id="a7df1a996eaf6f30b7face327cd069a51"></a>
-struct <a class="el" href="a26075.html">FVector</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TeleportLocation</b></td></tr>
-<tr class="separator:a7df1a996eaf6f30b7face327cd069a51"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a825c2182c564967e93d8c7f1382011b0"><td class="memItemLeft" align="right" valign="top"><a id="a825c2182c564967e93d8c7f1382011b0"></a>
-struct <a class="el" href="a26095.html">FRotator</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TeleportRotation</b></td></tr>
-<tr class="separator:a825c2182c564967e93d8c7f1382011b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeb333492f801ea7c527bc1ea860b3841"><td class="memItemLeft" align="right" valign="top"><a id="aeb333492f801ea7c527bc1ea860b3841"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>Idle</b></td></tr>
+<tr class="separator:aeb333492f801ea7c527bc1ea860b3841"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e8f40d7477c6eb58989d217ea484ac3"><td class="memItemLeft" align="right" valign="top"><a id="a3e8f40d7477c6eb58989d217ea484ac3"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>MainMovement</b></td></tr>
+<tr class="separator:a3e8f40d7477c6eb58989d217ea484ac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8d66d1b48b418d96271e0bd2fe26bfab"><td class="memItemLeft" align="right" valign="top"><a id="a8d66d1b48b418d96271e0bd2fe26bfab"></a>
+struct <a class="el" href="a12895.html">FAthenaAnimationLocomotionTurningAnimData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TurningLeft</b></td></tr>
+<tr class="separator:a8d66d1b48b418d96271e0bd2fe26bfab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8bdcc1863c366ca957d845a268c1250e"><td class="memItemLeft" align="right" valign="top"><a id="a8bdcc1863c366ca957d845a268c1250e"></a>
+struct <a class="el" href="a12895.html">FAthenaAnimationLocomotionTurningAnimData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>TurningRight</b></td></tr>
+<tr class="separator:a8bdcc1863c366ca957d845a268c1250e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7a6591c9e4304ce78fc339e18476c36"><td class="memItemLeft" align="right" valign="top"><a id="ab7a6591c9e4304ce78fc339e18476c36"></a>
+class <a class="el" href="a27731.html">UAnimSequence</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>TurnOut</b></td></tr>
+<tr class="separator:ab7a6591c9e4304ce78fc339e18476c36"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad190a6d4d71e9af83ebaf7977c7197d2"><td class="memItemLeft" align="right" valign="top"><a id="ad190a6d4d71e9af83ebaf7977c7197d2"></a>
+class <a class="el" href="a27739.html">UBlendSpace</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>RunStop</b></td></tr>
+<tr class="separator:ad190a6d4d71e9af83ebaf7977c7197d2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae64c364bd40ceedc9bc4f8cc367b055c"><td class="memItemLeft" align="right" valign="top"><a id="ae64c364bd40ceedc9bc4f8cc367b055c"></a>
+struct <a class="el" href="a13167.html">FAthenaAnimationLocomotionStairsAnimData</a>&#160;</td><td class="memItemRight" valign="bottom"><b>StairsLocomotion</b></td></tr>
+<tr class="separator:ae64c364bd40ceedc9bc4f8cc367b055c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13171.html">FTeleportLocation</a></li>
-    <li class="footer">Generated on Thu Jan 9 2020 18:30:30 for Sea of Thieves SDK by
+    <li class="navelem"><b>SDK</b></li><li class="navelem"><a class="el" href="a13171.html">FAthenaAnimationLocomotionAlternateAnimData</a></li>
+    <li class="footer">Generated on Sat Jan 18 2020 00:25:31 for Sea of Thieves SDK by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

@@ -1,5 +1,6 @@
 var a30059 =
 [
-    [ "ResponseArray", "a30059.html#a4b4420c6100a9d8b967342a9a71b321b", null ],
-    [ "ResponseToChannels", "a30059.html#ae09767bf90fb9754abe56f6433686f29", null ]
+    [ "StaticClass", "a30059.html#a2d3b009fe2b89cecb6b9b2b35f62e4dc", null ],
+    [ "Bounds", "a30059.html#a54d17edf24df31767a6813980e5eff4f", null ],
+    [ "Intensity", "a30059.html#a47381b0c407b7649c902bd3e126f7bd3", null ]
 ];

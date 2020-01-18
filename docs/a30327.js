@@ -1,4 +1,25 @@
 var a30327 =
 [
-    [ "UnknownData00", "a30327.html#a7e185c7458db1b7301e113c93eec894a", null ]
+    [ "bCompressLightmaps", "a30327.html#ad9c79910964c4c126811655db02ad285", null ],
+    [ "bGenerateAmbientOcclusionMaterialMask", "a30327.html#aadfd4ef395568ac1d1a0c25b82fa4feb", null ],
+    [ "bUseAmbientOcclusion", "a30327.html#a7e321e83d53b62b24cbbd7aaa9a3bdde", null ],
+    [ "bVisualizeAmbientOcclusion", "a30327.html#a3f0860604d4cafad548f2b49cd7772c1", null ],
+    [ "bVisualizeMaterialDiffuse", "a30327.html#a88c05cfefc008def7b2ecbb1828b4aeb", null ],
+    [ "DiffuseBoost", "a30327.html#a7ccd6949374f087cbcd3202c3eeb0ea3", null ],
+    [ "DirectIlluminationOcclusionFraction", "a30327.html#acc9c4a0d6977ffaf3d8d6e2f524f5ea9", null ],
+    [ "EmissiveBoost", "a30327.html#ab2c1a79422a533a247adab91d754b7b4", null ],
+    [ "EnvironmentColor", "a30327.html#aa604a9426477b17feae61428eb46e3a6", null ],
+    [ "EnvironmentIntensity", "a30327.html#aa9ef6ec7eedbe8d237783d4d65ecbb28", null ],
+    [ "FullyOccludedSamplesFraction", "a30327.html#a4bce8ecfedb918dc0d0fd17fbbdf922a", null ],
+    [ "IndirectIlluminationOcclusionFraction", "a30327.html#abfdccf262cde50882d0f979cca918ae3", null ],
+    [ "IndirectLightingQuality", "a30327.html#a6f7871890c965ea835e93b72a43a18cb", null ],
+    [ "IndirectLightingSmoothness", "a30327.html#a3a6b8840a5178a86af909a86cab20cac", null ],
+    [ "MaxOcclusionDistance", "a30327.html#a342d9c3502b550cc31848e2ce6e57d28", null ],
+    [ "NumIndirectLightingBounces", "a30327.html#a0a5e752c27a9c5cb469c9db213cd7edf", null ],
+    [ "OcclusionExponent", "a30327.html#a55c066b23e4ec6c045a2f08c2749c5a0", null ],
+    [ "StaticLightingLevelScale", "a30327.html#a6b0ac89770af6aa19161b6e39282dc7f", null ],
+    [ "UnknownData00", "a30327.html#a8ef338099da14a401ba42e92abc4db60", null ],
+    [ "UnknownData01", "a30327.html#adeda9a8af40e45f09f5f096391896cc6", null ],
+    [ "UnknownData02", "a30327.html#a8897f181d51ae562a1a97552b19c86cc", null ],
+    [ "VolumeLightSamplePlacementScale", "a30327.html#a0b0edccad4d6a500a0b26b0e8cc90234", null ]
 ];

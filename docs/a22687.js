@@ -1,4 +1,4 @@
 var a22687 =
 [
-    [ "PickupableObject", "a22687.html#a0a7a865616ae4643d72e2e82f0e4dce6", null ]
+    [ "SessionVisibility", "a22687.html#a6d79fcb5b31c91603f21a1b3ddf080b2", null ]
 ];

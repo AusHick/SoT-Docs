@@ -1,4 +1,5 @@
 var a20487 =
 [
-    [ "Balance", "a20487.html#ac58ac293ca3bb1ca89dd61fff0b65416", null ]
+    [ "FortKeyId", "a20487.html#a0d5e7f924f926976b4f7bfc0ffe02262", null ],
+    [ "FortTargetName", "a20487.html#a00e05b07c451dbac4d999d8c0ee94011", null ]
 ];

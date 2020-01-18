@@ -1,5 +1,5 @@
 var a19459 =
 [
-    [ "IsTeleporting", "a19459.html#a483c92a90b63bde84590a222c9c0a6d7", null ],
-    [ "UnknownData00", "a19459.html#a257c8404790d9a16cc5ec6acd7289638", null ]
+    [ "FiringActor", "a19459.html#a26619f316f29f4d4fbfd30aff807096f", null ],
+    [ "LaunchVelocity", "a19459.html#abfb39e368c5b53afefed34a915382c50", null ]
 ];

@@ -1,5 +1,7 @@
 var a31255 =
 [
-    [ "EvaluateGraphExposedInputs", "a31255.html#a1c8c29279e44995531a54c009a9ef1e0", null ],
-    [ "UnknownData00", "a31255.html#abedf577990c30d378527af6538a9ea09", null ]
+    [ "bProcessDuringSpawn", "a31255.html#a1b3e6dd2df210367d89324699a91e529", null ],
+    [ "bProcessDuringUpdate", "a31255.html#a6209c42f62adcf15a9c0a2dc18c8e53c", null ],
+    [ "bUseEmitterTime", "a31255.html#aa2e9301ae24113865f6358039359fe0e", null ],
+    [ "UnknownData00", "a31255.html#a7a5517101d3131d056fef7cbb80d89af", null ]
 ];

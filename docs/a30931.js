@@ -1,7 +1,5 @@
 var a30931 =
 [
-    [ "ShotNumber", "a30931.html#a81cfdc9da2e56a6c684cf82f8f0633b4", null ],
-    [ "TargetCamGroup", "a30931.html#a67136f8f25bddceeb3876f18632edee0", null ],
-    [ "Time", "a30931.html#a2920d1b92dcb8f5cf0d4c20623961e83", null ],
-    [ "TransitionTime", "a30931.html#adddb828c2313e8cb2e5fda779437fc40", null ]
+    [ "ArgumentName", "a30931.html#a27a914b07f6c5e6dc4f3dfdc7e166b60", null ],
+    [ "TextValue", "a30931.html#a4fcbb8e31f2a441a4cd007ea6bdbfbdd", null ]
 ];

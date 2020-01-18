@@ -1,4 +1,6 @@
 var a34391 =
 [
-    [ "ShipType", "a34391.html#afe5dc11dd4c0a09924ecbd75321f5c42", null ]
+    [ "StaticClass", "a34391.html#a39070019bb642f70a83c0b99c8a11dbe", null ],
+    [ "TritonMapFilename", "a34391.html#aa6eff9efd4a05fa94eef933249763f13", null ],
+    [ "UnknownData00", "a34391.html#a03229cc31101cd8338538d87a979ea72", null ]
 ];

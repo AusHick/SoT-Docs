@@ -1,4 +1,6 @@
 var a00603 =
 [
-    [ "StaticClass", "a00603.html#a6af502b728060f3f694e2c1a971a7283", null ]
+    [ "InnerConeAngle", "a00603.html#aa3c20dbf23637a155f93eb08f1c41a43", null ],
+    [ "KickBackRatio", "a00603.html#affb9d8f70bc55dbbea783ffd22111ff4", null ],
+    [ "OuterConeAngle", "a00603.html#a9596037dfa2b1b716be5170b4031dc69", null ]
 ];

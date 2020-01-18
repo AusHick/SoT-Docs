@@ -1,7 +1,6 @@
 var a08483 =
 [
-    [ "StaticClass", "a08483.html#a2b6ef191696b5d9da686bb17dd531772", null ],
-    [ "CurseFXData", "a08483.html#af797ab70563a7b4449e40afd8dd531e1", null ],
-    [ "Duration", "a08483.html#a4fc4b69b0f983e5a8c2aa04dcf799b04", null ],
-    [ "UnknownData00", "a08483.html#a39e90d2f08a4c0270d51ec659d9bc91e", null ]
+    [ "StaticClass", "a08483.html#a8072b3faf5d9a0c41aec9e1fe65e66eb", null ],
+    [ "DurationToToggleCapstan", "a08483.html#a4bcd29ca111e76ee731a18d762093be9", null ],
+    [ "UnknownData00", "a08483.html#a5092ed30fadcfbe9a4c52ec806aaec76", null ]
 ];

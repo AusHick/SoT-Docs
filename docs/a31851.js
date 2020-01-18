@@ -1,6 +1,5 @@
 var a31851 =
 [
-    [ "ActiveEnumValue", "a31851.html#a2244f8c46fbeabe939d6275e9d6b569f", null ],
-    [ "EnumToPoseIndex", "a31851.html#a71fe309e09dcfcaf92ed738d4d6efc3d", null ],
-    [ "UnknownData00", "a31851.html#ae478137f1b0da4a0fc4236d6d50c04b9", null ]
+    [ "AnimationTracks", "a31851.html#aca1e47404524a14eb2491760cac34069", null ],
+    [ "TrackNames", "a31851.html#abaae1fcdaecf9f8c0bf93a47a62f3274", null ]
 ];

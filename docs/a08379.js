@@ -1,8 +1,9 @@
 var a08379 =
 [
-    [ "OnRep_StatusEffect", "a08379.html#ac4cc86fc52edf310483f2d224ed241da", null ],
-    [ "StaticClass", "a08379.html#a1ba95f82ea6a649768cf9fd98832612c", null ],
-    [ "UnknownData00", "a08379.html#a90ac7e469022745740f70f2909eaf0d9", null ],
-    [ "UnknownData01", "a08379.html#a8b48b1df77dbe52c4be59bed883ed00f", null ],
-    [ "VenomStatusEffect", "a08379.html#a022068a48258dfcd7a5ca03b81d542e7", null ]
+    [ "StaticClass", "a08379.html#a578ea39d5db2cd025e164091a236a083", null ],
+    [ "CurseTag", "a08379.html#af039d5e93d72e45d5660c4669445cf7f", null ],
+    [ "Duration", "a08379.html#a676e20a9ee613b4fc700c03625e758c8", null ],
+    [ "Status", "a08379.html#a0b7ac7a892d3803deae7f5bc4b64b4df", null ],
+    [ "UnknownData00", "a08379.html#a5854754bc8d1d116257774da0b07127a", null ],
+    [ "UnknownData01", "a08379.html#a666af99419c5c8d2419d9fe1331e64d7", null ]
 ];

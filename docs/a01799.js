@@ -1,5 +1,6 @@
 var a01799 =
 [
-    [ "ShipSizes", "a01799.html#a1d409d01da5b84e8426e41e368ecd75f", null ],
-    [ "TargetShipSize", "a01799.html#a11ae27feffd5973101ff9f981c7622ac", null ]
+    [ "MaxInstances", "a01799.html#a3689522459ddbf4c05d24442e475e6e3", null ],
+    [ "ShipSize", "a01799.html#a1205ebe881938bb2433da2c512c61672", null ],
+    [ "UnknownData00", "a01799.html#ac75435cdc8694a1f19c01e54f25ed7f9", null ]
 ];

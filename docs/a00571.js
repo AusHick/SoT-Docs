@@ -1,5 +1,5 @@
 var a00571 =
 [
-    [ "CaptainSkillset", "a00571.html#a0bcbb6fb4763cb60ec44f0fc4735e691", null ],
-    [ "CrewSkillset", "a00571.html#a794ec0ed774a11fee6d53518e1007009", null ]
+    [ "Name", "a00571.html#ab253878fd2710817adaedbbac3888515", null ],
+    [ "UnknownData00", "a00571.html#a2461df6fa26cbeb4dd4ecb0f65d6001d", null ]
 ];

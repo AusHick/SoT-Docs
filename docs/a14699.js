@@ -1,6 +1,6 @@
 var a14699 =
 [
-    [ "LoadableState", "a14699.html#a92c5f5116809dd45c78e6950342a8e1a", null ],
-    [ "LoadedItem", "a14699.html#a1858ea1ce564c8ef353a25bd62662965", null ],
-    [ "UnknownData00", "a14699.html#ab34245dd369904c6bb4fbb7cadf0f3a2", null ]
+    [ "CollisionBoneIndex", "a14699.html#af5e1daecb3683ac262da94ec2e415a81", null ],
+    [ "HitReactAnimation", "a14699.html#ad9370d73f9d7dd462f3c51d5852e2b5e", null ],
+    [ "UnknownData00", "a14699.html#a78f89f76881621dcd3103e0d6248fb16", null ]
 ];

@@ -1,8 +1,10 @@
 var a20831 =
 [
-    [ "ForcingShutdown", "a20831.html#aef8faf27ed8be163bf7936bfd078ca78", null ],
-    [ "ServerAddress", "a20831.html#aadf4f929018ff34eccf00148d53c4352", null ],
-    [ "ServerTimeToLive", "a20831.html#aeefdbcf559247d360f785a2c66f7929c", null ],
-    [ "ServerUpTime", "a20831.html#af5ca0a807b0a183b5277caa257188cb1", null ],
-    [ "UnknownData00", "a20831.html#ac2bf2fd0b8533cd4f4f137ed321faac9", null ]
+    [ "Company", "a20831.html#a935394badfae5ae6c35655703d371124", null ],
+    [ "CrewId", "a20831.html#a9823c7779586f3a979244ae623110f2f", null ],
+    [ "NotifyPlayer", "a20831.html#a6349db1d4a12ad6886c603fdd7b1cf47", null ],
+    [ "Pirates", "a20831.html#aaec5ff52d4a818dcc29f1e1cf03fcc7f", null ],
+    [ "RequestID", "a20831.html#ab262f4f2fd4c178a5abbcb84bc2f3a16", null ],
+    [ "RewardId", "a20831.html#aee7812816d913d891c393947e98a05d1", null ],
+    [ "UnknownData00", "a20831.html#a1b84cc303a0718f55d755599a92546c3", null ]
 ];

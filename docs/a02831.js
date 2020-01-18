@@ -1,5 +1,7 @@
 var a02831 =
 [
-    [ "StaticClass", "a02831.html#a4fc7d950cc2d2289de84858ddd0122a6", null ],
-    [ "UnknownData00", "a02831.html#ab7c54c624c4b926a49b79f144179ca91", null ]
+    [ "StaticClass", "a02831.html#a3e093912b04e7448a233899684ebe35f", null ],
+    [ "EngineSettings", "a02831.html#aecfe3a154b1b3b4a45313c9dbb01ee3d", null ],
+    [ "UnknownData00", "a02831.html#ac8b85a502874be78e14630160a28c282", null ],
+    [ "UnknownData01", "a02831.html#a3520a6554d45b5e17099f7cd9fbbefec", null ]
 ];

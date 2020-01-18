@@ -1,4 +1,6 @@
 var a33059 =
 [
-    [ "StaticClass", "a33059.html#a9bc04aaef9f26e54de07d00434e1520b", null ]
+    [ "KrakenDespawnReason", "a33059.html#af4f3657d6eda5b227a2888676512561c", null ],
+    [ "KrakenId", "a33059.html#aa07328f712ef294af7e866bf488e5e31", null ],
+    [ "UnknownData00", "a33059.html#a950a7e2394b5d854c2ef4bbfe449127d", null ]
 ];

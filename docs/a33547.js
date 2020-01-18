@@ -1,5 +1,6 @@
 var a33547 =
 [
-    [ "StaticClass", "a33547.html#ad6be1dc3a1c1b36842af07f29b269469", null ],
-    [ "Params", "a33547.html#a80df557fd8ea3c39a543abee295d2a09", null ]
+    [ "EventType", "a33547.html#ac374818a17ce2828027a3a3bb1d0afdd", null ],
+    [ "UnknownData00", "a33547.html#a2e758de73c04346de1c2a1adecd6ef7a", null ],
+    [ "UnknownData01", "a33547.html#a77e475411827f74c84331b481c426886", null ]
 ];

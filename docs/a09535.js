@@ -1,12 +1,8 @@
 var a09535 =
 [
-    [ "StaticClass", "a09535.html#a063b9bed4e767e893f0d988089c03906", null ],
-    [ "ClockMesh", "a09535.html#ad0e6c44a7cd979788a783858ee50edaa", null ],
-    [ "ClockMeshDynamicMaterialInstance", "a09535.html#a61361a8153760baf47dbf00de14672d5", null ],
-    [ "ClockTimeUpdateRateInSeconds", "a09535.html#aabf4f5f2415cf69d84f3d48b106f7e30", null ],
-    [ "HourHandBoneName", "a09535.html#a4439a35af4893342afd68c07b8e9e3ef", null ],
-    [ "MeshRotationCorrection", "a09535.html#afddc4eb99b9d906976f142d9be9d1dfd", null ],
-    [ "MinuteHandBoneName", "a09535.html#a0c8c171997f62e08b7adb7a1a6a58a1e", null ],
-    [ "UnknownData00", "a09535.html#a1ba77f45449860c8397aa484502ed000", null ],
-    [ "UnknownData01", "a09535.html#af7b3f252e57d1403ee533beb8aaeddda", null ]
+    [ "OnStart", "a09535.html#a30754c13651c8e70bc1aba2f712c34b3", null ],
+    [ "OnStop", "a09535.html#add90638b0bafc609b3a4dfe994f92323", null ],
+    [ "StaticClass", "a09535.html#ab13c310daa27a9d65daafe3154780280", null ],
+    [ "UnknownData00", "a09535.html#a4ff3a88fe9bd9ecffe71963254a1dd65", null ],
+    [ "WaterBarrel", "a09535.html#acff72709847075670e384dd23b58b748", null ]
 ];
